@@ -8,12 +8,15 @@ The Challenge: [Write your own wc Tool](https://codingchallenges.fyi/challenges/
 The shared solutions:
 - https://github.com/jainmohit2001/coding-challenges/blob/master/src/1
 - https://github.com/Ghurtchu/wc
+- https://github.com/ogzhanolguncu/wc-rust
+
 
 ## Build your own JSON Parser
 The Challenge: [Write your own JSON Parser](https://codingchallenges.fyi/challenges/challenge-json-parser)
 
 The shared solutions:
 - https://github.com/jainmohit2001/coding-challenges/blob/master/src/2
+- https://github.com/ogzhanolguncu/json-parser-ts
 
 ## Build your own Compression Tool
 The Challenge: [Write your own Compression Tool](https://codingchallenges.fyi/challenges/challenge-huffman)
@@ -21,6 +24,7 @@ The Challenge: [Write your own Compression Tool](https://codingchallenges.fyi/ch
 The shared solutions:
 - https://github.com/Patrick-Q-Jensen/HuffmanEncoding
 - https://github.com/jainmohit2001/coding-challenges/blob/master/src/3
+- https://github.com/ogzhanolguncu/ts-huffman-compress
 
 ## Build your own cut Tool
 The Challenge: [Write your own cut Tool](https://codingchallenges.fyi/challenges/challenge-cut)
@@ -47,12 +51,15 @@ The Challenge: [Write your own Calculator](https://codingchallenges.fyi/challeng
 
 The shared solutions:
 - https://github.com/jainmohit2001/coding-challenges/blob/master/src/7
+- https://github.com/ogzhanolguncu/rust-stack-calculator
 
 ## Build your own Redis Server
 The Challenge: [Write your own Redis Server](https://codingchallenges.fyi/challenges/challenge-redis)
 
 The shared solutions:
 - https://github.com/jainmohit2001/coding-challenges/blob/master/src/8
+- https://github.com/ogzhanolguncu/rs_redis_server
+- https://github.com/ogzhanolguncu/valinor-vault
 
 ## Build your own grep
 The Challenge: [Write your own grep](https://codingchallenges.fyi/challenges/challenge-grep)
@@ -67,7 +74,7 @@ The shared solutions:
 - https://github.com/jainmohit2001/coding-challenges/blob/master/src/10
 
 ## Build your own Web Server
-The Challenge: [Write your own Web Server](https://codingchallenges.fyi/challenges/challenge-webserver) 
+The Challenge: [Write your own Web Server](https://codingchallenges.fyi/challenges/challenge-webserver)
 
 The shared solutions:
 - https://www.linkedin.com/in/ingandreaguidi/
@@ -79,6 +86,8 @@ The Challenge: [Write your own URL Shortener](https://codingchallenges.fyi/chall
 The shared solutions:
 - https://github.com/andrewkaldani/url_shortner
 - https://github.com/jainmohit2001/short-url
+- https://github.com/ogzhanolguncu/nextjs-url-shortener-ts
+- https://github.com/dev-details/ai-code-example
 
 ## Build your own diff
 The Challenge: [Write your own diff](https://codingchallenges.fyi/challenges/challenge-diff)
@@ -156,7 +165,7 @@ The shared solutions:
 The Challenge: [Write your own NATS Message Broker](https://codingchallenges.fyi/challenges/challenge-nats)
 
 The shared solutions:
--
+- https://github.com/ogzhanolguncu/rs_message_broker
 
 ## Build your own Git Client
 The Challenge: [Write your own Git Client](https://codingchallenges.fyi/challenges/challenge-git)
@@ -171,7 +180,7 @@ The shared solutions:
 -
 
 <!-- // Template
-## Build your own 
+## Build your own
 The Challenge: [Write your own]()
 
 The shared solutions:
