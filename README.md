@@ -8,8 +8,9 @@ The Challenge: [Write your own wc Tool](https://codingchallenges.fyi/challenges/
 The shared solutions:
 - https://github.com/jainmohit2001/coding-challenges/blob/master/src/1
 - https://github.com/Ghurtchu/wc
-- https://github.com/ogzhanolguncu/wc-rust
+- https://github.com/ogzhanolguncu/wc-rus
 - https://github.com/andrenbrandao/wc-tool
+- https://github.com/praveshdev3/wc-go
 
 
 ## Build your own JSON Parser
