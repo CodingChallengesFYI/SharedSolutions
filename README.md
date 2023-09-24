@@ -9,6 +9,7 @@ The shared solutions:
 - https://github.com/jainmohit2001/coding-challenges/blob/master/src/1
 - https://github.com/Ghurtchu/wc
 - https://github.com/ogzhanolguncu/wc-rust
+- https://github.com/andrenbrandao/wc-tool
 
 
 ## Build your own JSON Parser
@@ -39,6 +40,7 @@ The Challenge: [Write your own Load Balancer](https://codingchallenges.fyi/chall
 The shared solutions:
 - https://github.com/jainmohit2001/coding-challenges/blob/master/src/5
 - https://github.com/Ghurtchu/lb
+- https://github.com/andrenbrandao/load-balancer
 
 ## Build your own Sort Tool
 The Challenge: [Write your own Sort Tool](https://codingchallenges.fyi/challenges/challenge-sort)
