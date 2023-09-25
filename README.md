@@ -11,6 +11,7 @@ The shared solutions:
 - https://github.com/ogzhanolguncu/wc-rus
 - https://github.com/andrenbrandao/wc-tool
 - https://github.com/praveshdev3/wc-go
+- https://github.com/sureshmangs/Build-Your-Own-X/tree/main/ccwc/C%2B%2B
 
 
 ## Build your own JSON Parser
