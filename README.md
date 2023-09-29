@@ -152,6 +152,7 @@ The Challenge: [Write your own DNS Resolver](https://codingchallenges.fyi/challe
 
 The shared solutions:
 - https://github.com/jainmohit2001/coding-challenges/blob/master/src/22
+- https://github.com/vishalg8454/DNS-Resolver-Nodejs/tree/master
 
 ## Build your own Traceroute
 The Challenge: [Write your own Traceroute](https://codingchallenges.fyi/challenges/challenge-traceroute)
