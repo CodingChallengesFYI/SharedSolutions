@@ -13,6 +13,7 @@ The shared solutions:
 - https://github.com/praveshdev3/wc-go
 - https://github.com/sureshmangs/Build-Your-Own-X/tree/main/ccwc/C%2B%2B
 - https://github.com/sahasrara62/codingchallenges.fyi/tree/main/word_count
+- https://github.com/kanhayaKy/wc-tool
 
 ## Build your own JSON Parser
 The Challenge: [Write your own JSON Parser](https://codingchallenges.fyi/challenges/challenge-json-parser)
