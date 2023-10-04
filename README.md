@@ -174,12 +174,13 @@ The Challenge: [Write your own NATS Message Broker](https://codingchallenges.fyi
 
 The shared solutions:
 - https://github.com/ogzhanolguncu/rs_message_broker
+- https://github.com/jainmohit2001/coding-challenges/blob/master/src/25
 
 ## Build your own Git Client
 The Challenge: [Write your own Git Client](https://codingchallenges.fyi/challenges/challenge-git)
 
 The shared solutions:
--
+- https://github.com/jainmohit2001/coding-challenges/blob/master/src/26
 
 ## Build your own Rate Limiter
 The Challenge: [Write your own Rate Limiter](https://codingchallenges.fyi/challenges/challenge-rate-limiter)
