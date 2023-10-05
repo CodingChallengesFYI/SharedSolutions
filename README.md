@@ -94,6 +94,7 @@ The shared solutions:
 - https://github.com/jainmohit2001/short-url
 - https://github.com/ogzhanolguncu/nextjs-url-shortener-ts
 - https://github.com/dev-details/ai-code-example
+- https://github.com/jengori/short-changed
 
 ## Build your own diff
 The Challenge: [Write your own diff](https://codingchallenges.fyi/challenges/challenge-diff)
