@@ -185,6 +185,7 @@ The Challenge: [Write your own Realtime Chat Client and Server](https://codingch
 
 The shared solutions:
 - https://github.com/jainmohit2001/coding-challenges/blob/master/src/16
+- https://github.com/dethancosta/realtime-chat
 
 ## Build your own NATS Message Broker
 The Challenge: [Write your own NATS Message Broker](https://codingchallenges.fyi/challenges/challenge-nats)
