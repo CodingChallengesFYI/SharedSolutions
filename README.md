@@ -25,6 +25,7 @@ The shared solutions:
 - https://github.com/jainmohit2001/coding-challenges/blob/master/src/2
 - https://github.com/ogzhanolguncu/json-parser-ts
 - https://github.com/lolo8304/coding-challenge/tree/main/no-2
+- https://github.com/sureshmangs/Build-Your-Own-X/tree/main/JSON-Parser/C%2B%2B
 
 ## Build your own Compression Tool
 The Challenge: [Write your own Compression Tool](https://codingchallenges.fyi/challenges/challenge-huffman)
