@@ -16,6 +16,7 @@ The shared solutions:
 - https://github.com/kanhayaKy/wc-tool
 - https://github.com/sujeetsawala/ccwc
 - https://github.com/lolo8304/coding-challenge/tree/main/no-1
+- https://github.com/yildirimmurat/cc1-unix_wc_tool
 
 ## Build your own JSON Parser
 The Challenge: [Write your own JSON Parser](https://codingchallenges.fyi/challenges/challenge-json-parser)
