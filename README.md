@@ -207,6 +207,10 @@ The Challenge: [Write your own Rate Limiter](https://codingchallenges.fyi/challe
 The shared solutions:
 - https://github.com/niyazi-eren/rate-limiter
 
+## Build your own Scheduling Automation App
+The Challenge: [Write your own Scheduling Automation App](https://codingchallenges.substack.com/p/coding-challenge-29-scheduling-automation)
+- https://github.com/Satya753/SchedulingAutomationApp/tree/main
+
 <!-- // Template
 ## Build your own
 The Challenge: [Write your own]()
