@@ -17,6 +17,7 @@ The shared solutions:
 - https://github.com/sujeetsawala/ccwc
 - https://github.com/lolo8304/coding-challenge/tree/main/no-1
 - https://github.com/yildirimmurat/cc1-unix_wc_tool
+- https://github.com/alphaDia/ccwc
 - https://github.com/GauravGuptaDeveloper/Coding-Challenges/tree/wc-tool/wc-tool
 
 ## Build your own JSON Parser
@@ -96,6 +97,7 @@ The shared solutions:
 - https://www.linkedin.com/in/ingandreaguidi/
 - https://github.com/jainmohit2001/coding-challenges/blob/master/src/11
 - https://github.com/lolo8304/coding-challenge/tree/main/no-11
+- https://github.com/alphaDia/webserver
 
 ## Build your own URL Shortener
 The Challenge: [Write your own URL Shortener](https://codingchallenges.fyi/challenges/challenge-url-shortener)
