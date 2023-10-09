@@ -18,6 +18,7 @@ The shared solutions:
 - https://github.com/lolo8304/coding-challenge/tree/main/no-1
 - https://github.com/yildirimmurat/cc1-unix_wc_tool
 - https://github.com/alphaDia/ccwc
+- https://github.com/GauravGuptaDeveloper/Coding-Challenges/tree/wc-tool/wc-tool
 
 ## Build your own JSON Parser
 The Challenge: [Write your own JSON Parser](https://codingchallenges.fyi/challenges/challenge-json-parser)
@@ -208,6 +209,11 @@ The Challenge: [Write your own Rate Limiter](https://codingchallenges.fyi/challe
 
 The shared solutions:
 - https://github.com/niyazi-eren/rate-limiter
+- https://github.com/jainmohit2001/coding-challenges/blob/master/src/27
+
+## Build your own Scheduling Automation App
+The Challenge: [Write your own Scheduling Automation App](https://codingchallenges.substack.com/p/coding-challenge-29-scheduling-automation)
+- https://github.com/Satya753/SchedulingAutomationApp/tree/main
 
 <!-- // Template
 ## Build your own
