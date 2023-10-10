@@ -111,6 +111,7 @@ The shared solutions:
 - https://github.com/dev-details/ai-code-example
 - https://github.com/jengori/short-changed
 - https://github.com/niyazi-eren/url-shortener
+- https://github.com/vishyarjun/url_shortener
 
 ## Build your own diff
 The Challenge: [Write your own diff](https://codingchallenges.fyi/challenges/challenge-diff)
