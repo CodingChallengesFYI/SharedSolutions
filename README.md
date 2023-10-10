@@ -19,6 +19,7 @@ The shared solutions:
 - https://github.com/yildirimmurat/cc1-unix_wc_tool
 - https://github.com/alphaDia/ccwc
 - https://github.com/GauravGuptaDeveloper/Coding-Challenges/tree/wc-tool/wc-tool
+- https://github.com/ebrahim-s-ebrahim/mywc
 
 ## Build your own JSON Parser
 The Challenge: [Write your own JSON Parser](https://codingchallenges.fyi/challenges/challenge-json-parser)
@@ -28,6 +29,7 @@ The shared solutions:
 - https://github.com/ogzhanolguncu/json-parser-ts
 - https://github.com/lolo8304/coding-challenge/tree/main/no-2
 - https://github.com/sureshmangs/Build-Your-Own-X/tree/main/JSON-Parser/C%2B%2B
+- https://github.com/ebrahim-s-ebrahim/myJsonParser
 
 ## Build your own Compression Tool
 The Challenge: [Write your own Compression Tool](https://codingchallenges.fyi/challenges/challenge-huffman)
