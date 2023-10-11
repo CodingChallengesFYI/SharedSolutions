@@ -69,6 +69,7 @@ The Challenge: [Write your own Calculator](https://codingchallenges.fyi/challeng
 The shared solutions:
 - https://github.com/jainmohit2001/coding-challenges/blob/master/src/7
 - https://github.com/ogzhanolguncu/rust-stack-calculator
+- https://github.com/jengori/Calcu-Llama
 
 ## Build your own Redis Server
 The Challenge: [Write your own Redis Server](https://codingchallenges.fyi/challenges/challenge-redis)
