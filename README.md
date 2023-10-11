@@ -20,6 +20,7 @@ The shared solutions:
 - https://github.com/alphaDia/ccwc
 - https://github.com/GauravGuptaDeveloper/Coding-Challenges/tree/wc-tool/wc-tool
 - https://github.com/ebrahim-s-ebrahim/mywc
+- https://github.com/yaralahruthik/cc-wc
 
 ## Build your own JSON Parser
 The Challenge: [Write your own JSON Parser](https://codingchallenges.fyi/challenges/challenge-json-parser)
