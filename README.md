@@ -6,6 +6,7 @@ Publicly shared solutions to the [Coding Challenges](https://codingchallenges.fy
 The Challenge: [Write your own wc Tool](https://codingchallenges.fyi/challenges/challenge-wc)
 
 The shared solutions:
+- https://github.com/dotslashbit/coding-challenges/tree/main/write_your_own_wc_tool
 - https://github.com/jainmohit2001/coding-challenges/blob/master/src/1
 - https://github.com/Ghurtchu/wc
 - https://github.com/ogzhanolguncu/wc-rus
