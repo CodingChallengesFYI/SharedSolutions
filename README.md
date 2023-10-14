@@ -41,6 +41,7 @@ The shared solutions:
 - https://github.com/jainmohit2001/coding-challenges/blob/master/src/3
 - https://github.com/ogzhanolguncu/ts-huffman-compress
 - https://github.com/lolo8304/coding-challenge/tree/main/no-3
+- https://github.com/prodbyola/paramo
 
 ## Build your own cut Tool
 The Challenge: [Write your own cut Tool](https://codingchallenges.fyi/challenges/challenge-cut)
