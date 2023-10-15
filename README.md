@@ -60,6 +60,7 @@ The shared solutions:
 - https://github.com/andrenbrandao/load-balancer
 - https://github.com/lolo8304/coding-challenge/tree/main/no-5
 
+
 ## Build your own Sort Tool
 The Challenge: [Write your own Sort Tool](https://codingchallenges.fyi/challenges/challenge-sort)
 
@@ -219,6 +220,7 @@ The Challenge: [Write your own Rate Limiter](https://codingchallenges.fyi/challe
 The shared solutions:
 - https://github.com/niyazi-eren/rate-limiter
 - https://github.com/jainmohit2001/coding-challenges/blob/master/src/27
+- https://gitlab.com/surshrestha/rate-limiters
 
 ## Build your own Scheduling Automation App
 The Challenge: [Write your own Scheduling Automation App](https://codingchallenges.substack.com/p/coding-challenge-29-scheduling-automation)
