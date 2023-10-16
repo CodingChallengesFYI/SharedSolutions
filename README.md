@@ -22,6 +22,7 @@ The shared solutions:
 - https://github.com/ebrahim-s-ebrahim/mywc
 - https://github.com/yaralahruthik/cc-wc
 - https://github.com/dotslashbit/coding-challenges/tree/main/write_your_own_wc_tool
+- https://github.com/igaurab/cc/tree/main/wc-tool [Python]
 
 ## Build your own JSON Parser
 The Challenge: [Write your own JSON Parser](https://codingchallenges.fyi/challenges/challenge-json-parser)
@@ -221,6 +222,7 @@ The shared solutions:
 - https://github.com/niyazi-eren/rate-limiter
 - https://github.com/jainmohit2001/coding-challenges/blob/master/src/27
 - https://gitlab.com/surshrestha/rate-limiters
+- https://github.com/abhijeetnishal/Build-Your-Own-X/tree/master/rate-limiter
 
 ## Build your own Scheduling Automation App
 The Challenge: [Write your own Scheduling Automation App](https://codingchallenges.substack.com/p/coding-challenge-29-scheduling-automation)
