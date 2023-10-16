@@ -22,6 +22,7 @@ The shared solutions:
 - https://github.com/ebrahim-s-ebrahim/mywc
 - https://github.com/yaralahruthik/cc-wc
 - https://github.com/dotslashbit/coding-challenges/tree/main/write_your_own_wc_tool
+- https://github.com/igaurab/cc/tree/main/wc-tool [Python]
 
 ## Build your own JSON Parser
 The Challenge: [Write your own JSON Parser](https://codingchallenges.fyi/challenges/challenge-json-parser)
