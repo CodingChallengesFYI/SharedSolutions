@@ -23,6 +23,8 @@ The shared solutions:
 - https://github.com/yaralahruthik/cc-wc
 - https://github.com/dotslashbit/coding-challenges/tree/main/write_your_own_wc_tool
 - https://github.com/igaurab/cc/tree/main/wc-tool [Python]
+- https://github.com/surajkewat/wc-tool
+- https://github.com/shakeib98/ccwc 
 - https://github.com/hlalljie/Word_Count
 
 ## Build your own JSON Parser
