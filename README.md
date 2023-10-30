@@ -235,6 +235,14 @@ The shared solutions:
 The Challenge: [Write your own Scheduling Automation App](https://codingchallenges.substack.com/p/coding-challenge-29-scheduling-automation)
 - https://github.com/Satya753/SchedulingAutomationApp/tree/main
 
+## Build your own Lisp Interpreter
+The Challenge: [Write your own Lisp Interpreter](https://codingchallenges.fyi/challenges/challenge-lisp)
+
+The shared solutions:
+- https://github.com/lolo8304/coding-challenge/tree/main/no-30
+
+
+
 <!-- // Template
 ## Build your own
 The Challenge: [Write your own]()
