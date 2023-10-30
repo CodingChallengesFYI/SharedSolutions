@@ -23,9 +23,12 @@ The shared solutions:
 - https://github.com/yaralahruthik/cc-wc
 - https://github.com/dotslashbit/coding-challenges/tree/main/write_your_own_wc_tool
 - https://github.com/igaurab/cc/tree/main/wc-tool [Python]
+- https://github.com/shellmonk/mccwc [C]
 - https://github.com/surajkewat/wc-tool
+- https://github.com/neutrinoks/CodingChallenge/tree/main/ccwc [Rust]
 - https://github.com/shakeib98/ccwc 
-
+- https://github.com/hlalljie/Word_Count
+- https://github.com/new-AF/my-wc.js
 
 ## Build your own JSON Parser
 The Challenge: [Write your own JSON Parser](https://codingchallenges.fyi/challenges/challenge-json-parser)
@@ -37,6 +40,7 @@ The shared solutions:
 - https://github.com/sureshmangs/Build-Your-Own-X/tree/main/JSON-Parser/C%2B%2B
 - https://github.com/ebrahim-s-ebrahim/myJsonParser
 - https://github.com/jengori/json_parser
+- https://github.com/neutrinoks/CodingChallenge/tree/main/json-parser [Rust]
 
 ## Build your own Compression Tool
 The Challenge: [Write your own Compression Tool](https://codingchallenges.fyi/challenges/challenge-huffman)
@@ -64,6 +68,7 @@ The shared solutions:
 - https://github.com/Ghurtchu/lb
 - https://github.com/andrenbrandao/load-balancer
 - https://github.com/lolo8304/coding-challenge/tree/main/no-5
+- https://github.com/abhijeetnishal/Build-Your-Own-X/tree/master/load-balancer
 
 
 ## Build your own Sort Tool
@@ -231,6 +236,14 @@ The shared solutions:
 ## Build your own Scheduling Automation App
 The Challenge: [Write your own Scheduling Automation App](https://codingchallenges.substack.com/p/coding-challenge-29-scheduling-automation)
 - https://github.com/Satya753/SchedulingAutomationApp/tree/main
+
+## Build your own Lisp Interpreter
+The Challenge: [Write your own Lisp Interpreter](https://codingchallenges.fyi/challenges/challenge-lisp)
+
+The shared solutions:
+- https://github.com/lolo8304/coding-challenge/tree/main/no-30
+
+
 
 <!-- // Template
 ## Build your own
