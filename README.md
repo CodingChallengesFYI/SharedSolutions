@@ -24,6 +24,11 @@ The shared solutions:
 - https://github.com/dotslashbit/coding-challenges/tree/main/write_your_own_wc_tool
 - https://github.com/igaurab/cc/tree/main/wc-tool [Python]
 - https://github.com/shellmonk/mccwc [C]
+- https://github.com/surajkewat/wc-tool
+- https://github.com/neutrinoks/CodingChallenge/tree/main/ccwc [Rust]
+- https://github.com/shakeib98/ccwc 
+- https://github.com/hlalljie/Word_Count
+- https://github.com/new-AF/my-wc.js
 
 ## Build your own JSON Parser
 The Challenge: [Write your own JSON Parser](https://codingchallenges.fyi/challenges/challenge-json-parser)
@@ -34,6 +39,7 @@ The shared solutions:
 - https://github.com/lolo8304/coding-challenge/tree/main/no-2
 - https://github.com/sureshmangs/Build-Your-Own-X/tree/main/JSON-Parser/C%2B%2B
 - https://github.com/ebrahim-s-ebrahim/myJsonParser
+- https://github.com/neutrinoks/CodingChallenge/tree/main/json-parser [Rust]
 
 ## Build your own Compression Tool
 The Challenge: [Write your own Compression Tool](https://codingchallenges.fyi/challenges/challenge-huffman)
