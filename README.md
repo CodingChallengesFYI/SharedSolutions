@@ -39,6 +39,7 @@ The shared solutions:
 - https://github.com/lolo8304/coding-challenge/tree/main/no-2
 - https://github.com/sureshmangs/Build-Your-Own-X/tree/main/JSON-Parser/C%2B%2B
 - https://github.com/ebrahim-s-ebrahim/myJsonParser
+- https://github.com/jengori/json_parser
 - https://github.com/neutrinoks/CodingChallenge/tree/main/json-parser [Rust]
 
 ## Build your own Compression Tool
