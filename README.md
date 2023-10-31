@@ -246,7 +246,11 @@ The Challenge: [Write your own Lisp Interpreter](https://codingchallenges.fyi/ch
 The shared solutions:
 - https://github.com/lolo8304/coding-challenge/tree/main/no-30
 
+## Build your own head
+The Challenge: [Write your own head](https://codingchallenges.fyi/challenges/challenge-head/)
 
+The shared solutions:
+- https://github.com/sahasrara62/codingchallenges.fyi/tree/main/head_cc
 
 <!-- // Template
 ## Build your own
