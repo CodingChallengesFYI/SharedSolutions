@@ -252,6 +252,7 @@ The Challenge: [Write your own head](https://codingchallenges.fyi/challenges/cha
 
 The shared solutions:
 - https://github.com/sahasrara62/codingchallenges.fyi/tree/main/head_cc
+- https://github.com/sujayk96/coding_challenges/tree/main/%2333
 
 <!-- // Template
 ## Build your own
