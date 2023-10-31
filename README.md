@@ -194,6 +194,7 @@ The shared solutions:
 The Challenge: [Write your own DNS Resolver](https://codingchallenges.fyi/challenges/challenge-dns-resolver)
 
 The shared solutions:
+- https://github.com/MichalPitr/go-dns [Go]
 - https://github.com/jainmohit2001/coding-challenges/blob/master/src/22
 - https://github.com/vishalg8454/DNS-Resolver-Nodejs/tree/master
 - https://github.com/amanjha8100/dns-resolver
