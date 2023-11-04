@@ -50,6 +50,7 @@ The shared solutions:
 - https://github.com/ebrahim-s-ebrahim/myJsonParser
 - https://github.com/jengori/json_parser
 - https://github.com/neutrinoks/CodingChallenge/tree/main/json-parser [Rust]
+- https://github.com/Ramzi-Abidi/JSON-parser
 - https://github.com/dhruvSHA256/json-parser
 
 ## Build your own Compression Tool
