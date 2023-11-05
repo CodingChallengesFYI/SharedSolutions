@@ -4,8 +4,6 @@ The Challenge: [Write your own Compression Tool](https://codingchallenges.fyi/ch
 
 The shared solutions:
 
-- https://github.com/prodbyola/paramo
-
 | No. | Solution | Language | Author |
 |-----|----------|----------|--------|
 | 1 | [HuffmanEncoding](https://github.com/Patrick-Q-Jensen/HuffmanEncoding) | C# | [Patrick-Q-Jensen](https://github.com/Patrick-Q-Jensen) |
