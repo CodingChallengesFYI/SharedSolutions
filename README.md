@@ -294,6 +294,7 @@ The shared solutions:
 - https://github.com/jainmohit2001/coding-challenges/blob/master/src/27
 - https://gitlab.com/surshrestha/rate-limiters
 - https://github.com/abhijeetnishal/Build-Your-Own-X/tree/master/rate-limiter
+- https://github.com/JoyalAJohney/rate-limiter-go [Go]
 
 ## Build your own Scheduling Automation App
 
