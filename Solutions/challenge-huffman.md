@@ -12,3 +12,4 @@ The shared solutions:
 | 4 | [Write your own Compression Tool](https://github.com/lolo8304/coding-challenge/tree/main/no-3) | Java | [lolo8304 ](https://github.com/lolo8304) |
 | 5 | [paramo](https://github.com/prodbyola/paramo) | Rust | [prodbyola](https://github.com/prodbyola) |
 | 6 | [CompressionToolCodingPracticeByJohnCrickett](https://github.com/05satyam/CompressionToolCodingPracticeByJohnCrickett) | Java | [05satyam](https://github.com/05satyam) |
+| 7 | [Write Your Own Compression Tool](https://github.com/sureshmangs/Build-Your-Own-X/tree/main/Huffman-Encoder-Decoder/C++) | C++ | [sureshmangs](https://github.com/sureshmangs) |
