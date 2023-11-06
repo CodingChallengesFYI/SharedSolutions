@@ -15,3 +15,4 @@ The shared solutions:
 | 7 | [json-parser](https://github.com/neutrinoks/CodingChallenge/tree/main/json-parser) | Rust | [neutrinoks](https://github.com/neutrinoks) |
 | 8 | [JSON-parser](https://github.com/Ramzi-Abidi/JSON-parser) | JavaScript | [Ramzi-Abidi](https://github.com/Ramzi-Abidi) |
 | 9 | [json-parser](https://github.com/dhruvSHA256/json-parser) | Haskell | [dhruvSHA256](https://github.com/dhruvSHA256) |
+| 10 | [json-parser](https://github.com/Perchinka/ownJSON) | Rust | [Perchinka](https://github.com/Perchinka/) |
