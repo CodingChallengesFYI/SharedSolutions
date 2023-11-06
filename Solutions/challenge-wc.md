@@ -29,3 +29,4 @@ The shared solutions:
 | 21 | [Word_Count](https://github.com/hlalljie/Word_Count) | Python | [hlalljie](https://github.com/hlalljie) |
 | 22 | [my-wc.js](https://github.com/new-AF/my-wc.js) | JavaScript | [new-AF](https://github.com/new-AF) |
 | 23 | [wc](https://github.com/akhmettolegen/wc) | Go | [akhmettolegen](https://github.com/akhmettolegen) |
+| 24 | [wc](https://github.com/Perchinka/WC-coding-challenges) | Python | [Perchinka](https://github.com/Perchinka) |
