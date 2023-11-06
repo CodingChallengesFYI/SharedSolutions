@@ -40,15 +40,4 @@ Join the [Discord Community](https://discord.gg/zv4RKDcEKV).
 - [Build your own head](Solutions/challenge-head.md)
 - [Build your own jq](Solutions/challenge-jq.md)
 
-<!-- // Template
-# Build your own
-The Challenge: [Write your own]()
-
-The shared solutions:
-
-| No. | Solution | Language | Author |
-|-----|----------|----------|--------|
-|  | []() |  | []() |
--->
-
 <p align="right">(<a href="#top">🔼 Back to top</a>)</p>
