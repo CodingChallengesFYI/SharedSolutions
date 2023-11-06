@@ -36,6 +36,7 @@ The shared solutions:
 - https://github.com/hlalljie/Word_Count
 - https://github.com/new-AF/my-wc.js
 - https://github.com/akhmettolegen/wc
+- https://github.com/Perchinka/WC-coding-challenges [Python]
 
 ## Build your own JSON Parser
 
@@ -52,6 +53,7 @@ The shared solutions:
 - https://github.com/neutrinoks/CodingChallenge/tree/main/json-parser [Rust]
 - https://github.com/Ramzi-Abidi/JSON-parser
 - https://github.com/dhruvSHA256/json-parser
+- https://github.com/Perchinka/ownJSON [Python]
 
 ## Build your own Compression Tool
 
