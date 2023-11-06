@@ -66,6 +66,7 @@ The shared solutions:
 - https://github.com/ogzhanolguncu/ts-huffman-compress
 - https://github.com/lolo8304/coding-challenge/tree/main/no-3
 - https://github.com/prodbyola/paramo
+- https://github.com/05satyam/CompressionToolCodingPracticeByJohnCrickett
 
 ## Build your own cut Tool
 
