@@ -5,4 +5,4 @@ The shared solutions:
 
 | No. | Solution | Language | Author |
 |-----|----------|----------|--------|
-|  | []() |  | []() |
+|  1 | [Build your own jq](https://github.com/soliddevnl/coding-challenges/tree/main/jq) | Typescript | [https://github.com/j92](https://github.com/j92) |
