@@ -12,3 +12,4 @@ The shared solutions:
 | 4 | [Load Balancer](https://github.com/lolo8304/coding-challenge/tree/main/no-5) | Java | [lolo8304](https://github.com/lolo8304) |
 | 5 | [Load Balancer](https://github.com/abhijeetnishal/Build-Your-Own-X/tree/master/load-balancer) | TypeScript | [abhijeetnishal](https://github.com/abhijeetnishal) |
 | 6 | [Load Balancer](https://github.com/Ramzi-Abidi/Load-balancer) | TypeScript | [Ramzi-Abidi](https://github.com/Ramzi-Abidi) |
+| 7 | [Load Balancer](https://github.com/dhruvSHA256/load-balancer) | Python | [DhruvSHA256](https://github.com/dhruvSHA256) |
