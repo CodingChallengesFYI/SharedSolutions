@@ -37,6 +37,7 @@ Join the [Discord Community](https://discord.gg/zv4RKDcEKV).
 - [Build your own Rate Limiter](Solutions/challenge-rate-limiter.md)
 - [Build your own Scheduling Automation App](Solutions/challenge-scheduleing-automation.md)
 - [Build your own Lisp Interpreter](Solutions/challenge-lisp.md)
+- [Build your own QR Code Generator](Solutions/challenge-qr-generator.md)
 - [Build your own head](Solutions/challenge-head.md)
 - [Build your own jq](Solutions/challenge-jq.md)
 
