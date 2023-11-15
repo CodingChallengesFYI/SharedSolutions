@@ -10,3 +10,4 @@ The shared solutions:
 | 2 | [rs_redis_server](https://github.com/ogzhanolguncu/rs_redis_server) | Rust | [ogzhanolguncu](https://github.com/ogzhanolguncu) |
 | 3 | [valinor-vault](https://github.com/ogzhanolguncu/valinor-vault) | TypeScript | [ogzhanolguncu](https://github.com/ogzhanolguncu) |
 | 4 | [Write your own Redis Server](https://github.com/lolo8304/coding-challenge/tree/main/no-8) | Java | [lolo8304](https://github.com/lolo8304) |
+| 5 | [Write your own Redis Server](https://github.com/Rahul-1991/rustyRabbitDB/) | Golang | [Rahul-1991](https://github.com/Rahul-1991)
