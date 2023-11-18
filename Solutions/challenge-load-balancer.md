@@ -13,3 +13,4 @@ The shared solutions:
 | 5 | [Load Balancer](https://github.com/abhijeetnishal/Build-Your-Own-X/tree/master/load-balancer) | TypeScript | [abhijeetnishal](https://github.com/abhijeetnishal) |
 | 6 | [Load Balancer](https://github.com/Ramzi-Abidi/Load-balancer) | TypeScript | [Ramzi-Abidi](https://github.com/Ramzi-Abidi) |
 | 7 | [Load Balancer](https://github.com/dhruvSHA256/load-balancer) | Python | [DhruvSHA256](https://github.com/dhruvSHA256) |
+| 8 | [Load Balancer](https://github.com/Rahul-1991/balanceroo) | Golang | [Rahul-1991](https://github.com/Rahul-1991) |
