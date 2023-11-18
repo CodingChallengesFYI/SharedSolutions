@@ -5,4 +5,5 @@ The shared solutions:
 
 | No. | Solution | Language | Author |
 |-----|----------|----------|--------|
-|  1 | [Build your own jq](https://github.com/soliddevnl/coding-challenges/tree/main/jq) | Typescript | [https://github.com/j92](https://github.com/j92) |
+|  1  | [Write your own jq](https://github.com/soliddevnl/coding-challenges/tree/main/jq) | Typescript | [j92](https://github.com/j92) |
+|  2  | [Write your own jq](https://github.com/lolo8304/coding-challenge/tree/main/no-34) | Java | [lolo8304](https://github.com/lolo8304) |
