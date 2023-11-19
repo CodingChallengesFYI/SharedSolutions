@@ -31,3 +31,4 @@ The shared solutions:
 | 23 | [wc](https://github.com/akhmettolegen/wc) | Go | [akhmettolegen](https://github.com/akhmettolegen) |
 | 24 | [wc](https://github.com/Perchinka/WC-coding-challenges) | Python | [Perchinka](https://github.com/Perchinka) |
 | 25 | [wc](https://github.com/dethancosta/ccwc) | C | [dethancosta](https://github.com/dethancosta) |
+| 26 | [ccwc_tool](https://github.com/marek-jakub/ccwc_tool) | Python | [marek-jakub](https://github.com/marek-jakub) |
