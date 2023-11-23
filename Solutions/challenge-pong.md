@@ -4,6 +4,6 @@ The Challenge: [Write your own Pong](https://codingchallenges.fyi/challenges/cha
 
 The shared solutions:
 
-| No. | Solution                                                             | Language | Author                                               |
-|-----|----------------------------------------------------------------------|----------|------------------------------------------------------|
-| 1   | [Write Your Own Pong Tool](https://github.com/Kingcitaldo125/PyPong) | Python   | [Kingcitaldo125](https://github.com/Kingcitaldo125/) |
+| No. | Solution                                                        | Language | Author                                               |
+|-----|-----------------------------------------------------------------|----------|------------------------------------------------------|
+| 1   | [Write Your Own Pong](https://github.com/Kingcitaldo125/PyPong) | Python   | [Kingcitaldo125](https://github.com/Kingcitaldo125/) |
