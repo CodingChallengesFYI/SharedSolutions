@@ -34,4 +34,5 @@ The shared solutions:
 | 26 | [ccwc_tool](https://github.com/marek-jakub/ccwc_tool) | Python | [marek-jakub](https://github.com/marek-jakub) |
 | 26 | [ccwc-tool](https://github.com/faramarzaf/ccwc-tool) | Go | [Faramarz](https://github.com/faramarzaf) |
 | 27 | [jsccwc-tool](https://github.com/pedrocarr/jsccwc-tool) | JavaScript | [pedrocarr](https://github.com/pedrocarr) |
+| 28 | [ccwc](https://github.com/jkjarvis/John_crickett_coding_challenges/tree/main/challenge_1_wc) | Java | [jkjarvis](https://github.com/jkjarvis) |
 
