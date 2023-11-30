@@ -35,4 +35,4 @@ The shared solutions:
 | 26 | [ccwc-tool](https://github.com/faramarzaf/ccwc-tool) | Go | [Faramarz](https://github.com/faramarzaf) |
 | 27 | [jsccwc-tool](https://github.com/pedrocarr/jsccwc-tool) | JavaScript | [pedrocarr](https://github.com/pedrocarr) |
 | 28 | [wc](https://github.com/indierusty/wc) | Rust | [Priyanshu](https://github.com/indierusty) |
-
+| 29 | [wc-tool](https://github.com/SurajpratapsinghSayar/wc-tool) | Python | [SurajpratapsinghSayar](https://github.com/SurajpratapsinghSayar) |
