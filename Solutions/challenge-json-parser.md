@@ -16,3 +16,4 @@ The shared solutions:
 | 8 | [JSON-parser](https://github.com/Ramzi-Abidi/JSON-parser) | JavaScript | [Ramzi-Abidi](https://github.com/Ramzi-Abidi) |
 | 9 | [json-parser](https://github.com/dhruvSHA256/json-parser) | Haskell | [dhruvSHA256](https://github.com/dhruvSHA256) |
 | 10 | [json-parser](https://github.com/Perchinka/ownJSON) | Rust | [Perchinka](https://github.com/Perchinka/) |
+| 11 | [json-parser](https://github.com/alfinwijaya/json-parser) | Python | [alfinwijaya](https://github.com/alfinwijaya) |
