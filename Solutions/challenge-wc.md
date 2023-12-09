@@ -39,3 +39,4 @@ The shared solutions:
 | 30 | [wc-tool](https://github.com/SurajpratapsinghSayar/wc-tool) | Python | [SurajpratapsinghSayar](https://github.com/SurajpratapsinghSayar) |
 | 31 | [wc-tool](https://github.com/alfinwijaya/wc-tool) | Python | [alfinwijaya](https://github.com/alfinwijaya) |
 | 32 | [WordCountPY](https://github.com/Kingcitaldo125/WordCountPY) | Python | [Kingcitaldo125](https://github.com/Kingcitaldo125) |
+| 33 | [go-wc](https://github.com/Overflow404/go-wc) | Go | [Overflow404](https://github.com/Overflow404) |
