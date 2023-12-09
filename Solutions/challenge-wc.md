@@ -37,5 +37,7 @@ The shared solutions:
 | 28 | [ccwc](https://github.com/jkjarvis/John_crickett_coding_challenges/tree/main/challenge_1_wc) | Java | [jkjarvis](https://github.com/jkjarvis) |
 | 29 | [wc](https://github.com/indierusty/wc) | Rust | [Priyanshu](https://github.com/indierusty) |
 | 30 | [wc-tool](https://github.com/SurajpratapsinghSayar/wc-tool) | Python | [SurajpratapsinghSayar](https://github.com/SurajpratapsinghSayar) |
-| 31 | [WordCountPY](https://github.com/Kingcitaldo125/WordCountPY) | Python | [Kingcitaldo125](https://github.com/Kingcitaldo125) |
-| 32 | [ccwc](https://github.com/bawejahritik/cli---word-count-tool) | Python | [bawejahritik](https://github.com/bawejahritik) |
+| 31 | [wc-tool](https://github.com/alfinwijaya/wc-tool) | Python | [alfinwijaya](https://github.com/alfinwijaya) |
+| 32 | [WordCountPY](https://github.com/Kingcitaldo125/WordCountPY) | Python | [Kingcitaldo125](https://github.com/Kingcitaldo125) |
+| 33 | [go-wc](https://github.com/Overflow404/go-wc) | Go | [Overflow404](https://github.com/Overflow404) |
+| 34 | [ccwc](https://github.com/bawejahritik/cli---word-count-tool) | Python | [bawejahritik](https://github.com/bawejahritik) |
