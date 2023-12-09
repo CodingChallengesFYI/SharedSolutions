@@ -38,3 +38,4 @@ The shared solutions:
 | 29 | [wc](https://github.com/indierusty/wc) | Rust | [Priyanshu](https://github.com/indierusty) |
 | 30 | [wc-tool](https://github.com/SurajpratapsinghSayar/wc-tool) | Python | [SurajpratapsinghSayar](https://github.com/SurajpratapsinghSayar) |
 | 31 | [WordCountPY](https://github.com/Kingcitaldo125/WordCountPY) | Python | [Kingcitaldo125](https://github.com/Kingcitaldo125) |
+| 32 | [ccwc](https://github.com/bawejahritik/cli---word-count-tool) | Python | [bawejahritik](https://github.com/bawejahritik) |
