@@ -11,3 +11,4 @@ The shared solutions:
 | 3 | [valinor-vault](https://github.com/ogzhanolguncu/valinor-vault) | TypeScript | [ogzhanolguncu](https://github.com/ogzhanolguncu) |
 | 4 | [Write your own Redis Server](https://github.com/lolo8304/coding-challenge/tree/main/no-8) | Java | [lolo8304](https://github.com/lolo8304) |
 | 5 | [Write your own Redis Server](https://github.com/Rahul-1991/rustyRabbitDB/) | Golang | [Rahul-1991](https://github.com/Rahul-1991)
+| 6 | [cc-redis-server](https://github.com/vamsaty/cc-redis-server/) | Go | [vamsaty](https://github.com/vamsaty)
