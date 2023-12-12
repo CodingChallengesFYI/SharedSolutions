@@ -12,3 +12,4 @@ The shared solutions:
 | 4 | [Rate Limiter](https://github.com/abhijeetnishal/Build-Your-Own-X/tree/master/rate-limiter) | TypeScript | [abhijeetnishal](https://github.com/abhijeetnishal) |
 | 5 | [Rate Limiter](https://github.com/JoyalAJohney/rate-limiter-go) | Go | [JoyalAJohney](https://github.com/JoyalAJohney/) |
 | 6 | [Rate Limiter](https://github.com/SurajpratapsinghSayar/rate-limiter) | Python | [SurajpratapsinghSayar](https://github.com/SurajpratapsinghSayar/) |
+| 6 | [cc-rate-limiter](https://github.com/vamsaty/cc-rate-limiter) | Go | [vamsaty](https://github.com/vamsaty/) |
