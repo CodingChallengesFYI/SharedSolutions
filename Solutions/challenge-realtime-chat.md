@@ -7,3 +7,4 @@ The shared solutions:
 | No. | Solution | Language | Author |
 |-----|----------|----------|--------|
 | 1 | [realtime-chat](https://github.com/dethancosta/realtime-chat) | Go | [dethancosta](https://github.com/dethancosta) |
+| 2 | [realtime-chat](https://github.com/walvisk/realtime-chat) | Ruby | [walvisk](https://github.com/walvisk) |
