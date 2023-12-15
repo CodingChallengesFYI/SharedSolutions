@@ -14,3 +14,4 @@ The shared solutions:
 | 6 | [CompressionToolCodingPracticeByJohnCrickett](https://github.com/05satyam/CompressionToolCodingPracticeByJohnCrickett) | Java | [05satyam](https://github.com/05satyam) |
 | 7 | [Write Your Own Compression Tool](https://github.com/sureshmangs/Build-Your-Own-X/tree/main/Huffman-Encoder-Decoder/C++) | C++ | [sureshmangs](https://github.com/sureshmangs) |
 | 8 | [Own Compression Tool](https://github.com/Perchinka/ownCompress) | Python | [Perchinka](https://github.com/Perchinka) |
+| 9 | [cchuffman](https://github.com/epps/cchuffman) | Go | [epps](https://github.com/epps) |
