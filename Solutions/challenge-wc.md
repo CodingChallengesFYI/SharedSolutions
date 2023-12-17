@@ -16,7 +16,7 @@ The shared solutions:
 | 8 | [ccwc](https://github.com/sujeetsawala/ccwc) | Go | [sujeetsawala](https://github.com/sujeetsawala) |
 | 9 | [Write Your Own wc Tool](https://github.com/lolo8304/coding-challenge/tree/main/no-1) | Java | [lolo8304 ](https://github.com/lolo8304) |
 | 10 | [cc1-unix_wc_tool](https://github.com/yildirimmurat/cc1-unix_wc_tool) | Java | [yildirimmurat](https://github.com/yildirimmurat) |
-| 11 | [ccwc](https://github.com/alphaDia/ccwc) | Pyhton | [alphaDia](https://github.com/alphaDia/) |
+| 11 | [ccwc](https://github.com/alphaDia/ccwc) | Python | [alphaDia](https://github.com/alphaDia/) |
 | 12 | [wc-tool](https://github.com/GauravGuptaDeveloper/Coding-Challenges/tree/wc-tool/wc-tool) | Java | [GauravGuptaDeveloper](https://github.com/GauravGuptaDeveloper) |
 | 13 | [mywc](https://github.com/ebrahim-s-ebrahim/mywc) | C# | [ebrahim-s-ebrahim](https://github.com/ebrahim-s-ebrahim) |
 | 14 | [cc-wc](https://github.com/yaralahruthik/cc-wc) | Go | [yaralahruthik](https://github.com/yaralahruthik) |
