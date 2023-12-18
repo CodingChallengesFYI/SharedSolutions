@@ -41,3 +41,4 @@ The shared solutions:
 | 32 | [WordCountPY](https://github.com/Kingcitaldo125/WordCountPY) | Python | [Kingcitaldo125](https://github.com/Kingcitaldo125) |
 | 33 | [go-wc](https://github.com/Overflow404/go-wc) | Go | [Overflow404](https://github.com/Overflow404) |
 | 34 | [cc-wc-tool](https://github.com/vamsaty/cc-wc-tool) | Go | [vamsaty](https://github.com/vamsaty) |
+| 35 | [word-count](https://github.com/izebit/coding-challenges/tree/master/1-word-count) | Haskell | [Artem Konovalov](https://github.com/izebit) |
