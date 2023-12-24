@@ -42,5 +42,6 @@ Join the [Discord Community](https://discord.gg/zv4RKDcEKV).
 - [Build your own jq](Solutions/challenge-jq.md)
 - [Build your own Pong](Solutions/challenge-pong.md)
 - [Build your own curl](Solutions/challenge-curl.md)
+- [Build your own HTTP(S) Load Tester](Solutions/challenge-load-tester.md)
 
 <p align="right">(<a href="#top">🔼 Back to top</a>)</p>
