@@ -45,3 +45,4 @@ The shared solutions:
 | 36 | [wc-tool](https://gitlab.com/coderanoopms/wc-tool) | Go | [Anoop MS](https://gitlab.com/coderanoopms) |
 | 37 | [wc-go](https://github.com/carantes/wc-go) | Go | [Carantes](https://github.com/carantes) |
 | 38 | [my-ccwc-tool](https://github.com/ahmed22362/weekly-coding-challenges/tree/main/01_Build_your_own_wc) | Typescript | [Ahmed-Makhlouf](https://github.com/ahmed22362) |
+| 39 | [wc-tool](https://github.com/abhi11210646/wc-tool) | Go | [abhi11210646](https://github.com/abhi11210646) |
