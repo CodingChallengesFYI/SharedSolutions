@@ -38,9 +38,11 @@ Join the [Discord Community](https://discord.gg/zv4RKDcEKV).
 - [Build your own Scheduling Automation App](Solutions/challenge-scheduleing-automation.md)
 - [Build your own Lisp Interpreter](Solutions/challenge-lisp.md)
 - [Build your own QR Code Generator](Solutions/challenge-qr-generator.md)
+- [Build your own CronTab Tool](Solutions/challenge-crontab.md)
 - [Build your own head](Solutions/challenge-head.md)
 - [Build your own jq](Solutions/challenge-jq.md)
 - [Build your own Pong](Solutions/challenge-pong.md)
 - [Build your own curl](Solutions/challenge-curl.md)
+- [Build your own HTTP(S) Load Tester](Solutions/challenge-load-tester.md)
 
 <p align="right">(<a href="#top">🔼 Back to top</a>)</p>

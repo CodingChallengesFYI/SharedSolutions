@@ -43,4 +43,7 @@ The shared solutions:
 | 34 | [cc-wc-tool](https://github.com/vamsaty/cc-wc-tool) | Go | [vamsaty](https://github.com/vamsaty) |
 | 35 | [word-count](https://github.com/izebit/coding-challenges/tree/master/1-word-count) | Haskell | [Artem Konovalov](https://github.com/izebit) |
 | 36 | [wc-tool](https://gitlab.com/coderanoopms/wc-tool) | Go | [Anoop MS](https://gitlab.com/coderanoopms) |
-| 37 | [Kai's ccwc](https://github.com/CaiCanCode/ccwc) | C | [Michaiah J. Williams](https://github.com/CaiCanCode) |
+| 37 | [wc-go](https://github.com/carantes/wc-go) | Go | [Carantes](https://github.com/carantes) |
+| 38 | [my-ccwc-tool](https://github.com/ahmed22362/weekly-coding-challenges/tree/main/01_Build_your_own_wc) | Typescript | [Ahmed-Makhlouf](https://github.com/ahmed22362) |
+| 39 | [wc-tool](https://github.com/abhi11210646/wc-tool) | Go | [abhi11210646](https://github.com/abhi11210646) |
+| 40 | [Kai's ccwc](https://github.com/CaiCanCode/ccwc) | C | [Michaiah J. Williams](https://github.com/CaiCanCode) |
