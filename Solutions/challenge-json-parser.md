@@ -20,3 +20,4 @@ The shared solutions:
 | 12 | [json-parser](https://github.com/indierusty/json-parser) | Rust | [indierusty](https://github.com/indierusty) |
 | 13 | [jsonparsergo](https://github.com/oyekanmiayo/jsonparsego) | Go | [oyekanmiayo](https://github.com/oyekanmiayo) |
 | 14 | [ccjson](https://github.com/epps/ccjson) | Go | [epps](https://github.com/epps) |
+| 15 | [json-parser](https://gitlab.com/bzai-public/codingchallenge-json-parser) | Scala | [binghao](https://gitlab.com/bzai-public) |
