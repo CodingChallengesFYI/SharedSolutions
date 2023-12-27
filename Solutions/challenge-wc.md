@@ -47,3 +47,4 @@ The shared solutions:
 | 38 | [my-ccwc-tool](https://github.com/ahmed22362/weekly-coding-challenges/tree/main/01_Build_your_own_wc) | Typescript | [Ahmed-Makhlouf](https://github.com/ahmed22362) |
 | 39 | [wc-tool](https://github.com/abhi11210646/wc-tool) | Go | [abhi11210646](https://github.com/abhi11210646) |
 | 40 | [Kai's ccwc](https://github.com/CaiCanCode/ccwc) | C | [Michaiah J. Williams](https://github.com/CaiCanCode) |
+| 41 | [ccwc](https://github.com/GolluAjay/codeChallenges/tree/main/write_your_own_wc_tool) | Bash | [GolluAjay](https://github.com/GolluAjay) |
