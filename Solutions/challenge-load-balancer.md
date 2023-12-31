@@ -16,3 +16,4 @@ The shared solutions:
 | 8 | [Load Balancer](https://github.com/Rahul-1991/balanceroo) | Golang | [Rahul-1991](https://github.com/Rahul-1991) |
 | 9 | [cc-load-balancer](https://github.com/vamsaty/cc-load-balancer) | Go | [vamsaty](https://github.com/vamsaty) |
 | 10 | [Load-Balancer-with-CLI](https://github.com/harshilsharmaa/Load-Balancer) | NodeJS (JavaScript) | [harshilsharmaa](https://github.com/harshilsharmaa) |
+| 11 | [Load Balancer](https://github.com/Abdulrahman-Tayara/go-lb) | Go | [Abdulrahman-Tayara](https://github.com/Abdulrahman-Tayara) |
