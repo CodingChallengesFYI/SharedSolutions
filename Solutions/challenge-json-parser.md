@@ -18,3 +18,6 @@ The shared solutions:
 | 10 | [json-parser](https://github.com/Perchinka/ownJSON) | Rust | [Perchinka](https://github.com/Perchinka/) |
 | 11 | [json-parser](https://github.com/alfinwijaya/json-parser) | Python | [alfinwijaya](https://github.com/alfinwijaya) |
 | 12 | [json-parser](https://github.com/indierusty/json-parser) | Rust | [indierusty](https://github.com/indierusty) |
+| 13 | [jsonparsergo](https://github.com/oyekanmiayo/jsonparsego) | Go | [oyekanmiayo](https://github.com/oyekanmiayo) |
+| 14 | [ccjson](https://github.com/epps/ccjson) | Go | [epps](https://github.com/epps) |
+| 15 | [json-parser](https://gitlab.com/bzai-public/codingchallenge-json-parser) | Scala | [binghao](https://gitlab.com/bzai-public) |
