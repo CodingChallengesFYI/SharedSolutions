@@ -6,6 +6,15 @@ Publicly shared solutions to the [Coding Challenges](https://codingchallenges.fy
 
 Join the [Discord Community](https://discord.gg/zv4RKDcEKV).
 
+### How To Add Your Solution
+To add your solution follow the process for [making a pull request to an open-source project](https://github.com/gabrieldemarmiesse/getting_started_open_source).
+
+Essentially:
+1. Fork this repo and clone it.
+2. Create a branch and make your change.
+3. Push your branch to your fork.
+4. Open a PR against this repo.
+
 ## Table of Contents
 
 - [Build your own wc Tool](Solutions/challenge-wc.md)
