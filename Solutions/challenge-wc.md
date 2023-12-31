@@ -50,3 +50,4 @@ The shared solutions:
 | 41 | [go-wc](https://github.com/alefeans/go-wc) | Go | [alefeans](https://github.com/alefeans) |
 | 42 | [wctool](https://github.com/vigneshm243/CodingChallenges/tree/main/wctool) | Go | [Vignesh Muthukumaran](https://github.com/vigneshm243)
 | 43 | [ccwc](https://github.com/GolluAjay/codeChallenges/tree/main/write_your_own_wc_tool) | Bash | [GolluAjay](https://github.com/GolluAjay) |
+| 44 | [ccwc](https://github.com/bawejahritik/cli---word-count-tool) | Python | [bawejahritik](https://github.com/bawejahritik) |
