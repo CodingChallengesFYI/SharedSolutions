@@ -12,3 +12,4 @@ The shared solutions:
 | 4 | [Write your own Redis Server](https://github.com/lolo8304/coding-challenge/tree/main/no-8) | Java | [lolo8304](https://github.com/lolo8304) |
 | 5 | [Write your own Redis Server](https://github.com/Rahul-1991/rustyRabbitDB/) | Golang | [Rahul-1991](https://github.com/Rahul-1991)
 | 6 | [cc-redis-server](https://github.com/vamsaty/cc-redis-server/) | Go | [vamsaty](https://github.com/vamsaty)
+| 7 | [redis-server-lite](https://github.com/Erkanerkisi/redis-server-lite/) | Go | [erkanerkisi](https://github.com/Erkanerkisi)
