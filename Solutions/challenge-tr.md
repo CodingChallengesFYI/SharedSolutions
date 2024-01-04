@@ -7,3 +7,4 @@ The shared solutions:
 | No. | Solution | Language | Author |
 |-----|----------|----------|--------|
 | 1 | [Write Your Own tr Tool](https://github.com/TESLA2402/gocctr) | Go | [TESLA2402](https://github.com/TESLA2402) |
+| 2 | [Write Your Own tr Tool](https://github.com/PabloSanchi/tr-python-cli) | Python | [PabloSanchi](https://github.com/PabloSanchi) |
