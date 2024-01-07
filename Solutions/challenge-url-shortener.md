@@ -15,3 +15,4 @@ The shared solutions:
 | 7 | [url_shortener](https://github.com/vishyarjun/url_shortener) | Python | [vishyarjun](https://github.com/vishyarjun) |
 | 8 | [URLShortener](https://github.com/abhijeetnishal/URLShortener) | JavaScript | [abhijeetnishal](https://github.com/abhijeetnishal) |
 | 9 | [URL Shortener](https://github.com/edwardbera/Url-Shortener) | JavaScript | [edwardbera](https://github.com/edwardbera) |
+| 10 | [miniurl](https://github.com/walvisk/miniurl) | Ruby | [walvisk](https://github.com/walvisk) |
