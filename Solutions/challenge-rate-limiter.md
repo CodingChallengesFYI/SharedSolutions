@@ -14,3 +14,4 @@ The shared solutions:
 | 6 | [Rate Limiter](https://github.com/SurajpratapsinghSayar/rate-limiter) | Python | [SurajpratapsinghSayar](https://github.com/SurajpratapsinghSayar/) |
 | 7 | [cc-rate-limiter](https://github.com/vamsaty/cc-rate-limiter) | Go | [vamsaty](https://github.com/vamsaty/) |
 | 8 | [rate-limiter](https://github.com/Changolaxtra/rate-limiter) | Java | [Changolaxtra](https://github.com/Changolaxtra) |
+| 9 | [go-rate-limiter](https://github.com/carantes/go-rate-limiter) | Go | [carantes](https://github.com/carantes) |
