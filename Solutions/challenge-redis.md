@@ -14,3 +14,4 @@ The shared solutions:
 | 6 | [cc-redis-server](https://github.com/vamsaty/cc-redis-server/) | Go | [vamsaty](https://github.com/vamsaty) |
 | 7 | [RedisLite](https://github.com/rxrav/RedisLite) | Java | [rxrav](https://github.com/rxrav) |
 | 8 | [redis-server-lite](https://github.com/Erkanerkisi/redis-server-lite/) | Go | [erkanerkisi](https://github.com/Erkanerkisi)
+| 9 | [Redis-Server-Lite](https://github.com/C41M50N/Redis-Server-Lite) | Go | [C41M50N](https://github.com/C41M50N) |
