@@ -54,3 +54,4 @@ The shared solutions:
 | 45 | [ccwc](https://github.com/elq81hc/coding-challenges/tree/master/wc_tool) | Go | [Quy le](https://github.com/elq81hc) |
 | 46 | [ccwc](https://github.com/gpetrioli/coding-challenges/tree/main/challenge-1-wc-command) | JavaScript | [gpetrioli](https://github.com/gpetrioli) |
 | 47 | [ccwc](https://github.com/The-Flash/ccwc) | Go | [The-Flash](https://github.com/The-Flash) |
+| 48 | [ccwc](https://github.com/abhie16/wc-cmnd-clone) | JavaScript | [Abhishek Pandey](https://github.com/abhie16) |
