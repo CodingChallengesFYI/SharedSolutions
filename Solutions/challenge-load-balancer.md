@@ -17,4 +17,4 @@ The shared solutions:
 | 9 | [cc-load-balancer](https://github.com/vamsaty/cc-load-balancer) | Go | [vamsaty](https://github.com/vamsaty) |
 | 10 | [Load-Balancer-with-CLI](https://github.com/harshilsharmaa/Load-Balancer) | NodeJS (JavaScript) | [harshilsharmaa](https://github.com/harshilsharmaa) |
 | 11 | [Load Balancer](https://github.com/Abdulrahman-Tayara/go-lb) | Go | [Abdulrahman-Tayara](https://github.com/Abdulrahman-Tayara) |
-| 11 | [Load Balancer](https://github.com/gertanoh/loadbalancer) | Go | [Henry-Tanoh](https://github.com/gertanoh) |
+| 12 | [Load Balancer](https://github.com/gertanoh/loadbalancer) | Go | [Henry-Tanoh](https://github.com/gertanoh) |
