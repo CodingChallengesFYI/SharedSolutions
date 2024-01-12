@@ -16,3 +16,4 @@ The shared solutions:
 | 8 | [URLShortener](https://github.com/abhijeetnishal/URLShortener) | JavaScript | [abhijeetnishal](https://github.com/abhijeetnishal) |
 | 9 | [URL Shortener](https://github.com/edwardbera/Url-Shortener) | JavaScript | [edwardbera](https://github.com/edwardbera) |
 | 10 | [miniurl](https://github.com/walvisk/miniurl) | Ruby | [walvisk](https://github.com/walvisk) |
+| 11  | [shortly](https://github.com/jmadupalli/shortly) | Java/React | [jmadupalli](https://github.com/jmadupalli)  
