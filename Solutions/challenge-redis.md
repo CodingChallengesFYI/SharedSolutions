@@ -15,3 +15,4 @@ The shared solutions:
 | 7 | [RedisLite](https://github.com/rxrav/RedisLite) | Java | [rxrav](https://github.com/rxrav) |
 | 8 | [redis-server-lite](https://github.com/Erkanerkisi/redis-server-lite/) | Go | [erkanerkisi](https://github.com/Erkanerkisi)
 | 9 | [Redis-Server-Lite](https://github.com/C41M50N/Redis-Server-Lite) | Go | [C41M50N](https://github.com/C41M50N) |
+| 10 | [Redis-Server-Lite with CLI](https://github.com/gertanoh/redis-lite-go) | Go | [gertanoh](https://github.com/gertanoh) |
