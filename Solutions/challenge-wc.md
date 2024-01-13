@@ -56,3 +56,4 @@ The shared solutions:
 | 47 | [ccwc](https://github.com/The-Flash/ccwc) | Go | [The-Flash](https://github.com/The-Flash) |
 | 48 | [ccwc](https://github.com/abhie16/wc-cmnd-clone) | JavaScript | [Abhishek Pandey](https://github.com/abhie16) |
 | 49 | [wc_tool](https://github.com/WeebMogul/Coding-Challenges-solutions/tree/main/Challenge%201%20-%20wc%20tool) | Python | [weebmogul](https://github.com/WeebMogul) |
+| 50 | [geniewc](https://github.com/arp99/Geniewc) | Javascript | [Arpan Mondal](https://github.com/arp99) |
