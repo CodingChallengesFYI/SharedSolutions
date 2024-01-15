@@ -16,3 +16,4 @@ The shared solutions:
 | 8 | [Own Compression Tool](https://github.com/Perchinka/ownCompress) | Python | [Perchinka](https://github.com/Perchinka) |
 | 9 | [cchuffman](https://github.com/epps/cchuffman) | Go | [epps](https://github.com/epps) |
 | 10 | [huffman](https://github.com/alefeans/huffman) | Go | [alefeans](https://github.com/alefeans) |
+| 11 | [cccompress](https://github.com/neutrinoks/CodingChallenge/tree/main/cccompress) | Rust | [neutrinoks](https://github.com/neutrinoks) |
