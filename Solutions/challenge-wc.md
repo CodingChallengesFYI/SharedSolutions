@@ -49,11 +49,12 @@ The shared solutions:
 | 40 | [Kai's ccwc](https://github.com/CaiCanCode/ccwc) | C | [Michaiah J. Williams](https://github.com/CaiCanCode) |
 | 41 | [go-wc](https://github.com/alefeans/go-wc) | Go | [alefeans](https://github.com/alefeans) |
 | 42 | [wctool](https://github.com/vigneshm243/CodingChallenges/tree/main/wctool) | Go | [Vignesh Muthukumaran](https://github.com/vigneshm243)
-| 43 | [ccwc](https://github.com/GolluAjay/codeChallenges/tree/main/write_your_own_wc_tool) | Bash | [GolluAjay](https://github.com/GolluAjay) |
-| 44 | [ccwc](https://github.com/bawejahritik/cli---word-count-tool) | Python | [bawejahritik](https://github.com/bawejahritik) |
-| 45 | [ccwc](https://github.com/elq81hc/coding-challenges/tree/master/wc_tool) | Go | [Quy le](https://github.com/elq81hc) |
-| 46 | [ccwc](https://github.com/gpetrioli/coding-challenges/tree/main/challenge-1-wc-command) | JavaScript | [gpetrioli](https://github.com/gpetrioli) |
-| 47 | [ccwc](https://github.com/The-Flash/ccwc) | Go | [The-Flash](https://github.com/The-Flash) |
-| 48 | [ccwc](https://github.com/abhie16/wc-cmnd-clone) | JavaScript | [Abhishek Pandey](https://github.com/abhie16) |
-| 49 | [wc_tool](https://github.com/WeebMogul/Coding-Challenges-solutions/tree/main/Challenge%201%20-%20wc%20tool) | Python | [weebmogul](https://github.com/WeebMogul) |
-| 50 | [geniewc](https://github.com/arp99/Geniewc) | Javascript | [Arpan Mondal](https://github.com/arp99) |
+| 43 | [ccwc](https://github.com/GolluAjay/codeChallenges/tree/main/write_your_own_wc_tool)                        | Bash       | [GolluAjay](https://github.com/GolluAjay)       |
+| 44 | [ccwc](https://github.com/bawejahritik/cli---word-count-tool)                                               | Python     | [bawejahritik](https://github.com/bawejahritik) |
+| 45 | [ccwc](https://github.com/elq81hc/coding-challenges/tree/master/wc_tool)                                    | Go         | [Quy le](https://github.com/elq81hc)            |
+| 46 | [ccwc](https://github.com/gpetrioli/coding-challenges/tree/main/challenge-1-wc-command)                     | JavaScript | [gpetrioli](https://github.com/gpetrioli)       |
+| 47 | [ccwc](https://github.com/The-Flash/ccwc)                                                                   | Go         | [The-Flash](https://github.com/The-Flash)       |
+| 48 | [ccwc](https://github.com/abhie16/wc-cmnd-clone)                                                            | JavaScript | [Abhishek Pandey](https://github.com/abhie16)   |
+| 49 | [wc_tool](https://github.com/WeebMogul/Coding-Challenges-solutions/tree/main/Challenge%201%20-%20wc%20tool) | Python     | [weebmogul](https://github.com/WeebMogul)       |
+| 50 | [geniewc](https://github.com/arp99/Geniewc)                                                                 | Javascript | [Arpan Mondal](https://github.com/arp99)        |
+| 51 | [ccwc](https://github.com/farmeroy/coding-challenges-rust/tree/master/ccww)                                 | Rust       | [Raffaele Cataldo](https://github.com/farmeroy) |
