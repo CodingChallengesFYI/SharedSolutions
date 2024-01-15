@@ -58,3 +58,4 @@ The shared solutions:
 | 49 | [wc_tool](https://github.com/WeebMogul/Coding-Challenges-solutions/tree/main/Challenge%201%20-%20wc%20tool) | Python | [weebmogul](https://github.com/WeebMogul) |
 | 50 | [geniewc](https://github.com/arp99/Geniewc) | Javascript | [Arpan Mondal](https://github.com/arp99) |
 | 51 | [wcTool](https://github.com/tlarnold10/coding-challenges/tree/main/wcTool) | Go | [Trevor Arnold](https://github.com/tlarnold10) |
+| 52 | [ccwc_tool](https://github.com/nlazyan/coding-challenges/tree/main/01_ccwc_tool) | JacaScript | [nlazyan](https://github.com/nlazyan) | 
