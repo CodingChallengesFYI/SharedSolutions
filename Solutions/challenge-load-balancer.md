@@ -18,3 +18,4 @@ The shared solutions:
 | 10 | [Load-Balancer-with-CLI](https://github.com/harshilsharmaa/Load-Balancer) | NodeJS (JavaScript) | [harshilsharmaa](https://github.com/harshilsharmaa) |
 | 11 | [Load Balancer](https://github.com/Abdulrahman-Tayara/go-lb) | Go | [Abdulrahman-Tayara](https://github.com/Abdulrahman-Tayara) |
 | 12 | [Load Balancer](https://github.com/gertanoh/loadbalancer) | Go | [gertanoh](https://github.com/gertanoh) |
+| 13 | [lb](https://github.com/alefeans/lb) | Go | [alefeans](https://github.com/alefeans) |
