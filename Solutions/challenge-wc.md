@@ -61,3 +61,4 @@ The shared solutions:
 | 52 | [ccwc_tool](https://github.com/nlazyan/coding-challenges/tree/main/01_ccwc_tool) | JacaScript | [nlazyan](https://github.com/nlazyan) | 
 | 53 | [wc_cli](https://github.com/arjunsharma-dev1/wc_cli) | Rust | [Arjun Sharma](https://github.com/arjunsharma-dev1) |
 | 54 | [ccwc](https://github.com/SantiSite/ccwc) | Go | [SantiSite](https://github.com/SantiSite) |
+| 55 | [ccwc](https://github.com/farmeroy/coding-challenges-rust/tree/master/ccww)| Rust       | [Raffaele Cataldo](https://github.com/farmeroy) |
