@@ -13,5 +13,5 @@ The shared solutions:
 | 5 | [Write Your Own DNS Resolver](https://github.com/lolo8304/coding-challenge/tree/main/no-22) | Java | [lolo8304](https://github.com/lolo8304) |
 | 6 | [DNS-Resolver](https://github.com/harshadbhere/DNS-Resolver) | Python | [harshadbhere](https://github.com/harshadbhere) |
 | 7 | [DNS-Resolver](https://github.com/umeshmg27/DNS-Resolver)  | GO | [umeshmg27](https://github.com/umeshmg27) |
-| 7 | [DNS-Resolver](https://github.com/narutosstudent/dns-resolver)  | TypeScript | [narutosstudent](https://github.com/narutosstudent) |
+| 8 | [DNS-Resolver](https://github.com/narutosstudent/dns-resolver)  | TypeScript | [narutosstudent](https://github.com/narutosstudent) |
 
