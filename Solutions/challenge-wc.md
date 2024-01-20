@@ -63,3 +63,4 @@ The shared solutions:
 | 54 | [ccwc](https://github.com/SantiSite/ccwc) | Go | [SantiSite](https://github.com/SantiSite) |
 | 55 | [ccwc](https://github.com/farmeroy/coding-challenges-rust/tree/master/ccww)| Rust       | [Raffaele Cataldo](https://github.com/farmeroy) |
 | 56 | [wc](https://github.com/codeghoul/coding-challenges/tree/main/01_wc) | Go | [Jayesh Patel](https://github.com/codeghoul) |
+| 57 | [wc](https://github.com/akoskm/ccwc) | Go | [akoskm](https://github.com/akoskm) |
