@@ -65,3 +65,4 @@ The shared solutions:
 | 56 | [wc](https://github.com/codeghoul/coding-challenges/tree/main/01_wc) | Go | [Jayesh Patel](https://github.com/codeghoul) |
 | 57 | [wc](https://github.com/akoskm/ccwc) | Go | [akoskm](https://github.com/akoskm) |
 | 58 | [ccwc](https://github.com/azie-ginanjar/ccwc) | Python | [Mukhammad Ginanjar Azie](https://github.com/azie-ginanjar) |
+| 59 | [wc](https://github.com/Sakhile-Msibi/Coding-Challenges/tree/main/WC-Tool) | Go | [Sakhile Msibi](https://github.com/Sakhile-Msibi) |
