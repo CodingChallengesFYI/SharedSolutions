@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "ccwc": {
-      "commandName": "Project",
-      "commandLineArgs": "-w test.txt\r\n"
-    }
-  }
-}
