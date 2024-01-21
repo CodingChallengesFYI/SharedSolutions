@@ -1,0 +1,14 @@
+C:\Users\SakhileMsibi\Sakhile\UpSkill\Coding-Challenges\WC-Tool\ccwc\bin\Debug\net6.0\ccwc.exe
+C:\Users\SakhileMsibi\Sakhile\UpSkill\Coding-Challenges\WC-Tool\ccwc\bin\Debug\net6.0\ccwc.deps.json
+C:\Users\SakhileMsibi\Sakhile\UpSkill\Coding-Challenges\WC-Tool\ccwc\bin\Debug\net6.0\ccwc.runtimeconfig.json
+C:\Users\SakhileMsibi\Sakhile\UpSkill\Coding-Challenges\WC-Tool\ccwc\bin\Debug\net6.0\ccwc.dll
+C:\Users\SakhileMsibi\Sakhile\UpSkill\Coding-Challenges\WC-Tool\ccwc\bin\Debug\net6.0\ccwc.pdb
+C:\Users\SakhileMsibi\Sakhile\UpSkill\Coding-Challenges\WC-Tool\ccwc\obj\Debug\net6.0\ccwc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SakhileMsibi\Sakhile\UpSkill\Coding-Challenges\WC-Tool\ccwc\obj\Debug\net6.0\ccwc.AssemblyInfoInputs.cache
+C:\Users\SakhileMsibi\Sakhile\UpSkill\Coding-Challenges\WC-Tool\ccwc\obj\Debug\net6.0\ccwc.AssemblyInfo.cs
+C:\Users\SakhileMsibi\Sakhile\UpSkill\Coding-Challenges\WC-Tool\ccwc\obj\Debug\net6.0\ccwc.csproj.CoreCompileInputs.cache
+C:\Users\SakhileMsibi\Sakhile\UpSkill\Coding-Challenges\WC-Tool\ccwc\obj\Debug\net6.0\ccwc.dll
+C:\Users\SakhileMsibi\Sakhile\UpSkill\Coding-Challenges\WC-Tool\ccwc\obj\Debug\net6.0\refint\ccwc.dll
+C:\Users\SakhileMsibi\Sakhile\UpSkill\Coding-Challenges\WC-Tool\ccwc\obj\Debug\net6.0\ccwc.pdb
+C:\Users\SakhileMsibi\Sakhile\UpSkill\Coding-Challenges\WC-Tool\ccwc\obj\Debug\net6.0\ccwc.genruntimeconfig.cache
+C:\Users\SakhileMsibi\Sakhile\UpSkill\Coding-Challenges\WC-Tool\ccwc\obj\Debug\net6.0\ref\ccwc.dll
