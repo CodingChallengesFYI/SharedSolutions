@@ -68,3 +68,4 @@ The shared solutions:
 | 59 | [wc](https://github.com/Sakhile-Msibi/Coding-Challenges/tree/main/WC-Tool) | Go | [Sakhile Msibi](https://github.com/Sakhile-Msibi) |
 | 60 | [wctool](https://github.com/shenba1712/wctool) | Java | [Shenba](https://github.com/shenba1712) |
 | 61 | [wc](https://github.com/ankur26/codingchallenges-solutions/tree/main/ccwc) | Typescript | [Ankur Bhatkalkar](https://github.com/ankur26) |
+| 62 | [wc](https://github.com/lwcarani/py-wc) | Python | [Luke Carani](https://github.com/lwcarani) |
