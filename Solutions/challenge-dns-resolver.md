@@ -14,4 +14,5 @@ The shared solutions:
 | 6 | [DNS-Resolver](https://github.com/harshadbhere/DNS-Resolver) | Python | [harshadbhere](https://github.com/harshadbhere) |
 | 7 | [DNS-Resolver](https://github.com/umeshmg27/DNS-Resolver)  | GO | [umeshmg27](https://github.com/umeshmg27) |
 | 8 | [DNS-Resolver](https://github.com/narutosstudent/dns-resolver)  | TypeScript | [narutosstudent](https://github.com/narutosstudent) |
+| 9 | [dns-resolver](https://github.com/nishi010101/dns-resolver)  | Go | [nishi010101](https://github.com/nishi010101) |
 

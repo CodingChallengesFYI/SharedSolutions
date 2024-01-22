@@ -5,7 +5,7 @@ The Challenge: [Write your own wc Tool](https://codingchallenges.fyi/challenges/
 The shared solutions:
 
 | No. | Solution | Language | Author |
-|-----|----------|----------|--------|
+|----|----------|----------|--------|
 | 1 | [Write Your Own wc Tool](https://github.com/jainmohit2001/coding-challenges/tree/master/src/1) | TypeScript | [jainmohit2001](https://github.com/jainmohit2001/) |
 | 2 | [wc](https://github.com/Ghurtchu/wc) | Scala | [Ghurtchu](https://github.com/Ghurtchu/wc) |
 | 3 | [wc-tool](https://github.com/andrenbrandao/wc-tool) | Go | [andrenbrandao](https://github.com/andrenbrandao) |
@@ -66,4 +66,6 @@ The shared solutions:
 | 57 | [wc](https://github.com/akoskm/ccwc) | Go | [akoskm](https://github.com/akoskm) |
 | 58 | [ccwc](https://github.com/azie-ginanjar/ccwc) | Python | [Mukhammad Ginanjar Azie](https://github.com/azie-ginanjar) |
 | 59 | [wc](https://github.com/Sakhile-Msibi/Coding-Challenges/tree/main/WC-Tool) | Go | [Sakhile Msibi](https://github.com/Sakhile-Msibi) |
-| 60 | [wc](https://github.com/lwcarani/py-wc) | Python | [Luke Carani](https://github.com/lwcarani) |
+| 60 | [wctool](https://github.com/shenba1712/wctool) | Java | [Shenba](https://github.com/shenba1712) |
+| 61 | [wc](https://github.com/ankur26/codingchallenges-solutions/tree/main/ccwc) | Typescript | [Ankur Bhatkalkar](https://github.com/ankur26) |
+| 62 | [wc](https://github.com/lwcarani/py-wc) | Python | [Luke Carani](https://github.com/lwcarani) |
