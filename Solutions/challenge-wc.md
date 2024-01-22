@@ -66,3 +66,4 @@ The shared solutions:
 | 57 | [wc](https://github.com/akoskm/ccwc) | Go | [akoskm](https://github.com/akoskm) |
 | 58 | [ccwc](https://github.com/azie-ginanjar/ccwc) | Python | [Mukhammad Ginanjar Azie](https://github.com/azie-ginanjar) |
 | 59 | [wc](https://github.com/Sakhile-Msibi/Coding-Challenges/tree/main/WC-Tool) | Go | [Sakhile Msibi](https://github.com/Sakhile-Msibi) |
+| 60 | [wc](https://github.com/lwcarani/py-wc) | Python | [Luke Carani](https://github.com/lwcarani) |
