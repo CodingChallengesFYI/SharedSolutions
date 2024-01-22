@@ -15,3 +15,5 @@ The shared solutions:
 | 7 | [Write Your Own Compression Tool](https://github.com/sureshmangs/Build-Your-Own-X/tree/main/Huffman-Encoder-Decoder/C++) | C++ | [sureshmangs](https://github.com/sureshmangs) |
 | 8 | [Own Compression Tool](https://github.com/Perchinka/ownCompress) | Python | [Perchinka](https://github.com/Perchinka) |
 | 9 | [cchuffman](https://github.com/epps/cchuffman) | Go | [epps](https://github.com/epps) |
+| 10 | [huffman](https://github.com/alefeans/huffman) | Go | [alefeans](https://github.com/alefeans) |
+| 11 | [cccompress](https://github.com/neutrinoks/CodingChallenge/tree/main/cccompress) | Rust | [neutrinoks](https://github.com/neutrinoks) |

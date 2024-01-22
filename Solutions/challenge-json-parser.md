@@ -22,3 +22,5 @@ The shared solutions:
 | 14 | [ccjson](https://github.com/epps/ccjson) | Go | [epps](https://github.com/epps) |
 | 15 | [json-parser](https://gitlab.com/bzai-public/codingchallenge-json-parser) | Scala | [binghao](https://gitlab.com/bzai-public) |
 | 16 | [JSONParser](https://github.com/VibhinnS/JSONParser.git) | Python | [VibhinnS](https://github.com/VibhinnS) |
+| 17 | [json-parser](https://github.com/izebit/coding-challenges/tree/master/2-json-parser) | Haskell | [Artem Konovalov](https://github.com/izebit) |
+| 18 | [JSON Parser](https://github.com/eliasm307/coding-challenges/tree/main/packages/json-parser) | Typescript | [eliasm307](https://github.com/eliasm307) |

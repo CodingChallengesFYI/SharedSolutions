@@ -5,7 +5,7 @@ The Challenge: [Write your own wc Tool](https://codingchallenges.fyi/challenges/
 The shared solutions:
 
 | No. | Solution | Language | Author |
-|-----|----------|----------|--------|
+|----|----------|----------|--------|
 | 1 | [Write Your Own wc Tool](https://github.com/jainmohit2001/coding-challenges/tree/master/src/1) | TypeScript | [jainmohit2001](https://github.com/jainmohit2001/) |
 | 2 | [wc](https://github.com/Ghurtchu/wc) | Scala | [Ghurtchu](https://github.com/Ghurtchu/wc) |
 | 3 | [wc-tool](https://github.com/andrenbrandao/wc-tool) | Go | [andrenbrandao](https://github.com/andrenbrandao) |
@@ -51,3 +51,21 @@ The shared solutions:
 | 42 | [wctool](https://github.com/vigneshm243/CodingChallenges/tree/main/wctool) | Go | [Vignesh Muthukumaran](https://github.com/vigneshm243)
 | 43 | [ccwc](https://github.com/GolluAjay/codeChallenges/tree/main/write_your_own_wc_tool) | Bash | [GolluAjay](https://github.com/GolluAjay) |
 | 44 | [ccwc](https://github.com/bawejahritik/cli---word-count-tool) | Python | [bawejahritik](https://github.com/bawejahritik) |
+| 45 | [ccwc](https://github.com/elq81hc/coding-challenges/tree/master/wc_tool) | Go | [Quy le](https://github.com/elq81hc) |
+| 46 | [ccwc](https://github.com/gpetrioli/coding-challenges/tree/main/challenge-1-wc-command) | JavaScript | [gpetrioli](https://github.com/gpetrioli) |
+| 47 | [ccwc](https://github.com/The-Flash/ccwc) | Go | [The-Flash](https://github.com/The-Flash) |
+| 48 | [ccwc](https://github.com/abhie16/wc-cmnd-clone) | JavaScript | [Abhishek Pandey](https://github.com/abhie16) |
+| 49 | [wc_tool](https://github.com/WeebMogul/Coding-Challenges-solutions/tree/main/Challenge%201%20-%20wc%20tool) | Python | [weebmogul](https://github.com/WeebMogul) |
+| 50 | [geniewc](https://github.com/arp99/Geniewc) | Javascript | [Arpan Mondal](https://github.com/arp99) |
+| 51 | [wcTool](https://github.com/tlarnold10/coding-challenges/tree/main/wcTool) | Go | [Trevor Arnold](https://github.com/tlarnold10) |
+| 52 | [ccwc_tool](https://github.com/nlazyan/coding-challenges/tree/main/01_ccwc_tool) | JacaScript | [nlazyan](https://github.com/nlazyan) | 
+| 53 | [wc_cli](https://github.com/arjunsharma-dev1/wc_cli) | Rust | [Arjun Sharma](https://github.com/arjunsharma-dev1) |
+| 54 | [ccwc](https://github.com/SantiSite/ccwc) | Go | [SantiSite](https://github.com/SantiSite) |
+| 55 | [ccwc](https://github.com/farmeroy/coding-challenges-rust/tree/master/ccww)| Rust       | [Raffaele Cataldo](https://github.com/farmeroy) |
+| 56 | [wc](https://github.com/codeghoul/coding-challenges/tree/main/01_wc) | Go | [Jayesh Patel](https://github.com/codeghoul) |
+| 57 | [wc](https://github.com/akoskm/ccwc) | Go | [akoskm](https://github.com/akoskm) |
+| 58 | [ccwc](https://github.com/azie-ginanjar/ccwc) | Python | [Mukhammad Ginanjar Azie](https://github.com/azie-ginanjar) |
+| 59 | [wc](https://github.com/Sakhile-Msibi/Coding-Challenges/tree/main/WC-Tool) | Go | [Sakhile Msibi](https://github.com/Sakhile-Msibi) |
+| 60 | [wctool](https://github.com/shenba1712/wctool) | Java | [Shenba](https://github.com/shenba1712) |
+| 61 | [wc](https://github.com/ankur26/codingchallenges-solutions/tree/main/ccwc) | Typescript | [Ankur Bhatkalkar](https://github.com/ankur26) |
+| 62 | [wc](https://github.com/lwcarani/py-wc) | Python | [Luke Carani](https://github.com/lwcarani) |
