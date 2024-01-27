@@ -35,6 +35,7 @@ The shared solutions:
 | Solution | Author |
 |----------|--------|
 | [mywc](https://github.com/ebrahim-s-ebrahim/mywc) | [ebrahim-s-ebrahim](https://github.com/ebrahim-s-ebrahim) |
+| [wc](https://github.com/Sakhile-Msibi/Coding-Challenges/tree/main/WC-Tool) | [Sakhile Msibi](https://github.com/Sakhile-Msibi) |
 
 ## CPP
 | Solution | Author |
@@ -78,6 +79,7 @@ The shared solutions:
 | [cc1-unix_wc_tool](https://github.com/yildirimmurat/cc1-unix_wc_tool) | [yildirimmurat](https://github.com/yildirimmurat) |
 | [wc-tool](https://github.com/GauravGuptaDeveloper/Coding-Challenges/tree/wc-tool/wc-tool) | [GauravGuptaDeveloper](https://github.com/GauravGuptaDeveloper) |
 | [ccwc](https://github.com/jkjarvis/John_crickett_coding_challenges/tree/main/challenge_1_wc) | [jkjarvis](https://github.com/jkjarvis) |
+| [wctool](https://github.com/shenba1712/wctool) | [Shenba](https://github.com/shenba1712) |
 
 ## JavaScript
 | Solution | Author |
@@ -104,6 +106,7 @@ The shared solutions:
 | [WordCountPY](https://github.com/Kingcitaldo125/WordCountPY) | [Kingcitaldo125](https://github.com/Kingcitaldo125) |
 | [ccwc](https://github.com/bawejahritik/cli---word-count-tool) | [bawejahritik](https://github.com/bawejahritik) |
 | [wc_tool](https://github.com/WeebMogul/Coding-Challenges-solutions/tree/main/Challenge%201%20-%20wc%20tool) | [weebmogul](https://github.com/WeebMogul) |
+| [wc](https://github.com/lwcarani/py-wc) | [Luke Carani](https://github.com/lwcarani) |
 
 ## Ruby
 | Solution | Author |
@@ -128,3 +131,4 @@ The shared solutions:
 |----------|--------|
 | [Write Your Own wc Tool](https://github.com/jainmohit2001/coding-challenges/tree/master/src/1) | [jainmohit2001](https://github.com/jainmohit2001/) |
 | [my-ccwc-tool](https://github.com/ahmed22362/weekly-coding-challenges/tree/main/01_Build_your_own_wc) | [Ahmed-Makhlouf](https://github.com/ahmed22362) |
+| [wc](https://github.com/ankur26/codingchallenges-solutions/tree/main/ccwc) | [Ankur Bhatkalkar](https://github.com/ankur26) |

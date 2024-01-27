@@ -2,8 +2,74 @@
 
 The Challenge: [Write your own LinkedIn Carousel Generator](https://codingchallenges.fyi/challenges/challege-licg)
 
+## Table of contents
+* [Bash](#bash)
+* [C](#c)
+* [C Sharp](#c-sharp)
+* [CPP](#cpp)
+* [Go](#go)
+* [Haskell](#haskell)
+* [Java](#java)
+* [JavaScript](#javascript)
+* [Python](#python)
+* [Ruby](#ruby)
+* [Rust](#rust)
+* [Scala](#scala)
+* [TypeScript](#typescript)
+
 The shared solutions:
 
-| No. | Solution | Language | Author |
-|-----|----------|----------|--------|
-| 1 | [carousel-gen](https://github.com/jainmohit2001/carousel-gen) | TypeScript | [jainmohit2001](https://github.com/jainmohit2001) |
+## Bash
+| Solution | Author |
+|----------|--------|
+
+## C
+| Solution | Author |
+|----------|--------|
+
+
+## C Sharp
+| Solution | Author |
+|----------|--------|
+
+## CPP
+| Solution | Author |
+|----------|--------|
+
+## Go
+| Solution | Author |
+|----------|--------|
+
+## Haskell
+| Solution | Author |
+|----------|--------|
+
+## Java
+| Solution | Author |
+|----------|--------|
+
+## JavaScript
+| Solution | Author |
+|----------|--------|
+
+## Python
+| Solution | Author |
+|----------|--------|
+
+## Ruby
+| Solution | Author |
+|----------|--------|
+
+## Rust
+| Solution | Author |
+|----------|--------|
+
+
+## Scala
+| Solution | Author |
+|----------|--------|
+
+## TypeScript
+| Solution | Author |
+|----------|--------|
+| [carousel-gen](https://github.com/jainmohit2001/carousel-gen) | [jainmohit2001](https://github.com/jainmohit2001) |
