@@ -24,3 +24,4 @@ The shared solutions:
 | 16 | [JSONParser](https://github.com/VibhinnS/JSONParser.git) | Python | [VibhinnS](https://github.com/VibhinnS) |
 | 17 | [json-parser](https://github.com/izebit/coding-challenges/tree/master/2-json-parser) | Haskell | [Artem Konovalov](https://github.com/izebit) |
 | 18 | [JSON Parser](https://github.com/eliasm307/coding-challenges/tree/main/packages/json-parser) | Typescript | [eliasm307](https://github.com/eliasm307) |
+| 18 | [JSON Parser](https://github.com/Ramzi-Abidi/JSON-parser) | Javascript | [Ramzi Abidi](https://github.com/Ramzi-Abidi) |
