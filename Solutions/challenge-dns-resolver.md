@@ -72,10 +72,3 @@ The shared solutions:
 ## Scala
 | Solution | Author |
 |----------|--------|
-
-## TypeScript
-| Solution | Author |
-|----------|--------|
-| [DNS-Resolver](https://github.com/narutosstudent/dns-resolver)  | [narutosstudent](https://github.com/narutosstudent) |
-| [dns-resolver](https://github.com/amanjha8100/dns-resolver) | [amanjha8100](https://github.com/amanjha8100) |
-| [Write Your Own DNS Resolver](https://github.com/jainmohit2001/coding-challenges/tree/master/src/22) | [jainmohit2001](https://github.com/jainmohit2001) |
