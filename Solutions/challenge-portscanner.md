@@ -6,4 +6,4 @@ The shared solutions:
 
 | No. | Solution | Language | Author |
 |-----|----------|----------|--------|
-| 1   | [Write Your Own Port Scanner](https://github.com/ogzhanolguncu/rs_sync_scanner) | Rust | [ogzhanolguncu](https://github.com/ogzhanolguncu) |
+| 1   | [Write Your Own Port Scanner](https://github.com/ogzhanolguncu/rs_syn_scanner) | Rust | [ogzhanolguncu](https://github.com/ogzhanolguncu) |
