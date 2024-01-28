@@ -10,3 +10,4 @@ The shared solutions:
 | 2 | [Write Your Own HTTP(S) Load Tester](https://github.com/lokesh-katari/GoSurge/tree/main) | Go | [lokesh-katari](https://github.com/lokesh-katari) |
 | 3 | [Write Your Own HTTP(S) Load Tester](https://github.com/michellcampos/pythonccload) | Python | [michellcampos](https://github.com/michellcampos) |
 | 4 | [Write Your Own HTTP(S) Load Tester](https://github.com/rojasjo/HttpLoadTester) | C# | [rojasjo](https://github.com/rojasjo) |
+| 5 | [Write Your Own HTTP(S) Load Tester](https://github.com/ogzhanolguncu/rust-load-tester) | Rust | [ogzhanolguncu](https://github.com/ogzhanolguncu) |
