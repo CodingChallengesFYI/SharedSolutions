@@ -1,0 +1,22 @@
+{
+  "name": "wc-tool",
+  "version": "1.0.0",
+  "description": "https://codingchallenges.fyi/challenges/intro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx tsc index.ts"
+  },
+  "bin": {
+    "wc-tool": "index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.7"
+  }
+}

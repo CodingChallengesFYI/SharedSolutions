@@ -1,0 +1,30 @@
+{
+    "compilerOptions": {
+        "target": "ESNext", /* Target ECMAScript version (ES2022 or later for ES modules) */
+        "module": "CommonJS", /* Enable ES module output */
+        "moduleResolution": "classic", /* Node.js-style module resolution */
+        "lib": [
+            "ESNext",
+            "DOM"
+        ], /* Include DOM libraries for browser compatibility */
+        "allowSyntheticDefaultImports": true, /* Allow default imports from modules with no default export */
+        "esModuleInterop": true, /* Better interoperability between CommonJS and ES modules */
+        "strict": true, /* Enable stricter type checking */
+        "noImplicitAny": true, /* Disallow implicit 'any' types */
+        "skipLibCheck": true, /* Skip type checking of declaration files (optional, for faster compilation) */
+        "outDir": "./dist", /* Output directory for compiled JavaScript files */
+        "rootDir": "./src", /* Root directory for source files */
+        "baseUrl": "./", /* Base URL for imports (optional, for relative path resolution) */
+        "paths": { /* Path aliases (optional, for custom module locations) */
+            "@/*": [
+                "./*"
+            ]
+        }
+    },
+    "include": [
+        "*.ts"
+    ], /* Include TypeScript files from the src directory */
+    "exclude": [
+        "node_modules"
+    ] /* Exclude node_modules directory */
+}
