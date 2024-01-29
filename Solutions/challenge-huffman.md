@@ -17,3 +17,4 @@ The shared solutions:
 | 9 | [cchuffman](https://github.com/epps/cchuffman) | Go | [epps](https://github.com/epps) |
 | 10 | [huffman](https://github.com/alefeans/huffman) | Go | [alefeans](https://github.com/alefeans) |
 | 11 | [cccompress](https://github.com/neutrinoks/CodingChallenge/tree/main/cccompress) | Rust | [neutrinoks](https://github.com/neutrinoks) |
+| 12 | [huffman-compression](https://github.com/Tevinthuku/coding_challenges_fyi/tree/main/huffman-compression) | Rust | [Tevin Thuku](https://github.com/Tevinthuku) |

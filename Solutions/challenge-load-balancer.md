@@ -19,3 +19,4 @@ The shared solutions:
 | 11 | [Load Balancer](https://github.com/Abdulrahman-Tayara/go-lb) | Go | [Abdulrahman-Tayara](https://github.com/Abdulrahman-Tayara) |
 | 12 | [Load Balancer](https://github.com/gertanoh/loadbalancer) | Go | [gertanoh](https://github.com/gertanoh) |
 | 13 | [lb](https://github.com/alefeans/lb) | Go | [alefeans](https://github.com/alefeans) |
+| 14 | [load-balancer](https://github.com/Tevinthuku/coding_challenges_fyi/tree/main/load-balancer) | Rust | [Tevin Thuku](https://github.com/Tevinthuku) |
