@@ -25,3 +25,4 @@ The shared solutions:
 | 17 | [json-parser](https://github.com/izebit/coding-challenges/tree/master/2-json-parser) | Haskell | [Artem Konovalov](https://github.com/izebit) |
 | 18 | [JSON Parser](https://github.com/eliasm307/coding-challenges/tree/main/packages/json-parser) | Typescript | [eliasm307](https://github.com/eliasm307) |
 | 18 | [JSON Parser](https://github.com/Ramzi-Abidi/JSON-parser) | Javascript | [Ramzi Abidi](https://github.com/Ramzi-Abidi) |
+| 19 | [json-parser](https://github.com/Tevinthuku/coding_challenges_fyi/tree/main/json-parser) | Rust | [Tevin Thuku](https://github.com/Tevinthuku) |
