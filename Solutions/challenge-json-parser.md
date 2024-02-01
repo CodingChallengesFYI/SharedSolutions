@@ -27,3 +27,4 @@ The shared solutions:
 | 18 | [JSON Parser](https://github.com/Ramzi-Abidi/JSON-parser) | Javascript | [Ramzi Abidi](https://github.com/Ramzi-Abidi) |
 | 19 | [json-parser](https://github.com/Tevinthuku/coding_challenges_fyi/tree/main/json-parser) | Rust | [Tevin Thuku](https://github.com/Tevinthuku) |
 | 20 | [rjsonp](https://github.com/shellmonk/rjsonp) | Raku | [ShellMonk](https://shellmonk.io/posts/monk-coding-challenge-2-json-parser-in-raku/) |
+| 21 | [json-parser](https://github.com/sanjanarjn/json-parser) | Java | [Sanjana Rajan](https://github.com/sanjanarjn)   |
