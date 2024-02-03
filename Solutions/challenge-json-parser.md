@@ -29,3 +29,4 @@ The shared solutions:
 | 20 | [rjsonp](https://github.com/shellmonk/rjsonp) | Raku | [ShellMonk](https://shellmonk.io/posts/monk-coding-challenge-2-json-parser-in-raku/) |
 | 21 | [json-parser](https://github.com/sanjanarjn/json-parser) | Java | [Sanjana Rajan](https://github.com/sanjanarjn)   |
 | 22 | [json-parser](https://github.com/lwcarani/json-parser) | Python | [Luke Carani](https://github.com/lwcarani)   |
+| 23 | [json-parser](https://github.com/pasDamola/json-parser)  | Go | [oyindamola](https://github.com/pasDamola) |
