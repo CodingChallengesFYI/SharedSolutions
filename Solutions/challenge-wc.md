@@ -71,3 +71,4 @@ The shared solutions:
 | 62 | [wc](https://github.com/lwcarani/py-wc) | Python | [Luke Carani](https://github.com/lwcarani) |
 | 63 | [ccwc](https://github.com/Tevinthuku/coding_challenges_fyi/tree/main/ccwc) | Rust | [Tevin Thuku](https://github.com/Tevinthuku) |
 | 64 | [ccwc](https://github.com/msamoylov/ccwc-go) | Go | [Michael Samoylov](https://github.com/msamoylov) |
+| 64 | [wc-tool](https://github.com/Tiramisu-Cake/Coding-Challenges/tree/main/ccwc) | Java | [Tiramisu-Cake](https://github.com/Tiramisu-Cake) |
