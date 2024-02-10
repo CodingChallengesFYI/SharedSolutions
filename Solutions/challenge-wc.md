@@ -71,3 +71,5 @@ The shared solutions:
 | 62 | [wc](https://github.com/lwcarani/py-wc) | Python | [Luke Carani](https://github.com/lwcarani) |
 | 63 | [ccwc](https://github.com/Tevinthuku/coding_challenges_fyi/tree/main/ccwc) | Rust | [Tevin Thuku](https://github.com/Tevinthuku) |
 | 64 | [ccwc](https://github.com/msamoylov/ccwc-go) | Go | [Michael Samoylov](https://github.com/msamoylov) |
+| 65 | [wc-perl](https://github.com/kellewic/coding-challenges/blob/main/001-wc/wc.pl) | Perl | [Shay Harding](https://github.com/kellewic) |
+| 66 | [wc-lua](https://github.com/kellewic/coding-challenges/blob/main/001-wc/wc.lua) | Lua | [Shay Harding](https://github.com/kellewic) |
