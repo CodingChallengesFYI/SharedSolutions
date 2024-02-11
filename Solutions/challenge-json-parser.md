@@ -25,3 +25,8 @@ The shared solutions:
 | 17 | [json-parser](https://github.com/izebit/coding-challenges/tree/master/2-json-parser) | Haskell | [Artem Konovalov](https://github.com/izebit) |
 | 18 | [JSON Parser](https://github.com/eliasm307/coding-challenges/tree/main/packages/json-parser) | Typescript | [eliasm307](https://github.com/eliasm307) |
 | 18 | [JSON Parser](https://github.com/Ramzi-Abidi/JSON-parser) | Javascript | [Ramzi Abidi](https://github.com/Ramzi-Abidi) |
+| 19 | [json-parser](https://github.com/Tevinthuku/coding_challenges_fyi/tree/main/json-parser) | Rust | [Tevin Thuku](https://github.com/Tevinthuku) |
+| 20 | [rjsonp](https://github.com/shellmonk/rjsonp) | Raku | [ShellMonk](https://shellmonk.io/posts/monk-coding-challenge-2-json-parser-in-raku/) |
+| 21 | [json-parser](https://github.com/sanjanarjn/json-parser) | Java | [Sanjana Rajan](https://github.com/sanjanarjn)   |
+| 22 | [json-parser](https://github.com/lwcarani/json-parser) | Python | [Luke Carani](https://github.com/lwcarani)   |
+| 23 | [json-parser](https://github.com/pasDamola/json-parser)  | Go | [oyindamola](https://github.com/pasDamola) |
