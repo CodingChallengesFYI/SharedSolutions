@@ -4,6 +4,8 @@ The Challenge: [Write your own Tetris](https://codingchallenges.fyi/challenges/c
 
 The shared solutions:
 
-| No. | Solution | Language | Author |
-|-----|----------|----------|--------|
-| 1 | [Write Your Own Tetris](https://github.com/KPaccarizi/_Tetris_Game) | Python | [Kujtesa Pacarizi](https://github.com/KPaccarizi)|
+| No. | Solution                                                            | Language | Author                                            |
+|-----|---------------------------------------------------------------------|----------|---------------------------------------------------|
+| 1   | [Write Your Own Tetris](https://github.com/KPaccarizi/_Tetris_Game) | Python   | [Kujtesa Pacarizi](https://github.com/KPaccarizi) |
+| 2   | [Tetris](https://github.com/jengori/tetris)                         | Python   | [Jen Gori](https://github.com/jengori)            |
+
