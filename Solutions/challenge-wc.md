@@ -73,4 +73,5 @@ The shared solutions:
 | 64 | [ccwc](https://github.com/msamoylov/ccwc-go) | Go | [Michael Samoylov](https://github.com/msamoylov) |
 | 65 | [wc_tool](https://github.com/p1kalys/Coding_Challenges_by_John_Crickett/tree/main/wc_tool) | JavaScript | [Pavan Emani](https://github.com/p1kalys) |
 | 66 | [wc-tool](https://github.com/Tiramisu-Cake/Coding-Challenges/tree/main/ccwc) | Java | [Tiramisu-Cake](https://github.com/Tiramisu-Cake) |
-
+| 67 | [wc-perl](https://github.com/kellewic/coding-challenges/blob/main/001-wc/wc.pl) | Perl | [Shay Harding](https://github.com/kellewic) |
+| 68 | [wc-lua](https://github.com/kellewic/coding-challenges/blob/main/001-wc/wc.lua) | Lua | [Shay Harding](https://github.com/kellewic) |
