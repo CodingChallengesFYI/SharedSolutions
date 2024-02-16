@@ -77,3 +77,4 @@ The shared solutions:
 | 68 | [wc-lua](https://github.com/kellewic/coding-challenges/blob/main/001-wc/wc.lua) | Lua | [Shay Harding](https://github.com/kellewic) |
 | 69 | [wc_tool](https://github.com/anishjain94/wc_tool) | Go | [anishjain94](https://github.com/anishjain94) |
 | 70 | [my-own-wc](https://github.com/mariollesta/my-own-wc) | Python | [mariollesta](https://github.com/mariollesta) |
+| 71 | [wc-tool](https://github.com/henrmota/gocodechallenges/tree/main/wc) | Go | [henrmota](https://github.com/henrmota) |
