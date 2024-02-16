@@ -76,3 +76,4 @@ The shared solutions:
 | 67 | [wc-perl](https://github.com/kellewic/coding-challenges/blob/main/001-wc/wc.pl) | Perl | [Shay Harding](https://github.com/kellewic) |
 | 68 | [wc-lua](https://github.com/kellewic/coding-challenges/blob/main/001-wc/wc.lua) | Lua | [Shay Harding](https://github.com/kellewic) |
 | 69 | [wc_tool](https://github.com/anishjain94/wc_tool) | Go | [anishjain94](https://github.com/anishjain94) |
+| 70 | [ccwc](https://github.com/tonybnya/ccwc) | Python | [tonybnya](https://github.com/tonybnya) |
