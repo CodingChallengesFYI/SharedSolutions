@@ -1,6 +1,6 @@
-# Build your own Git Client
+# Build your own Chrome Extension
 
-The Challenge: [Write your own Git Client](https://codingchallenges.fyi/challenges/challenge-chrome-extension/)
+The Challenge: [Write your own Chrome Extension](https://codingchallenges.fyi/challenges/challenge-chrome-extension/)
 
 The shared solutions:
 
