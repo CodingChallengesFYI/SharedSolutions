@@ -78,3 +78,4 @@ The shared solutions:
 | 69 | [wc_tool](https://github.com/anishjain94/wc_tool) | Go | [anishjain94](https://github.com/anishjain94) |
 | 70 | [my-own-wc](https://github.com/mariollesta/my-own-wc) | Python | [mariollesta](https://github.com/mariollesta) |
 | 71 | [gowc](https://github.com/Abdulrahman-Tayara/gowc) | Go | [Abdulrahman-Tayara](https://github.com/Abdulrahman-Tayara) |
+| 72 | [wc-tool](https://github.com/henrmota/gocodechallenges/tree/main/wc) | Go | [henrmota](https://github.com/henrmota) |
