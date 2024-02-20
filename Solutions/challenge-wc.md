@@ -80,3 +80,4 @@ The shared solutions:
 | 71 | [gowc](https://github.com/Abdulrahman-Tayara/gowc) | Go | [Abdulrahman-Tayara](https://github.com/Abdulrahman-Tayara) |
 | 72 | [wc-tool](https://github.com/henrmota/gocodechallenges/tree/main/wc) | Go | [henrmota](https://github.com/henrmota) |
 | 73 | [ccwc](https://github.com/tonybnya/ccwc) | Python | [tonybnya](https://github.com/tonybnya) |
+| 73 | [wc.rs](https://github.com/itsnamangoyal/wc.rs) | Rust | [itsnamangoyal](https://github.com/itsnamangoyal) |
