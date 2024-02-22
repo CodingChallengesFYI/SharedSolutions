@@ -83,4 +83,5 @@ The shared solutions:
 | 74 | [cc-wc](https://github.com/ductnn/cc-wc) | Go | [ductnn](https://github.com/ductnn) |
 | 75 | [wc.rs](https://github.com/itsnamangoyal/wc.rs) | Rust | [itsnamangoyal](https://github.com/itsnamangoyal) |
 | 76 | [ccwc](https://github.com/dkrest1/coding-challenges-golang/tree/main/wc-tool) | Go | [Oluwatosin Akande](https://github.com/dkrest1) |
+| 77 | [ccwc](https://github.com/jarekr/ccwc) | Rust | [Jarek Rudzinski](https://github.com/jarekr) |
 

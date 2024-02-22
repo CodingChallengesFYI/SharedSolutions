@@ -21,3 +21,4 @@ The shared solutions:
 | 13 | [urlshortener](https://github.com/tanmesh/urlshortener) | Java/React | [tanmesh](https://github.com/tanmesh) | 
 | 14 | [urlshortener](https://github.com/simasgrilo/urlshortener) | JavaScript/OpenUI5 | [simasgrilo](https://github.com/simasgrilo) |
 | 15 | [url-shortener](https://github.com/Mloprio/url-shortener) | Java | [Mloprio](https://github.com/Mloprio) |
+| 16 | [ccurlshortener](https://github.com/jarekr/ccurlshortener) | Rust | [Jarek Rudzinski](https://github.com/jarekr) |
