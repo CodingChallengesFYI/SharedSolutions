@@ -19,3 +19,4 @@ The shared solutions:
 | 11 | [RedisLiteServer](https://github.com/YamanNasser/RedisLiteServer) | C# | [YamanNasser](https://github.com/YamanNasser) |
 | 12 | [redis-server-py](https://github.com/alexkhilko/redis-server-py) | Python | [alexkhilko](https://github.com/alexkhilko) |
 | 13 | [redis-server-lite](https://github.com/nishi010101/redis-server-lite) | Go | [nishi010101](https://github.com/nishi010101) |
+| 14 | [Build Your Own Redis Server](https://github.com/buckfullingham/cc.fyi.redis-server) | C++ | [buckfullingham](https://github.com/buckfullingham) |
