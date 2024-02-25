@@ -20,3 +20,4 @@ The shared solutions:
 | 12 | [redis-server-py](https://github.com/alexkhilko/redis-server-py) | Python | [alexkhilko](https://github.com/alexkhilko) |
 | 13 | [redis-server-lite](https://github.com/nishi010101/redis-server-lite) | Go | [nishi010101](https://github.com/nishi010101) |
 | 14 | [redis-server](https://github.com/Tevinthuku/coding_challenges_fyi/tree/main/redis-server) | Rust | [Tevinthuku](https://github.com/Tevinthuku) |
+| 15 | [Build Your Own Redis Server](https://github.com/buckfullingham/cc.fyi.redis-server) | C++ | [buckfullingham](https://github.com/buckfullingham) |
