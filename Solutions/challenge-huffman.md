@@ -19,3 +19,4 @@ The shared solutions:
 | 11 | [cccompress](https://github.com/neutrinoks/CodingChallenge/tree/main/cccompress) | Rust | [neutrinoks](https://github.com/neutrinoks) |
 | 12 | [huffman-compression](https://github.com/Tevinthuku/coding_challenges_fyi/tree/main/huffman-compression) | Rust | [Tevin Thuku](https://github.com/Tevinthuku) |
 | 13 | [huffman-enc-dec](https://github.com/leopardorossi/huffman-enc-dec) | Kotlin | [Leonardo Rossi](https://github.com/leopardorossi) |
+| 14 | [jsq](https://github.com/jarekr/jsq) | Java | [Jarek Rudzinski](https://github.com/jarekr) |
