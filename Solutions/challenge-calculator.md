@@ -10,3 +10,4 @@ The shared solutions:
 | 2 | [rust-stack-calculator](https://github.com/ogzhanolguncu/rust-stack-calculator) | Rust | [ogzhanolguncu](https://github.com/ogzhanolguncu) |
 | 3 | [Calcu-Llama](https://github.com/jengori/Calcu-Llama) | Python | [jengori](https://github.com/jengori) |
 | 4 | [Write Your Own Calculator](https://github.com/dotslashbit/coding-challenges/tree/main/write_your_own_calculator) | Python | [dotslashbit](https://github.com/dotslashbit) |
+| 5 | [Write Your Own Calculator](https://github.com/KPaccarizi/Math-Calculator) | JavaScript | [Kujtesa Pacarizi](https://github.com/KPaccarizi) |
