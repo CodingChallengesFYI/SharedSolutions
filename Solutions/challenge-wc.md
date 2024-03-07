@@ -85,3 +85,4 @@ The shared solutions:
 | 76 | [ccwc](https://github.com/dkrest1/coding-challenges-golang/tree/main/wc-tool) | Go | [Oluwatosin Akande](https://github.com/dkrest1) |
 | 77 | [ccwc](https://github.com/jarekr/ccwc) | Rust | [Jarek Rudzinski](https://github.com/jarekr) |
 | 78 | [ccwc](https://github.com/marek-jakub/ccwc) | Python | [Marek Jakub](https://github.com/marek-jakub) |
+| 79 | [Build your own wc](https://github.com/facinetm14/CodingChallenges-wc) | Typescript | [Facinet Kouyate](https://github.com/facinetm14) |
