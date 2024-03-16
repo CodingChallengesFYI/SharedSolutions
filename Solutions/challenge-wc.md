@@ -86,4 +86,5 @@ The shared solutions:
 | 77 | [ccwc](https://github.com/jarekr/ccwc) | Rust | [Jarek Rudzinski](https://github.com/jarekr) |
 | 78 | [ccwc](https://github.com/marek-jakub/ccwc) | Python | [Marek Jakub](https://github.com/marek-jakub) |
 | 79 | [Build your own wc](https://github.com/facinetm14/CodingChallenges-wc) | Typescript | [Facinet Kouyate](https://github.com/facinetm14) |
-| 80 | [ccwc](https://github.com/pedromig/ccwc) | Rust | [Pedro Rodrigues](https://github.com/pedromig) |
+| 80 | [WordCounter](https://github.com/rohita/CodingChallenges/blob/main/Sources/CodingChallenges/01-WordCounter.swift) | Swift | [rohita](https://github.com/rohita) |
+| 81 | [ccwc](https://github.com/pedromig/ccwc) | Rust | [Pedro Rodrigues](https://github.com/pedromig) |

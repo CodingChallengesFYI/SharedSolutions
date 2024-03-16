@@ -16,3 +16,4 @@ The shared solutions:
 | 8 | [rate-limiter](https://github.com/Changolaxtra/rate-limiter) | Java | [Changolaxtra](https://github.com/Changolaxtra) |
 | 9 | [go-rate-limiter](https://github.com/carantes/go-rate-limiter) | Go | [carantes](https://github.com/carantes) |
 | 10 | [Java|Spring Boot Rate-limiter](https://github.com/GauravGuptaDeveloper/Coding-Challenges/tree/rate-limiter) | Java | [Gaurav Gupta](https://github.com/GauravGuptaDeveloper) |
+| 11 | [RateLimiter](https://github.com/rohita/CodingChallenges/blob/main/Sources/CodingChallenges/27-RateLimiter.swift) | Swift | [rohita](https://github.com/rohita) |
