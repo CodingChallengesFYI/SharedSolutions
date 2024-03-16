@@ -11,3 +11,4 @@ The shared solutions:
 | 3 | [Write Your Own cat Tool](https://github.com/dethancosta/rat) | Rust | [dethancosta](https://github.com/dethancosta) | 
 | 4 | [Write Your Own cat Tool](https://github.com/JayUnitTest/CodingChallenges/tree/main/cat-tool) | Python | [JayUnitTest](https://github.com/JayUnitTest) |
 | 5 | [Write Your Own cat Tool](https://github.com/alizainaslam/Cat-tool) | JavaScript | [alizainaslam](https://github.com/alizainaslam) |
+| 6 | [Write Your Own cat Tool](https://github.com/AhmedMohamedAbdelaty/coding-challenges/tree/main/01.%20cat) | Java | [AhmedMohamedAbdelaty](https://github.com/AhmedMohamedAbdelaty) |

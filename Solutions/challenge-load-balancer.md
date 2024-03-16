@@ -20,4 +20,6 @@ The shared solutions:
 | 12 | [Load Balancer](https://github.com/gertanoh/loadbalancer) | Go | [gertanoh](https://github.com/gertanoh) |
 | 13 | [lb](https://github.com/alefeans/lb) | Go | [alefeans](https://github.com/alefeans) |
 | 14 | [load-balancer](https://github.com/Tevinthuku/coding_challenges_fyi/tree/main/load-balancer) | Rust | [Tevin Thuku](https://github.com/Tevinthuku) |
-| 15 | [load-balancer](https://github.com/mariollesta/my-own-loadbalancer) | Python | [mariollesta](https://github.com/mariollesta) |
+| 15 | [selkies-load-balancer](https://github.com/tamectosphere/selkies-load-balancer) | Go | [Tamectosphere](https://github.com/tamectosphere) |
+| 16| [GoScale](https://github.com/lokesh-katari/GoScale)  | Go | [lokesh katari](https://github.com/lokesh-katari) |
+| 17 | [load-balancer](https://github.com/mariollesta/my-own-loadbalancer) | Python | [mariollesta](https://github.com/mariollesta) |

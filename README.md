@@ -55,5 +55,7 @@ Essentially:
 - [Build your own Pong](Solutions/challenge-pong.md)
 - [Build your own curl](Solutions/challenge-curl.md)
 - [Build your own HTTP(S) Load Tester](Solutions/challenge-load-tester.md)
+- [Build Your Own Data Privacy Vault](Solutions/challenge-data-privacy-vault.md)
+- [Build Your Own Password Cracker](Solutions/challenge-password-cracker.md)
 
 <p align="right">(<a href="#top">🔼 Back to top</a>)</p>

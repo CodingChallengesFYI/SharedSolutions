@@ -76,3 +76,13 @@ The shared solutions:
 | 67 | [wc-perl](https://github.com/kellewic/coding-challenges/blob/main/001-wc/wc.pl) | Perl | [Shay Harding](https://github.com/kellewic) |
 | 68 | [wc-lua](https://github.com/kellewic/coding-challenges/blob/main/001-wc/wc.lua) | Lua | [Shay Harding](https://github.com/kellewic) |
 | 69 | [wc_tool](https://github.com/anishjain94/wc_tool) | Go | [anishjain94](https://github.com/anishjain94) |
+| 70 | [my-own-wc](https://github.com/mariollesta/my-own-wc) | Python | [mariollesta](https://github.com/mariollesta) |
+| 71 | [gowc](https://github.com/Abdulrahman-Tayara/gowc) | Go | [Abdulrahman-Tayara](https://github.com/Abdulrahman-Tayara) |
+| 72 | [wc-tool](https://github.com/henrmota/gocodechallenges/tree/main/wc) | Go | [henrmota](https://github.com/henrmota) |
+| 73 | [ccwc](https://github.com/tonybnya/ccwc) | Python | [tonybnya](https://github.com/tonybnya) |
+| 74 | [cc-wc](https://github.com/ductnn/cc-wc) | Go | [ductnn](https://github.com/ductnn) |
+| 75 | [wc.rs](https://github.com/itsnamangoyal/wc.rs) | Rust | [itsnamangoyal](https://github.com/itsnamangoyal) |
+| 76 | [ccwc](https://github.com/dkrest1/coding-challenges-golang/tree/main/wc-tool) | Go | [Oluwatosin Akande](https://github.com/dkrest1) |
+| 77 | [ccwc](https://github.com/jarekr/ccwc) | Rust | [Jarek Rudzinski](https://github.com/jarekr) |
+| 78 | [ccwc](https://github.com/marek-jakub/ccwc) | Python | [Marek Jakub](https://github.com/marek-jakub) |
+| 79 | [Build your own wc](https://github.com/facinetm14/CodingChallenges-wc) | Typescript | [Facinet Kouyate](https://github.com/facinetm14) |
