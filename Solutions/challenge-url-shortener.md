@@ -24,3 +24,4 @@ The shared solutions:
 | 16 | [ccurlshortener](https://github.com/jarekr/ccurlshortener) | Rust | [Jarek Rudzinski](https://github.com/jarekr) |
 | 17 | [url-shortener](https://github.com/Alikrema/url-shortner) | Nestjs: TypeScript | [Alikrema](https://github.com/Alikrema/url-shortner)
 | 18 | [URLShortener](https://github.com/anoop-patil/URLShortner) | Python | [anoop-patil](https://github.com/anoop-patil) |
+| 19 | [url-shortener-rust](https://github.com/Yukigeshiki/url-shortener-rust) | Rust | [Yukigeshiki](https://github.com/Yukigeshiki) |
