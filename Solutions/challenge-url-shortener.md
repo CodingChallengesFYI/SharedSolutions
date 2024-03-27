@@ -22,6 +22,8 @@ The shared solutions:
 | 14 | [urlshortener](https://github.com/simasgrilo/urlshortener) | JavaScript/OpenUI5 | [simasgrilo](https://github.com/simasgrilo) |
 | 15 | [url-shortener](https://github.com/Mloprio/url-shortener) | Java | [Mloprio](https://github.com/Mloprio) |
 | 16 | [ccurlshortener](https://github.com/jarekr/ccurlshortener) | Rust | [Jarek Rudzinski](https://github.com/jarekr) |
-| 17 | [url-shortener](https://github.com/Alikrema/url-shortner) | Nestjs: TypeScript | [Alikrema](https://github.com/Alikrema/url-shortner) |
-| 18 | [SnipURL](https://github.com/KumarVariable/go-for-url-shortner) | Go | [Kunal Kumar](https://github.com/KumarVariable/) |
-| 19 | [URLShortener](https://github.com/anoop-patil/URLShortner) | Python | [anoop-patil](https://github.com/anoop-patil) |
+| 17 | [url-shortener](https://github.com/Alikrema/url-shortner) | Nestjs: TypeScript | [Alikrema](https://github.com/Alikrema/url-shortner)
+| 18 | [URLShortener](https://github.com/anoop-patil/URLShortner) | Python | [anoop-patil](https://github.com/anoop-patil) |
+| 19 | [url-shortener](https://github.com/eshward95/url-shortener) | Javascript/React | [eshward95](https://github.com/eshward95) |
+| 20 | [SnipURL](https://github.com/KumarVariable/go-for-url-shortner) | Go | [Kunal Kumar](https://github.com/KumarVariable/) |
+
