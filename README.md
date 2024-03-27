@@ -57,5 +57,6 @@ Essentially:
 - [Build your own HTTP(S) Load Tester](Solutions/challenge-load-tester.md)
 - [Build Your Own Data Privacy Vault](Solutions/challenge-data-privacy-vault.md)
 - [Build Your Own Password Cracker](Solutions/challenge-password-cracker.md)
+- [Build Your own Spell Checker using Bloom Filter](Solutions/challenge-bloom-filter-spell-checker.md)
 
 <p align="right">(<a href="#top">🔼 Back to top</a>)</p>
