@@ -20,3 +20,4 @@ The shared solutions:
 | 12 | [huffman-compression](https://github.com/Tevinthuku/coding_challenges_fyi/tree/main/huffman-compression) | Rust | [Tevin Thuku](https://github.com/Tevinthuku) |
 | 13 | [huffman-enc-dec](https://github.com/leopardorossi/huffman-enc-dec) | Kotlin | [Leonardo Rossi](https://github.com/leopardorossi) |
 | 14 | [jsq](https://github.com/jarekr/jsq) | Java | [Jarek Rudzinski](https://github.com/jarekr) |
+| 15 | [HuffmanCompression](https://github.com/rohita/CodingChallenges/blob/main/Sources/CodingChallenges/03-HuffmanCompression.swift) | Swift | [rohita](https://github.com/rohita) |

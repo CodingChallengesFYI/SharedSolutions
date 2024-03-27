@@ -11,3 +11,4 @@ The shared solutions:
 | 3 | [Write Your Own HTTP(S) Load Tester](https://github.com/michellcampos/pythonccload) | Python | [michellcampos](https://github.com/michellcampos) |
 | 4 | [Write Your Own HTTP(S) Load Tester](https://github.com/rojasjo/HttpLoadTester) | C# | [rojasjo](https://github.com/rojasjo) |
 | 5 | [Write Your Own HTTP(S) Load Tester](https://github.com/ogzhanolguncu/rust-load-tester) | Rust | [ogzhanolguncu](https://github.com/ogzhanolguncu) |
+| 6 | [Write Your Own HTTP(S) Load Tester](https://github.com/alksndrstjc/http-load-tester) | Java       | [alksndrstjc](https://github.com/alksndrstjc)     |
