@@ -31,3 +31,4 @@ The shared solutions:
 | 22 | [json-parser](https://github.com/lwcarani/json-parser) | Python | [Luke Carani](https://github.com/lwcarani)   |
 | 23 | [json-parser](https://github.com/pasDamola/json-parser)  | Go | [oyindamola](https://github.com/pasDamola) |
 | 24 | [json-parser](https://github.com/p1kalys/Coding_Challenges_by_John_Crickett/tree/main/json_parser)  | JavaScript | [Pavan Emani](https://github.com/p1kalys/) |
+| 25 | [json_parser_clone](https://github.com/arjunsharma-dev1/json_parser_clone)  | Rust | [Arjun Sharma](https://github.com/arjunsharma-dev1) |

@@ -7,3 +7,5 @@ The shared solutions:
 | No. | Solution                                                                        | Language | Author                                           |
 |-----|---------------------------------------------------------------------------------|----------|--------------------------------------------------|
 | 1 | [ccspellchecker-rust](https://github.com/KennyRich/ccspellchecker-rust) | Rust     | [kennyrich](https://github.com/KennyRich) |
+| 2   | [bloom-filter-sc](https://github.com/i-m-afk/bloom-filter-sc)| Go   | [Rishav Kumar](https://github.com/i-m-afk/)     |
+| 3 | [bloom-filter-spelling-checker](https://github.com/timi-codes/bloom-filter-spelling-checker) | Python     | [timi-codes](https://github.com/timi-codes) |

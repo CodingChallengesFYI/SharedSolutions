@@ -8,4 +8,5 @@ The shared solutions:
 |-----|---------------------------------------------------------------------|----------|---------------------------------------------------|
 | 1   | [Write Your Own Tetris](https://github.com/KPaccarizi/_Tetris_Game) | Python   | [Kujtesa Pacarizi](https://github.com/KPaccarizi) |
 | 2   | [Tetris](https://github.com/jengori/tetris)                         | Python   | [Jen Gori](https://github.com/jengori)            |
+| 3   | [Tetris](https://github.com/lolo8304/tetris-coding-challenge)                         | p5js   | [Lorenz aka Lolo Hänggi](https://github.com/lolo8304)            |
 
