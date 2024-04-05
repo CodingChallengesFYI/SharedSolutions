@@ -91,4 +91,4 @@ The shared solutions:
 | 82 | [ccwc](https://github.com/sahilraj1915374/coding_challenges/tree/main/ccwc) | C++ | [Sahil Raj](https://github.com/sahilraj1915374) |
 | 83 | [ccwc](https://github.com/AdityaCH1997/ccwc) | Bash | [Aditya Chakraborty](https://github.com/AdityaCH1997) |
 | 84 | [ccwc](https://github.com/ahmedsameha1/ccwc) | Go | [Ahmed Sameh](https://github.com/ahmedsameha1) |
-
+| 85 | [ccwc](https://gitlab.com/bzai-public/codingchallenge-word-count) | Scala | [binghao](https://gitlab.com/bzai-public) |
