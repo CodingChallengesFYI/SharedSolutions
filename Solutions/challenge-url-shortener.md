@@ -26,4 +26,4 @@ The shared solutions:
 | 18 | [URLShortener](https://github.com/anoop-patil/URLShortner) | Python | [anoop-patil](https://github.com/anoop-patil) |
 | 19 | [url-shortener](https://github.com/eshward95/url-shortener) | Javascript/React | [eshward95](https://github.com/eshward95) |
 | 20 | [SnipURL](https://github.com/KumarVariable/go-for-url-shortner) | Go | [Kunal Kumar](https://github.com/KumarVariable/) |
-
+| 21 | [url-shortener-rust](https://github.com/Yukigeshiki/url-shortener-rust) | Rust | [Yukigeshiki](https://github.com/Yukigeshiki) |
