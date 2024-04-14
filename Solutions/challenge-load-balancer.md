@@ -15,3 +15,12 @@ The shared solutions:
 | 7 | [Load Balancer](https://github.com/dhruvSHA256/load-balancer) | Python | [DhruvSHA256](https://github.com/dhruvSHA256) |
 | 8 | [Load Balancer](https://github.com/Rahul-1991/balanceroo) | Golang | [Rahul-1991](https://github.com/Rahul-1991) |
 | 9 | [cc-load-balancer](https://github.com/vamsaty/cc-load-balancer) | Go | [vamsaty](https://github.com/vamsaty) |
+| 10 | [Load-Balancer-with-CLI](https://github.com/harshilsharmaa/Load-Balancer) | NodeJS (JavaScript) | [harshilsharmaa](https://github.com/harshilsharmaa) |
+| 11 | [Load Balancer](https://github.com/Abdulrahman-Tayara/go-lb) | Go | [Abdulrahman-Tayara](https://github.com/Abdulrahman-Tayara) |
+| 12 | [Load Balancer](https://github.com/gertanoh/loadbalancer) | Go | [gertanoh](https://github.com/gertanoh) |
+| 13 | [lb](https://github.com/alefeans/lb) | Go | [alefeans](https://github.com/alefeans) |
+| 14 | [load-balancer](https://github.com/Tevinthuku/coding_challenges_fyi/tree/main/load-balancer) | Rust | [Tevin Thuku](https://github.com/Tevinthuku) |
+| 15 | [selkies-load-balancer](https://github.com/tamectosphere/selkies-load-balancer) | Go | [Tamectosphere](https://github.com/tamectosphere) |
+| 16| [GoScale](https://github.com/lokesh-katari/GoScale)  | Go | [lokesh katari](https://github.com/lokesh-katari) |
+| 17 | [load-balancer](https://github.com/mariollesta/my-own-loadbalancer) | Python | [mariollesta](https://github.com/mariollesta) |
+| 18 | [Load Balancer](https://github.com/ferranjr/build-your-own-in-rust/tree/main/load-balancer) | Rust | [ferranjr](https://github.com/ferranjr/) |

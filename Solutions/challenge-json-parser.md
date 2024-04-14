@@ -19,3 +19,16 @@ The shared solutions:
 | 11 | [json-parser](https://github.com/alfinwijaya/json-parser) | Python | [alfinwijaya](https://github.com/alfinwijaya) |
 | 12 | [json-parser](https://github.com/indierusty/json-parser) | Rust | [indierusty](https://github.com/indierusty) |
 | 13 | [jsonparsergo](https://github.com/oyekanmiayo/jsonparsego) | Go | [oyekanmiayo](https://github.com/oyekanmiayo) |
+| 14 | [ccjson](https://github.com/epps/ccjson) | Go | [epps](https://github.com/epps) |
+| 15 | [json-parser](https://gitlab.com/bzai-public/codingchallenge-json-parser) | Scala | [binghao](https://gitlab.com/bzai-public) |
+| 16 | [JSONParser](https://github.com/VibhinnS/JSONParser.git) | Python | [VibhinnS](https://github.com/VibhinnS) |
+| 17 | [json-parser](https://github.com/izebit/coding-challenges/tree/master/2-json-parser) | Haskell | [Artem Konovalov](https://github.com/izebit) |
+| 18 | [JSON Parser](https://github.com/eliasm307/coding-challenges/tree/main/packages/json-parser) | Typescript | [eliasm307](https://github.com/eliasm307) |
+| 18 | [JSON Parser](https://github.com/Ramzi-Abidi/JSON-parser) | Javascript | [Ramzi Abidi](https://github.com/Ramzi-Abidi) |
+| 19 | [json-parser](https://github.com/Tevinthuku/coding_challenges_fyi/tree/main/json-parser) | Rust | [Tevin Thuku](https://github.com/Tevinthuku) |
+| 20 | [rjsonp](https://github.com/shellmonk/rjsonp) | Raku | [ShellMonk](https://shellmonk.io/posts/monk-coding-challenge-2-json-parser-in-raku/) |
+| 21 | [json-parser](https://github.com/sanjanarjn/json-parser) | Java | [Sanjana Rajan](https://github.com/sanjanarjn)   |
+| 22 | [json-parser](https://github.com/lwcarani/json-parser) | Python | [Luke Carani](https://github.com/lwcarani)   |
+| 23 | [json-parser](https://github.com/pasDamola/json-parser)  | Go | [oyindamola](https://github.com/pasDamola) |
+| 24 | [json-parser](https://github.com/p1kalys/Coding_Challenges_by_John_Crickett/tree/main/json_parser)  | JavaScript | [Pavan Emani](https://github.com/p1kalys/) |
+| 25 | [json_parser_clone](https://github.com/arjunsharma-dev1/json_parser_clone)  | Rust | [Arjun Sharma](https://github.com/arjunsharma-dev1) |
