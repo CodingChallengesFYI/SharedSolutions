@@ -10,3 +10,4 @@ The shared solutions:
 | 2 | [Write your own Memcached server (and client)](https://github.com/lolo8304/coding-challenge/tree/main/no-17)     | Java | [lolo8304](https://github.com/lolo8304) |
 | 3 | [Async memcached server and client](https://github.com/cha-ku/memsaab)                                           | C++ | [cha-ku](https://github.com/cha-ku) |
 | 4 | [Build Your Own Memcached Server](https://github.com/Abhishek-Kuvalekar/coding-challenges/tree/master/Memcached) | Java | [Abhishek-Kuvalekar](https://github.com/Abhishek-Kuvalekar) |
+| 5 | [Build Your Own Memcached Server](https://github.com/Tevinthuku/coding_challenges_fyi/tree/main/memcached)       | Rust | [Tevinthuku](https://github.com/Tevinthuku) |
