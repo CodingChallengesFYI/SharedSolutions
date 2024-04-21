@@ -1,0 +1,17 @@
+[
+  {
+    "metadata-version": "4.17.0",
+    "module": "org.liquibase:liquibase-core",
+    "tested-versions": [
+      "4.17.0"
+    ]
+  },
+  {
+    "latest": true,
+    "metadata-version": "4.20.0",
+    "module": "org.liquibase:liquibase-core",
+    "tested-versions": [
+      "4.20.0"
+    ]
+  }
+]

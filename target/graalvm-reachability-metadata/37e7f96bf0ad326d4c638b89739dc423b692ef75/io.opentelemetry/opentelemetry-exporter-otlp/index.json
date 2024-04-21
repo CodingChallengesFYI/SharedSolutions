@@ -1,0 +1,11 @@
+[
+  {
+    "latest": false,
+    "override": true,
+    "metadata-version": "1.19.0",
+    "module": "io.opentelemetry:opentelemetry-exporter-otlp",
+    "tested-versions": [
+      "1.19.0"
+    ]
+  }
+]

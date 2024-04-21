@@ -1,0 +1,212 @@
+[
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "interfaces": []
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.TypeContributorImpl"
+    },
+    "interfaces": []
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlAccessorType"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlAccessorType",
+      "org.glassfish.jaxb.core.v2.model.annotation.Locatable"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlAttribute"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlElement"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlElementDecl"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlElementRef"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlElementRefs"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlElements"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlElements",
+      "org.glassfish.jaxb.core.v2.model.annotation.Locatable"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlEnum"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlEnumValue"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlEnumValue",
+      "org.glassfish.jaxb.core.v2.model.annotation.Locatable"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlMixed"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlMixed",
+      "org.glassfish.jaxb.core.v2.model.annotation.Locatable"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlRootElement"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlSeeAlso"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlSeeAlso",
+      "org.glassfish.jaxb.core.v2.model.annotation.Locatable"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlType"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlValue"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.adapters.XmlJavaTypeAdapter"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.adapters.XmlJavaTypeAdapter",
+      "org.glassfish.jaxb.core.v2.model.annotation.Locatable"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "interfaces": [
+      "jdk.internal.ValueBased"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.configuration.internal.RevisionInfoConfiguration$RevisionEntityResolver"
+    },
+    "interfaces": [
+      "org.hibernate.envers.Audited"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.configuration.internal.metadata.reader.AuditedPropertiesReader"
+    },
+    "interfaces": [
+      "org.hibernate.envers.NotAudited"
+    ]
+  }
+]

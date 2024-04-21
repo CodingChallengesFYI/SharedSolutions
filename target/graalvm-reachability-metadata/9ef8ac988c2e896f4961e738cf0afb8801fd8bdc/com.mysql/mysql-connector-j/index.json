@@ -1,0 +1,10 @@
+[
+  {
+    "latest": true,
+    "metadata-version": "8.0.31",
+    "module": "com.mysql:mysql-connector-j",
+    "tested-versions": [
+      "8.0.31"
+    ]
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "lambdaCapturingTypes": [],
+  "proxies": [],
+  "types": [
+    {
+      "condition": {
+        "typeReachable": "javax.cache.configuration.FactoryBuilder"
+      },
+      "name": "javax.cache.configuration.FactoryBuilder$SingletonFactory"
+    },
+    {
+      "condition": {
+        "typeReachable": "javax.cache.expiry.AccessedExpiryPolicy"
+      },
+      "name": "javax.cache.expiry.AccessedExpiryPolicy"
+    },
+    {
+      "condition": {
+        "typeReachable": "javax.cache.expiry.Duration"
+      },
+      "name": "javax.cache.expiry.Duration"
+    },
+    {
+      "condition": {
+        "typeReachable": "javax.cache.expiry.EternalExpiryPolicy"
+      },
+      "name": "javax.cache.expiry.EternalExpiryPolicy"
+    },
+    {
+      "condition": {
+        "typeReachable": "java.lang.Object"
+      },
+      "name": "java.lang.String"
+    },
+    {
+      "condition": {
+        "typeReachable": "java.lang.Object"
+      },
+      "name": "java.lang.Number"
+    },
+    {
+      "condition": {
+        "typeReachable": "java.lang.Object"
+      },
+      "name": "java.lang.Integer"
+    }
+  ]
+}

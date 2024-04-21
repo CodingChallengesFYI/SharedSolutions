@@ -1,0 +1,10 @@
+[
+  {
+    "latest": true,
+    "metadata-version": "10.1.7",
+    "module": "org.apache.tomcat:tomcat-jdbc",
+    "tested-versions": [
+      "10.1.7"
+    ]
+  }
+]

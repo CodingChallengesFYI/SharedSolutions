@@ -1,0 +1,97 @@
+[
+  {
+    "condition": {
+      "typeReachable": "org.jboss.logging.LoggerProviders"
+    },
+    "name": "ch.qos.logback.classic.Logger"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.jboss.logging.Slf4jLoggerProvider"
+    },
+    "name": "java.io.FilePermission"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.jboss.logging.Slf4jLoggerProvider"
+    },
+    "name": "java.lang.RuntimePermission"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.jboss.logging.Slf4jLoggerProvider"
+    },
+    "name": "java.net.NetPermission"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.jboss.logging.Slf4jLoggerProvider"
+    },
+    "name": "java.net.SocketPermission"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.jboss.logging.Slf4jLoggerProvider"
+    },
+    "name": "java.net.URLPermission",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "java.lang.String",
+          "java.lang.String"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.jboss.logging.Slf4jLoggerProvider"
+    },
+    "name": "java.security.AllPermission"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.jboss.logging.Slf4jLoggerProvider"
+    },
+    "name": "java.security.SecurityPermission"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.jboss.logging.Slf4jLoggerProvider"
+    },
+    "name": "java.util.PropertyPermission"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.jboss.logging.Slf4jLoggerProvider"
+    },
+    "name": "javax.smartcardio.CardPermission"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.jboss.logging.LoggerProviders"
+    },
+    "name": "org.jboss.logmanager.LogManager"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.jboss.logging.Slf4jLocationAwareLogger"
+    },
+    "name": "org.slf4j.spi.LocationAwareLogger",
+    "queryAllDeclaredMethods": true,
+    "methods": [
+      {
+        "name": "log",
+        "parameterTypes": [
+          "org.slf4j.Marker",
+          "java.lang.String",
+          "int",
+          "java.lang.String",
+          "java.lang.Object[]",
+          "java.lang.Throwable"
+        ]
+      }
+    ]
+  }
+]

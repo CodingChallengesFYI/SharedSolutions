@@ -1,0 +1,1237 @@
+[
+  {
+    "condition": {
+      "typeReachable": "liquibase.Liquibase"
+    },
+    "name": "liquibase.logging.mdc.MdcManagerFactory",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.lockservice.StandardLockService"
+    },
+    "name": "liquibase.executor.ExecutorService",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.changelog.ChangeSet"
+    },
+    "name": "liquibase.change.ChangeFactory",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.hub.HubUpdater"
+    },
+    "name": "liquibase.hub.HubServiceFactory",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.parser.core.xml.XMLChangeLogSAXParser"
+    },
+    "name": "com.sun.org.apache.xerces.internal.jaxp.SAXParserFactoryImpl",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.change.AbstractChange"
+    },
+    "name": "java.beans.PropertyVetoException"
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.database.AbstractJdbcDatabase"
+    },
+    "name": "java.security.SecureRandomParameters"
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.hub.core.MockHubService"
+    },
+    "name": "java.security.SecureRandomParameters"
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.lockservice.StandardLockService"
+    },
+    "name": "java.security.SecureRandomParameters"
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.util.StringUtil"
+    },
+    "name": "java.security.SecureRandomParameters"
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.parser.core.yaml.YamlChangeLogParser"
+    },
+    "name": "java.sql.Date"
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.parser.core.yaml.YamlChangeLogParser"
+    },
+    "name": "java.sql.Timestamp"
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.Liquibase"
+    },
+    "name": "liquibase.AbstractExtensibleObject",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.Liquibase"
+    },
+    "name": "liquibase.change.AbstractChange",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.change.AbstractChange"
+    },
+    "name": "liquibase.change.AbstractSQLChange",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.Liquibase"
+    },
+    "name": "liquibase.change.AbstractTableChange",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.change.AbstractChange"
+    },
+    "name": "liquibase.change.AddColumnConfig",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.change.AddColumnConfig"
+    },
+    "name": "liquibase.change.AddColumnConfig",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.serializer.core.string.StringChangeLogSerializer"
+    },
+    "name": "liquibase.change.AddColumnConfig",
+    "allDeclaredFields": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.change.AbstractChange"
+    },
+    "name": "liquibase.change.ColumnConfig",
+    "queryAllPublicMethods": true,
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.serializer.core.string.StringChangeLogSerializer"
+    },
+    "name": "liquibase.change.ColumnConfig",
+    "allDeclaredFields": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.Liquibase"
+    },
+    "name": "liquibase.change.core.AbstractModifyDataChange",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.Liquibase"
+    },
+    "name": "liquibase.change.core.AddAutoIncrementChange",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.change.AbstractChange"
+    },
+    "name": "liquibase.change.core.AddColumnChange",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.Liquibase"
+    },
+    "name": "liquibase.change.core.AddDefaultValueChange",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.Liquibase"
+    },
+    "name": "liquibase.change.core.AddForeignKeyConstraintChange",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.change.AbstractChange"
+    },
+    "name": "liquibase.change.core.AddLookupTableChange",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.Liquibase"
+    },
+    "name": "liquibase.change.core.AddNotNullConstraintChange",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.Liquibase"
+    },
+    "name": "liquibase.change.core.AddPrimaryKeyChange",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.Liquibase"
+    },
+    "name": "liquibase.change.core.AddUniqueConstraintChange",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.change.AbstractChange"
+    },
+    "name": "liquibase.change.core.AlterSequenceChange",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.change.AbstractChange"
+    },
+    "name": "liquibase.change.core.CreateIndexChange",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.Liquibase"
+    },
+    "name": "liquibase.change.core.CreateProcedureChange",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.change.core.CreateSequenceChange"
+    },
+    "name": "liquibase.change.core.CreateSequenceChange",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.Liquibase"
+    },
+    "name": "liquibase.change.core.CreateTableChange",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.change.core.CreateViewChange"
+    },
+    "name": "liquibase.change.core.CreateViewChange",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.Liquibase"
+    },
+    "name": "liquibase.change.core.DeleteDataChange",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.Liquibase"
+    },
+    "name": "liquibase.change.core.DropAllForeignKeyConstraintsChange",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.Liquibase"
+    },
+    "name": "liquibase.change.core.DropColumnChange",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.Liquibase"
+    },
+    "name": "liquibase.change.core.DropDefaultValueChange",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.Liquibase"
+    },
+    "name": "liquibase.change.core.DropForeignKeyConstraintChange",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.Liquibase"
+    },
+    "name": "liquibase.change.core.DropIndexChange",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.Liquibase"
+    },
+    "name": "liquibase.change.core.DropNotNullConstraintChange",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.Liquibase"
+    },
+    "name": "liquibase.change.core.DropPrimaryKeyChange",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.Liquibase"
+    },
+    "name": "liquibase.change.core.DropProcedureChange",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.change.AbstractChange"
+    },
+    "name": "liquibase.change.core.DropSequenceChange",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.change.AbstractChange"
+    },
+    "name": "liquibase.change.core.DropTableChange",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.change.AbstractChange"
+    },
+    "name": "liquibase.change.core.DropUniqueConstraintChange",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.change.AbstractChange"
+    },
+    "name": "liquibase.change.core.DropViewChange",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.change.AbstractChange"
+    },
+    "name": "liquibase.change.core.EmptyChange",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.change.AbstractChange"
+    },
+    "name": "liquibase.change.core.ExecuteShellCommandChange",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.change.AbstractChange"
+    },
+    "name": "liquibase.change.core.InsertDataChange",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.Liquibase"
+    },
+    "name": "liquibase.change.core.LoadDataChange",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.change.AbstractChange"
+    },
+    "name": "liquibase.change.core.LoadUpdateDataChange"
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.Liquibase"
+    },
+    "name": "liquibase.change.core.MergeColumnChange",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.Liquibase"
+    },
+    "name": "liquibase.change.core.ModifyDataTypeChange",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.Liquibase"
+    },
+    "name": "liquibase.change.core.OutputChange",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.change.AbstractChange"
+    },
+    "name": "liquibase.change.core.RawSQLChange"
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.change.AbstractChange"
+    },
+    "name": "liquibase.change.core.RenameColumnChange",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.change.AbstractChange"
+    },
+    "name": "liquibase.change.core.RenameSequenceChange",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.change.AbstractChange"
+    },
+    "name": "liquibase.change.core.RenameTableChange",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.Liquibase"
+    },
+    "name": "liquibase.change.core.RenameViewChange",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.Liquibase"
+    },
+    "name": "liquibase.change.core.SQLFileChange",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.Liquibase"
+    },
+    "name": "liquibase.change.core.SetColumnRemarksChange",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.Liquibase"
+    },
+    "name": "liquibase.change.core.SetTableRemarksChange",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.util.ObjectUtil$FluentPropertyBeanIntrospector"
+    },
+    "name": "liquibase.change.core.StopChange",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.Liquibase"
+    },
+    "name": "liquibase.change.core.TagDatabaseChange",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.Liquibase"
+    },
+    "name": "liquibase.change.core.UpdateDataChange",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.Liquibase"
+    },
+    "name": "liquibase.change.custom.CustomChangeWrapper",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.Liquibase"
+    },
+    "name": "liquibase.precondition.AbstractPrecondition",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.Liquibase"
+    },
+    "name": "liquibase.precondition.core.AndPrecondition",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.Liquibase"
+    },
+    "name": "liquibase.precondition.core.ChangeLogPropertyDefinedPrecondition",
+    "allDeclaredFields": true,
+    "queryAllPublicMethods": true,
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      },
+      {
+        "name": "setProperty",
+        "parameterTypes": [
+          "java.lang.String"
+        ]
+      },
+      {
+        "name": "setValue",
+        "parameterTypes": [
+          "java.lang.String"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.Liquibase"
+    },
+    "name": "liquibase.precondition.core.DBMSPrecondition",
+    "allDeclaredFields": true,
+    "queryAllPublicMethods": true,
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      },
+      {
+        "name": "setType",
+        "parameterTypes": [
+          "java.lang.String"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.Liquibase"
+    },
+    "name": "liquibase.precondition.core.OrPrecondition",
+    "allDeclaredFields": true,
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.Liquibase"
+    },
+    "name": "liquibase.precondition.core.PreconditionContainer",
+    "allDeclaredFields": true,
+    "queryAllPublicMethods": true,
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.Liquibase"
+    },
+    "name": "liquibase.precondition.core.RunningAsPrecondition",
+    "allDeclaredFields": true,
+    "queryAllPublicMethods": true,
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      },
+      {
+        "name": "setUsername",
+        "parameterTypes": [
+          "java.lang.String"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.Liquibase"
+    },
+    "name": "liquibase.precondition.core.SqlPrecondition",
+    "allDeclaredFields": true,
+    "queryAllPublicMethods": true,
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      },
+      {
+        "name": "setExpectedResult",
+        "parameterTypes": [
+          "java.lang.String"
+        ]
+      },
+      {
+        "name": "setSql",
+        "parameterTypes": [
+          "java.lang.String"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.Liquibase"
+    },
+    "name": "liquibase.precondition.core.TableExistsPrecondition",
+    "allDeclaredFields": true,
+    "queryAllPublicMethods": true,
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      },
+      {
+        "name": "setTableName",
+        "parameterTypes": [
+          "java.lang.String"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.changelog.ChangeLogHistoryServiceFactory"
+    },
+    "name": "liquibase.changelog.StandardChangeLogHistoryService",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.configuration.LiquibaseConfiguration"
+    },
+    "name": "liquibase.configuration.ConfiguredValueModifierFactory",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.Scope"
+    },
+    "name": "liquibase.configuration.LiquibaseConfiguration",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.database.core.H2Database"
+    },
+    "name": "liquibase.database.jvm.JdbcConnection",
+    "methods": [
+      {
+        "name": "getWrappedConnection",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.datatype.DataTypeFactory"
+    },
+    "name": "liquibase.datatype.core.BooleanType",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.sqlgenerator.core.CreateDatabaseChangeLogLockTableGenerator"
+    },
+    "name": "liquibase.datatype.core.BooleanType",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.sqlgenerator.core.LockDatabaseChangeLogGenerator"
+    },
+    "name": "liquibase.datatype.core.BooleanType",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.change.core.CreateTableChange"
+    },
+    "name": "liquibase.datatype.core.CharType",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.datatype.DataTypeFactory"
+    },
+    "name": "liquibase.datatype.core.ClobType",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.datatype.DataTypeFactory"
+    },
+    "name": "liquibase.datatype.core.DateTimeType",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.sqlgenerator.core.CreateDatabaseChangeLogLockTableGenerator"
+    },
+    "name": "liquibase.datatype.core.DateTimeType",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.sqlgenerator.core.CreateDatabaseChangeLogTableGenerator"
+    },
+    "name": "liquibase.datatype.core.DateTimeType",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.change.core.CreateTableChange"
+    },
+    "name": "liquibase.datatype.core.IntType",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.sqlgenerator.core.CreateDatabaseChangeLogLockTableGenerator"
+    },
+    "name": "liquibase.datatype.core.IntType",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.sqlgenerator.core.CreateDatabaseChangeLogTableGenerator"
+    },
+    "name": "liquibase.datatype.core.IntType",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.util.ObjectUtil"
+    },
+    "name": "liquibase.datatype.core.IntType",
+    "queryAllPublicMethods": true,
+    "methods": [
+      {
+        "name": "setAutoIncrement",
+        "parameterTypes": [
+          "boolean"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.datatype.DataTypeFactory"
+    },
+    "name": "liquibase.datatype.core.TextDataTypeSnowflake",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.datatype.DataTypeFactory"
+    },
+    "name": "liquibase.datatype.core.TimestampNTZTypeSnowflake",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.sqlgenerator.core.CreateDatabaseChangeLogLockTableGenerator"
+    },
+    "name": "liquibase.datatype.core.TimestampNTZTypeSnowflake",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.sqlgenerator.core.CreateDatabaseChangeLogTableGenerator"
+    },
+    "name": "liquibase.datatype.core.TimestampNTZTypeSnowflake",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.change.core.CreateTableChange"
+    },
+    "name": "liquibase.datatype.core.VarcharType",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.datatype.DataTypeFactory"
+    },
+    "name": "liquibase.datatype.core.VarcharType",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.sqlgenerator.core.AddColumnGeneratorDefaultClauseBeforeNotNull"
+    },
+    "name": "liquibase.datatype.core.VarcharType",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.sqlgenerator.core.CreateDatabaseChangeLogLockTableGenerator"
+    },
+    "name": "liquibase.datatype.core.VarcharType",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.sqlgenerator.core.CreateDatabaseChangeLogTableGenerator"
+    },
+    "name": "liquibase.datatype.core.VarcharType",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.executor.ExecutorService"
+    },
+    "name": "liquibase.executor.jvm.JdbcExecutor",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.lockservice.LockServiceFactory"
+    },
+    "name": "liquibase.lockservice.StandardLockService",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.Scope"
+    },
+    "name": "liquibase.logging.core.LogServiceFactory",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.Liquibase"
+    },
+    "name": "liquibase.plugin.AbstractPlugin",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.serializer.ReflectionSerializer"
+    },
+    "name": "liquibase.serializer.AbstractLiquibaseSerializable",
+    "allDeclaredFields": true
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.database.core.DerbyDatabase"
+    },
+    "name": "org.h2.Driver"
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.util.MD5Util"
+    },
+    "name": "sun.security.provider.MD5",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.hub.core.MockHubService"
+    },
+    "name": "sun.security.provider.NativePRNG",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.lockservice.StandardLockService"
+    },
+    "name": "sun.security.provider.NativePRNG",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.util.StringUtil"
+    },
+    "name": "sun.security.provider.NativePRNG",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.database.AbstractJdbcDatabase"
+    },
+    "name": "sun.security.provider.SHA",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.util.StringUtil"
+    },
+    "name": "sun.security.provider.SHA",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.database.AbstractJdbcDatabase"
+    },
+    "name": "sun.security.provider.SecureRandom",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.sql.visitor.SqlVisitorFactory"
+    },
+    "name": "liquibase.sql.visitor.PrependSqlVisitor",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.sql.visitor.SqlVisitorFactory"
+    },
+    "name": "liquibase.sql.visitor.AppendSqlVisitor",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.sql.visitor.SqlVisitorFactory"
+    },
+    "name": "liquibase.sql.visitor.RegExpReplaceSqlVisitor",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.sql.visitor.SqlVisitorFactory"
+    },
+    "name": "liquibase.sql.visitor.ReplaceSqlVisitor",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.snapshot.DatabaseSnapshot"
+    },
+    "name": "java.util.ArrayList",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "liquibase.change.core.CreateTableChange"
+    },
+    "name": "liquibase.datatype.core.BigIntType",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      },
+      {
+        "name": "setAutoIncrement",
+        "parameterTypes": [
+          "boolean"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "liquibase.command.CommandFactory",
+    "condition": {
+      "typeReachable": "liquibase.command.CommandScope"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "liquibase.license.LicenseServiceFactory",
+    "condition": {
+      "typeReachable": "liquibase.license.LicenseServiceUtils"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "java.util.concurrent.ConcurrentHashMap",
+    "condition": {
+      "typeReachable": "liquibase.snapshot.SnapshotGeneratorFactory"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "java.util.HashSet",
+    "condition": {
+      "typeReachable": "liquibase.database.AbstractJdbcDatabase"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  }
+]

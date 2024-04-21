@@ -1,0 +1,14 @@
+[
+  {
+    "name": "org.apache.http.impl.auth.BasicScheme",
+    "condition": {
+      "typeReachable": "org.apache.http.impl.client.BasicAuthCache"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "condition": {
+      "typeReachable": "graphql.validation.interpolation.ResourceBundleMessageInterpolator$BridgeAnnotation"
+    },
+    "interfaces": [
+      "graphql.validation.interpolation.ResourceBundleMessageInterpolator$BridgeAnnotation"
+    ]
+  }
+]

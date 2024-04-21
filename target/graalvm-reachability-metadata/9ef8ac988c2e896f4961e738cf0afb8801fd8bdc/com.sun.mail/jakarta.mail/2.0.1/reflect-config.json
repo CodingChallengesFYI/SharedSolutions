@@ -1,0 +1,58 @@
+[
+  {
+    "condition": {
+      "typeReachable": "jakarta.mail.Session"
+    },
+    "allDeclaredConstructors": true,
+    "name": "com.sun.mail.smtp.SMTPTransport"
+  },
+  {
+    "condition": {
+      "typeReachable": "jakarta.activation.MailcapCommandMap"
+    },
+    "allDeclaredConstructors": true,
+    "name": "com.sun.mail.handlers.image_gif"
+  },
+  {
+    "condition": {
+      "typeReachable": "jakarta.activation.MailcapCommandMap"
+    },
+    "allDeclaredConstructors": true,
+    "name": "com.sun.mail.handlers.image_jpeg"
+  },
+  {
+    "condition": {
+      "typeReachable": "jakarta.activation.MailcapCommandMap"
+    },
+    "allDeclaredConstructors": true,
+    "name": "com.sun.mail.handlers.message_rfc822"
+  },
+  {
+    "condition": {
+      "typeReachable": "jakarta.activation.MailcapCommandMap"
+    },
+    "allDeclaredConstructors": true,
+    "name": "com.sun.mail.handlers.multipart_mixed"
+  },
+  {
+    "condition": {
+      "typeReachable": "jakarta.activation.MailcapCommandMap"
+    },
+    "allDeclaredConstructors": true,
+    "name": "com.sun.mail.handlers.text_html"
+  },
+  {
+    "condition": {
+      "typeReachable": "jakarta.activation.MailcapCommandMap"
+    },
+    "allDeclaredConstructors": true,
+    "name": "com.sun.mail.handlers.text_plain"
+  },
+  {
+    "condition": {
+      "typeReachable": "jakarta.activation.MailcapCommandMap"
+    },
+    "allDeclaredConstructors": true,
+    "name": "com.sun.mail.handlers.text_xml"
+  }
+]

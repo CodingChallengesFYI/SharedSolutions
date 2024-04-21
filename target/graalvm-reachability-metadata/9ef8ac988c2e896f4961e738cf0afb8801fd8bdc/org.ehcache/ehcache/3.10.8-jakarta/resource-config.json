@@ -1,0 +1,76 @@
+{
+  "bundles": [
+    {
+      "name": "com.sun.org.apache.xerces.internal.impl.msg.SAXMessages",
+      "locales": [
+        "und",
+        "zh-CN"
+      ]
+    },
+    {
+      "name": "com.sun.org.apache.xerces.internal.impl.xpath.regex.message",
+      "locales": [
+        "und",
+        "zh-CN"
+      ]
+    },
+    {
+      "name": "com.sun.org.apache.xml.internal.serializer.XMLEntities",
+      "locales": [
+        "und"
+      ]
+    }
+  ],
+  "resources": {
+    "includes": [
+      {
+        "condition": {
+          "typeReachable": "org.ehcache.config.builders.UserManagedCacheBuilder"
+        },
+        "pattern": "\\QMETA-INF/services/org.ehcache.core.spi.service.ServiceFactory\\E"
+      },
+      {
+        "condition": {
+          "typeReachable": "org.ehcache.core.EhcacheManager"
+        },
+        "pattern": "\\QMETA-INF/services/org.ehcache.core.spi.service.ServiceFactory\\E"
+      },
+      {
+        "condition": {
+          "typeReachable": "org.ehcache.core.spi.ServiceLocator$DependencySet"
+        },
+        "pattern": "\\QMETA-INF/services/org.ehcache.core.spi.service.ServiceFactory\\E"
+      },
+      {
+        "condition": {
+          "typeReachable": "org.ehcache.xml.XmlUtil"
+        },
+        "pattern": "\\QMETA-INF/services/org.ehcache.xml.CacheManagerServiceConfigurationParser\\E"
+      },
+      {
+        "condition": {
+          "typeReachable": "org.ehcache.xml.XmlUtil"
+        },
+        "pattern": "\\QMETA-INF/services/org.ehcache.xml.CacheServiceConfigurationParser\\E"
+      },
+      {
+        "condition": {
+          "typeReachable": "org.ehcache.jsr107.internal.Jsr107Parser"
+        },
+        "pattern": "\\Qehcache-107-ext.xsd\\E"
+      },
+      {
+        "condition": {
+          "typeReachable": "org.ehcache.xml.XmlConfiguration"
+        },
+        "pattern": "\\Qehcache-core.xsd\\E"
+      },
+      {
+        "condition": {
+          "typeReachable": "org.ehcache.xml.multi.XmlMultiConfiguration"
+        },
+        "pattern": "\\Qehcache-multi.xsd\\E"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "resources": {
+    "includes": [
+      {
+        "condition": {
+          "typeReachable": "com.hazelcast.internal.serialization.impl.DataSerializableSerializer"
+        },
+        "pattern": "\\QMETA-INF/services/com.hazelcast.DataSerializerHook\\E"
+      },
+      {
+        "condition": {
+          "typeReachable": "com.hazelcast.internal.serialization.impl.portable.PortableHookLoader"
+        },
+        "pattern": "\\QMETA-INF/services/com.hazelcast.PortableHook\\E"
+      },
+      {
+        "condition": {
+          "typeReachable": "com.hazelcast.internal.serialization.impl.SerializerHookLoader"
+        },
+        "pattern": "\\QMETA-INF/services/com.hazelcast.SerializerHook\\E"
+      },
+      {
+        "condition": {
+          "typeReachable": "com.hazelcast.client.impl.clientside.HazelcastClientInstanceImpl"
+        },
+        "pattern": "\\QMETA-INF/services/com.hazelcast.client.impl.ClientExtension\\E"
+      },
+      {
+        "condition": {
+          "typeReachable": "com.hazelcast.client.impl.CompositeMessageTaskFactory"
+        },
+        "pattern": "\\QMETA-INF/services/com.hazelcast.client.impl.protocol.MessageTaskFactoryProvider\\E"
+      },
+      {
+        "condition": {
+          "typeReachable": "com.hazelcast.instance.impl.DuplicatedResourcesScanner"
+        },
+        "pattern": "\\QMETA-INF/services/com.hazelcast.instance.impl.NodeExtension\\E"
+      },
+      {
+        "condition": {
+          "typeReachable": "com.hazelcast.instance.impl.NodeExtensionFactory"
+        },
+        "pattern": "\\QMETA-INF/services/com.hazelcast.instance.impl.NodeExtension\\E"
+      },
+      {
+        "condition": {
+          "typeReachable": "com.hazelcast.spi.discovery.impl.DefaultDiscoveryService"
+        },
+        "pattern": "\\QMETA-INF/services/com.hazelcast.spi.discovery.DiscoveryStrategyFactory\\E"
+      },
+      {
+        "condition": {
+          "typeReachable": "com.hazelcast.spi.impl.servicemanager.impl.ServiceManagerImpl"
+        },
+        "pattern": "\\QMETA-INF/services/com.hazelcast.spi.impl.servicemanager.ServiceDescriptorProvider\\E"
+      },
+      {
+        "condition": {
+          "typeReachable": "com.hazelcast.client.config.XmlClientConfigBuilder"
+        },
+        "pattern": "hazelcast-client-config-[0-9.-]+xsd"
+      },
+      {
+        "condition": {
+          "typeReachable": "com.hazelcast.client.config.impl.XmlClientConfigLocator"
+        },
+        "pattern": "\\Qhazelcast-client-default.xml\\E"
+      },
+      {
+        "condition": {
+          "typeReachable": "com.hazelcast.config.XmlConfigBuilder"
+        },
+        "pattern": "hazelcast-config-[0-9.-]+xsd"
+      },
+      {
+        "condition": {
+          "typeReachable": "com.hazelcast.internal.config.XmlConfigLocator"
+        },
+        "pattern": "\\Qhazelcast-default.xml\\E"
+      },
+      {
+        "condition": {
+          "typeReachable": "com.hazelcast.internal.util.phonehome.BuildInfoCollector"
+        },
+        "pattern": "\\Qhazelcast-download.properties\\E"
+      }
+    ]
+  },
+  "bundles": [
+    {
+      "name": "com.sun.org.apache.xerces.internal.impl.xpath.regex.message",
+      "locales": [
+        "und",
+        "zh-CN"
+      ]
+    },
+    {
+      "name": "com.sun.org.apache.xml.internal.serializer.XMLEntities",
+      "locales": [
+        "und"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7324 @@
+[
+  {
+    "condition": {
+      "typeReachable": "io.netty.internal.tcnative.Library"
+    },
+    "name": "[B"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.AbstractChannel"
+    },
+    "name": "ch.qos.logback.classic.encoder.PatternLayoutEncoder"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.MultithreadEventLoopGroup"
+    },
+    "name": "ch.qos.logback.classic.encoder.PatternLayoutEncoder"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.websocketx.extensions.compression.DeflateDecoder"
+    },
+    "name": "ch.qos.logback.classic.encoder.PatternLayoutEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http2.DefaultHttp2Headers"
+    },
+    "name": "ch.qos.logback.classic.encoder.PatternLayoutEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.stomp.DefaultStompHeaders"
+    },
+    "name": "ch.qos.logback.classic.encoder.PatternLayoutEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.AsciiString"
+    },
+    "name": "ch.qos.logback.classic.encoder.PatternLayoutEncoder"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.ResourceLeakDetector"
+    },
+    "name": "ch.qos.logback.classic.encoder.PatternLayoutEncoder"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.concurrent.AbstractEventExecutor"
+    },
+    "name": "ch.qos.logback.classic.encoder.PatternLayoutEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.concurrent.UnorderedThreadPoolEventExecutor"
+    },
+    "name": "ch.qos.logback.classic.encoder.PatternLayoutEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.SystemPropertyUtil"
+    },
+    "name": "ch.qos.logback.classic.encoder.PatternLayoutEncoder"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.logging.InternalLoggerFactory"
+    },
+    "name": "ch.qos.logback.classic.encoder.PatternLayoutEncoder"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.logging.Slf4JLoggerFactory"
+    },
+    "name": "ch.qos.logback.classic.encoder.PatternLayoutEncoder",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.logging.Slf4JLoggerFactory$NopInstanceHolder"
+    },
+    "name": "ch.qos.logback.classic.encoder.PatternLayoutEncoder"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.logging.Slf4JLoggerFactory"
+    },
+    "name": "ch.qos.logback.classic.pattern.DateConverter",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.logging.Slf4JLoggerFactory"
+    },
+    "name": "ch.qos.logback.classic.pattern.LevelConverter",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.logging.Slf4JLoggerFactory"
+    },
+    "name": "ch.qos.logback.classic.pattern.LineSeparatorConverter",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.logging.Slf4JLoggerFactory"
+    },
+    "name": "ch.qos.logback.classic.pattern.LoggerConverter",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.logging.Slf4JLoggerFactory"
+    },
+    "name": "ch.qos.logback.classic.pattern.MessageConverter",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.logging.Slf4JLoggerFactory"
+    },
+    "name": "ch.qos.logback.classic.pattern.ThreadConverter",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.AbstractChannel"
+    },
+    "name": "ch.qos.logback.core.ConsoleAppender"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.MultithreadEventLoopGroup"
+    },
+    "name": "ch.qos.logback.core.ConsoleAppender"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.websocketx.extensions.compression.DeflateDecoder"
+    },
+    "name": "ch.qos.logback.core.ConsoleAppender",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http2.DefaultHttp2Headers"
+    },
+    "name": "ch.qos.logback.core.ConsoleAppender",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.stomp.DefaultStompHeaders"
+    },
+    "name": "ch.qos.logback.core.ConsoleAppender",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.AsciiString"
+    },
+    "name": "ch.qos.logback.core.ConsoleAppender"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.ResourceLeakDetector"
+    },
+    "name": "ch.qos.logback.core.ConsoleAppender"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.concurrent.AbstractEventExecutor"
+    },
+    "name": "ch.qos.logback.core.ConsoleAppender",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.concurrent.UnorderedThreadPoolEventExecutor"
+    },
+    "name": "ch.qos.logback.core.ConsoleAppender",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.SystemPropertyUtil"
+    },
+    "name": "ch.qos.logback.core.ConsoleAppender"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.logging.InternalLoggerFactory"
+    },
+    "name": "ch.qos.logback.core.ConsoleAppender"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.logging.Slf4JLoggerFactory"
+    },
+    "name": "ch.qos.logback.core.ConsoleAppender",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.logging.Slf4JLoggerFactory$NopInstanceHolder"
+    },
+    "name": "ch.qos.logback.core.ConsoleAppender"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.logging.Slf4JLoggerFactory"
+    },
+    "name": "ch.qos.logback.core.OutputStreamAppender",
+    "methods": [
+      {
+        "name": "setEncoder",
+        "parameterTypes": [
+          "ch.qos.logback.core.encoder.Encoder"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.logging.Slf4JLoggerFactory"
+    },
+    "name": "ch.qos.logback.core.encoder.LayoutWrappingEncoder",
+    "methods": [
+      {
+        "name": "setParent",
+        "parameterTypes": [
+          "ch.qos.logback.core.Appender"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.logging.Slf4JLoggerFactory"
+    },
+    "name": "ch.qos.logback.core.pattern.PatternLayoutEncoderBase",
+    "methods": [
+      {
+        "name": "setPattern",
+        "parameterTypes": [
+          "java.lang.String"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.compression.Brotli"
+    },
+    "name": "com.aayushatharva.brotli4j.Brotli4jLoader"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.compression.Zstd"
+    },
+    "name": "com.github.luben.zstd.Zstd"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.compression.LzfDecoder"
+    },
+    "name": "com.ning.compress.lzf.impl.UnsafeChunkDecoder",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.DefaultEventLoop"
+    },
+    "name": "com.sun.crypto.provider.AESCipher$General",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.epoll.AbstractEpollChannel$AbstractEpollUnsafe$1"
+    },
+    "name": "com.sun.crypto.provider.AESCipher$General",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.epoll.EpollEventLoop"
+    },
+    "name": "com.sun.crypto.provider.AESCipher$General",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.local.LocalChannel"
+    },
+    "name": "com.sun.crypto.provider.AESCipher$General",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.nio.NioEventLoop"
+    },
+    "name": "com.sun.crypto.provider.AESCipher$General",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.oio.AbstractOioByteChannel"
+    },
+    "name": "com.sun.crypto.provider.AESCipher$General",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkAlpnSslEngine"
+    },
+    "name": "com.sun.crypto.provider.AESCipher$General",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkSslEngine"
+    },
+    "name": "com.sun.crypto.provider.AESCipher$General",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.SslHandler"
+    },
+    "name": "com.sun.crypto.provider.AESCipher$General",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.SslHandler$SslEngineType$3"
+    },
+    "name": "com.sun.crypto.provider.AESCipher$General",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.SslHandler$SslTasksRunner"
+    },
+    "name": "com.sun.crypto.provider.AESCipher$General",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.concurrent.FastThreadLocalRunnable"
+    },
+    "name": "com.sun.crypto.provider.AESCipher$General",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.local.LocalChannel"
+    },
+    "name": "com.sun.crypto.provider.DHKeyAgreement",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.local.LocalChannel"
+    },
+    "name": "com.sun.crypto.provider.DHKeyFactory",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.DefaultEventLoop"
+    },
+    "name": "com.sun.crypto.provider.DHKeyPairGenerator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.local.LocalChannel"
+    },
+    "name": "com.sun.crypto.provider.DHKeyPairGenerator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.epoll.EpollEventLoop"
+    },
+    "name": "com.sun.crypto.provider.DHParameters",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.nio.NioEventLoop"
+    },
+    "name": "com.sun.crypto.provider.DHParameters",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkSslEngine"
+    },
+    "name": "com.sun.crypto.provider.DHParameters",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.DefaultEventLoop"
+    },
+    "name": "com.sun.crypto.provider.HmacCore$HmacSHA256",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.epoll.EpollEventLoop"
+    },
+    "name": "com.sun.crypto.provider.HmacCore$HmacSHA256",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.local.LocalChannel"
+    },
+    "name": "com.sun.crypto.provider.HmacCore$HmacSHA256",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.nio.NioEventLoop"
+    },
+    "name": "com.sun.crypto.provider.HmacCore$HmacSHA256",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.oio.AbstractOioByteChannel"
+    },
+    "name": "com.sun.crypto.provider.HmacCore$HmacSHA256",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.PseudoRandomFunction"
+    },
+    "name": "com.sun.crypto.provider.HmacCore$HmacSHA256",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.SslContext"
+    },
+    "name": "com.sun.crypto.provider.HmacCore$HmacSHA256",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.ThreadPerChannelEventLoop"
+    },
+    "name": "com.sun.crypto.provider.HmacSHA1",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.epoll.AbstractEpollChannel$AbstractEpollUnsafe$1"
+    },
+    "name": "com.sun.crypto.provider.HmacSHA1",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.epoll.EpollEventLoop"
+    },
+    "name": "com.sun.crypto.provider.HmacSHA1",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.nio.NioEventLoop"
+    },
+    "name": "com.sun.crypto.provider.HmacSHA1",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.oio.AbstractOioByteChannel"
+    },
+    "name": "com.sun.crypto.provider.HmacSHA1",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.concurrent.FastThreadLocalRunnable"
+    },
+    "name": "com.sun.crypto.provider.HmacSHA1",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.OpenSslX509KeyManagerFactory$OpenSslKeyManagerFactorySpi"
+    },
+    "name": "com.sun.crypto.provider.PBEKeyFactory$PBEWithMD5AndDES",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.SslContext"
+    },
+    "name": "com.sun.crypto.provider.PBEKeyFactory$PBEWithMD5AndDES",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.SslContext"
+    },
+    "name": "com.sun.crypto.provider.PBEParameters",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.SslContext"
+    },
+    "name": "com.sun.crypto.provider.PBES2Core$HmacSHA256AndAES_256",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.SslContext"
+    },
+    "name": "com.sun.crypto.provider.PBES2Parameters$General",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.SslContext"
+    },
+    "name": "com.sun.crypto.provider.PBES2Parameters$HmacSHA256AndAES_256",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.epoll.AbstractEpollChannel$AbstractEpollUnsafe$1"
+    },
+    "name": "com.sun.crypto.provider.RSACipher",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.epoll.EpollEventLoop"
+    },
+    "name": "com.sun.crypto.provider.RSACipher",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.nio.NioEventLoop"
+    },
+    "name": "com.sun.crypto.provider.RSACipher",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.oio.AbstractOioByteChannel"
+    },
+    "name": "com.sun.crypto.provider.RSACipher",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.DefaultEventLoop"
+    },
+    "name": "com.sun.crypto.provider.TlsKeyMaterialGenerator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.epoll.AbstractEpollChannel$AbstractEpollUnsafe$1"
+    },
+    "name": "com.sun.crypto.provider.TlsKeyMaterialGenerator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.epoll.EpollEventLoop"
+    },
+    "name": "com.sun.crypto.provider.TlsKeyMaterialGenerator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.local.LocalChannel"
+    },
+    "name": "com.sun.crypto.provider.TlsKeyMaterialGenerator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.nio.NioEventLoop"
+    },
+    "name": "com.sun.crypto.provider.TlsKeyMaterialGenerator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.oio.AbstractOioByteChannel"
+    },
+    "name": "com.sun.crypto.provider.TlsKeyMaterialGenerator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.DefaultEventLoop"
+    },
+    "name": "com.sun.crypto.provider.TlsMasterSecretGenerator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.epoll.AbstractEpollChannel$AbstractEpollUnsafe$1"
+    },
+    "name": "com.sun.crypto.provider.TlsMasterSecretGenerator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.epoll.EpollEventLoop"
+    },
+    "name": "com.sun.crypto.provider.TlsMasterSecretGenerator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.local.LocalChannel"
+    },
+    "name": "com.sun.crypto.provider.TlsMasterSecretGenerator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.nio.NioEventLoop"
+    },
+    "name": "com.sun.crypto.provider.TlsMasterSecretGenerator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.oio.AbstractOioByteChannel"
+    },
+    "name": "com.sun.crypto.provider.TlsMasterSecretGenerator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.DefaultEventLoop"
+    },
+    "name": "com.sun.crypto.provider.TlsPrfGenerator$V12",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.epoll.AbstractEpollChannel$AbstractEpollUnsafe$1"
+    },
+    "name": "com.sun.crypto.provider.TlsPrfGenerator$V12",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.epoll.EpollEventLoop"
+    },
+    "name": "com.sun.crypto.provider.TlsPrfGenerator$V12",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.local.LocalChannel"
+    },
+    "name": "com.sun.crypto.provider.TlsPrfGenerator$V12",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.nio.NioEventLoop"
+    },
+    "name": "com.sun.crypto.provider.TlsPrfGenerator$V12",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.oio.AbstractOioByteChannel"
+    },
+    "name": "com.sun.crypto.provider.TlsPrfGenerator$V12",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.SslHandler$SslTasksRunner"
+    },
+    "name": "com.sun.crypto.provider.TlsPrfGenerator$V12",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.epoll.AbstractEpollChannel$AbstractEpollUnsafe$1"
+    },
+    "name": "com.sun.crypto.provider.TlsRsaPremasterSecretGenerator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.epoll.EpollEventLoop"
+    },
+    "name": "com.sun.crypto.provider.TlsRsaPremasterSecretGenerator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.nio.NioEventLoop"
+    },
+    "name": "com.sun.crypto.provider.TlsRsaPremasterSecretGenerator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.oio.AbstractOioByteChannel"
+    },
+    "name": "com.sun.crypto.provider.TlsRsaPremasterSecretGenerator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.logging.Slf4JLoggerFactory"
+    },
+    "name": "com.sun.org.apache.xerces.internal.jaxp.SAXParserFactoryImpl",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.bootstrap.ServerBootstrap$1"
+    },
+    "name": "io.netty.bootstrap.ServerBootstrap$1",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.bootstrap.ServerBootstrap$ServerBootstrapAcceptor"
+    },
+    "name": "io.netty.bootstrap.ServerBootstrap$ServerBootstrapAcceptor",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.buffer.AbstractByteBufAllocator"
+    },
+    "name": "io.netty.buffer.AbstractByteBufAllocator"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.buffer.ByteBufAllocator"
+    },
+    "name": "io.netty.buffer.AbstractByteBufAllocator"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.buffer.ByteBufUtil"
+    },
+    "name": "io.netty.buffer.AbstractByteBufAllocator"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.buffer.Unpooled"
+    },
+    "name": "io.netty.buffer.AbstractByteBufAllocator"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.DefaultChannelConfig"
+    },
+    "name": "io.netty.buffer.AbstractByteBufAllocator"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.local.LocalServerChannel$1"
+    },
+    "name": "io.netty.buffer.AbstractByteBufAllocator"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.sctp.DefaultSctpServerChannelConfig"
+    },
+    "name": "io.netty.buffer.AbstractByteBufAllocator",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.socket.DefaultDatagramChannelConfig"
+    },
+    "name": "io.netty.buffer.AbstractByteBufAllocator",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.udt.DefaultUdtServerChannelConfig"
+    },
+    "name": "io.netty.buffer.AbstractByteBufAllocator"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.ReplayingDecoderByteBuf"
+    },
+    "name": "io.netty.buffer.AbstractByteBufAllocator",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.HttpObjectEncoder"
+    },
+    "name": "io.netty.buffer.AbstractByteBufAllocator",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.websocketx.extensions.compression.DeflateDecoder"
+    },
+    "name": "io.netty.buffer.AbstractByteBufAllocator",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.redis.FixedRedisMessagePool"
+    },
+    "name": "io.netty.buffer.AbstractByteBufAllocator",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.smtp.SmtpRequestEncoder"
+    },
+    "name": "io.netty.buffer.AbstractByteBufAllocator",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.PemPrivateKey"
+    },
+    "name": "io.netty.buffer.AbstractByteBufAllocator",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.buffer.AbstractReferenceCountedByteBuf"
+    },
+    "name": "io.netty.buffer.AbstractReferenceCountedByteBuf",
+    "fields": [
+      {
+        "name": "refCnt"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.buffer.AdvancedLeakAwareByteBuf"
+    },
+    "name": "io.netty.buffer.AdvancedLeakAwareByteBuf",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.ChannelDuplexHandler"
+    },
+    "name": "io.netty.channel.ChannelDuplexHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.ChannelHandler"
+    },
+    "name": "io.netty.channel.ChannelHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.ChannelHandlerAdapter"
+    },
+    "name": "io.netty.channel.ChannelHandlerAdapter",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.ChannelInboundHandler"
+    },
+    "name": "io.netty.channel.ChannelInboundHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.ChannelInboundHandlerAdapter"
+    },
+    "name": "io.netty.channel.ChannelInboundHandlerAdapter",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.ChannelInitializer"
+    },
+    "name": "io.netty.channel.ChannelInitializer",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.ChannelOutboundHandler"
+    },
+    "name": "io.netty.channel.ChannelOutboundHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.ChannelOutboundHandlerAdapter"
+    },
+    "name": "io.netty.channel.ChannelOutboundHandlerAdapter",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.CombinedChannelDuplexHandler"
+    },
+    "name": "io.netty.channel.CombinedChannelDuplexHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.DefaultChannelPipeline$HeadContext"
+    },
+    "name": "io.netty.channel.DefaultChannelPipeline$HeadContext",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.DefaultChannelPipeline$TailContext"
+    },
+    "name": "io.netty.channel.DefaultChannelPipeline$TailContext",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.epoll.Native"
+    },
+    "name": "io.netty.channel.DefaultFileRegion"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.SimpleChannelInboundHandler"
+    },
+    "name": "io.netty.channel.SimpleChannelInboundHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.SimpleUserEventChannelHandler"
+    },
+    "name": "io.netty.channel.SimpleUserEventChannelHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.embedded.EmbeddedChannel$2"
+    },
+    "name": "io.netty.channel.embedded.EmbeddedChannel$2",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.bootstrap.Bootstrap"
+    },
+    "name": "io.netty.channel.epoll.EpollSocketChannel",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.epoll.Native"
+    },
+    "name": "io.netty.channel.epoll.NativeDatagramPacketArray$NativeDatagramPacket"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.pool.SimpleChannelPool"
+    },
+    "name": "io.netty.channel.local.LocalChannel",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.pool.SimpleChannelPool$1"
+    },
+    "name": "io.netty.channel.pool.SimpleChannelPool$1",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.bootstrap.Bootstrap"
+    },
+    "name": "io.netty.channel.socket.nio.NioDatagramChannel",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.resolver.dns.DnsAddressResolverGroup"
+    },
+    "name": "io.netty.channel.socket.nio.NioDatagramChannel",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.resolver.dns.DnsNameResolver"
+    },
+    "name": "io.netty.channel.socket.nio.NioDatagramChannel",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.resolver.dns.DnsNameResolverBuilder"
+    },
+    "name": "io.netty.channel.socket.nio.NioDatagramChannel",
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.socket.nio.NioServerSocketChannel"
+    },
+    "name": "io.netty.channel.socket.nio.NioServerSocketChannel",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.proxy.ProxyServer"
+    },
+    "name": "io.netty.channel.socket.nio.NioServerSocketChannel",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.bootstrap.Bootstrap"
+    },
+    "name": "io.netty.channel.socket.nio.NioSocketChannel",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.proxy.ProxyServer$IntermediaryHandler"
+    },
+    "name": "io.netty.channel.socket.nio.NioSocketChannel",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.resolver.dns.DnsNameResolver$DnsResponseHandler"
+    },
+    "name": "io.netty.channel.socket.nio.NioSocketChannel",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.resolver.dns.DnsNameResolverBuilder"
+    },
+    "name": "io.netty.channel.socket.nio.NioSocketChannel",
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.bootstrap.Bootstrap"
+    },
+    "name": "io.netty.channel.socket.oio.OioSocketChannel",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.unix.Unix"
+    },
+    "name": "io.netty.channel.unix.DatagramSocketAddress"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.unix.Unix"
+    },
+    "name": "io.netty.channel.unix.DomainDatagramSocketAddress"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.epoll.Native"
+    },
+    "name": "io.netty.channel.unix.PeerCredentials"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.address.DynamicAddressConnectHandler"
+    },
+    "name": "io.netty.handler.address.DynamicAddressConnectHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.address.ResolveAddressHandler"
+    },
+    "name": "io.netty.handler.address.ResolveAddressHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.ByteToMessageCodec"
+    },
+    "name": "io.netty.handler.codec.ByteToMessageCodec",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.ByteToMessageCodec$1"
+    },
+    "name": "io.netty.handler.codec.ByteToMessageCodec$1",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.ByteToMessageCodec$Encoder"
+    },
+    "name": "io.netty.handler.codec.ByteToMessageCodec$Encoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.ByteToMessageDecoder"
+    },
+    "name": "io.netty.handler.codec.ByteToMessageDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.DatagramPacketDecoder"
+    },
+    "name": "io.netty.handler.codec.DatagramPacketDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.DatagramPacketEncoder"
+    },
+    "name": "io.netty.handler.codec.DatagramPacketEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.DelimiterBasedFrameDecoder"
+    },
+    "name": "io.netty.handler.codec.DelimiterBasedFrameDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.FixedLengthFrameDecoder"
+    },
+    "name": "io.netty.handler.codec.FixedLengthFrameDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.LengthFieldBasedFrameDecoder"
+    },
+    "name": "io.netty.handler.codec.LengthFieldBasedFrameDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.LengthFieldPrepender"
+    },
+    "name": "io.netty.handler.codec.LengthFieldPrepender",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.LineBasedFrameDecoder"
+    },
+    "name": "io.netty.handler.codec.LineBasedFrameDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.MessageAggregator"
+    },
+    "name": "io.netty.handler.codec.MessageAggregator",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.MessageToByteEncoder"
+    },
+    "name": "io.netty.handler.codec.MessageToByteEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.MessageToMessageCodec"
+    },
+    "name": "io.netty.handler.codec.MessageToMessageCodec",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.MessageToMessageCodec$1"
+    },
+    "name": "io.netty.handler.codec.MessageToMessageCodec$1",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.MessageToMessageCodec$2"
+    },
+    "name": "io.netty.handler.codec.MessageToMessageCodec$2",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.MessageToMessageDecoder"
+    },
+    "name": "io.netty.handler.codec.MessageToMessageDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.MessageToMessageEncoder"
+    },
+    "name": "io.netty.handler.codec.MessageToMessageEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.ReplayingDecoder"
+    },
+    "name": "io.netty.handler.codec.ReplayingDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.base64.Base64Decoder"
+    },
+    "name": "io.netty.handler.codec.base64.Base64Decoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.base64.Base64Encoder"
+    },
+    "name": "io.netty.handler.codec.base64.Base64Encoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.bytes.ByteArrayDecoder"
+    },
+    "name": "io.netty.handler.codec.bytes.ByteArrayDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.bytes.ByteArrayEncoder"
+    },
+    "name": "io.netty.handler.codec.bytes.ByteArrayEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.compression.BrotliDecoder"
+    },
+    "name": "io.netty.handler.codec.compression.BrotliDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.compression.BrotliEncoder"
+    },
+    "name": "io.netty.handler.codec.compression.BrotliEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.compression.Bzip2Decoder"
+    },
+    "name": "io.netty.handler.codec.compression.Bzip2Decoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.compression.Bzip2Encoder"
+    },
+    "name": "io.netty.handler.codec.compression.Bzip2Encoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.compression.FastLzFrameDecoder"
+    },
+    "name": "io.netty.handler.codec.compression.FastLzFrameDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.compression.FastLzFrameEncoder"
+    },
+    "name": "io.netty.handler.codec.compression.FastLzFrameEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.compression.JZlibDecoder"
+    },
+    "name": "io.netty.handler.codec.compression.JZlibDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.compression.JZlibEncoder"
+    },
+    "name": "io.netty.handler.codec.compression.JZlibEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.compression.JdkZlibDecoder"
+    },
+    "name": "io.netty.handler.codec.compression.JdkZlibDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.compression.JdkZlibEncoder"
+    },
+    "name": "io.netty.handler.codec.compression.JdkZlibEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.compression.Lz4FrameDecoder"
+    },
+    "name": "io.netty.handler.codec.compression.Lz4FrameDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.compression.Lz4FrameEncoder"
+    },
+    "name": "io.netty.handler.codec.compression.Lz4FrameEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.compression.LzfDecoder"
+    },
+    "name": "io.netty.handler.codec.compression.LzfDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.compression.LzfEncoder"
+    },
+    "name": "io.netty.handler.codec.compression.LzfEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.compression.LzmaFrameEncoder"
+    },
+    "name": "io.netty.handler.codec.compression.LzmaFrameEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.compression.SnappyFrameDecoder"
+    },
+    "name": "io.netty.handler.codec.compression.SnappyFrameDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.compression.SnappyFrameEncoder"
+    },
+    "name": "io.netty.handler.codec.compression.SnappyFrameEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.compression.SnappyFramedDecoder"
+    },
+    "name": "io.netty.handler.codec.compression.SnappyFramedDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.compression.SnappyFramedEncoder"
+    },
+    "name": "io.netty.handler.codec.compression.SnappyFramedEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.compression.ZlibDecoder"
+    },
+    "name": "io.netty.handler.codec.compression.ZlibDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.compression.ZlibEncoder"
+    },
+    "name": "io.netty.handler.codec.compression.ZlibEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.compression.ZstdEncoder"
+    },
+    "name": "io.netty.handler.codec.compression.ZstdEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.dns.DatagramDnsQueryDecoder"
+    },
+    "name": "io.netty.handler.codec.dns.DatagramDnsQueryDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.dns.DatagramDnsQueryEncoder"
+    },
+    "name": "io.netty.handler.codec.dns.DatagramDnsQueryEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.dns.DatagramDnsResponseDecoder"
+    },
+    "name": "io.netty.handler.codec.dns.DatagramDnsResponseDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.dns.DatagramDnsResponseEncoder"
+    },
+    "name": "io.netty.handler.codec.dns.DatagramDnsResponseEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.dns.TcpDnsQueryDecoder"
+    },
+    "name": "io.netty.handler.codec.dns.TcpDnsQueryDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.dns.TcpDnsQueryEncoder"
+    },
+    "name": "io.netty.handler.codec.dns.TcpDnsQueryEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.dns.TcpDnsResponseDecoder"
+    },
+    "name": "io.netty.handler.codec.dns.TcpDnsResponseDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.dns.TcpDnsResponseEncoder"
+    },
+    "name": "io.netty.handler.codec.dns.TcpDnsResponseEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.haproxy.HAProxyMessageDecoder"
+    },
+    "name": "io.netty.handler.codec.haproxy.HAProxyMessageDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.haproxy.HAProxyMessageEncoder"
+    },
+    "name": "io.netty.handler.codec.haproxy.HAProxyMessageEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.HttpClientCodec"
+    },
+    "name": "io.netty.handler.codec.http.HttpClientCodec",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.HttpClientCodec$Decoder"
+    },
+    "name": "io.netty.handler.codec.http.HttpClientCodec$Decoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.HttpClientCodec$Encoder"
+    },
+    "name": "io.netty.handler.codec.http.HttpClientCodec$Encoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.HttpClientUpgradeHandler"
+    },
+    "name": "io.netty.handler.codec.http.HttpClientUpgradeHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.HttpContentCompressor"
+    },
+    "name": "io.netty.handler.codec.http.HttpContentCompressor",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.HttpContentDecoder"
+    },
+    "name": "io.netty.handler.codec.http.HttpContentDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.HttpContentDecompressor"
+    },
+    "name": "io.netty.handler.codec.http.HttpContentDecompressor",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.HttpContentEncoder"
+    },
+    "name": "io.netty.handler.codec.http.HttpContentEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.HttpObjectAggregator"
+    },
+    "name": "io.netty.handler.codec.http.HttpObjectAggregator",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.HttpObjectDecoder"
+    },
+    "name": "io.netty.handler.codec.http.HttpObjectDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.HttpObjectEncoder"
+    },
+    "name": "io.netty.handler.codec.http.HttpObjectEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.HttpRequestDecoder"
+    },
+    "name": "io.netty.handler.codec.http.HttpRequestDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.HttpRequestEncoder"
+    },
+    "name": "io.netty.handler.codec.http.HttpRequestEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.HttpResponseDecoder"
+    },
+    "name": "io.netty.handler.codec.http.HttpResponseDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.HttpResponseEncoder"
+    },
+    "name": "io.netty.handler.codec.http.HttpResponseEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.HttpServerCodec"
+    },
+    "name": "io.netty.handler.codec.http.HttpServerCodec",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.HttpServerCodec$HttpServerRequestDecoder"
+    },
+    "name": "io.netty.handler.codec.http.HttpServerCodec$HttpServerRequestDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.HttpServerCodec$HttpServerResponseEncoder"
+    },
+    "name": "io.netty.handler.codec.http.HttpServerCodec$HttpServerResponseEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.HttpServerExpectContinueHandler"
+    },
+    "name": "io.netty.handler.codec.http.HttpServerExpectContinueHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.HttpServerKeepAliveHandler"
+    },
+    "name": "io.netty.handler.codec.http.HttpServerKeepAliveHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.HttpServerUpgradeHandler"
+    },
+    "name": "io.netty.handler.codec.http.HttpServerUpgradeHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.cors.CorsHandler"
+    },
+    "name": "io.netty.handler.codec.http.cors.CorsHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.websocketx.Utf8FrameValidator"
+    },
+    "name": "io.netty.handler.codec.http.websocketx.Utf8FrameValidator",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.websocketx.WebSocket00FrameDecoder"
+    },
+    "name": "io.netty.handler.codec.http.websocketx.WebSocket00FrameDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.websocketx.WebSocket00FrameEncoder"
+    },
+    "name": "io.netty.handler.codec.http.websocketx.WebSocket00FrameEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.websocketx.WebSocket07FrameDecoder"
+    },
+    "name": "io.netty.handler.codec.http.websocketx.WebSocket07FrameDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.websocketx.WebSocket07FrameEncoder"
+    },
+    "name": "io.netty.handler.codec.http.websocketx.WebSocket07FrameEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.websocketx.WebSocket08FrameDecoder"
+    },
+    "name": "io.netty.handler.codec.http.websocketx.WebSocket08FrameDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder"
+    },
+    "name": "io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.websocketx.WebSocket13FrameDecoder"
+    },
+    "name": "io.netty.handler.codec.http.websocketx.WebSocket13FrameDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.websocketx.WebSocket13FrameEncoder"
+    },
+    "name": "io.netty.handler.codec.http.websocketx.WebSocket13FrameEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.websocketx.WebSocketClientHandshaker$4"
+    },
+    "name": "io.netty.handler.codec.http.websocketx.WebSocketClientHandshaker$4",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.websocketx.WebSocketClientProtocolHandler"
+    },
+    "name": "io.netty.handler.codec.http.websocketx.WebSocketClientProtocolHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.websocketx.WebSocketClientProtocolHandshakeHandler"
+    },
+    "name": "io.netty.handler.codec.http.websocketx.WebSocketClientProtocolHandshakeHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.websocketx.WebSocketFrameAggregator"
+    },
+    "name": "io.netty.handler.codec.http.websocketx.WebSocketFrameAggregator",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.websocketx.WebSocketFrameDecoder"
+    },
+    "name": "io.netty.handler.codec.http.websocketx.WebSocketFrameDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.websocketx.WebSocketFrameEncoder"
+    },
+    "name": "io.netty.handler.codec.http.websocketx.WebSocketFrameEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.websocketx.WebSocketProtocolHandler"
+    },
+    "name": "io.netty.handler.codec.http.websocketx.WebSocketProtocolHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.websocketx.WebSocketServerHandshaker$2"
+    },
+    "name": "io.netty.handler.codec.http.websocketx.WebSocketServerHandshaker$2",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.websocketx.WebSocketServerProtocolHandler"
+    },
+    "name": "io.netty.handler.codec.http.websocketx.WebSocketServerProtocolHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.websocketx.WebSocketServerProtocolHandshakeHandler"
+    },
+    "name": "io.netty.handler.codec.http.websocketx.WebSocketServerProtocolHandshakeHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.websocketx.extensions.WebSocketClientExtensionHandler"
+    },
+    "name": "io.netty.handler.codec.http.websocketx.extensions.WebSocketClientExtensionHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.websocketx.extensions.WebSocketExtensionDecoder"
+    },
+    "name": "io.netty.handler.codec.http.websocketx.extensions.WebSocketExtensionDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.websocketx.extensions.WebSocketExtensionEncoder"
+    },
+    "name": "io.netty.handler.codec.http.websocketx.extensions.WebSocketExtensionEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.websocketx.extensions.WebSocketServerExtensionHandler"
+    },
+    "name": "io.netty.handler.codec.http.websocketx.extensions.WebSocketServerExtensionHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.websocketx.extensions.compression.DeflateDecoder"
+    },
+    "name": "io.netty.handler.codec.http.websocketx.extensions.compression.DeflateDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.websocketx.extensions.compression.DeflateEncoder"
+    },
+    "name": "io.netty.handler.codec.http.websocketx.extensions.compression.DeflateEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.websocketx.extensions.compression.PerFrameDeflateDecoder"
+    },
+    "name": "io.netty.handler.codec.http.websocketx.extensions.compression.PerFrameDeflateDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.websocketx.extensions.compression.PerFrameDeflateEncoder"
+    },
+    "name": "io.netty.handler.codec.http.websocketx.extensions.compression.PerFrameDeflateEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.websocketx.extensions.compression.PerMessageDeflateDecoder"
+    },
+    "name": "io.netty.handler.codec.http.websocketx.extensions.compression.PerMessageDeflateDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.websocketx.extensions.compression.PerMessageDeflateEncoder"
+    },
+    "name": "io.netty.handler.codec.http.websocketx.extensions.compression.PerMessageDeflateEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.websocketx.extensions.compression.WebSocketClientCompressionHandler"
+    },
+    "name": "io.netty.handler.codec.http.websocketx.extensions.compression.WebSocketClientCompressionHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.websocketx.extensions.compression.WebSocketServerCompressionHandler"
+    },
+    "name": "io.netty.handler.codec.http.websocketx.extensions.compression.WebSocketServerCompressionHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http2.CleartextHttp2ServerUpgradeHandler"
+    },
+    "name": "io.netty.handler.codec.http2.CleartextHttp2ServerUpgradeHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http2.Http2ChannelDuplexHandler"
+    },
+    "name": "io.netty.handler.codec.http2.Http2ChannelDuplexHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http2.Http2ConnectionHandler"
+    },
+    "name": "io.netty.handler.codec.http2.Http2ConnectionHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http2.Http2FrameCodec"
+    },
+    "name": "io.netty.handler.codec.http2.Http2FrameCodec",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http2.Http2FrameLogger"
+    },
+    "name": "io.netty.handler.codec.http2.Http2FrameLogger",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http2.Http2MultiplexCodec"
+    },
+    "name": "io.netty.handler.codec.http2.Http2MultiplexCodec",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http2.Http2MultiplexHandler"
+    },
+    "name": "io.netty.handler.codec.http2.Http2MultiplexHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http2.Http2StreamFrameToHttpObjectCodec"
+    },
+    "name": "io.netty.handler.codec.http2.Http2StreamFrameToHttpObjectCodec",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http2.HttpToHttp2ConnectionHandler"
+    },
+    "name": "io.netty.handler.codec.http2.HttpToHttp2ConnectionHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http2.InboundHttpToHttp2Adapter"
+    },
+    "name": "io.netty.handler.codec.http2.InboundHttpToHttp2Adapter",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.json.JsonObjectDecoder"
+    },
+    "name": "io.netty.handler.codec.json.JsonObjectDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.marshalling.CompatibleMarshallingDecoder"
+    },
+    "name": "io.netty.handler.codec.marshalling.CompatibleMarshallingDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.marshalling.CompatibleMarshallingEncoder"
+    },
+    "name": "io.netty.handler.codec.marshalling.CompatibleMarshallingEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.marshalling.MarshallingDecoder"
+    },
+    "name": "io.netty.handler.codec.marshalling.MarshallingDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.marshalling.MarshallingEncoder"
+    },
+    "name": "io.netty.handler.codec.marshalling.MarshallingEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.memcache.AbstractMemcacheObjectAggregator"
+    },
+    "name": "io.netty.handler.codec.memcache.AbstractMemcacheObjectAggregator",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.memcache.AbstractMemcacheObjectDecoder"
+    },
+    "name": "io.netty.handler.codec.memcache.AbstractMemcacheObjectDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.memcache.AbstractMemcacheObjectEncoder"
+    },
+    "name": "io.netty.handler.codec.memcache.AbstractMemcacheObjectEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.memcache.binary.AbstractBinaryMemcacheDecoder"
+    },
+    "name": "io.netty.handler.codec.memcache.binary.AbstractBinaryMemcacheDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.memcache.binary.AbstractBinaryMemcacheEncoder"
+    },
+    "name": "io.netty.handler.codec.memcache.binary.AbstractBinaryMemcacheEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.memcache.binary.BinaryMemcacheClientCodec"
+    },
+    "name": "io.netty.handler.codec.memcache.binary.BinaryMemcacheClientCodec",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.memcache.binary.BinaryMemcacheClientCodec$Decoder"
+    },
+    "name": "io.netty.handler.codec.memcache.binary.BinaryMemcacheClientCodec$Decoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.memcache.binary.BinaryMemcacheClientCodec$Encoder"
+    },
+    "name": "io.netty.handler.codec.memcache.binary.BinaryMemcacheClientCodec$Encoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.memcache.binary.BinaryMemcacheObjectAggregator"
+    },
+    "name": "io.netty.handler.codec.memcache.binary.BinaryMemcacheObjectAggregator",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.memcache.binary.BinaryMemcacheRequestDecoder"
+    },
+    "name": "io.netty.handler.codec.memcache.binary.BinaryMemcacheRequestDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.memcache.binary.BinaryMemcacheRequestEncoder"
+    },
+    "name": "io.netty.handler.codec.memcache.binary.BinaryMemcacheRequestEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.memcache.binary.BinaryMemcacheResponseDecoder"
+    },
+    "name": "io.netty.handler.codec.memcache.binary.BinaryMemcacheResponseDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.memcache.binary.BinaryMemcacheResponseEncoder"
+    },
+    "name": "io.netty.handler.codec.memcache.binary.BinaryMemcacheResponseEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.memcache.binary.BinaryMemcacheServerCodec"
+    },
+    "name": "io.netty.handler.codec.memcache.binary.BinaryMemcacheServerCodec",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.mqtt.MqttDecoder"
+    },
+    "name": "io.netty.handler.codec.mqtt.MqttDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.mqtt.MqttEncoder"
+    },
+    "name": "io.netty.handler.codec.mqtt.MqttEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.protobuf.ProtobufDecoder"
+    },
+    "name": "io.netty.handler.codec.protobuf.ProtobufDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.protobuf.ProtobufDecoderNano"
+    },
+    "name": "io.netty.handler.codec.protobuf.ProtobufDecoderNano",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.protobuf.ProtobufEncoder"
+    },
+    "name": "io.netty.handler.codec.protobuf.ProtobufEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.protobuf.ProtobufEncoderNano"
+    },
+    "name": "io.netty.handler.codec.protobuf.ProtobufEncoderNano",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.protobuf.ProtobufVarint32FrameDecoder"
+    },
+    "name": "io.netty.handler.codec.protobuf.ProtobufVarint32FrameDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.protobuf.ProtobufVarint32LengthFieldPrepender"
+    },
+    "name": "io.netty.handler.codec.protobuf.ProtobufVarint32LengthFieldPrepender",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.redis.RedisArrayAggregator"
+    },
+    "name": "io.netty.handler.codec.redis.RedisArrayAggregator",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.redis.RedisBulkStringAggregator"
+    },
+    "name": "io.netty.handler.codec.redis.RedisBulkStringAggregator",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.redis.RedisDecoder"
+    },
+    "name": "io.netty.handler.codec.redis.RedisDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.redis.RedisEncoder"
+    },
+    "name": "io.netty.handler.codec.redis.RedisEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.rtsp.RtspDecoder"
+    },
+    "name": "io.netty.handler.codec.rtsp.RtspDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.rtsp.RtspEncoder"
+    },
+    "name": "io.netty.handler.codec.rtsp.RtspEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.rtsp.RtspObjectDecoder"
+    },
+    "name": "io.netty.handler.codec.rtsp.RtspObjectDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.rtsp.RtspObjectEncoder"
+    },
+    "name": "io.netty.handler.codec.rtsp.RtspObjectEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.rtsp.RtspRequestDecoder"
+    },
+    "name": "io.netty.handler.codec.rtsp.RtspRequestDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.rtsp.RtspRequestEncoder"
+    },
+    "name": "io.netty.handler.codec.rtsp.RtspRequestEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.rtsp.RtspResponseDecoder"
+    },
+    "name": "io.netty.handler.codec.rtsp.RtspResponseDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.rtsp.RtspResponseEncoder"
+    },
+    "name": "io.netty.handler.codec.rtsp.RtspResponseEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.sctp.SctpInboundByteStreamHandler"
+    },
+    "name": "io.netty.handler.codec.sctp.SctpInboundByteStreamHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.sctp.SctpMessageCompletionHandler"
+    },
+    "name": "io.netty.handler.codec.sctp.SctpMessageCompletionHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.sctp.SctpMessageToMessageDecoder"
+    },
+    "name": "io.netty.handler.codec.sctp.SctpMessageToMessageDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.sctp.SctpOutboundByteStreamHandler"
+    },
+    "name": "io.netty.handler.codec.sctp.SctpOutboundByteStreamHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.serialization.CompatibleObjectEncoder"
+    },
+    "name": "io.netty.handler.codec.serialization.CompatibleObjectEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.serialization.ObjectDecoder"
+    },
+    "name": "io.netty.handler.codec.serialization.ObjectDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.serialization.ObjectEncoder"
+    },
+    "name": "io.netty.handler.codec.serialization.ObjectEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.smtp.SmtpRequestEncoder"
+    },
+    "name": "io.netty.handler.codec.smtp.SmtpRequestEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.smtp.SmtpResponseDecoder"
+    },
+    "name": "io.netty.handler.codec.smtp.SmtpResponseDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.socks.SocksAuthRequestDecoder"
+    },
+    "name": "io.netty.handler.codec.socks.SocksAuthRequestDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.socks.SocksAuthResponseDecoder"
+    },
+    "name": "io.netty.handler.codec.socks.SocksAuthResponseDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.socks.SocksCmdRequestDecoder"
+    },
+    "name": "io.netty.handler.codec.socks.SocksCmdRequestDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.socks.SocksCmdResponseDecoder"
+    },
+    "name": "io.netty.handler.codec.socks.SocksCmdResponseDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.socks.SocksInitRequestDecoder"
+    },
+    "name": "io.netty.handler.codec.socks.SocksInitRequestDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.socks.SocksInitResponseDecoder"
+    },
+    "name": "io.netty.handler.codec.socks.SocksInitResponseDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.socks.SocksMessageEncoder"
+    },
+    "name": "io.netty.handler.codec.socks.SocksMessageEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.socksx.SocksPortUnificationServerHandler"
+    },
+    "name": "io.netty.handler.codec.socksx.SocksPortUnificationServerHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.socksx.v4.Socks4ClientDecoder"
+    },
+    "name": "io.netty.handler.codec.socksx.v4.Socks4ClientDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.socksx.v4.Socks4ClientEncoder"
+    },
+    "name": "io.netty.handler.codec.socksx.v4.Socks4ClientEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.socksx.v4.Socks4ServerDecoder"
+    },
+    "name": "io.netty.handler.codec.socksx.v4.Socks4ServerDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.socksx.v4.Socks4ServerEncoder"
+    },
+    "name": "io.netty.handler.codec.socksx.v4.Socks4ServerEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.socksx.v5.Socks5ClientEncoder"
+    },
+    "name": "io.netty.handler.codec.socksx.v5.Socks5ClientEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.socksx.v5.Socks5CommandRequestDecoder"
+    },
+    "name": "io.netty.handler.codec.socksx.v5.Socks5CommandRequestDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.socksx.v5.Socks5CommandResponseDecoder"
+    },
+    "name": "io.netty.handler.codec.socksx.v5.Socks5CommandResponseDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.socksx.v5.Socks5InitialRequestDecoder"
+    },
+    "name": "io.netty.handler.codec.socksx.v5.Socks5InitialRequestDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.socksx.v5.Socks5InitialResponseDecoder"
+    },
+    "name": "io.netty.handler.codec.socksx.v5.Socks5InitialResponseDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.socksx.v5.Socks5PasswordAuthRequestDecoder"
+    },
+    "name": "io.netty.handler.codec.socksx.v5.Socks5PasswordAuthRequestDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.socksx.v5.Socks5PasswordAuthResponseDecoder"
+    },
+    "name": "io.netty.handler.codec.socksx.v5.Socks5PasswordAuthResponseDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.socksx.v5.Socks5ServerEncoder"
+    },
+    "name": "io.netty.handler.codec.socksx.v5.Socks5ServerEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.spdy.SpdyFrameCodec"
+    },
+    "name": "io.netty.handler.codec.spdy.SpdyFrameCodec",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.spdy.SpdyHttpCodec"
+    },
+    "name": "io.netty.handler.codec.spdy.SpdyHttpCodec",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.spdy.SpdyHttpDecoder"
+    },
+    "name": "io.netty.handler.codec.spdy.SpdyHttpDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.spdy.SpdyHttpEncoder"
+    },
+    "name": "io.netty.handler.codec.spdy.SpdyHttpEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.spdy.SpdyHttpResponseStreamIdHandler"
+    },
+    "name": "io.netty.handler.codec.spdy.SpdyHttpResponseStreamIdHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.spdy.SpdySessionHandler"
+    },
+    "name": "io.netty.handler.codec.spdy.SpdySessionHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.stomp.StompSubframeAggregator"
+    },
+    "name": "io.netty.handler.codec.stomp.StompSubframeAggregator",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.stomp.StompSubframeDecoder"
+    },
+    "name": "io.netty.handler.codec.stomp.StompSubframeDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.stomp.StompSubframeEncoder"
+    },
+    "name": "io.netty.handler.codec.stomp.StompSubframeEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.string.LineEncoder"
+    },
+    "name": "io.netty.handler.codec.string.LineEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.string.StringDecoder"
+    },
+    "name": "io.netty.handler.codec.string.StringDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.string.StringEncoder"
+    },
+    "name": "io.netty.handler.codec.string.StringEncoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.xml.XmlDecoder"
+    },
+    "name": "io.netty.handler.codec.xml.XmlDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.xml.XmlFrameDecoder"
+    },
+    "name": "io.netty.handler.codec.xml.XmlFrameDecoder",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.flow.FlowControlHandler"
+    },
+    "name": "io.netty.handler.flow.FlowControlHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.flush.FlushConsolidationHandler"
+    },
+    "name": "io.netty.handler.flush.FlushConsolidationHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ipfilter.AbstractRemoteAddressFilter"
+    },
+    "name": "io.netty.handler.ipfilter.AbstractRemoteAddressFilter",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ipfilter.IpSubnetFilter"
+    },
+    "name": "io.netty.handler.ipfilter.IpSubnetFilter",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ipfilter.RuleBasedIpFilter"
+    },
+    "name": "io.netty.handler.ipfilter.RuleBasedIpFilter",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ipfilter.UniqueIpFilter"
+    },
+    "name": "io.netty.handler.ipfilter.UniqueIpFilter",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.logging.LoggingHandler"
+    },
+    "name": "io.netty.handler.logging.LoggingHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.pcap.PcapWriteHandler"
+    },
+    "name": "io.netty.handler.pcap.PcapWriteHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.proxy.HttpProxyHandler"
+    },
+    "name": "io.netty.handler.proxy.HttpProxyHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.proxy.HttpProxyHandler$HttpClientCodecWrapper"
+    },
+    "name": "io.netty.handler.proxy.HttpProxyHandler$HttpClientCodecWrapper",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.proxy.ProxyHandler"
+    },
+    "name": "io.netty.handler.proxy.ProxyHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.proxy.Socks4ProxyHandler"
+    },
+    "name": "io.netty.handler.proxy.Socks4ProxyHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.proxy.Socks5ProxyHandler"
+    },
+    "name": "io.netty.handler.proxy.Socks5ProxyHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.AbstractSniHandler"
+    },
+    "name": "io.netty.handler.ssl.AbstractSniHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.ApplicationProtocolNegotiationHandler"
+    },
+    "name": "io.netty.handler.ssl.ApplicationProtocolNegotiationHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.OptionalSslHandler"
+    },
+    "name": "io.netty.handler.ssl.OptionalSslHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.SniHandler"
+    },
+    "name": "io.netty.handler.ssl.SniHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.SslClientHelloHandler"
+    },
+    "name": "io.netty.handler.ssl.SslClientHelloHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.SslHandler"
+    },
+    "name": "io.netty.handler.ssl.SslHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.SslMasterKeyHandler"
+    },
+    "name": "io.netty.handler.ssl.SslMasterKeyHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.SslMasterKeyHandler$WiresharkSslMasterKeyHandler"
+    },
+    "name": "io.netty.handler.ssl.SslMasterKeyHandler$WiresharkSslMasterKeyHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.ocsp.OcspClientHandler"
+    },
+    "name": "io.netty.handler.ssl.ocsp.OcspClientHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.stream.ChunkedWriteHandler"
+    },
+    "name": "io.netty.handler.stream.ChunkedWriteHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.timeout.IdleStateHandler"
+    },
+    "name": "io.netty.handler.timeout.IdleStateHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.timeout.ReadTimeoutHandler"
+    },
+    "name": "io.netty.handler.timeout.ReadTimeoutHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.timeout.WriteTimeoutHandler"
+    },
+    "name": "io.netty.handler.timeout.WriteTimeoutHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.traffic.AbstractTrafficShapingHandler"
+    },
+    "name": "io.netty.handler.traffic.AbstractTrafficShapingHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.traffic.ChannelTrafficShapingHandler"
+    },
+    "name": "io.netty.handler.traffic.ChannelTrafficShapingHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.traffic.GlobalChannelTrafficShapingHandler"
+    },
+    "name": "io.netty.handler.traffic.GlobalChannelTrafficShapingHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.traffic.GlobalTrafficShapingHandler"
+    },
+    "name": "io.netty.handler.traffic.GlobalTrafficShapingHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.internal.tcnative.Library"
+    },
+    "name": "io.netty.internal.tcnative.CertificateCallback"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.internal.tcnative.Library"
+    },
+    "name": "io.netty.internal.tcnative.CertificateCallbackTask"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.internal.tcnative.Library"
+    },
+    "name": "io.netty.internal.tcnative.SSLPrivateKeyMethodDecryptTask"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.internal.tcnative.Library"
+    },
+    "name": "io.netty.internal.tcnative.SSLPrivateKeyMethodSignTask"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.internal.tcnative.Library"
+    },
+    "name": "io.netty.internal.tcnative.SSLPrivateKeyMethodTask"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.internal.tcnative.Library"
+    },
+    "name": "io.netty.internal.tcnative.SSLTask"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.resolver.dns.DnsNameResolver$1"
+    },
+    "name": "io.netty.resolver.dns.DnsNameResolver$1",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.resolver.dns.DnsNameResolver$3"
+    },
+    "name": "io.netty.resolver.dns.DnsNameResolver$3",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.resolver.dns.DnsNameResolver$DnsResponseHandler"
+    },
+    "name": "io.netty.resolver.dns.DnsNameResolver$DnsResponseHandler",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.resolver.dns.DnsNameResolver$DnsResponseHandler$1$1"
+    },
+    "name": "io.netty.resolver.dns.DnsNameResolver$DnsResponseHandler$1$1",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.AbstractReferenceCounted"
+    },
+    "name": "io.netty.util.AbstractReferenceCounted",
+    "fields": [
+      {
+        "name": "refCnt"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.DefaultChannelPipeline"
+    },
+    "name": "io.netty.util.ReferenceCountUtil",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.epoll.AbstractEpollServerChannel$EpollServerSocketUnsafe"
+    },
+    "name": "io.netty.util.ReferenceCountUtil",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.local.LocalServerChannel"
+    },
+    "name": "io.netty.util.ReferenceCountUtil",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.nio.NioEventLoop"
+    },
+    "name": "io.netty.util.ReferenceCountUtil",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.proxy.HttpProxyHandler$HttpClientCodecWrapper"
+    },
+    "name": "io.netty.util.ReferenceCountUtil",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.ReferenceCountUtil"
+    },
+    "name": "io.netty.util.ReferenceCountUtil"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.epoll.Native"
+    },
+    "name": "io.netty.util.internal.NativeLibraryUtil"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.NativeLibraryLoader"
+    },
+    "name": "io.netty.util.internal.NativeLibraryUtil"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.NativeLibraryLoader$1"
+    },
+    "name": "io.netty.util.internal.NativeLibraryUtil",
+    "methods": [
+      {
+        "name": "loadLibrary",
+        "parameterTypes": [
+          "java.lang.String",
+          "boolean"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.shaded.org.jctools.queues.BaseLinkedQueueConsumerNodeRef"
+    },
+    "name": "io.netty.util.internal.shaded.org.jctools.queues.BaseLinkedQueueConsumerNodeRef",
+    "fields": [
+      {
+        "name": "consumerNode"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.shaded.org.jctools.queues.BaseLinkedQueueProducerNodeRef"
+    },
+    "name": "io.netty.util.internal.shaded.org.jctools.queues.BaseLinkedQueueProducerNodeRef",
+    "fields": [
+      {
+        "name": "producerNode"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.shaded.org.jctools.queues.BaseMpscLinkedArrayQueueColdProducerFields"
+    },
+    "name": "io.netty.util.internal.shaded.org.jctools.queues.BaseMpscLinkedArrayQueueColdProducerFields",
+    "fields": [
+      {
+        "name": "producerLimit"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.shaded.org.jctools.queues.BaseMpscLinkedArrayQueueConsumerFields"
+    },
+    "name": "io.netty.util.internal.shaded.org.jctools.queues.BaseMpscLinkedArrayQueueConsumerFields",
+    "fields": [
+      {
+        "name": "consumerIndex"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.shaded.org.jctools.queues.BaseMpscLinkedArrayQueueProducerFields"
+    },
+    "name": "io.netty.util.internal.shaded.org.jctools.queues.BaseMpscLinkedArrayQueueProducerFields",
+    "fields": [
+      {
+        "name": "producerIndex"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.shaded.org.jctools.queues.LinkedQueueNode"
+    },
+    "name": "io.netty.util.internal.shaded.org.jctools.queues.LinkedQueueNode",
+    "fields": [
+      {
+        "name": "next"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.shaded.org.jctools.queues.MpscArrayQueueConsumerIndexField"
+    },
+    "name": "io.netty.util.internal.shaded.org.jctools.queues.MpscArrayQueueConsumerIndexField",
+    "fields": [
+      {
+        "name": "consumerIndex"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.shaded.org.jctools.queues.MpscArrayQueueProducerIndexField"
+    },
+    "name": "io.netty.util.internal.shaded.org.jctools.queues.MpscArrayQueueProducerIndexField",
+    "fields": [
+      {
+        "name": "producerIndex"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.shaded.org.jctools.queues.MpscArrayQueueProducerLimitField"
+    },
+    "name": "io.netty.util.internal.shaded.org.jctools.queues.MpscArrayQueueProducerLimitField",
+    "fields": [
+      {
+        "name": "producerLimit"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.epoll.Native"
+    },
+    "name": "java.io.FileDescriptor"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.logging.Slf4JLoggerFactory"
+    },
+    "name": "java.io.FilePermission"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.unix.Unix"
+    },
+    "name": "java.io.IOException"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.internal.tcnative.Library"
+    },
+    "name": "java.lang.Exception"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.internal.tcnative.Library"
+    },
+    "name": "java.lang.IllegalArgumentException"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.internal.tcnative.Library"
+    },
+    "name": "java.lang.NullPointerException"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.marshalling.MarshallingEncoder"
+    },
+    "name": "java.lang.Object",
+    "allDeclaredFields": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.unix.Unix"
+    },
+    "name": "java.lang.OutOfMemoryError"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.internal.tcnative.Library"
+    },
+    "name": "java.lang.OutOfMemoryError"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.DefaultChannelId"
+    },
+    "name": "java.lang.ProcessHandle",
+    "methods": [
+      {
+        "name": "current",
+        "parameterTypes": []
+      },
+      {
+        "name": "pid",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.unix.Unix"
+    },
+    "name": "java.lang.RuntimeException"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.logging.Slf4JLoggerFactory"
+    },
+    "name": "java.lang.RuntimePermission"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.marshalling.MarshallingEncoder"
+    },
+    "name": "java.lang.String",
+    "allDeclaredFields": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.internal.tcnative.Library"
+    },
+    "name": "java.lang.String"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.logging.CommonsLoggerFactory"
+    },
+    "name": "java.lang.String"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.logging.LocationAwareSlf4JLogger"
+    },
+    "name": "java.lang.Throwable",
+    "methods": [
+      {
+        "name": "getSuppressed",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.DefaultChannelId"
+    },
+    "name": "java.lang.management.ManagementFactory",
+    "methods": [
+      {
+        "name": "getRuntimeMXBean",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.PlatformDependent"
+    },
+    "name": "java.lang.management.ManagementFactory",
+    "methods": [
+      {
+        "name": "getRuntimeMXBean",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.DefaultChannelId"
+    },
+    "name": "java.lang.management.RuntimeMXBean",
+    "methods": [
+      {
+        "name": "getName",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.PlatformDependent"
+    },
+    "name": "java.lang.management.RuntimeMXBean",
+    "methods": [
+      {
+        "name": "getInputArguments",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.resolver.HostsFileEntriesProvider"
+    },
+    "name": "java.lang.reflect.Executable",
+    "methods": [
+      {
+        "name": "getParameterCount",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.resolver.dns.DnsNameResolverBuilder"
+    },
+    "name": "java.lang.reflect.Executable",
+    "methods": [
+      {
+        "name": "getParameterCount",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.concurrent.SingleThreadEventExecutor"
+    },
+    "name": "java.lang.reflect.Executable",
+    "methods": [
+      {
+        "name": "getParameterCount",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.marshalling.DefaultUnmarshallerProvider"
+    },
+    "name": "java.lang.reflect.Proxy",
+    "fields": [
+      {
+        "name": "h"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.unix.Unix"
+    },
+    "name": "java.net.InetSocketAddress"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.logging.Slf4JLoggerFactory"
+    },
+    "name": "java.net.NetPermission"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.unix.Unix"
+    },
+    "name": "java.net.PortUnreachableException"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.socket.nio.NioDatagramChannelConfig"
+    },
+    "name": "java.net.SocketOption"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.logging.Slf4JLoggerFactory"
+    },
+    "name": "java.net.SocketPermission"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.socket.nio.NioDatagramChannelConfig"
+    },
+    "name": "java.net.StandardSocketOptions",
+    "fields": [
+      {
+        "name": "IP_MULTICAST_IF"
+      },
+      {
+        "name": "IP_MULTICAST_LOOP"
+      },
+      {
+        "name": "IP_MULTICAST_TTL"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.logging.Slf4JLoggerFactory"
+    },
+    "name": "java.net.URLPermission",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "java.lang.String",
+          "java.lang.String"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.PlatformDependent0$6"
+    },
+    "name": "java.nio.Bits",
+    "fields": [
+      {
+        "name": "UNALIGNED"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.PlatformDependent0$4"
+    },
+    "name": "java.nio.Buffer",
+    "fields": [
+      {
+        "name": "address"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.PlatformDependent0"
+    },
+    "name": "java.nio.ByteBuffer",
+    "methods": [
+      {
+        "name": "alignedSlice",
+        "parameterTypes": [
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.PlatformDependent0$9"
+    },
+    "name": "java.nio.ByteBuffer",
+    "queriedMethods": [
+      {
+        "name": "alignedSlice",
+        "parameterTypes": [
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.PlatformDependent0"
+    },
+    "name": "java.nio.DirectByteBuffer",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "long",
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.PlatformDependent0$5"
+    },
+    "name": "java.nio.DirectByteBuffer",
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "long",
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.unix.Unix"
+    },
+    "name": "java.nio.channels.ClosedChannelException"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.epoll.Native"
+    },
+    "name": "java.nio.channels.FileChannel"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.socket.nio.NioDatagramChannelConfig"
+    },
+    "name": "java.nio.channels.NetworkChannel",
+    "methods": [
+      {
+        "name": "getOption",
+        "parameterTypes": [
+          "java.net.SocketOption"
+        ]
+      },
+      {
+        "name": "setOption",
+        "parameterTypes": [
+          "java.net.SocketOption",
+          "java.lang.Object"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.logging.Slf4JLoggerFactory"
+    },
+    "name": "java.security.AllPermission"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkSslContext$Defaults"
+    },
+    "name": "java.security.KeyStoreSpi"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkAlpnSslUtils"
+    },
+    "name": "java.security.SecureRandomParameters"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkSslClientContext"
+    },
+    "name": "java.security.SecureRandomParameters"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkSslContext$Defaults"
+    },
+    "name": "java.security.SecureRandomParameters"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkSslServerContext"
+    },
+    "name": "java.security.SecureRandomParameters"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.OpenSslX509TrustManagerWrapper"
+    },
+    "name": "java.security.SecureRandomParameters"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.OpenSslX509TrustManagerWrapper$UnsafeTrustManagerWrapper"
+    },
+    "name": "java.security.SecureRandomParameters"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.SslContext"
+    },
+    "name": "java.security.SecureRandomParameters"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.SslUtils"
+    },
+    "name": "java.security.SecureRandomParameters"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.ThreadLocalInsecureRandom"
+    },
+    "name": "java.security.SecureRandomParameters"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.PlatformDependent"
+    },
+    "name": "java.security.SecureRandomParameters"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.logging.Slf4JLoggerFactory"
+    },
+    "name": "java.security.SecurityPermission"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.nio.NioEventLoop"
+    },
+    "name": "java.security.cert.CertStoreParameters"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.epoll.EpollEventLoop"
+    },
+    "name": "java.security.interfaces.ECPrivateKey"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.nio.NioEventLoop"
+    },
+    "name": "java.security.interfaces.ECPrivateKey"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.epoll.EpollEventLoop"
+    },
+    "name": "java.security.interfaces.ECPublicKey"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.nio.NioEventLoop"
+    },
+    "name": "java.security.interfaces.ECPublicKey"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.epoll.EpollEventLoop"
+    },
+    "name": "java.security.interfaces.RSAPrivateKey"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.nio.NioEventLoop"
+    },
+    "name": "java.security.interfaces.RSAPrivateKey"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.epoll.EpollEventLoop"
+    },
+    "name": "java.security.interfaces.RSAPublicKey"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.nio.NioEventLoop"
+    },
+    "name": "java.security.interfaces.RSAPublicKey"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.serialization.ClassLoaderClassResolver"
+    },
+    "name": "java.util.List"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.logging.Slf4JLoggerFactory"
+    },
+    "name": "java.util.PropertyPermission"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.compression.ByteBufChecksum"
+    },
+    "name": "java.util.zip.Adler32",
+    "methods": [
+      {
+        "name": "update",
+        "parameterTypes": [
+          "java.nio.ByteBuffer"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.compression.FastLzFrameDecoder"
+    },
+    "name": "java.util.zip.Adler32",
+    "methods": [
+      {
+        "name": "update",
+        "parameterTypes": [
+          "java.nio.ByteBuffer"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.compression.FastLzFrameEncoder"
+    },
+    "name": "java.util.zip.Adler32",
+    "methods": [
+      {
+        "name": "update",
+        "parameterTypes": [
+          "java.nio.ByteBuffer"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.compression.ByteBufChecksum"
+    },
+    "name": "java.util.zip.CRC32",
+    "methods": [
+      {
+        "name": "update",
+        "parameterTypes": [
+          "java.nio.ByteBuffer"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.compression.JdkZlibDecoder"
+    },
+    "name": "java.util.zip.CRC32",
+    "methods": [
+      {
+        "name": "update",
+        "parameterTypes": [
+          "java.nio.ByteBuffer"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.logging.Slf4JLoggerFactory"
+    },
+    "name": "javax.management.ObjectName"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.OpenSslX509TrustManagerWrapper$3"
+    },
+    "name": "javax.net.ssl.SSLContext",
+    "fields": [
+      {
+        "name": "contextSpi"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkAlpnSslUtils"
+    },
+    "name": "javax.net.ssl.SSLEngine",
+    "methods": [
+      {
+        "name": "getApplicationProtocol",
+        "parameterTypes": []
+      },
+      {
+        "name": "getHandshakeApplicationProtocol",
+        "parameterTypes": []
+      },
+      {
+        "name": "getHandshakeApplicationProtocolSelector",
+        "parameterTypes": []
+      },
+      {
+        "name": "setHandshakeApplicationProtocolSelector",
+        "parameterTypes": [
+          "java.util.function.BiFunction"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkAlpnSslUtils$1"
+    },
+    "name": "javax.net.ssl.SSLEngine",
+    "queriedMethods": [
+      {
+        "name": "getHandshakeApplicationProtocol",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkAlpnSslUtils$2"
+    },
+    "name": "javax.net.ssl.SSLEngine",
+    "queriedMethods": [
+      {
+        "name": "getApplicationProtocol",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkAlpnSslUtils$4"
+    },
+    "name": "javax.net.ssl.SSLEngine",
+    "queriedMethods": [
+      {
+        "name": "setHandshakeApplicationProtocolSelector",
+        "parameterTypes": [
+          "java.util.function.BiFunction"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkAlpnSslUtils$6"
+    },
+    "name": "javax.net.ssl.SSLEngine",
+    "queriedMethods": [
+      {
+        "name": "getHandshakeApplicationProtocolSelector",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.nio.NioEventLoop"
+    },
+    "name": "javax.net.ssl.SSLParameters",
+    "methods": [
+      {
+        "name": "setApplicationProtocols",
+        "parameterTypes": [
+          "java.lang.String[]"
+        ]
+      }
+    ],
+    "queriedMethods": [
+      {
+        "name": "getApplicationProtocols",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkAlpnSslUtils"
+    },
+    "name": "javax.net.ssl.SSLParameters",
+    "methods": [
+      {
+        "name": "setApplicationProtocols",
+        "parameterTypes": [
+          "java.lang.String[]"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkAlpnSslUtils$3"
+    },
+    "name": "javax.net.ssl.SSLParameters",
+    "queriedMethods": [
+      {
+        "name": "setApplicationProtocols",
+        "parameterTypes": [
+          "java.lang.String[]"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.SslUtils"
+    },
+    "name": "javax.net.ssl.SSLParameters",
+    "methods": [
+      {
+        "name": "setApplicationProtocols",
+        "parameterTypes": [
+          "java.lang.String[]"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.epoll.EpollEventLoop"
+    },
+    "name": "javax.security.auth.x500.X500Principal",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "sun.security.x509.X500Name"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.nio.NioEventLoop"
+    },
+    "name": "javax.security.auth.x500.X500Principal",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "sun.security.x509.X500Name"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.ReferenceCountedOpenSslEngine$DefaultOpenSslSession"
+    },
+    "name": "javax.security.auth.x500.X500Principal",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "sun.security.x509.X500Name"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.LazyX509Certificate"
+    },
+    "name": "javax.security.auth.x500.X500Principal",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "sun.security.x509.X500Name"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.concurrent.FastThreadLocalRunnable"
+    },
+    "name": "javax.security.auth.x500.X500Principal",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "sun.security.x509.X500Name"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.PlatformDependent0$7"
+    },
+    "name": "jdk.internal.misc.Unsafe",
+    "methods": [
+      {
+        "name": "getUnsafe",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.logging.CommonsLoggerFactory"
+    },
+    "name": "org.apache.commons.logging.LogFactory"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.logging.CommonsLoggerFactory"
+    },
+    "name": "org.apache.commons.logging.impl.Log4JLogger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "java.lang.String"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.logging.CommonsLoggerFactory"
+    },
+    "name": "org.apache.commons.logging.impl.LogFactoryImpl",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.logging.CommonsLoggerFactory"
+    },
+    "name": "org.apache.commons.logging.impl.WeakHashtable",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.logging.CommonsLoggerFactory"
+    },
+    "name": "org.apache.log4j.Level",
+    "fields": [
+      {
+        "name": "TRACE"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.logging.CommonsLoggerFactory"
+    },
+    "name": "org.apache.log4j.Priority"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.asymmetric.COMPOSITE$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.asymmetric.DH$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.asymmetric.DSA$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.asymmetric.DSTU4145$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.asymmetric.EC$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.asymmetric.ECGOST$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.asymmetric.EdEC$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.asymmetric.ElGamal$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.asymmetric.GM$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.asymmetric.GOST$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.asymmetric.IES$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.asymmetric.RSA$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.asymmetric.X509$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.SelfSignedCertificate"
+    },
+    "name": "org.bouncycastle.jcajce.provider.asymmetric.rsa.DigestSignatureSpi$SHA256",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.asymmetric.x509.CertificateFactory",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.digest.Blake2b$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.digest.Blake2s$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.digest.DSTU7564$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.digest.GOST3411$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.digest.Haraka$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.digest.Keccak$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.digest.MD2$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.digest.MD4$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.digest.MD5$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.digest.RIPEMD128$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.digest.RIPEMD160$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.digest.RIPEMD256$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.digest.RIPEMD320$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.digest.SHA1$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.digest.SHA224$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.digest.SHA256$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.digest.SHA3$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.digest.SHA384$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.digest.SHA512$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.digest.SM3$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.digest.Skein$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.digest.Tiger$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.digest.Whirlpool$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.drbg.DRBG$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.keystore.BC$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.keystore.BCFKS$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.keystore.PKCS12$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.symmetric.AES$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.symmetric.ARC4$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.symmetric.ARIA$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.symmetric.Blowfish$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.symmetric.CAST5$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.symmetric.CAST6$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.symmetric.Camellia$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.symmetric.ChaCha$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.symmetric.DES$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.symmetric.DESede$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.symmetric.DSTU7624$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.symmetric.GOST28147$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.symmetric.GOST3412_2015$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.symmetric.Grain128$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.symmetric.Grainv1$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.symmetric.HC128$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.symmetric.HC256$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.symmetric.IDEA$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.symmetric.Noekeon$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.symmetric.OpenSSLPBKDF$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.symmetric.PBEPBKDF1$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.symmetric.PBEPBKDF2$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.symmetric.PBEPKCS12$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.symmetric.Poly1305$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.symmetric.RC2$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.symmetric.RC5$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.symmetric.RC6$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.symmetric.Rijndael$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.symmetric.SCRYPT$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.symmetric.SEED$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.symmetric.SM4$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.symmetric.Salsa20$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.symmetric.Serpent$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.symmetric.Shacal2$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.symmetric.SipHash$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.symmetric.SipHash128$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.symmetric.Skipjack$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.symmetric.TEA$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.symmetric.TLSKDF$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.symmetric.Threefish$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.symmetric.Twofish$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.symmetric.VMPC$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.symmetric.VMPCKSA3$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.symmetric.XSalsa20$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.symmetric.XTEA$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "org.bouncycastle.jcajce.provider.symmetric.Zuc$Mappings",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.Conscrypt"
+    },
+    "name": "org.conscrypt.Conscrypt",
+    "methods": [
+      {
+        "name": "isConscrypt",
+        "parameterTypes": [
+          "javax.net.ssl.SSLEngine"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.SslUtils"
+    },
+    "name": "org.conscrypt.OpenSSLContextImpl$TLSv13",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.nio.NioEventLoop"
+    },
+    "name": "org.hamcrest.number.OrderingComparison",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.proxy.HttpProxyServer$HttpIntermediaryHandler"
+    },
+    "name": "org.hamcrest.number.OrderingComparison"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.compression.LzfEncoder"
+    },
+    "name": "sun.misc.Unsafe",
+    "fields": [
+      {
+        "name": "theUnsafe"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.marshalling.DefaultUnmarshallerProvider"
+    },
+    "name": "sun.misc.Unsafe",
+    "fields": [
+      {
+        "name": "theUnsafe"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.marshalling.MarshallingEncoder"
+    },
+    "name": "sun.misc.Unsafe",
+    "fields": [
+      {
+        "name": "theUnsafe"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.CleanerJava9"
+    },
+    "name": "sun.misc.Unsafe",
+    "methods": [
+      {
+        "name": "invokeCleaner",
+        "parameterTypes": [
+          "java.nio.ByteBuffer"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.CleanerJava9$1"
+    },
+    "name": "sun.misc.Unsafe",
+    "methods": [
+      {
+        "name": "invokeCleaner",
+        "parameterTypes": [
+          "java.nio.ByteBuffer"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.PlatformDependent0$1"
+    },
+    "name": "sun.misc.Unsafe",
+    "fields": [
+      {
+        "name": "theUnsafe"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.PlatformDependent0$2"
+    },
+    "name": "sun.misc.Unsafe",
+    "queriedMethods": [
+      {
+        "name": "copyMemory",
+        "parameterTypes": [
+          "java.lang.Object",
+          "long",
+          "java.lang.Object",
+          "long",
+          "long"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.PlatformDependent0$3"
+    },
+    "name": "sun.misc.Unsafe",
+    "queriedMethods": [
+      {
+        "name": "storeFence",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.shaded.org.jctools.util.UnsafeAccess"
+    },
+    "name": "sun.misc.Unsafe",
+    "fields": [
+      {
+        "name": "theUnsafe"
+      }
+    ],
+    "queriedMethods": [
+      {
+        "name": "getAndAddLong",
+        "parameterTypes": [
+          "java.lang.Object",
+          "long",
+          "long"
+        ]
+      },
+      {
+        "name": "getAndSetObject",
+        "parameterTypes": [
+          "java.lang.Object",
+          "long",
+          "java.lang.Object"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.nio.NioEventLoop$3"
+    },
+    "name": "sun.nio.ch.SelectorImpl"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.nio.NioEventLoop$4"
+    },
+    "name": "sun.nio.ch.SelectorImpl",
+    "fields": [
+      {
+        "name": "publicSelectedKeys"
+      },
+      {
+        "name": "selectedKeys"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkAlpnApplicationProtocolNegotiator"
+    },
+    "name": "sun.security.pkcs12.PKCS12KeyStore",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkSslContext$Defaults"
+    },
+    "name": "sun.security.pkcs12.PKCS12KeyStore",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.OpenSslServerContext"
+    },
+    "name": "sun.security.pkcs12.PKCS12KeyStore",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.SslContext"
+    },
+    "name": "sun.security.pkcs12.PKCS12KeyStore",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkAlpnApplicationProtocolNegotiator"
+    },
+    "name": "sun.security.pkcs12.PKCS12KeyStore$DualFormatPKCS12",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkSslContext$Defaults"
+    },
+    "name": "sun.security.pkcs12.PKCS12KeyStore$DualFormatPKCS12",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.OpenSslServerContext"
+    },
+    "name": "sun.security.pkcs12.PKCS12KeyStore$DualFormatPKCS12",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.SslContext"
+    },
+    "name": "sun.security.pkcs12.PKCS12KeyStore$DualFormatPKCS12",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.epoll.EpollEventLoop"
+    },
+    "name": "sun.security.provider.DSA$SHA224withDSA",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.nio.NioEventLoop"
+    },
+    "name": "sun.security.provider.DSA$SHA224withDSA",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkSslEngine"
+    },
+    "name": "sun.security.provider.DSA$SHA224withDSA",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.epoll.EpollEventLoop"
+    },
+    "name": "sun.security.provider.DSA$SHA256withDSA",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.nio.NioEventLoop"
+    },
+    "name": "sun.security.provider.DSA$SHA256withDSA",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkAlpnApplicationProtocolNegotiator"
+    },
+    "name": "sun.security.provider.JavaKeyStore$JKS",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkSslContext$Defaults"
+    },
+    "name": "sun.security.provider.JavaKeyStore$JKS",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.OpenSslServerContext"
+    },
+    "name": "sun.security.provider.JavaKeyStore$JKS",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.websocketx.WebSocketUtil$1"
+    },
+    "name": "sun.security.provider.MD5",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkAlpnSslUtils"
+    },
+    "name": "sun.security.provider.NativePRNG",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkSslClientContext"
+    },
+    "name": "sun.security.provider.NativePRNG",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkSslContext$Defaults"
+    },
+    "name": "sun.security.provider.NativePRNG",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkSslServerContext"
+    },
+    "name": "sun.security.provider.NativePRNG",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.OpenSslX509TrustManagerWrapper"
+    },
+    "name": "sun.security.provider.NativePRNG",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.OpenSslX509TrustManagerWrapper$UnsafeTrustManagerWrapper"
+    },
+    "name": "sun.security.provider.NativePRNG",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.SslContext"
+    },
+    "name": "sun.security.provider.NativePRNG",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.SslUtils"
+    },
+    "name": "sun.security.provider.NativePRNG",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.ThreadLocalInsecureRandom"
+    },
+    "name": "sun.security.provider.NativePRNG",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.internal.PlatformDependent"
+    },
+    "name": "sun.security.provider.NativePRNG",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.ThreadPerChannelEventLoop"
+    },
+    "name": "sun.security.provider.SHA",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.epoll.AbstractEpollChannel$AbstractEpollUnsafe$1"
+    },
+    "name": "sun.security.provider.SHA",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.epoll.EpollEventLoop"
+    },
+    "name": "sun.security.provider.SHA",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.epoll.Native"
+    },
+    "name": "sun.security.provider.SHA",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.nio.NioEventLoop"
+    },
+    "name": "sun.security.provider.SHA",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.oio.AbstractOioByteChannel"
+    },
+    "name": "sun.security.provider.SHA",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.codec.http.websocketx.WebSocketUtil$2"
+    },
+    "name": "sun.security.provider.SHA",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.FingerprintTrustManagerFactory"
+    },
+    "name": "sun.security.provider.SHA",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.concurrent.FastThreadLocalRunnable"
+    },
+    "name": "sun.security.provider.SHA",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.epoll.EpollEventLoop"
+    },
+    "name": "sun.security.provider.SHA2$SHA224",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.nio.NioEventLoop"
+    },
+    "name": "sun.security.provider.SHA2$SHA224",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkSslEngine"
+    },
+    "name": "sun.security.provider.SHA2$SHA224",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.DefaultEventLoop"
+    },
+    "name": "sun.security.provider.SHA2$SHA256",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.epoll.AbstractEpollChannel$AbstractEpollUnsafe$1"
+    },
+    "name": "sun.security.provider.SHA2$SHA256",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.epoll.EpollEventLoop"
+    },
+    "name": "sun.security.provider.SHA2$SHA256",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.local.LocalChannel"
+    },
+    "name": "sun.security.provider.SHA2$SHA256",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.nio.NioEventLoop"
+    },
+    "name": "sun.security.provider.SHA2$SHA256",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.oio.AbstractOioByteChannel"
+    },
+    "name": "sun.security.provider.SHA2$SHA256",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.ConscryptAlpnSslEngine"
+    },
+    "name": "sun.security.provider.SHA2$SHA256",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkSslEngine"
+    },
+    "name": "sun.security.provider.SHA2$SHA256",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.PseudoRandomFunction"
+    },
+    "name": "sun.security.provider.SHA2$SHA256",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.SslContext"
+    },
+    "name": "sun.security.provider.SHA2$SHA256",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.SslHandler$SslTasksRunner"
+    },
+    "name": "sun.security.provider.SHA2$SHA256",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.BouncyCastleSelfSignedCertGenerator"
+    },
+    "name": "sun.security.provider.SHA2$SHA256",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.FingerprintTrustManagerFactoryBuilder"
+    },
+    "name": "sun.security.provider.SHA2$SHA256",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.OpenJdkSelfSignedCertGenerator"
+    },
+    "name": "sun.security.provider.SHA2$SHA256",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.concurrent.FastThreadLocalRunnable"
+    },
+    "name": "sun.security.provider.SHA2$SHA256",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.epoll.EpollEventLoop"
+    },
+    "name": "sun.security.provider.SHA5$SHA384",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.nio.NioEventLoop"
+    },
+    "name": "sun.security.provider.SHA5$SHA384",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkSslEngine"
+    },
+    "name": "sun.security.provider.SHA5$SHA384",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.DefaultEventLoop"
+    },
+    "name": "sun.security.provider.SHA5$SHA512",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.epoll.EpollEventLoop"
+    },
+    "name": "sun.security.provider.SHA5$SHA512",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.local.LocalChannel"
+    },
+    "name": "sun.security.provider.SHA5$SHA512",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.nio.NioEventLoop"
+    },
+    "name": "sun.security.provider.SHA5$SHA512",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.oio.AbstractOioByteChannel"
+    },
+    "name": "sun.security.provider.SHA5$SHA512",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkSslEngine"
+    },
+    "name": "sun.security.provider.SHA5$SHA512",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.DefaultEventLoop"
+    },
+    "name": "sun.security.provider.X509Factory",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.epoll.AbstractEpollChannel$AbstractEpollUnsafe$1"
+    },
+    "name": "sun.security.provider.X509Factory",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.epoll.EpollEventLoop"
+    },
+    "name": "sun.security.provider.X509Factory",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.local.LocalChannel"
+    },
+    "name": "sun.security.provider.X509Factory",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.nio.NioEventLoop"
+    },
+    "name": "sun.security.provider.X509Factory",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.oio.AbstractOioByteChannel"
+    },
+    "name": "sun.security.provider.X509Factory",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkAlpnApplicationProtocolNegotiator"
+    },
+    "name": "sun.security.provider.X509Factory",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkSslContext$Defaults"
+    },
+    "name": "sun.security.provider.X509Factory",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.OpenSslServerContext"
+    },
+    "name": "sun.security.provider.X509Factory",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.SslContext"
+    },
+    "name": "sun.security.provider.X509Factory",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.SslHandler$SslEngineType$2"
+    },
+    "name": "sun.security.provider.X509Factory",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.LazyX509Certificate"
+    },
+    "name": "sun.security.provider.X509Factory",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.SelfSignedCertificate"
+    },
+    "name": "sun.security.provider.X509Factory",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.concurrent.FastThreadLocalRunnable"
+    },
+    "name": "sun.security.provider.X509Factory",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.nio.NioEventLoop"
+    },
+    "name": "sun.security.provider.certpath.CollectionCertStore",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "java.security.cert.CertStoreParameters"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.nio.NioEventLoop"
+    },
+    "name": "sun.security.provider.certpath.PKIXCertPathValidator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.concurrent.FastThreadLocalRunnable"
+    },
+    "name": "sun.security.provider.certpath.PKIXCertPathValidator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.nio.NioEventLoop"
+    },
+    "name": "sun.security.provider.certpath.SunCertPathBuilder",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.epoll.EpollEventLoop"
+    },
+    "name": "sun.security.rsa.PSSParameters",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.nio.NioEventLoop"
+    },
+    "name": "sun.security.rsa.PSSParameters",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkSslEngine"
+    },
+    "name": "sun.security.rsa.PSSParameters",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.nio.NioEventLoop"
+    },
+    "name": "sun.security.rsa.RSAKeyFactory$Legacy",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkSslContext$Defaults"
+    },
+    "name": "sun.security.rsa.RSAKeyFactory$Legacy",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkSslServerContext"
+    },
+    "name": "sun.security.rsa.RSAKeyFactory$Legacy",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.OpenSsl"
+    },
+    "name": "sun.security.rsa.RSAKeyFactory$Legacy",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.OpenSslServerContext"
+    },
+    "name": "sun.security.rsa.RSAKeyFactory$Legacy",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.OpenSslX509KeyManagerFactory$OpenSslKeyManagerFactorySpi"
+    },
+    "name": "sun.security.rsa.RSAKeyFactory$Legacy",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.SslContext"
+    },
+    "name": "sun.security.rsa.RSAKeyFactory$Legacy",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.SslContextBuilder"
+    },
+    "name": "sun.security.rsa.RSAKeyFactory$Legacy",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.SelfSignedCertificate"
+    },
+    "name": "sun.security.rsa.RSAKeyFactory$Legacy",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.util.concurrent.FastThreadLocalRunnable"
+    },
+    "name": "sun.security.rsa.RSAKeyFactory$Legacy",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.SelfSignedCertificate"
+    },
+    "name": "sun.security.rsa.RSAKeyPairGenerator$Legacy",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.DefaultEventLoop"
+    },
+    "name": "sun.security.rsa.RSAPSSSignature",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.epoll.EpollEventLoop"
+    },
+    "name": "sun.security.rsa.RSAPSSSignature",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.local.LocalChannel"
+    },
+    "name": "sun.security.rsa.RSAPSSSignature",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.nio.NioEventLoop"
+    },
+    "name": "sun.security.rsa.RSAPSSSignature",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.oio.AbstractOioByteChannel"
+    },
+    "name": "sun.security.rsa.RSAPSSSignature",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkSslEngine"
+    },
+    "name": "sun.security.rsa.RSAPSSSignature",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.SslHandler$SslTasksRunner"
+    },
+    "name": "sun.security.rsa.RSAPSSSignature",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.epoll.EpollEventLoop"
+    },
+    "name": "sun.security.rsa.RSASignature$SHA224withRSA",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.nio.NioEventLoop"
+    },
+    "name": "sun.security.rsa.RSASignature$SHA224withRSA",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkSslEngine"
+    },
+    "name": "sun.security.rsa.RSASignature$SHA224withRSA",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.OpenJdkSelfSignedCertGenerator"
+    },
+    "name": "sun.security.rsa.RSASignature$SHA256withRSA",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.util.SelfSignedCertificate"
+    },
+    "name": "sun.security.rsa.RSASignature$SHA256withRSA",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.DefaultEventLoop"
+    },
+    "name": "sun.security.rsa.RSASignature$SHA512withRSA",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.epoll.EpollEventLoop"
+    },
+    "name": "sun.security.rsa.RSASignature$SHA512withRSA",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.local.LocalChannel"
+    },
+    "name": "sun.security.rsa.RSASignature$SHA512withRSA",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.nio.NioEventLoop"
+    },
+    "name": "sun.security.rsa.RSASignature$SHA512withRSA",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.oio.AbstractOioByteChannel"
+    },
+    "name": "sun.security.rsa.RSASignature$SHA512withRSA",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.OpenSslX509KeyManagerFactory"
+    },
+    "name": "sun.security.ssl.KeyManagerFactoryImpl$SunX509",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.SslContext"
+    },
+    "name": "sun.security.ssl.KeyManagerFactoryImpl$SunX509",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.OpenSslX509TrustManagerWrapper$3"
+    },
+    "name": "sun.security.ssl.SSLContextImpl",
+    "fields": [
+      {
+        "name": "trustManager"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkAlpnSslUtils"
+    },
+    "name": "sun.security.ssl.SSLContextImpl$TLSContext",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkSslClientContext"
+    },
+    "name": "sun.security.ssl.SSLContextImpl$TLSContext",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkSslContext$Defaults"
+    },
+    "name": "sun.security.ssl.SSLContextImpl$TLSContext",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkSslServerContext"
+    },
+    "name": "sun.security.ssl.SSLContextImpl$TLSContext",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.OpenSslX509TrustManagerWrapper"
+    },
+    "name": "sun.security.ssl.SSLContextImpl$TLSContext",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.SslUtils"
+    },
+    "name": "sun.security.ssl.SSLContextImpl$TLSContext",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.SslMasterKeyHandler"
+    },
+    "name": "sun.security.ssl.SSLSessionImpl",
+    "fields": [
+      {
+        "name": "masterSecret"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkAlpnSslUtils"
+    },
+    "name": "sun.security.ssl.TrustManagerFactoryImpl$PKIXFactory",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkSslClientContext"
+    },
+    "name": "sun.security.ssl.TrustManagerFactoryImpl$PKIXFactory",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkSslContext$Defaults"
+    },
+    "name": "sun.security.ssl.TrustManagerFactoryImpl$PKIXFactory",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkSslServerContext"
+    },
+    "name": "sun.security.ssl.TrustManagerFactoryImpl$PKIXFactory",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.OpenSslServerContext"
+    },
+    "name": "sun.security.ssl.TrustManagerFactoryImpl$PKIXFactory",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkSslContext$Defaults"
+    },
+    "name": "sun.security.x509.AuthorityInfoAccessExtension",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "java.lang.Boolean",
+          "java.lang.Object"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.nio.NioEventLoop"
+    },
+    "name": "sun.security.x509.AuthorityKeyIdentifierExtension",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "java.lang.Boolean",
+          "java.lang.Object"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkSslContext$Defaults"
+    },
+    "name": "sun.security.x509.AuthorityKeyIdentifierExtension",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "java.lang.Boolean",
+          "java.lang.Object"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkSslContext$Defaults"
+    },
+    "name": "sun.security.x509.BasicConstraintsExtension",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "java.lang.Boolean",
+          "java.lang.Object"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkSslContext$Defaults"
+    },
+    "name": "sun.security.x509.CRLDistributionPointsExtension",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "java.lang.Boolean",
+          "java.lang.Object"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkSslContext$Defaults"
+    },
+    "name": "sun.security.x509.CertificatePoliciesExtension",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "java.lang.Boolean",
+          "java.lang.Object"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.nio.NioEventLoop"
+    },
+    "name": "sun.security.x509.ExtendedKeyUsageExtension",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "java.lang.Boolean",
+          "java.lang.Object"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkSslContext$Defaults"
+    },
+    "name": "sun.security.x509.ExtendedKeyUsageExtension",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "java.lang.Boolean",
+          "java.lang.Object"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkSslContext$Defaults"
+    },
+    "name": "sun.security.x509.IssuerAlternativeNameExtension",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "java.lang.Boolean",
+          "java.lang.Object"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.nio.NioEventLoop"
+    },
+    "name": "sun.security.x509.KeyUsageExtension",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "java.lang.Boolean",
+          "java.lang.Object"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkSslContext$Defaults"
+    },
+    "name": "sun.security.x509.KeyUsageExtension",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "java.lang.Boolean",
+          "java.lang.Object"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkSslContext$Defaults"
+    },
+    "name": "sun.security.x509.NetscapeCertTypeExtension",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "java.lang.Boolean",
+          "java.lang.Object"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkSslContext$Defaults"
+    },
+    "name": "sun.security.x509.PrivateKeyUsageExtension",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "java.lang.Boolean",
+          "java.lang.Object"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkSslContext$Defaults"
+    },
+    "name": "sun.security.x509.SubjectAlternativeNameExtension",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "java.lang.Boolean",
+          "java.lang.Object"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.handler.ssl.JdkSslContext$Defaults"
+    },
+    "name": "sun.security.x509.SubjectKeyIdentifierExtension",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "java.lang.Boolean",
+          "java.lang.Object"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.resolver.dns.DnsServerAddressStreamProviders"
+    },
+    "name": "io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.resolver.dns.DnsServerAddressStreamProviders$1"
+    },
+    "name": "io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider"
+  }
+]

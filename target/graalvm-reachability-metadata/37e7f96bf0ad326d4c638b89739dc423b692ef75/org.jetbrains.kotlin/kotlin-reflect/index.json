@@ -1,0 +1,10 @@
+[
+  {
+    "latest": true,
+    "metadata-version": "1.7.10",
+    "module": "org.jetbrains.kotlin:kotlin-reflect",
+    "tested-versions": [
+      "1.7.10"
+    ]
+  }
+]

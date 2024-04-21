@@ -1,0 +1,14 @@
+[
+  {
+    "condition": {
+      "typeReachable": "org.apache.commons.pool2.impl.BaseGenericObjectPool"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ],
+    "name": "org.apache.commons.pool2.impl.DefaultEvictionPolicy"
+  }
+]

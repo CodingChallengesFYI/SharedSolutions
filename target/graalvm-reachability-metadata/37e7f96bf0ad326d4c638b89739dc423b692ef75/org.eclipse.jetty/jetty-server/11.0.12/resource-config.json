@@ -1,0 +1,50 @@
+{
+  "bundles": [
+    {
+      "name": "jakarta.servlet.LocalStrings",
+      "locales": [
+        "und"
+      ]
+    },
+    {
+      "name": "jakarta.servlet.http.LocalStrings",
+      "locales": [
+        "und"
+      ]
+    }
+  ],
+  "resources": {
+    "includes": [
+      {
+        "condition": {
+          "typeReachable": "org.eclipse.jetty.server.handler.ResourceHandler"
+        },
+        "pattern": "\\Qjetty-dir.css\\E"
+      },
+      {
+        "condition": {
+          "typeReachable": "org.eclipse.jetty.http.MimeTypes"
+        },
+        "pattern": "\\Qorg/eclipse/jetty/http/encoding.properties\\E"
+      },
+      {
+        "condition": {
+          "typeReachable": "org.eclipse.jetty.http.MimeTypes"
+        },
+        "pattern": "\\Qorg/eclipse/jetty/http/mime.properties\\E"
+      },
+      {
+        "condition": {
+          "typeReachable": "org.eclipse.jetty.util.Jetty"
+        },
+        "pattern": "\\Qorg/eclipse/jetty/version/build.properties\\E"
+      },
+      {
+        "condition": {
+          "typeReachable": "org.eclipse.jetty.util.resource.Resource"
+        },
+        "pattern": "\\Qorg/eclipse/jetty/webapp/webdefault.xml\\E"
+      }
+    ]
+  }
+}

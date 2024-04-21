@@ -1,0 +1,18 @@
+{
+    "resources": {
+        "includes": [
+            {
+                "pattern": "\\QMETA-INF/services/org/apache/activemq/broker/broker\\E",
+                "condition": {
+                    "typeReachable": "org.apache.activemq.broker.BrokerFactory"
+                }
+            },
+            {
+                "pattern": "\\QMETA-INF/services/org/apache/activemq/transport/vm\\E",
+                "condition": {
+                    "typeReachable": "org.apache.activemq.transport.TransportFactory"
+                }
+            }
+        ]
+    }
+}

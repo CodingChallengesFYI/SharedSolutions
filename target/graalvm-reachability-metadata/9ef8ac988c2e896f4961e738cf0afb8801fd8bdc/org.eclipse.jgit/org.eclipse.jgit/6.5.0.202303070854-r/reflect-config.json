@@ -1,0 +1,163 @@
+[
+  {
+    "name": "org.eclipse.jgit.internal.JGitText",
+    "condition": {
+      "typeReachable": "org.eclipse.jgit.nls.GlobalBundleCache"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.eclipse.jgit.internal.JGitText",
+    "allPublicFields": true,
+    "condition": {
+      "typeReachable": "org.eclipse.jgit.nls.TranslationBundle"
+    }
+  },
+  {
+    "name": "org.eclipse.jgit.lib.CoreConfig$AutoCRLF",
+    "condition": {
+      "typeReachable": "org.eclipse.jgit.treewalk.WorkingTreeOptions"
+    },
+    "methods": [
+      {
+        "name": "values",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.eclipse.jgit.lib.CoreConfig$CheckStat",
+    "condition": {
+      "typeReachable": "org.eclipse.jgit.treewalk.WorkingTreeOptions"
+    },
+    "methods": [
+      {
+        "name": "values",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.eclipse.jgit.lib.CoreConfig$EOL",
+    "condition": {
+      "typeReachable": "org.eclipse.jgit.treewalk.WorkingTreeOptions"
+    },
+    "methods": [
+      {
+        "name": "values",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.eclipse.jgit.lib.CoreConfig$HideDotFiles",
+    "condition": {
+      "typeReachable": "org.eclipse.jgit.internal.storage.file.FileRepository"
+    },
+    "methods": [
+      {
+        "name": "values",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.eclipse.jgit.lib.CoreConfig$HideDotFiles",
+    "condition": {
+      "typeReachable": "org.eclipse.jgit.treewalk.WorkingTreeOptions"
+    },
+    "methods": [
+      {
+        "name": "values",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.eclipse.jgit.lib.CoreConfig$LogRefUpdates",
+    "condition": {
+      "typeReachable": "org.eclipse.jgit.internal.storage.file.ReflogWriter"
+    },
+    "methods": [
+      {
+        "name": "values",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.eclipse.jgit.lib.CoreConfig$LogRefUpdates",
+    "condition": {
+      "typeReachable": "org.eclipse.jgit.lib.CoreConfig"
+    },
+    "methods": [
+      {
+        "name": "values",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.eclipse.jgit.lib.CoreConfig$SymLinks",
+    "condition": {
+      "typeReachable": "org.eclipse.jgit.treewalk.WorkingTreeOptions"
+    },
+    "methods": [
+      {
+        "name": "values",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.eclipse.jgit.lib.CoreConfig$TrustPackedRefsStat",
+    "condition": {
+      "typeReachable": "org.eclipse.jgit.internal.storage.file.RefDirectory"
+    },
+    "methods": [
+      {
+        "name": "values",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.eclipse.jgit.util.sha1.SHA1$Sha1Implementation",
+    "condition": {
+      "typeReachable": "org.eclipse.jgit.util.sha1.SHA1"
+    },
+    "methods": [
+      {
+        "name": "values",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  }
+]

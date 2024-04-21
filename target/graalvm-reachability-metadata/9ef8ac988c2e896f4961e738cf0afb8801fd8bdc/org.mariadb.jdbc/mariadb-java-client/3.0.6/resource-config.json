@@ -1,0 +1,13 @@
+{
+  "bundles": [],
+  "resources": {
+    "includes": [
+      {
+        "condition": {
+          "typeReachable": "org.mariadb.jdbc.util.VersionFactory"
+        },
+        "pattern": "\\Qmariadb.properties\\E"
+      }
+    ]
+  }
+}

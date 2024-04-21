@@ -1,0 +1,35 @@
+[
+    {
+        "condition": {
+            "typeReachable": "org.apache.tomcat.jdbc.pool.interceptor.AbstractCreateStatementInterceptor"
+        },
+        "interfaces": [
+            "java.sql.CallableStatement"
+        ]
+    },
+    {
+        "condition": {
+            "typeReachable": "org.apache.tomcat.jdbc.pool.ConnectionPool"
+        },
+        "interfaces": [
+            "java.sql.Connection",
+            "javax.sql.PooledConnection"
+        ]
+    },
+    {
+        "condition": {
+            "typeReachable": "org.apache.tomcat.jdbc.pool.interceptor.AbstractCreateStatementInterceptor"
+        },
+        "interfaces": [
+            "java.sql.PreparedStatement"
+        ]
+    },
+    {
+        "condition": {
+            "typeReachable": "org.apache.tomcat.jdbc.pool.interceptor.AbstractCreateStatementInterceptor"
+        },
+        "interfaces": [
+            "java.sql.Statement"
+        ]
+    }
+]

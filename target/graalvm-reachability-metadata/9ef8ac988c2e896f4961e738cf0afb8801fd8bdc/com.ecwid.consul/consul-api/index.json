@@ -1,0 +1,10 @@
+[
+  {
+    "latest": true,
+    "metadata-version": "1.4.5",
+    "module": "com.ecwid.consul:consul-api",
+    "tested-versions": [
+      "1.4.5"
+    ]
+  }
+]

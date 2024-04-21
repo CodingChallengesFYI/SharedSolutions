@@ -1,0 +1,13 @@
+{
+  "bundles": [],
+  "resources": {
+    "includes": [
+      {
+        "condition": {
+          "typeReachable": "com.github.luben.zstd.util.Native"
+        },
+        "pattern": "[a-z]+/[a-z0-9]+/libzstd-jni-[0-9.-]+(so|dll|dylyb)"
+      }
+    ]
+  }
+}

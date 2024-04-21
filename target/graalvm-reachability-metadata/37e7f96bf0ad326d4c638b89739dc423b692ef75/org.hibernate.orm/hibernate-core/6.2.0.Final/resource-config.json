@@ -1,0 +1,33 @@
+{
+  "resources":{
+    "includes":[
+      {
+        "condition":{"typeReachable":"org.hibernate.boot.registry.classloading.internal.ClassLoaderServiceImpl"},
+        "pattern":"\\QMETA-INF/persistence.xml\\E"
+      },
+      {
+        "condition":{"typeReachable":"org.hibernate.internal.util.ConfigHelper"},
+        "pattern":"\\Qhibernate.properties\\E"
+      },
+      {
+        "condition":{"typeReachable":"org.hibernate.boot.jaxb.internal.stax.LocalSchemaLocator"},
+        "pattern":"\\Qorg/hibernate/hibernate-configuration-3.0.dtd\\E"
+      },
+      {
+        "condition":{"typeReachable":"org.hibernate.boot.jaxb.internal.stax.LocalSchemaLocator"},
+        "pattern":"\\Qorg/hibernate/hibernate-mapping-3.0.dtd\\E"
+      },
+      {
+        "condition":{"typeReachable":"org.hibernate.boot.xsd.LocalXsdResolver"},
+        "pattern":"\\Qorg/hibernate/jpa/persistence_2_0.xsd\\E"
+      },
+      {
+        "condition": {"typeReachable": "org.hibernate.boot.xsd.LocalXsdResolver"},
+        "pattern": "\\Qorg/hibernate/jpa/persistence_3_0.xsd\\E"
+      },
+      {
+        "condition": {"typeReachable": "org.hibernate.boot.xsd.LocalXsdResolver"},
+        "pattern": "\\Qorg/hibernate/jpa/persistence_3_1.xsd\\E"
+      }
+    ]}
+}

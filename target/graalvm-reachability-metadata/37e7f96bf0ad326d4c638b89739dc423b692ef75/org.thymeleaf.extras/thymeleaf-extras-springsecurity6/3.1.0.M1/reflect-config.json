@@ -1,0 +1,21 @@
+[
+  {
+    "name": "org.thymeleaf.extras.springsecurity6.util.Spring6VersionSpecificUtility",
+    "allDeclaredConstructors": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.extras.springsecurity6.util.SpringVersionSpecificUtils"
+    }
+  },
+  {
+    "name": "org.springframework.web.servlet.View",
+    "condition": {
+      "typeReachable": "org.springframework.web.servlet.View"
+    }
+  },
+  {
+    "name": "org.springframework.web.reactive.result.view.View",
+    "condition": {
+      "typeReachable": "org.springframework.web.reactive.result.view.View"
+    }
+  }
+]

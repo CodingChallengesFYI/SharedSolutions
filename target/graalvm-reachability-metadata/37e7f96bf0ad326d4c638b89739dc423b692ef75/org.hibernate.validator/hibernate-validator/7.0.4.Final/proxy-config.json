@@ -1,0 +1,50 @@
+[
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.xml.mapping.ConstrainedGetterStaxBuilder"
+    },
+    "interfaces": [
+      "jakarta.validation.constraints.Min"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.xml.mapping.ConstrainedFieldStaxBuilder"
+    },
+    "interfaces": [
+      "jakarta.validation.constraints.NotNull"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.xml.mapping.ConstrainedGetterStaxBuilder"
+    },
+    "interfaces": [
+      "jakarta.validation.constraints.NotNull"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.xml.mapping.ConstrainedParameterStaxBuilder"
+    },
+    "interfaces": [
+      "jakarta.validation.constraints.NotNull"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.xml.mapping.ConstrainedFieldStaxBuilder"
+    },
+    "interfaces": [
+      "jakarta.validation.constraints.Size"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.xml.mapping.ConstrainedGetterStaxBuilder"
+    },
+    "interfaces": [
+      "jakarta.validation.constraints.Size"
+    ]
+  }
+]

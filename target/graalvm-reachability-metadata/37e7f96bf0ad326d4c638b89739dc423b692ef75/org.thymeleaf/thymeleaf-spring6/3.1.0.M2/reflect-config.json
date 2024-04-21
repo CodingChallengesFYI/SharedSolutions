@@ -1,0 +1,30 @@
+[
+  {
+    "name": "org.thymeleaf.spring6.view.ThymeleafView",
+    "allDeclaredConstructors": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.spring6.view.ThymeleafViewResolver"
+    }
+  },
+  {
+    "name": "org.thymeleaf.spring6.view.reactive.ThymeleafReactiveView",
+    "allDeclaredConstructors": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.spring6.view.reactive.ThymeleafReactiveViewResolver"
+    }
+  },
+  {
+    "name": "org.thymeleaf.spring6.expression.Mvc$Spring41MvcUriComponentsBuilderDelegate",
+    "allDeclaredConstructors": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.spring6.expression.Mvc"
+    }
+  },
+  {
+    "name": "org.thymeleaf.spring6.expression.Fields",
+    "allPublicMethods": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.spring6.expression.SPELVariableExpressionEvaluator"
+    }
+  }
+]

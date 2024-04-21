@@ -1,0 +1,212 @@
+[
+  {
+    "condition": {
+      "typeReachable": "org.HdrHistogram.AtomicHistogram"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "long",
+          "long",
+          "int"
+        ]
+      }
+    ],
+    "name": "org.HdrHistogram.AtomicHistogram"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.HdrHistogram.ConcurrentDoubleHistogram"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "long",
+          "int",
+          "java.lang.Class",
+          "org.HdrHistogram.AbstractHistogram"
+        ]
+      }
+    ],
+    "name": "org.HdrHistogram.ConcurrentDoubleHistogram"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.HdrHistogram.ConcurrentHistogram"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "long",
+          "long",
+          "int"
+        ]
+      }
+    ],
+    "name": "org.HdrHistogram.ConcurrentHistogram"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.HdrHistogram.ConcurrentHistogram"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.HdrHistogram.AbstractHistogram"
+        ]
+      }
+    ],
+    "name": "org.HdrHistogram.ConcurrentHistogram"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.HdrHistogram.DoubleHistogram"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "long",
+          "int",
+          "java.lang.Class",
+          "org.HdrHistogram.AbstractHistogram"
+        ]
+      }
+    ],
+    "name": "org.HdrHistogram.DoubleHistogram"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.HdrHistogram.Histogram"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "long",
+          "long",
+          "int"
+        ]
+      }
+    ],
+    "name": "org.HdrHistogram.Histogram"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.HdrHistogram.IntCountsHistogram"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "long",
+          "long",
+          "int"
+        ]
+      }
+    ],
+    "name": "org.HdrHistogram.IntCountsHistogram"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.HdrHistogram.PackedConcurrentDoubleHistogram"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "long",
+          "int",
+          "java.lang.Class",
+          "org.HdrHistogram.AbstractHistogram"
+        ]
+      }
+    ],
+    "name": "org.HdrHistogram.PackedConcurrentDoubleHistogram"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.HdrHistogram.PackedConcurrentHistogram"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "long",
+          "long",
+          "int"
+        ]
+      }
+    ],
+    "name": "org.HdrHistogram.PackedConcurrentHistogram"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.HdrHistogram.PackedDoubleHistogram"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "long",
+          "int",
+          "java.lang.Class",
+          "org.HdrHistogram.AbstractHistogram"
+        ]
+      }
+    ],
+    "name": "org.HdrHistogram.PackedDoubleHistogram"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.HdrHistogram.PackedHistogram"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "long",
+          "long",
+          "int"
+        ]
+      }
+    ],
+    "name": "org.HdrHistogram.PackedHistogram"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.HdrHistogram.ShortCountsHistogram"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "long",
+          "long",
+          "int"
+        ]
+      }
+    ],
+    "name": "org.HdrHistogram.ShortCountsHistogram"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.HdrHistogram.SynchronizedHistogram"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "long",
+          "long",
+          "int"
+        ]
+      }
+    ],
+    "name": "org.HdrHistogram.SynchronizedHistogram"
+  }
+]

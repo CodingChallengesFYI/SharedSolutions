@@ -1,0 +1,32 @@
+[
+  {
+    "name": "org.quartz.JobDataMap",
+    "condition": {
+      "typeReachable": "org.quartz.impl.jdbcjobstore.JobStoreSupport"
+    }
+  },
+  {
+    "name": "org.quartz.utils.DirtyFlagMap",
+    "condition": {
+      "typeReachable": "org.quartz.impl.jdbcjobstore.JobStoreSupport"
+    }
+  },
+  {
+    "name": "org.quartz.utils.StringKeyDirtyFlagMap",
+    "condition": {
+      "typeReachable": "org.quartz.impl.jdbcjobstore.JobStoreSupport"
+    }
+  },
+  {
+    "name": "java.util.HashMap",
+    "condition": {
+      "typeReachable": "org.quartz.impl.jdbcjobstore.JobStoreSupport"
+    }
+  },
+  {
+    "name": "java.lang.String",
+    "condition": {
+      "typeReachable": "org.quartz.impl.jdbcjobstore.JobStoreSupport"
+    }
+  }
+]

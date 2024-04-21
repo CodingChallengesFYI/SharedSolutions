@@ -1,0 +1,8 @@
+[
+  {
+    "condition": {
+      "typeReachable": "io.opentelemetry.exporter.jaeger.JaegerGrpcSpanExporter"
+    },
+    "name": "io.opentelemetry.exporter.jaeger.JaegerGrpcSpanExporter"
+  }
+]

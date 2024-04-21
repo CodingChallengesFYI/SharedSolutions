@@ -1,0 +1,19 @@
+{
+  "bundles": [
+    {
+      "name": "i18n.General"
+    },
+    {
+      "name": "i18n.Parsing"
+    },
+    {
+      "name": "i18n.Scalars"
+    },
+    {
+      "name": "i18n.Validation"
+    }
+  ],
+  "resources": {
+    "includes": []
+  }
+}

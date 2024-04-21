@@ -1,0 +1,674 @@
+[
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.jackson.io.JacksonSerializer"
+    },
+    "name": "com.fasterxml.jackson.databind.ext.Java7SupportImpl",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.crypto.MacSigner"
+    },
+    "name": "com.sun.crypto.provider.HmacCore$HmacSHA256",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.crypto.MacSigner"
+    },
+    "name": "com.sun.crypto.provider.HmacCore$HmacSHA384",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.crypto.MacSigner"
+    },
+    "name": "com.sun.crypto.provider.HmacCore$HmacSHA512",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.crypto.MacProvider"
+    },
+    "name": "com.sun.crypto.provider.KeyGeneratorCore$HmacKG$SHA256",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.crypto.MacProvider"
+    },
+    "name": "com.sun.crypto.provider.KeyGeneratorCore$HmacKG$SHA384",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.crypto.MacProvider"
+    },
+    "name": "com.sun.crypto.provider.KeyGeneratorCore$HmacKG$SHA512",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.jackson.io.JacksonSerializer"
+    },
+    "name": "io.jsonwebtoken.Claims",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.jackson.io.JacksonSerializer"
+    },
+    "name": "io.jsonwebtoken.ClaimsMutator",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.DefaultJwtBuilder"
+    },
+    "name": "io.jsonwebtoken.Header",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.jackson.io.JacksonSerializer"
+    },
+    "name": "io.jsonwebtoken.Header",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.DefaultJwtBuilder"
+    },
+    "name": "io.jsonwebtoken.JwsHeader",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.jackson.io.JacksonSerializer"
+    },
+    "name": "io.jsonwebtoken.JwsHeader",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.jackson.io.JacksonSerializer"
+    },
+    "name": "io.jsonwebtoken.impl.DefaultClaims",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queryAllDeclaredConstructors": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.DefaultJwtBuilder"
+    },
+    "name": "io.jsonwebtoken.impl.DefaultHeader",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.jackson.io.JacksonSerializer"
+    },
+    "name": "io.jsonwebtoken.impl.DefaultHeader",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.DefaultJwtBuilder"
+    },
+    "name": "io.jsonwebtoken.impl.DefaultJwsHeader",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queryAllDeclaredConstructors": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.jackson.io.JacksonSerializer"
+    },
+    "name": "io.jsonwebtoken.impl.DefaultJwsHeader",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queryAllDeclaredConstructors": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.Jwts"
+    },
+    "name": "io.jsonwebtoken.impl.DefaultJwtBuilder",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.Jwts"
+    },
+    "name": "io.jsonwebtoken.impl.DefaultJwtParserBuilder",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.DefaultJwtBuilder"
+    },
+    "name": "io.jsonwebtoken.impl.JwtMap",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.jackson.io.JacksonSerializer"
+    },
+    "name": "io.jsonwebtoken.impl.JwtMap",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.CompressionCodecs"
+    },
+    "name": "io.jsonwebtoken.impl.compression.DeflateCompressionCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.CompressionCodecs"
+    },
+    "name": "io.jsonwebtoken.impl.compression.GzipCompressionCodec",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.security.Keys"
+    },
+    "name": "io.jsonwebtoken.impl.crypto.EllipticCurveProvider",
+    "methods": [
+      {
+        "name": "generateKeyPair",
+        "parameterTypes": [
+          "io.jsonwebtoken.SignatureAlgorithm"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.security.Keys"
+    },
+    "name": "io.jsonwebtoken.impl.crypto.MacProvider",
+    "methods": [
+      {
+        "name": "generateKey",
+        "parameterTypes": [
+          "io.jsonwebtoken.SignatureAlgorithm"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.security.Keys"
+    },
+    "name": "io.jsonwebtoken.impl.crypto.RsaProvider",
+    "methods": [
+      {
+        "name": "generateKeyPair",
+        "parameterTypes": [
+          "io.jsonwebtoken.SignatureAlgorithm"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.crypto.EllipticCurveProvider"
+    },
+    "name": "java.security.AlgorithmParametersSpi"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.crypto.EllipticCurveSigner"
+    },
+    "name": "java.security.SecureRandomParameters"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.crypto.MacProvider"
+    },
+    "name": "java.security.SecureRandomParameters"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.crypto.SignatureProvider"
+    },
+    "name": "java.security.SecureRandomParameters"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.crypto.EllipticCurveSigner"
+    },
+    "name": "java.security.interfaces.ECPrivateKey"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.crypto.EllipticCurveSigner"
+    },
+    "name": "java.security.interfaces.ECPublicKey"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.crypto.RsaSigner"
+    },
+    "name": "java.security.interfaces.RSAPrivateKey"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.crypto.RsaSigner"
+    },
+    "name": "java.security.interfaces.RSAPublicKey"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.DefaultJwtBuilder"
+    },
+    "name": "java.util.Map",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.jackson.io.JacksonSerializer"
+    },
+    "name": "java.util.Map",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.crypto.EllipticCurveSigner"
+    },
+    "name": "sun.security.provider.NativePRNG",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.crypto.MacProvider"
+    },
+    "name": "sun.security.provider.NativePRNG",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.crypto.SignatureProvider"
+    },
+    "name": "sun.security.provider.NativePRNG",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidator"
+    },
+    "name": "sun.security.provider.SHA2$SHA256",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.crypto.EllipticCurveSigner"
+    },
+    "name": "sun.security.provider.SHA2$SHA256",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.crypto.MacSigner"
+    },
+    "name": "sun.security.provider.SHA2$SHA256",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.crypto.RsaSignatureValidator"
+    },
+    "name": "sun.security.provider.SHA2$SHA256",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.crypto.RsaSigner"
+    },
+    "name": "sun.security.provider.SHA2$SHA256",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.crypto.SignatureProvider"
+    },
+    "name": "sun.security.provider.SHA2$SHA256",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidator"
+    },
+    "name": "sun.security.provider.SHA5$SHA384",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.crypto.EllipticCurveSigner"
+    },
+    "name": "sun.security.provider.SHA5$SHA384",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.crypto.MacSigner"
+    },
+    "name": "sun.security.provider.SHA5$SHA384",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.crypto.RsaSignatureValidator"
+    },
+    "name": "sun.security.provider.SHA5$SHA384",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.crypto.RsaSigner"
+    },
+    "name": "sun.security.provider.SHA5$SHA384",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.crypto.SignatureProvider"
+    },
+    "name": "sun.security.provider.SHA5$SHA384",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.crypto.EllipticCurveSignatureValidator"
+    },
+    "name": "sun.security.provider.SHA5$SHA512",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.crypto.EllipticCurveSigner"
+    },
+    "name": "sun.security.provider.SHA5$SHA512",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.crypto.MacSigner"
+    },
+    "name": "sun.security.provider.SHA5$SHA512",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.crypto.RsaSignatureValidator"
+    },
+    "name": "sun.security.provider.SHA5$SHA512",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.crypto.RsaSigner"
+    },
+    "name": "sun.security.provider.SHA5$SHA512",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.crypto.SignatureProvider"
+    },
+    "name": "sun.security.provider.SHA5$SHA512",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.crypto.RsaProvider"
+    },
+    "name": "sun.security.rsa.RSAKeyPairGenerator$Legacy",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.crypto.RsaSignatureValidator"
+    },
+    "name": "sun.security.rsa.RSASignature$SHA256withRSA",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.crypto.RsaSigner"
+    },
+    "name": "sun.security.rsa.RSASignature$SHA256withRSA",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.crypto.RsaSignatureValidator"
+    },
+    "name": "sun.security.rsa.RSASignature$SHA384withRSA",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.crypto.RsaSigner"
+    },
+    "name": "sun.security.rsa.RSASignature$SHA384withRSA",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.crypto.RsaSignatureValidator"
+    },
+    "name": "sun.security.rsa.RSASignature$SHA512withRSA",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.jsonwebtoken.impl.crypto.RsaSigner"
+    },
+    "name": "sun.security.rsa.RSASignature$SHA512withRSA",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  }
+]

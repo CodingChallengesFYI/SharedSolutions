@@ -1,0 +1,10 @@
+[
+  {
+    "latest": true,
+    "metadata-version": "19.2",
+    "module": "com.graphql-java:graphql-java",
+    "tested-versions": [
+      "19.2"
+    ]
+  }
+]

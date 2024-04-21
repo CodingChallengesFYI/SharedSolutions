@@ -1,0 +1,8 @@
+[
+  {
+    "condition": {
+      "typeReachable": "io.opentelemetry.exporter.logging.LoggingSpanExporter"
+    },
+    "name": "io.opentelemetry.exporter.logging.LoggingSpanExporter"
+  }
+]

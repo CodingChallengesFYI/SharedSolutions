@@ -1,0 +1,10 @@
+[
+  {
+    "latest": true,
+    "metadata-version": "2.2.19.Final",
+    "module": "io.undertow:undertow-core",
+    "tested-versions": [
+      "2.2.19.Final"
+    ]
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "includes": [
+      {
+        "condition": {
+          "typeReachable": "org.mockito.internal.configuration.plugins.PluginInitializer"
+        },
+        "pattern": "\\Qmockito-extensions/org.mockito.plugins.MockMaker\\E"
+      }
+    ]
+  },
+  "bundles": []
+}

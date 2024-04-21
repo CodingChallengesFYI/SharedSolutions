@@ -1,0 +1,11 @@
+[
+  {
+    "latest": true,
+    "override": true,
+    "metadata-version": "4.1.80.Final",
+    "module": "io.netty:netty-resolver-dns",
+    "tested-versions": [
+      "4.1.80.Final"
+    ]
+  }
+]

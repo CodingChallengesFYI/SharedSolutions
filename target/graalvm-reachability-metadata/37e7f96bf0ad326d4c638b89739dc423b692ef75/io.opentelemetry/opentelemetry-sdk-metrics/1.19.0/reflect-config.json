@@ -1,0 +1,16 @@
+[
+  {
+    "condition": {
+      "typeReachable": "io.opentelemetry.sdk.metrics.SdkMeterProviderBuilder"
+    },
+    "name": "io.opentelemetry.sdk.metrics.SdkMeterProviderBuilder",
+    "methods": [
+      {
+        "name": "setExemplarFilter",
+        "parameterTypes": [
+          "io.opentelemetry.sdk.metrics.internal.exemplar.ExemplarFilter"
+        ]
+      }
+    ]
+  }
+]

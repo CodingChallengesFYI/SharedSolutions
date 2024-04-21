@@ -1,0 +1,10 @@
+[
+  {
+    "latest": true,
+    "metadata-version": "2.1.12",
+    "module": "org.hdrhistogram:HdrHistogram",
+    "tested-versions": [
+      "2.1.12"
+    ]
+  }
+]

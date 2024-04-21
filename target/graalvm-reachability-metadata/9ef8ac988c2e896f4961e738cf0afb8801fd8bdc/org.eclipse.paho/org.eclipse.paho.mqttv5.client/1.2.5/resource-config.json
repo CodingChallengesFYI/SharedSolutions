@@ -1,0 +1,17 @@
+{
+  "resources": {
+    "includes": [
+      {
+        "pattern": "\\QMETA-INF/services/org.eclipse.paho.mqttv5.client.spi.NetworkModuleFactory\\E",
+        "condition": {
+          "typeReachable": "org.eclipse.paho.mqttv5.client.internal.NetworkModuleService"
+        }
+      }
+    ]
+  },
+  "bundles": [
+    {
+      "name": "org.eclipse.paho.mqttv5.client.internal.nls.logcat"
+    }
+  ]
+}

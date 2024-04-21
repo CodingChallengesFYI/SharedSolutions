@@ -1,0 +1,120 @@
+package io.valentinsoare.wordtally;
+
+import io.valentinsoare.wordtally.outputformat.OutputFormat__BeanDefinitions;
+import io.valentinsoare.wordtally.runner.ApplicationRunner__BeanDefinitions;
+import io.valentinsoare.wordtally.service.ActOnInputOptionsProcessingAsAService__BeanDefinitions;
+import io.valentinsoare.wordtally.service.ParseTheInput__BeanDefinitions;
+import io.valentinsoare.wordtally.service.ProcessingTheInputFromFD__BeanDefinitions;
+import io.valentinsoare.wordtally.setupasync.AsynchronousConfiguration__BeanDefinitions;
+import org.springframework.aop.framework.autoproxy.InfrastructureAdvisorAutoProxyCreator__BeanDefinitions;
+import org.springframework.aot.generate.Generated;
+import org.springframework.beans.factory.support.DefaultListableBeanFactory;
+import org.springframework.boot.autoconfigure.AutoConfigurationPackages__BeanDefinitions;
+import org.springframework.boot.autoconfigure.aop.AopAutoConfiguration__BeanDefinitions;
+import org.springframework.boot.autoconfigure.availability.ApplicationAvailabilityAutoConfiguration__BeanDefinitions;
+import org.springframework.boot.autoconfigure.context.ConfigurationPropertiesAutoConfiguration__BeanDefinitions;
+import org.springframework.boot.autoconfigure.context.LifecycleAutoConfiguration__BeanDefinitions;
+import org.springframework.boot.autoconfigure.context.LifecycleProperties__BeanDefinitions;
+import org.springframework.boot.autoconfigure.context.PropertyPlaceholderAutoConfiguration__BeanDefinitions;
+import org.springframework.boot.autoconfigure.info.ProjectInfoAutoConfiguration__BeanDefinitions;
+import org.springframework.boot.autoconfigure.info.ProjectInfoProperties__BeanDefinitions;
+import org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration__BeanDefinitions;
+import org.springframework.boot.autoconfigure.sql.init.SqlInitializationAutoConfiguration__BeanDefinitions;
+import org.springframework.boot.autoconfigure.sql.init.SqlInitializationProperties__BeanDefinitions;
+import org.springframework.boot.autoconfigure.ssl.SslAutoConfiguration__BeanDefinitions;
+import org.springframework.boot.autoconfigure.ssl.SslProperties__BeanDefinitions;
+import org.springframework.boot.autoconfigure.task.TaskExecutionAutoConfiguration__BeanDefinitions;
+import org.springframework.boot.autoconfigure.task.TaskExecutionProperties__BeanDefinitions;
+import org.springframework.boot.autoconfigure.task.TaskExecutorConfigurations__BeanDefinitions;
+import org.springframework.boot.autoconfigure.task.TaskSchedulingAutoConfiguration__BeanDefinitions;
+import org.springframework.boot.autoconfigure.task.TaskSchedulingConfigurations__BeanDefinitions;
+import org.springframework.boot.autoconfigure.task.TaskSchedulingProperties__BeanDefinitions;
+import org.springframework.boot.context.properties.BoundConfigurationProperties__BeanDefinitions;
+import org.springframework.boot.context.properties.ConfigurationPropertiesBinder__BeanDefinitions;
+import org.springframework.boot.context.properties.ConfigurationPropertiesBindingPostProcessor__BeanDefinitions;
+import org.springframework.boot.jackson.JsonMixinModuleEntries__BeanDefinitions;
+import org.springframework.boot.sql.init.dependency.DatabaseInitializationDependencyConfigurer__BeanDefinitions;
+import org.springframework.boot.validation.beanvalidation.MethodValidationExcludeFilter__BeanDefinitions;
+import org.springframework.context.event.DefaultEventListenerFactory__BeanDefinitions;
+import org.springframework.context.event.EventListenerMethodProcessor__BeanDefinitions;
+import org.springframework.scheduling.annotation.ProxyAsyncConfiguration__BeanDefinitions;
+
+/**
+ * Register bean definitions for the bean factory.
+ */
+@Generated
+public class WordTallyApplication__BeanFactoryRegistrations {
+  /**
+   * Register the bean definitions.
+   */
+  public void registerBeanDefinitions(DefaultListableBeanFactory beanFactory) {
+    beanFactory.registerBeanDefinition("org.springframework.context.event.internalEventListenerProcessor", EventListenerMethodProcessor__BeanDefinitions.getInternalEventListenerProcessorBeanDefinition());
+    beanFactory.registerBeanDefinition("org.springframework.context.event.internalEventListenerFactory", DefaultEventListenerFactory__BeanDefinitions.getInternalEventListenerFactoryBeanDefinition());
+    beanFactory.registerBeanDefinition("wordTallyApplication", WordTallyApplication__BeanDefinitions.getWordTallyApplicationBeanDefinition());
+    beanFactory.registerBeanDefinition("outputFormat", OutputFormat__BeanDefinitions.getOutputFormatBeanDefinition());
+    beanFactory.registerBeanDefinition("applicationRunner", ApplicationRunner__BeanDefinitions.getApplicationRunnerBeanDefinition());
+    beanFactory.registerBeanDefinition("actOnInputOptionsProcessingAsAService", ActOnInputOptionsProcessingAsAService__BeanDefinitions.getActOnInputOptionsProcessingAsAServiceBeanDefinition());
+    beanFactory.registerBeanDefinition("parseTheInput", ParseTheInput__BeanDefinitions.getParseTheInputBeanDefinition());
+    beanFactory.registerBeanDefinition("processingTheInputFromFD", ProcessingTheInputFromFD__BeanDefinitions.getProcessingTheInputFromFDBeanDefinition());
+    beanFactory.registerBeanDefinition("asynchronousConfiguration", AsynchronousConfiguration__BeanDefinitions.getAsynchronousConfigurationBeanDefinition());
+    beanFactory.registerBeanDefinition("org.springframework.scheduling.annotation.ProxyAsyncConfiguration", ProxyAsyncConfiguration__BeanDefinitions.getProxyAsyncConfigurationBeanDefinition());
+    beanFactory.registerBeanDefinition("org.springframework.context.annotation.internalAsyncAnnotationProcessor", ProxyAsyncConfiguration__BeanDefinitions.getInternalAsyncAnnotationProcessorBeanDefinition());
+    beanFactory.registerBeanDefinition("org.springframework.boot.autoconfigure.AutoConfigurationPackages", AutoConfigurationPackages__BeanDefinitions.BasePackages.getAutoConfigurationPackagesBeanDefinition());
+    beanFactory.registerBeanDefinition("org.springframework.boot.autoconfigure.context.PropertyPlaceholderAutoConfiguration", PropertyPlaceholderAutoConfiguration__BeanDefinitions.getPropertyPlaceholderAutoConfigurationBeanDefinition());
+    beanFactory.registerBeanDefinition("propertySourcesPlaceholderConfigurer", PropertyPlaceholderAutoConfiguration__BeanDefinitions.getPropertySourcesPlaceholderConfigurerBeanDefinition());
+    beanFactory.registerBeanDefinition("org.springframework.boot.autoconfigure.aop.AopAutoConfiguration$ClassProxyingConfiguration", AopAutoConfiguration__BeanDefinitions.ClassProxyingConfiguration.getClassProxyingConfigurationBeanDefinition());
+    beanFactory.registerBeanDefinition("forceAutoProxyCreatorToUseClassProxying", AopAutoConfiguration__BeanDefinitions.ClassProxyingConfiguration.getForceAutoProxyCreatorToUseClassProxyingBeanDefinition());
+    beanFactory.registerBeanDefinition("org.springframework.boot.autoconfigure.aop.AopAutoConfiguration", AopAutoConfiguration__BeanDefinitions.getAopAutoConfigurationBeanDefinition());
+    beanFactory.registerBeanDefinition("org.springframework.boot.autoconfigure.availability.ApplicationAvailabilityAutoConfiguration", ApplicationAvailabilityAutoConfiguration__BeanDefinitions.getApplicationAvailabilityAutoConfigurationBeanDefinition());
+    beanFactory.registerBeanDefinition("applicationAvailability", ApplicationAvailabilityAutoConfiguration__BeanDefinitions.getApplicationAvailabilityBeanDefinition());
+    beanFactory.registerBeanDefinition("org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration$JacksonMixinConfiguration", JacksonAutoConfiguration__BeanDefinitions.JacksonMixinConfiguration.getJacksonMixinConfigurationBeanDefinition());
+    beanFactory.registerBeanDefinition("jsonMixinModuleEntries", JsonMixinModuleEntries__BeanDefinitions.getJsonMixinModuleEntriesBeanDefinition());
+    beanFactory.registerBeanDefinition("jsonMixinModule", JacksonAutoConfiguration__BeanDefinitions.JacksonMixinConfiguration.getJsonMixinModuleBeanDefinition());
+    beanFactory.registerBeanDefinition("org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration", JacksonAutoConfiguration__BeanDefinitions.getJacksonAutoConfigurationBeanDefinition());
+    beanFactory.registerBeanDefinition("jsonComponentModule", JacksonAutoConfiguration__BeanDefinitions.getJsonComponentModuleBeanDefinition());
+    beanFactory.registerBeanDefinition("org.springframework.boot.autoconfigure.context.ConfigurationPropertiesAutoConfiguration", ConfigurationPropertiesAutoConfiguration__BeanDefinitions.getConfigurationPropertiesAutoConfigurationBeanDefinition());
+    beanFactory.registerBeanDefinition("org.springframework.boot.context.properties.ConfigurationPropertiesBindingPostProcessor", ConfigurationPropertiesBindingPostProcessor__BeanDefinitions.getConfigurationPropertiesBindingPostProcessorBeanDefinition());
+    beanFactory.registerBeanDefinition("org.springframework.boot.context.internalConfigurationPropertiesBinder", ConfigurationPropertiesBinder__BeanDefinitions.ConfigurationPropertiesBinderFactory.getInternalConfigurationPropertiesBinderBeanDefinition());
+    beanFactory.registerBeanDefinition("org.springframework.boot.context.properties.BoundConfigurationProperties", BoundConfigurationProperties__BeanDefinitions.getBoundConfigurationPropertiesBeanDefinition());
+    beanFactory.registerBeanDefinition("org.springframework.boot.context.properties.EnableConfigurationPropertiesRegistrar.methodValidationExcludeFilter", MethodValidationExcludeFilter__BeanDefinitions.getMethodValidationExcludeFilterBeanDefinition());
+    beanFactory.registerBeanDefinition("org.springframework.boot.autoconfigure.context.LifecycleAutoConfiguration", LifecycleAutoConfiguration__BeanDefinitions.getLifecycleAutoConfigurationBeanDefinition());
+    beanFactory.registerBeanDefinition("lifecycleProcessor", LifecycleAutoConfiguration__BeanDefinitions.getLifecycleProcessorBeanDefinition());
+    beanFactory.registerBeanDefinition("spring.lifecycle-org.springframework.boot.autoconfigure.context.LifecycleProperties", LifecycleProperties__BeanDefinitions.getLifecyclePropertiesBeanDefinition());
+    beanFactory.registerBeanDefinition("org.springframework.boot.autoconfigure.info.ProjectInfoAutoConfiguration", ProjectInfoAutoConfiguration__BeanDefinitions.getProjectInfoAutoConfigurationBeanDefinition());
+    beanFactory.registerBeanDefinition("spring.info-org.springframework.boot.autoconfigure.info.ProjectInfoProperties", ProjectInfoProperties__BeanDefinitions.getProjectInfoPropertiesBeanDefinition());
+    beanFactory.registerBeanDefinition("org.springframework.boot.autoconfigure.sql.init.SqlInitializationAutoConfiguration", SqlInitializationAutoConfiguration__BeanDefinitions.getSqlInitializationAutoConfigurationBeanDefinition());
+    beanFactory.registerBeanDefinition("spring.sql.init-org.springframework.boot.autoconfigure.sql.init.SqlInitializationProperties", SqlInitializationProperties__BeanDefinitions.getSqlInitializationPropertiesBeanDefinition());
+    beanFactory.registerBeanDefinition("org.springframework.boot.sql.init.dependency.DatabaseInitializationDependencyConfigurer$DependsOnDatabaseInitializationPostProcessor", DatabaseInitializationDependencyConfigurer__BeanDefinitions.DependsOnDatabaseInitializationPostProcessor.getDependsOnDatabaseInitializationPostProcessorBeanDefinition());
+    beanFactory.registerBeanDefinition("org.springframework.boot.autoconfigure.ssl.SslAutoConfiguration", SslAutoConfiguration__BeanDefinitions.getSslAutoConfigurationBeanDefinition());
+    beanFactory.registerBeanDefinition("fileWatcher", SslAutoConfiguration__BeanDefinitions.getFileWatcherBeanDefinition());
+    beanFactory.registerBeanDefinition("sslPropertiesSslBundleRegistrar", SslAutoConfiguration__BeanDefinitions.getSslPropertiesSslBundleRegistrarBeanDefinition());
+    beanFactory.registerBeanDefinition("sslBundleRegistry", SslAutoConfiguration__BeanDefinitions.getSslBundleRegistryBeanDefinition());
+    beanFactory.registerBeanDefinition("spring.ssl-org.springframework.boot.autoconfigure.ssl.SslProperties", SslProperties__BeanDefinitions.getSslPropertiesBeanDefinition());
+    beanFactory.registerBeanDefinition("org.springframework.boot.autoconfigure.task.TaskExecutorConfigurations$ThreadPoolTaskExecutorBuilderConfiguration", TaskExecutorConfigurations__BeanDefinitions.ThreadPoolTaskExecutorBuilderConfiguration.getThreadPoolTaskExecutorBuilderConfigurationBeanDefinition());
+    beanFactory.registerBeanDefinition("threadPoolTaskExecutorBuilder", TaskExecutorConfigurations__BeanDefinitions.ThreadPoolTaskExecutorBuilderConfiguration.getThreadPoolTaskExecutorBuilderBeanDefinition());
+    beanFactory.registerBeanDefinition("org.springframework.boot.autoconfigure.task.TaskExecutorConfigurations$TaskExecutorBuilderConfiguration", TaskExecutorConfigurations__BeanDefinitions.TaskExecutorBuilderConfiguration.getTaskExecutorBuilderConfigurationBeanDefinition());
+    beanFactory.registerBeanDefinition("taskExecutorBuilder", TaskExecutorConfigurations__BeanDefinitions.TaskExecutorBuilderConfiguration.getTaskExecutorBuilderBeanDefinition());
+    beanFactory.registerBeanDefinition("org.springframework.boot.autoconfigure.task.TaskExecutorConfigurations$SimpleAsyncTaskExecutorBuilderConfiguration", TaskExecutorConfigurations__BeanDefinitions.SimpleAsyncTaskExecutorBuilderConfiguration.getSimpleAsyncTaskExecutorBuilderConfigurationBeanDefinition());
+    beanFactory.registerBeanDefinition("simpleAsyncTaskExecutorBuilder", TaskExecutorConfigurations__BeanDefinitions.SimpleAsyncTaskExecutorBuilderConfiguration.getSimpleAsyncTaskExecutorBuilderBeanDefinition());
+    beanFactory.registerBeanDefinition("org.springframework.boot.autoconfigure.task.TaskExecutorConfigurations$TaskExecutorConfiguration", TaskExecutorConfigurations__BeanDefinitions.TaskExecutorConfiguration.getTaskExecutorConfigurationBeanDefinition());
+    beanFactory.registerBeanDefinition("applicationTaskExecutor", TaskExecutorConfigurations__BeanDefinitions.TaskExecutorConfiguration.getApplicationTaskExecutorBeanDefinition());
+    beanFactory.registerBeanDefinition("org.springframework.boot.autoconfigure.task.TaskExecutionAutoConfiguration", TaskExecutionAutoConfiguration__BeanDefinitions.getTaskExecutionAutoConfigurationBeanDefinition());
+    beanFactory.registerBeanDefinition("spring.task.execution-org.springframework.boot.autoconfigure.task.TaskExecutionProperties", TaskExecutionProperties__BeanDefinitions.getTaskExecutionPropertiesBeanDefinition());
+    beanFactory.registerBeanDefinition("org.springframework.boot.autoconfigure.task.TaskSchedulingConfigurations$ThreadPoolTaskSchedulerBuilderConfiguration", TaskSchedulingConfigurations__BeanDefinitions.ThreadPoolTaskSchedulerBuilderConfiguration.getThreadPoolTaskSchedulerBuilderConfigurationBeanDefinition());
+    beanFactory.registerBeanDefinition("threadPoolTaskSchedulerBuilder", TaskSchedulingConfigurations__BeanDefinitions.ThreadPoolTaskSchedulerBuilderConfiguration.getThreadPoolTaskSchedulerBuilderBeanDefinition());
+    beanFactory.registerBeanDefinition("org.springframework.boot.autoconfigure.task.TaskSchedulingConfigurations$TaskSchedulerBuilderConfiguration", TaskSchedulingConfigurations__BeanDefinitions.TaskSchedulerBuilderConfiguration.getTaskSchedulerBuilderConfigurationBeanDefinition());
+    beanFactory.registerBeanDefinition("taskSchedulerBuilder", TaskSchedulingConfigurations__BeanDefinitions.TaskSchedulerBuilderConfiguration.getTaskSchedulerBuilderBeanDefinition());
+    beanFactory.registerBeanDefinition("org.springframework.boot.autoconfigure.task.TaskSchedulingConfigurations$SimpleAsyncTaskSchedulerBuilderConfiguration", TaskSchedulingConfigurations__BeanDefinitions.SimpleAsyncTaskSchedulerBuilderConfiguration.getSimpleAsyncTaskSchedulerBuilderConfigurationBeanDefinition());
+    beanFactory.registerBeanDefinition("simpleAsyncTaskSchedulerBuilder", TaskSchedulingConfigurations__BeanDefinitions.SimpleAsyncTaskSchedulerBuilderConfiguration.getSimpleAsyncTaskSchedulerBuilderBeanDefinition());
+    beanFactory.registerBeanDefinition("org.springframework.boot.autoconfigure.task.TaskSchedulingAutoConfiguration", TaskSchedulingAutoConfiguration__BeanDefinitions.getTaskSchedulingAutoConfigurationBeanDefinition());
+    beanFactory.registerBeanDefinition("spring.task.scheduling-org.springframework.boot.autoconfigure.task.TaskSchedulingProperties", TaskSchedulingProperties__BeanDefinitions.getTaskSchedulingPropertiesBeanDefinition());
+    beanFactory.registerBeanDefinition("org.springframework.aop.config.internalAutoProxyCreator", InfrastructureAdvisorAutoProxyCreator__BeanDefinitions.getInternalAutoProxyCreatorBeanDefinition());
+  }
+
+  /**
+   * Register the aliases.
+   */
+  public void registerAliases(DefaultListableBeanFactory beanFactory) {
+    beanFactory.registerAlias("applicationTaskExecutor", "taskExecutor");
+  }
+}

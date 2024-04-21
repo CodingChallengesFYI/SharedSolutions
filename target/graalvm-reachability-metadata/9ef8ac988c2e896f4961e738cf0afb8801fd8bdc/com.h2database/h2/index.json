@@ -1,0 +1,10 @@
+[
+  {
+    "latest": true,
+    "metadata-version": "2.1.210",
+    "module": "com.h2database:h2",
+    "tested-versions": [
+      "2.1.210"
+    ]
+  }
+]

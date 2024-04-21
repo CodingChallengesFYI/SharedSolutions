@@ -1,0 +1,10 @@
+[
+  {
+    "latest": true,
+    "metadata-version": "2.0.0.Final",
+    "module": "org.hibernate.reactive:hibernate-reactive-core",
+    "tested-versions": [
+      "2.0.0.Final"
+    ]
+  }
+]

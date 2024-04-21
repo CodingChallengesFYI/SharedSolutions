@@ -1,0 +1,958 @@
+[
+    {
+        "name": "[B",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.utils.uri.BeanSupport"
+        }
+    },
+    {
+        "name": "[C",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.utils.uri.BeanSupport"
+        }
+    },
+    {
+        "name": "[D",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.utils.uri.BeanSupport"
+        }
+    },
+    {
+        "name": "[F",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.utils.uri.BeanSupport"
+        }
+    },
+    {
+        "name": "[I",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.utils.uri.BeanSupport"
+        }
+    },
+    {
+        "name": "[J",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.utils.uri.BeanSupport"
+        }
+    },
+    {
+        "name": "[Ljava.io.File;",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.utils.uri.BeanSupport"
+        }
+    },
+    {
+        "name": "[Ljava.lang.Boolean;",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.utils.uri.BeanSupport"
+        }
+    },
+    {
+        "name": "[Ljava.lang.Byte;",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.utils.uri.BeanSupport"
+        }
+    },
+    {
+        "name": "[Ljava.lang.Character;",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.utils.uri.BeanSupport"
+        }
+    },
+    {
+        "name": "[Ljava.lang.Class;",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.utils.uri.BeanSupport"
+        }
+    },
+    {
+        "name": "[Ljava.lang.Double;",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.utils.uri.BeanSupport"
+        }
+    },
+    {
+        "name": "[Ljava.lang.Float;",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.utils.uri.BeanSupport"
+        }
+    },
+    {
+        "name": "[Ljava.lang.Integer;",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.utils.uri.BeanSupport"
+        }
+    },
+    {
+        "name": "[Ljava.lang.Long;",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.utils.uri.BeanSupport"
+        }
+    },
+    {
+        "name": "[Ljava.lang.Short;",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.utils.uri.BeanSupport"
+        }
+    },
+    {
+        "name": "[Ljava.lang.String;",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.utils.uri.BeanSupport"
+        }
+    },
+    {
+        "name": "[Ljava.math.BigDecimal;",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.utils.uri.BeanSupport"
+        }
+    },
+    {
+        "name": "[Ljava.math.BigInteger;",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.utils.uri.BeanSupport"
+        }
+    },
+    {
+        "name": "[Ljava.net.URL;",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.utils.uri.BeanSupport"
+        }
+    },
+    {
+        "name": "[Ljava.sql.Date;",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.utils.uri.BeanSupport"
+        }
+    },
+    {
+        "name": "[Ljava.sql.Time;",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.utils.uri.BeanSupport"
+        }
+    },
+    {
+        "name": "[Ljava.sql.Timestamp;",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.utils.uri.BeanSupport"
+        }
+    },
+    {
+        "name": "[Ljava.util.Calendar;",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.utils.uri.BeanSupport"
+        }
+    },
+    {
+        "name": "[Ljava.util.Date;",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.utils.uri.BeanSupport"
+        }
+    },
+    {
+        "name": "[Ljava.util.Iterator;",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.utils.actors.ProcessorBase"
+        }
+    },
+    {
+        "name": "[Lorg.apache.activemq.artemis.api.core.Pair;",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.core.client.impl.ServerLocatorImpl"
+        }
+    },
+    {
+        "name": "[Lorg.apache.activemq.artemis.utils.collections.LinkedListImpl$Iterator;",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.utils.collections.LinkedListImpl"
+        }
+    },
+    {
+        "name": "[Lorg.apache.activemq.artemis.utils.collections.LinkedListImpl;",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.utils.collections.PriorityLinkedListImpl"
+        }
+    },
+    {
+        "name": "[S",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.utils.uri.BeanSupport"
+        }
+    },
+    {
+        "name": "[Z",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.utils.uri.BeanSupport"
+        }
+    },
+    {
+        "name": "io.netty.channel.ChannelDuplexHandler",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.core.remoting.impl.netty.NettyConnector$1"
+        },
+        "methods": [
+            {
+                "name": "bind",
+                "parameterTypes": [
+                    "io.netty.channel.ChannelHandlerContext",
+                    "java.net.SocketAddress",
+                    "io.netty.channel.ChannelPromise"
+                ]
+            },
+            {
+                "name": "close",
+                "parameterTypes": [
+                    "io.netty.channel.ChannelHandlerContext",
+                    "io.netty.channel.ChannelPromise"
+                ]
+            },
+            {
+                "name": "connect",
+                "parameterTypes": [
+                    "io.netty.channel.ChannelHandlerContext",
+                    "java.net.SocketAddress",
+                    "java.net.SocketAddress",
+                    "io.netty.channel.ChannelPromise"
+                ]
+            },
+            {
+                "name": "deregister",
+                "parameterTypes": [
+                    "io.netty.channel.ChannelHandlerContext",
+                    "io.netty.channel.ChannelPromise"
+                ]
+            },
+            {
+                "name": "disconnect",
+                "parameterTypes": [
+                    "io.netty.channel.ChannelHandlerContext",
+                    "io.netty.channel.ChannelPromise"
+                ]
+            },
+            {
+                "name": "flush",
+                "parameterTypes": [
+                    "io.netty.channel.ChannelHandlerContext"
+                ]
+            },
+            {
+                "name": "read",
+                "parameterTypes": [
+                    "io.netty.channel.ChannelHandlerContext"
+                ]
+            },
+            {
+                "name": "write",
+                "parameterTypes": [
+                    "io.netty.channel.ChannelHandlerContext",
+                    "java.lang.Object",
+                    "io.netty.channel.ChannelPromise"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.netty.channel.ChannelInboundHandlerAdapter",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.core.protocol.core.impl.ActiveMQClientProtocolManager"
+        },
+        "methods": [
+            {
+                "name": "channelActive",
+                "parameterTypes": [
+                    "io.netty.channel.ChannelHandlerContext"
+                ]
+            },
+            {
+                "name": "channelRegistered",
+                "parameterTypes": [
+                    "io.netty.channel.ChannelHandlerContext"
+                ]
+            },
+            {
+                "name": "channelUnregistered",
+                "parameterTypes": [
+                    "io.netty.channel.ChannelHandlerContext"
+                ]
+            },
+            {
+                "name": "channelWritabilityChanged",
+                "parameterTypes": [
+                    "io.netty.channel.ChannelHandlerContext"
+                ]
+            },
+            {
+                "name": "exceptionCaught",
+                "parameterTypes": [
+                    "io.netty.channel.ChannelHandlerContext",
+                    "java.lang.Throwable"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.netty.channel.ChannelInboundHandlerAdapter",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.core.remoting.impl.netty.NettyConnector"
+        },
+        "methods": [
+            {
+                "name": "channelActive",
+                "parameterTypes": [
+                    "io.netty.channel.ChannelHandlerContext"
+                ]
+            },
+            {
+                "name": "channelInactive",
+                "parameterTypes": [
+                    "io.netty.channel.ChannelHandlerContext"
+                ]
+            },
+            {
+                "name": "channelRead",
+                "parameterTypes": [
+                    "io.netty.channel.ChannelHandlerContext",
+                    "java.lang.Object"
+                ]
+            },
+            {
+                "name": "channelReadComplete",
+                "parameterTypes": [
+                    "io.netty.channel.ChannelHandlerContext"
+                ]
+            },
+            {
+                "name": "channelUnregistered",
+                "parameterTypes": [
+                    "io.netty.channel.ChannelHandlerContext"
+                ]
+            },
+            {
+                "name": "channelWritabilityChanged",
+                "parameterTypes": [
+                    "io.netty.channel.ChannelHandlerContext"
+                ]
+            },
+            {
+                "name": "userEventTriggered",
+                "parameterTypes": [
+                    "io.netty.channel.ChannelHandlerContext",
+                    "java.lang.Object"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.netty.channel.ChannelInboundHandlerAdapter",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.core.remoting.impl.netty.NettyConnector$1"
+        },
+        "methods": [
+            {
+                "name": "channelRegistered",
+                "parameterTypes": [
+                    "io.netty.channel.ChannelHandlerContext"
+                ]
+            },
+            {
+                "name": "channelUnregistered",
+                "parameterTypes": [
+                    "io.netty.channel.ChannelHandlerContext"
+                ]
+            },
+            {
+                "name": "userEventTriggered",
+                "parameterTypes": [
+                    "io.netty.channel.ChannelHandlerContext",
+                    "java.lang.Object"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.netty.channel.ChannelInitializer",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.core.remoting.impl.netty.NettyConnector"
+        },
+        "methods": [
+            {
+                "name": "channelRegistered",
+                "parameterTypes": [
+                    "io.netty.channel.ChannelHandlerContext"
+                ]
+            },
+            {
+                "name": "exceptionCaught",
+                "parameterTypes": [
+                    "io.netty.channel.ChannelHandlerContext",
+                    "java.lang.Throwable"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.netty.channel.DefaultFileRegion",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.core.remoting.impl.netty.CheckDependencies"
+        }
+    },
+    {
+        "name": "io.netty.channel.socket.nio.NioSocketChannel",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.core.remoting.impl.netty.NettyConnector"
+        },
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.netty.channel.unix.PeerCredentials",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.core.remoting.impl.netty.CheckDependencies"
+        }
+    },
+    {
+        "name": "io.netty.handler.codec.ByteToMessageDecoder",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.core.protocol.core.impl.ActiveMQClientProtocolManager"
+        },
+        "methods": [
+            {
+                "name": "channelInactive",
+                "parameterTypes": [
+                    "io.netty.channel.ChannelHandlerContext"
+                ]
+            },
+            {
+                "name": "channelRead",
+                "parameterTypes": [
+                    "io.netty.channel.ChannelHandlerContext",
+                    "java.lang.Object"
+                ]
+            },
+            {
+                "name": "channelReadComplete",
+                "parameterTypes": [
+                    "io.netty.channel.ChannelHandlerContext"
+                ]
+            },
+            {
+                "name": "userEventTriggered",
+                "parameterTypes": [
+                    "io.netty.channel.ChannelHandlerContext",
+                    "java.lang.Object"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "javax.jms.ConnectionFactory",
+        "queryAllDeclaredMethods": true,
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.utils.uri.URISchema"
+        }
+    },
+    {
+        "name": "javax.jms.XAConnectionFactory",
+        "queryAllDeclaredMethods": true,
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.utils.uri.URISchema"
+        }
+    },
+    {
+        "name": "org.apache.activemq.artemis.api.core.client.ServerLocator",
+        "queryAllDeclaredMethods": true,
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.uri.schema.serverLocator.TCPServerLocatorSchema"
+        }
+    },
+    {
+        "name": "org.apache.activemq.artemis.api.core.client.loadbalance.RoundRobinConnectionLoadBalancingPolicy",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.core.client.impl.ServerLocatorImpl$3"
+        },
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.activemq.artemis.core.client.ActiveMQClientMessageBundle_impl",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.logs.BundleFactory"
+        },
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    "org.slf4j.Logger"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.activemq.artemis.core.client.impl.ServerLocatorImpl",
+        "queryAllDeclaredMethods": true,
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.uri.schema.serverLocator.TCPServerLocatorSchema"
+        },
+        "queryAllPublicMethods": true
+    },
+    {
+        "name": "org.apache.activemq.artemis.core.client.impl.ServerLocatorInternal",
+        "queryAllDeclaredMethods": true,
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.uri.schema.serverLocator.TCPServerLocatorSchema"
+        }
+    },
+    {
+        "name": "org.apache.activemq.artemis.core.cluster.DiscoveryListener",
+        "queryAllDeclaredMethods": true,
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.uri.schema.serverLocator.TCPServerLocatorSchema"
+        }
+    },
+    {
+        "name": "org.apache.activemq.artemis.core.remoting.impl.netty.ActiveMQChannelHandler",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.core.remoting.impl.netty.NettyConnector$1"
+        },
+        "methods": [
+            {
+                "name": "channelActive",
+                "parameterTypes": [
+                    "io.netty.channel.ChannelHandlerContext"
+                ]
+            },
+            {
+                "name": "channelInactive",
+                "parameterTypes": [
+                    "io.netty.channel.ChannelHandlerContext"
+                ]
+            },
+            {
+                "name": "channelRead",
+                "parameterTypes": [
+                    "io.netty.channel.ChannelHandlerContext",
+                    "java.lang.Object"
+                ]
+            },
+            {
+                "name": "channelReadComplete",
+                "parameterTypes": [
+                    "io.netty.channel.ChannelHandlerContext"
+                ]
+            },
+            {
+                "name": "channelWritabilityChanged",
+                "parameterTypes": [
+                    "io.netty.channel.ChannelHandlerContext"
+                ]
+            },
+            {
+                "name": "exceptionCaught",
+                "parameterTypes": [
+                    "io.netty.channel.ChannelHandlerContext",
+                    "java.lang.Throwable"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.activemq.artemis.core.remoting.impl.netty.ActiveMQFrameDecoder2",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.core.protocol.core.impl.ActiveMQClientProtocolManager"
+        }
+    },
+    {
+        "name": "org.apache.activemq.artemis.core.remoting.impl.netty.NettyConnector$1",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.core.remoting.impl.netty.NettyConnector"
+        }
+    },
+    {
+        "name": "org.apache.activemq.artemis.core.remoting.impl.netty.NettyConnector$ActiveMQClientChannelHandler",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.core.remoting.impl.netty.NettyConnector$1"
+        }
+    },
+    {
+        "name": "org.apache.activemq.artemis.core.remoting.impl.netty.NettyConnectorFactory",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.core.client.impl.ClientSessionFactoryImpl$2"
+        },
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.activemq.artemis.jms.client.ActiveMQConnectionFactory",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.utils.uri.BeanSupport"
+        },
+        "methods": [
+            {
+                "name": "getCallFailoverTimeout",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "getCallTimeout",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "getClientFailureCheckPeriod",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "getClientID",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "getConfirmationWindowSize",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "getConnectionLoadBalancingPolicyClassName",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "getConnectionTTL",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "getConsumerMaxRate",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "getConsumerWindowSize",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "getDeserializationBlackList",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "getDeserializationWhiteList",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "getDupsOKBatchSize",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "getFactoryType",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "getGroupID",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "getIncomingInterceptorList",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "getInitialConnectAttempts",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "getInitialMessagePacketSize",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "getMaxRetryInterval",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "getMinLargeMessageSize",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "getOutgoingInterceptorList",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "getPassword",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "getPasswordCodec",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "getProducerMaxRate",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "getProducerWindowSize",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "getProtocolManagerFactoryStr",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "getReconnectAttempts",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "getRetryInterval",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "getRetryIntervalMultiplier",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "getScheduledThreadPoolMaxSize",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "getThreadPoolMaxSize",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "getTransactionBatchSize",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "getUser",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "isAutoGroup",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "isBlockOnAcknowledge",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "isBlockOnDurableSend",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "isBlockOnNonDurableSend",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "isCacheDestinations",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "isCacheLargeMessagesClient",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "isCompressLargeMessage",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "isEnable1xPrefixes",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "isEnableSharedClientID",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "isFailoverOnInitialConnection",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "isHA",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "isIgnoreJTA",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "isPreAcknowledge",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "isUseGlobalPools",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "isUseTopologyForLoadBalancing",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.activemq.artemis.jms.client.ActiveMQConnectionFactory",
+        "queryAllDeclaredMethods": true,
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.utils.uri.URISchema"
+        },
+        "queryAllPublicMethods": true
+    },
+    {
+        "name": "org.apache.activemq.artemis.jms.client.ConnectionFactoryOptions",
+        "queryAllDeclaredMethods": true,
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.utils.uri.URISchema"
+        }
+    },
+    {
+        "name": "org.apache.activemq.artemis.jndi.JNDIStorable",
+        "queryAllDeclaredMethods": true,
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.utils.uri.URISchema"
+        },
+        "queryAllPublicMethods": true
+    },
+    {
+        "name": "org.apache.activemq.artemis.logs.AuditLogger_impl",
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.logs.AuditLogger"
+        },
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    "org.slf4j.Logger"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.activemq.artemis.spi.core.protocol.ProtocolManager",
+        "queryAllDeclaredMethods": true,
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.utils.uri.BeanSupport"
+        }
+    },
+    {
+        "name": "org.apache.activemq.artemis.uri.schema.serverLocator.ConnectionOptions",
+        "queryAllDeclaredMethods": true,
+        "condition": {
+            "typeReachable": "org.apache.activemq.artemis.uri.schema.serverLocator.AbstractServerLocatorSchema"
+        },
+        "queryAllPublicMethods": true,
+        "methods": [
+            {
+                "name": "setHost",
+                "parameterTypes": [
+                    "java.lang.String"
+                ]
+            },
+            {
+                "name": "setPort",
+                "parameterTypes": [
+                    "int"
+                ]
+            }
+        ]
+    }
+]

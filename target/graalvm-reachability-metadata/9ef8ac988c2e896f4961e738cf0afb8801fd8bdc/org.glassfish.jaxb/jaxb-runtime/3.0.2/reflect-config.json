@@ -1,0 +1,99 @@
+[
+  {
+    "name": "org.glassfish.jaxb.core.v2.model.nav.ReflectionNavigator",
+    "condition": {
+      "typeReachable": "org.glassfish.jaxb.runtime.v2.model.impl.Utils"
+    },
+    "methods": [
+      {
+        "name": "getInstance",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "org.glassfish.jaxb.core.v2.model.nav.ReflectionNavigator",
+    "queriedMethods": [
+      {
+        "name": "getInstance",
+        "parameterTypes": []
+      }
+    ],
+    "condition": {
+      "typeReachable": "org.glassfish.jaxb.runtime.v2.model.impl.Utils$1"
+    }
+  },
+  {
+    "name": "org.glassfish.jaxb.runtime.v2.runtime.property.ArrayElementLeafProperty",
+    "queryAllPublicConstructors": true,
+    "condition": {
+      "typeReachable": "org.glassfish.jaxb.runtime.v2.runtime.property.PropertyFactory"
+    }
+  },
+  {
+    "name": "org.glassfish.jaxb.runtime.v2.runtime.property.ArrayElementNodeProperty",
+    "queryAllPublicConstructors": true,
+    "condition": {
+      "typeReachable": "org.glassfish.jaxb.runtime.v2.runtime.property.PropertyFactory"
+    }
+  },
+  {
+    "name": "org.glassfish.jaxb.runtime.v2.runtime.property.ArrayReferenceNodeProperty",
+    "queryAllPublicConstructors": true,
+    "condition": {
+      "typeReachable": "org.glassfish.jaxb.runtime.v2.runtime.property.PropertyFactory"
+    }
+  },
+  {
+    "name": "org.glassfish.jaxb.runtime.v2.runtime.property.SingleElementLeafProperty",
+    "condition": {
+      "typeReachable": "org.glassfish.jaxb.runtime.v2.runtime.property.PropertyFactory"
+    },
+    "queryAllPublicConstructors": true,
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.glassfish.jaxb.runtime.v2.runtime.JAXBContextImpl",
+          "org.glassfish.jaxb.runtime.v2.model.runtime.RuntimeElementPropertyInfo"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.glassfish.jaxb.runtime.v2.runtime.property.SingleElementNodeProperty",
+    "queryAllPublicConstructors": true,
+    "condition": {
+      "typeReachable": "org.glassfish.jaxb.runtime.v2.runtime.property.PropertyFactory"
+    }
+  },
+  {
+    "name": "org.glassfish.jaxb.runtime.v2.runtime.property.SingleMapNodeProperty",
+    "queryAllPublicConstructors": true,
+    "condition": {
+      "typeReachable": "org.glassfish.jaxb.runtime.v2.runtime.property.PropertyFactory"
+    }
+  },
+  {
+    "name": "org.glassfish.jaxb.runtime.v2.runtime.property.SingleReferenceNodeProperty",
+    "queryAllPublicConstructors": true,
+    "condition": {
+      "typeReachable": "org.glassfish.jaxb.runtime.v2.runtime.property.PropertyFactory"
+    }
+  },
+  {
+    "name": "org.glassfish.jaxb.runtime.v2.ContextFactory",
+    "condition": {
+      "typeReachable": "jakarta.xml.bind.ContextFinder"
+    },
+    "methods": [
+      {
+        "name": "createContext",
+        "parameterTypes": [
+          "java.lang.Class[]",
+          "java.util.Map"
+        ]
+      }
+    ]
+  }
+]

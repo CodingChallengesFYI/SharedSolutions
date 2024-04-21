@@ -1,0 +1,42 @@
+{
+  "resources": {
+    "includes": [
+      {
+        "pattern": "\\QMETA-INF/hk2-locator/default\\E",
+        "condition": {
+          "typeReachable": "jakarta.mail.Session"
+        }
+      },
+      {
+        "pattern": "\\QMETA-INF/gfprobe-provider.xml\\E",
+        "condition": {
+          "typeReachable": "jakarta.mail.Session"
+        }
+      },
+      {
+        "pattern": "\\QMETA-INF/javamail.charset.map\\E",
+        "condition": {
+          "typeReachable": "jakarta.mail.Session"
+        }
+      },
+      {
+        "pattern": "\\QMETA-INF/javamail.default.address.map\\E",
+        "condition": {
+          "typeReachable": "jakarta.mail.Session"
+        }
+      },
+      {
+        "pattern": "\\QMETA-INF/javamail.default.providers\\E",
+        "condition": {
+          "typeReachable": "jakarta.mail.Session"
+        }
+      },
+      {
+        "pattern": "\\QMETA-INF/mailcap\\E",
+        "condition": {
+          "typeReachable": "jakarta.mail.Session"
+        }
+      }
+    ]
+  }
+}

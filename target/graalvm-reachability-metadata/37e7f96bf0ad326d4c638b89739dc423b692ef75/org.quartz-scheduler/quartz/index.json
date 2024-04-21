@@ -1,0 +1,10 @@
+[
+  {
+    "latest": true,
+    "metadata-version": "2.3.2",
+    "module": "org.quartz-scheduler:quartz",
+    "tested-versions": [
+      "2.3.2"
+    ]
+  }
+]

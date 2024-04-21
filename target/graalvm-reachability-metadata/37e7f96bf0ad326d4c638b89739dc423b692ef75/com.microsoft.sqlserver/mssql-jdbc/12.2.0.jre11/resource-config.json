@@ -1,0 +1,15 @@
+{
+  "resources": {
+    "includes": [
+
+    ]
+  },
+  "bundles": [
+    {
+      "name": "com.microsoft.sqlserver.jdbc.SQLServerResource",
+      "classNames": [
+        "com.microsoft.sqlserver.jdbc.SQLServerResource"
+      ]
+    }
+  ]
+}

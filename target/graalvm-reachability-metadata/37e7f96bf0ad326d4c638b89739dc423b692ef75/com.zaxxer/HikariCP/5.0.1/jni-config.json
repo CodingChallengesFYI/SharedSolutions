@@ -1,0 +1,26 @@
+[
+  {
+    "condition": {
+      "typeReachable": "java.lang.ClassLoader"
+    },
+    "name": "java.lang.ClassLoader",
+    "methods": [
+      {
+        "name": "getPlatformClassLoader",
+        "parameterTypes": []
+      },
+      {
+        "name": "loadClass",
+        "parameterTypes": [
+          "java.lang.String"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "jdk.internal.loader.ClassLoaders"
+    },
+    "name": "jdk.internal.loader.ClassLoaders$PlatformClassLoader"
+  }
+]

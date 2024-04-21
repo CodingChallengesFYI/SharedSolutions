@@ -1,0 +1,10 @@
+[
+  {
+    "latest": true,
+    "metadata-version": "42.3.4",
+    "module": "org.postgresql:postgresql",
+    "tested-versions": [
+      "42.3.4"
+    ]
+  }
+]

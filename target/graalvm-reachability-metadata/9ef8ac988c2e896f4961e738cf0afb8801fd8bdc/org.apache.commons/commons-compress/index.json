@@ -1,0 +1,10 @@
+[
+  {
+    "latest": true,
+    "metadata-version": "1.23.0",
+    "module": "org.apache.commons:commons-compress",
+    "tested-versions": [
+      "1.23.0"
+    ]
+  }
+]

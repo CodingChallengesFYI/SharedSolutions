@@ -1,0 +1,24 @@
+{
+  "lambdaCapturingTypes": [
+  ],
+  "types": [
+    {
+      "name": "org.apache.http.impl.auth.BasicScheme",
+      "condition": {
+        "typeReachable": "org.apache.http.impl.client.BasicAuthCache"
+      }
+    },
+    {
+      "name": "org.apache.http.impl.auth.RFC2617Scheme",
+      "condition": {
+        "typeReachable": "org.apache.http.impl.client.BasicAuthCache"
+      }
+    },
+    {
+      "name": "java.util.HashMap",
+      "condition": {
+        "typeReachable": "org.apache.http.impl.client.BasicAuthCache"
+      }
+    }
+  ]
+}

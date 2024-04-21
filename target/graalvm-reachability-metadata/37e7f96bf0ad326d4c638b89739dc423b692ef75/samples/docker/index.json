@@ -1,0 +1,10 @@
+[
+  {
+    "latest": true,
+    "metadata-version": "image-pull",
+    "module": "samples:docker",
+    "tested-versions": [
+      "image-pull"
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "latest": true,
+    "metadata-version": "4.8.1",
+    "module": "org.mockito:mockito-core",
+    "tested-versions": [
+      "4.8.1"
+    ]
+  }
+]

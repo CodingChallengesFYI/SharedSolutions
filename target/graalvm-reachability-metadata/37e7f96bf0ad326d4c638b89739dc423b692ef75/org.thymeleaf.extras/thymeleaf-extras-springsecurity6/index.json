@@ -1,0 +1,10 @@
+[
+  {
+    "latest": true,
+    "metadata-version": "3.1.0.M1",
+    "module": "org.thymeleaf.extras:thymeleaf-extras-springsecurity6",
+    "tested-versions": [
+      "3.1.0.M1"
+    ]
+  }
+]

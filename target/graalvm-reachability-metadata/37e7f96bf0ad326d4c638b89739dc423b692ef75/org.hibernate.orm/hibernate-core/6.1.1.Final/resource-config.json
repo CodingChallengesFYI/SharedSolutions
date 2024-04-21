@@ -1,0 +1,164 @@
+{
+  "bundles": [
+    {
+      "name": "com.sun.org.apache.xerces.internal.impl.xpath.regex.message",
+      "locales": [
+        "und"
+      ]
+    }
+  ],
+  "resources": {
+    "includes": [
+      {
+        "pattern": "\\QMETA-INF/services/jakarta.xml.bind.JAXBContext\\E",
+        "condition": {
+          "typeReachable": "org.hibernate.boot.jaxb.internal.MappingBinder"
+        }
+      },
+      {
+        "pattern": "\\QMETA-INF/services/org.apache.logging.log4j.spi.Provider\\E",
+        "condition": {
+          "typeReachable": "org.hibernate.jpa.HibernatePersistenceProvider"
+        }
+      },
+      {
+        "pattern": "\\QMETA-INF/services/org.apache.logging.log4j.util.PropertySource\\E",
+        "condition": {
+          "typeReachable": "org.hibernate.jpa.HibernatePersistenceProvider"
+        }
+      },
+      {
+        "pattern": "\\QMETA-INF/services/org.hibernate.boot.registry.selector.StrategyRegistrationProvider\\E",
+        "condition": {
+          "typeReachable": "org.hibernate.boot.registry.selector.internal.StrategySelectorBuilder"
+        }
+      },
+      {
+        "pattern": "\\QMETA-INF/services/org.jboss.logging.LoggerProvider\\E",
+        "condition": {
+          "typeReachable": "org.hibernate.jpa.HibernatePersistenceProvider"
+        }
+      },
+      {
+        "pattern": "\\Qhibernate.properties\\E",
+        "condition": {
+          "typeReachable": "org.hibernate.internal.util.ConfigHelper"
+        }
+      },
+      {
+        "pattern": "\\Qlog4j2.properties\\E",
+        "condition": {
+          "typeReachable": "org.hibernate.jpa.HibernatePersistenceProvider"
+        }
+      },
+      {
+        "pattern": "\\Qorg/hibernate/hibernate-configuration-3.0.dtd\\E",
+        "condition": {
+          "typeReachable": "org.hibernate.boot.jaxb.internal.stax.LocalSchemaLocator"
+        }
+      },
+      {
+        "pattern": "\\Qorg/hibernate/hibernate-mapping-3.0.dtd\\E",
+        "condition": {
+          "typeReachable": "org.hibernate.boot.jaxb.internal.stax.LocalSchemaLocator"
+        }
+      },
+      {
+        "pattern": "\\Qorg/hibernate/hibernate-mapping-4.0.xsd\\E",
+        "condition": {
+          "typeReachable": "org.hibernate.boot.xsd.LocalXsdResolver"
+        }
+      },
+      {
+        "pattern": "\\Qorg/hibernate/jpa/orm_1_0.xsd\\E",
+        "condition": {
+          "typeReachable": "org.hibernate.boot.xsd.LocalXsdResolver"
+        }
+      },
+      {
+        "pattern": "\\Qorg/hibernate/jpa/orm_2_0.xsd\\E",
+        "condition": {
+          "typeReachable": "org.hibernate.boot.xsd.LocalXsdResolver"
+        }
+      },
+      {
+        "pattern": "\\Qorg/hibernate/jpa/orm_2_1.xsd\\E",
+        "condition": {
+          "typeReachable": "org.hibernate.boot.xsd.LocalXsdResolver"
+        }
+      },
+      {
+        "pattern": "\\Qorg/hibernate/jpa/orm_2_2.xsd\\E",
+        "condition": {
+          "typeReachable": "org.hibernate.boot.xsd.LocalXsdResolver"
+        }
+      },
+      {
+        "pattern": "\\Qorg/hibernate/jpa/orm_3_0.xsd\\E",
+        "condition": {
+          "typeReachable": "org.hibernate.boot.xsd.LocalXsdResolver"
+        }
+      },
+      {
+        "pattern": "\\Qorg/hibernate/jpa/orm_3_1.xsd\\E",
+        "condition": {
+          "typeReachable": "org.hibernate.boot.xsd.LocalXsdResolver"
+        }
+      },
+      {
+        "pattern": "\\Qorg/hibernate/orm/test/jpa/xml/versions/invalid-orm-1_0.xml\\E",
+        "condition": {
+          "typeReachable": "org.hibernate.jpa.boot.spi.Bootstrap"
+        }
+      },
+      {
+        "pattern": "\\Qorg/hibernate/orm/test/jpa/xml/versions/valid-orm-1_0.xml\\E",
+        "condition": {
+          "typeReachable": "org.hibernate.jpa.boot.spi.Bootstrap"
+        }
+      },
+      {
+        "pattern": "\\Qorg/hibernate/orm/test/jpa/xml/versions/valid-orm-2_0.xml\\E",
+        "condition": {
+          "typeReachable": "org.hibernate.jpa.boot.spi.Bootstrap"
+        }
+      },
+      {
+        "pattern": "\\Qorg/hibernate/orm/test/jpa/xml/versions/valid-orm-2_1.xml\\E",
+        "condition": {
+          "typeReachable": "org.hibernate.jpa.boot.spi.Bootstrap"
+        }
+      },
+      {
+        "pattern": "\\Qorg/hibernate/orm/test/jpa/xml/versions/valid-orm-2_2.xml\\E",
+        "condition": {
+          "typeReachable": "org.hibernate.jpa.boot.spi.Bootstrap"
+        }
+      },
+      {
+        "pattern": "\\Qorg/hibernate/xsd/mapping/legacy-mapping-4.0.xsd\\E",
+        "condition": {
+          "typeReachable": "org.hibernate.boot.xsd.LocalXsdResolver"
+        }
+      },
+      {
+        "pattern": "\\Qorg/hibernate/xsd/mapping/mapping-3.1.0.xsd\\E",
+        "condition": {
+          "typeReachable": "org.hibernate.boot.xsd.LocalXsdResolver"
+        }
+      },
+      {
+        "pattern": "\\QMETA-INF/persistence.xml\\E",
+        "condition": {
+          "typeReachable": "jakarta.persistence.Persistence"
+        }
+      },
+      {
+        "pattern": "\\Qorg/hibernate/jpa/persistence_2_0.xsd\\E",
+        "condition": {
+          "typeReachable": "jakarta.persistence.Persistence"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "bundles": [],
+  "resources": {
+    "includes": [
+      {
+        "condition": {
+          "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+        },
+        "pattern": "\\QMETA-INF/services/jakarta.xml.bind.JAXBContext\\E"
+      }
+    ]
+  }
+}

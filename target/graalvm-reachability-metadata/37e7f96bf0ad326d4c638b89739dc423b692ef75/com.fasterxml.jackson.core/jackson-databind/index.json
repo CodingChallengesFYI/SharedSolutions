@@ -1,0 +1,10 @@
+[
+  {
+    "latest": true,
+    "metadata-version": "2.15.2",
+    "module": "com.fasterxml.jackson.core:jackson-databind",
+    "tested-versions": [
+      "2.15.2"
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "bundles": [
+    {
+      "name": "liquibase/i18n/liquibase-core",
+      "locales": [
+        "und"
+      ]
+    }
+  ],
+  "resources": {
+    "includes": [
+      {
+        "condition": {
+          "typeReachable": "liquibase.util.LiquibaseUtil"
+        },
+        "pattern": "\\Qliquibase.build.properties\\E"
+      },
+      {
+        "condition": {
+          "typeReachable": "liquibase.parser.core.xml.LiquibaseEntityResolver"
+        },
+        "pattern": "^www.liquibase.org/xml/ns/dbchangelog/dbchangelog-.*"
+      }
+    ]
+  }
+}

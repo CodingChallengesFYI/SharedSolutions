@@ -1,0 +1,10 @@
+[
+  {
+    "latest": true,
+    "metadata-version": "0.11.5",
+    "module": "io.jsonwebtoken:jjwt-orgjson",
+    "tested-versions": [
+      "0.11.5"
+    ]
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "name": "org.apache.kafka.clients.consumer.CooperativeStickyAssignor",
+    "condition": {
+      "typeReachable": "org.apache.kafka.clients.consumer.ConsumerPartitionAssignor"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.clients.consumer.RangeAssignor",
+    "condition": {
+      "typeReachable": "org.apache.kafka.clients.consumer.ConsumerPartitionAssignor"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.clients.consumer.RoundRobinAssignor",
+    "condition": {
+      "typeReachable": "org.apache.kafka.clients.consumer.ConsumerPartitionAssignor"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.clients.consumer.StickyAssignor",
+    "condition": {
+      "typeReachable": "org.apache.kafka.clients.consumer.ConsumerPartitionAssignor"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.clients.producer.RoundRobinPartitioner",
+    "condition": {
+      "typeReachable": "org.apache.kafka.clients.producer.KafkaProducer"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.common.metrics.JmxReporter",
+    "condition": {
+      "typeReachable": "org.apache.kafka.common.utils.Utils"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.common.security.authenticator.AbstractLogin$DefaultLoginCallbackHandler",
+    "condition": {
+      "typeReachable": "org.apache.kafka.common.security.authenticator.LoginManager"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.common.security.authenticator.DefaultLogin",
+    "condition": {
+      "typeReachable": "org.apache.kafka.common.security.authenticator.LoginManager"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.common.security.authenticator.SaslClientCallbackHandler",
+    "condition": {
+      "typeReachable": "org.apache.kafka.common.network.SaslChannelBuilder"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.common.security.plain.PlainLoginModule",
+    "condition": {
+      "typeReachable": "org.apache.kafka.common.security.authenticator.AbstractLogin"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.common.serialization.BooleanDeserializer",
+    "condition": {
+      "typeReachable": "org.apache.kafka.clients.consumer.KafkaConsumer"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.common.serialization.BooleanSerializer",
+    "condition": {
+      "typeReachable": "org.apache.kafka.clients.producer.KafkaProducer"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.common.serialization.ByteArrayDeserializer",
+    "condition": {
+      "typeReachable": "org.apache.kafka.clients.consumer.KafkaConsumer"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.common.serialization.ByteArraySerializer",
+    "condition": {
+      "typeReachable": "org.apache.kafka.clients.producer.KafkaProducer"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.common.serialization.ByteBufferDeserializer",
+    "condition": {
+      "typeReachable": "org.apache.kafka.clients.consumer.KafkaConsumer"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.common.serialization.ByteBufferSerializer",
+    "condition": {
+      "typeReachable": "org.apache.kafka.clients.producer.KafkaProducer"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.common.serialization.BytesDeserializer",
+    "condition": {
+      "typeReachable": "org.apache.kafka.clients.consumer.KafkaConsumer"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.common.serialization.BytesSerializer",
+    "condition": {
+      "typeReachable": "org.apache.kafka.clients.producer.KafkaProducer"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.common.serialization.DoubleDeserializer",
+    "condition": {
+      "typeReachable": "org.apache.kafka.clients.consumer.KafkaConsumer"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.common.serialization.DoubleSerializer",
+    "condition": {
+      "typeReachable": "org.apache.kafka.clients.producer.KafkaProducer"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.common.serialization.FloatDeserializer",
+    "condition": {
+      "typeReachable": "org.apache.kafka.clients.consumer.KafkaConsumer"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.common.serialization.FloatSerializer",
+    "condition": {
+      "typeReachable": "org.apache.kafka.clients.producer.KafkaProducer"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.common.serialization.IntegerDeserializer",
+    "condition": {
+      "typeReachable": "org.apache.kafka.clients.consumer.KafkaConsumer"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.common.serialization.IntegerSerializer",
+    "condition": {
+      "typeReachable": "org.apache.kafka.clients.producer.KafkaProducer"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.common.serialization.ListDeserializer",
+    "condition": {
+      "typeReachable": "org.apache.kafka.clients.consumer.KafkaConsumer"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.common.serialization.ListSerializer",
+    "condition": {
+      "typeReachable": "org.apache.kafka.clients.producer.KafkaProducer"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.common.serialization.LongDeserializer",
+    "condition": {
+      "typeReachable": "org.apache.kafka.clients.consumer.KafkaConsumer"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.common.serialization.LongSerializer",
+    "condition": {
+      "typeReachable": "org.apache.kafka.clients.producer.KafkaProducer"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.common.serialization.Serdes$BooleanSerde",
+    "condition": {
+      "typeReachable": "org.apache.kafka.common.serialization.ListDeserializer"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.common.serialization.Serdes$BooleanSerde",
+    "condition": {
+      "typeReachable": "org.apache.kafka.common.serialization.ListSerializer"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.common.serialization.Serdes$ByteArraySerde",
+    "condition": {
+      "typeReachable": "org.apache.kafka.common.serialization.ListSerializer"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.common.serialization.Serdes$ByteBufferSerde",
+    "condition": {
+      "typeReachable": "org.apache.kafka.common.serialization.ListSerializer"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.common.serialization.Serdes$BytesSerde",
+    "condition": {
+      "typeReachable": "org.apache.kafka.common.serialization.ListSerializer"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.common.serialization.Serdes$DoubleSerde",
+    "condition": {
+      "typeReachable": "org.apache.kafka.common.serialization.ListSerializer"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.common.serialization.Serdes$FloatSerde",
+    "condition": {
+      "typeReachable": "org.apache.kafka.common.serialization.ListSerializer"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.common.serialization.Serdes$IntegerSerde",
+    "condition": {
+      "typeReachable": "org.apache.kafka.common.serialization.ListSerializer"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.common.serialization.Serdes$LongSerde",
+    "condition": {
+      "typeReachable": "org.apache.kafka.common.serialization.ListSerializer"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.common.serialization.Serdes$ShortSerde",
+    "condition": {
+      "typeReachable": "org.apache.kafka.common.serialization.ListSerializer"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.common.serialization.Serdes$StringSerde",
+    "condition": {
+      "typeReachable": "org.apache.kafka.common.serialization.ListSerializer"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.common.serialization.Serdes$UUIDSerde",
+    "condition": {
+      "typeReachable": "org.apache.kafka.common.serialization.ListSerializer"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.common.serialization.Serdes$VoidSerde",
+    "condition": {
+      "typeReachable": "org.apache.kafka.common.serialization.ListSerializer"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.common.serialization.ShortDeserializer",
+    "condition": {
+      "typeReachable": "org.apache.kafka.clients.consumer.KafkaConsumer"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.common.serialization.ShortSerializer",
+    "condition": {
+      "typeReachable": "org.apache.kafka.clients.producer.KafkaProducer"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.common.serialization.StringDeserializer",
+    "condition": {
+      "typeReachable": "org.apache.kafka.clients.consumer.KafkaConsumer"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.common.serialization.StringSerializer",
+    "condition": {
+      "typeReachable": "org.apache.kafka.clients.producer.KafkaProducer"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.common.serialization.UUIDDeserializer",
+    "condition": {
+      "typeReachable": "org.apache.kafka.clients.consumer.KafkaConsumer"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.common.serialization.UUIDSerializer",
+    "condition": {
+      "typeReachable": "org.apache.kafka.clients.producer.KafkaProducer"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.common.serialization.VoidDeserializer",
+    "condition": {
+      "typeReachable": "org.apache.kafka.clients.consumer.KafkaConsumer"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.common.serialization.VoidSerializer",
+    "condition": {
+      "typeReachable": "org.apache.kafka.clients.producer.KafkaProducer"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.kafka.common.utils.AppInfoParser$AppInfo",
+    "queryAllPublicConstructors": true,
+    "condition": {
+      "typeReachable": "org.apache.kafka.common.utils.AppInfoParser"
+    }
+  },
+  {
+    "name": "org.apache.kafka.common.utils.AppInfoParser$AppInfoMBean",
+    "queryAllPublicMethods": true,
+    "condition": {
+      "typeReachable": "org.apache.kafka.common.utils.AppInfoParser"
+    }
+  }
+]

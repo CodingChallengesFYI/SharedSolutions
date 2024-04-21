@@ -1,0 +1,10 @@
+[
+  {
+    "latest": true,
+    "metadata-version": "12.2.0.jre11",
+    "module": "com.microsoft.sqlserver:mssql-jdbc",
+    "tested-versions": [
+      "12.2.0.jre11"
+    ]
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "name": "org.quartz.simpl.SimpleThreadPool",
+    "condition": {
+      "typeReachable": "org.quartz.impl.StdSchedulerFactory"
+    },
+    "allDeclaredConstructors": true,
+    "methods": [
+      {
+        "name": "setThreadCount",
+        "parameterTypes": [
+          "int"
+        ]
+      },
+      {
+        "name": "setThreadPriority",
+        "parameterTypes": [
+          "int"
+        ]
+      },
+      {
+        "name": "setThreadNamePrefix",
+        "parameterTypes": [
+          "java.lang.String"
+        ]
+      },
+      {
+        "name": "setThreadsInheritContextClassLoaderOfInitializingThread",
+        "parameterTypes": [
+          "boolean"
+        ]
+      },
+      {
+        "name": "setMakeThreadsDaemons",
+        "parameterTypes": [
+          "boolean"
+        ]
+      },
+      {
+        "name": "setInstanceName",
+        "parameterTypes": [
+          "java.lang.String"
+        ]
+      },
+      {
+        "name": "setInstanceId",
+        "parameterTypes": [
+          "java.lang.String"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.quartz.simpl.RAMJobStore",
+    "condition": {
+      "typeReachable": "org.quartz.impl.StdSchedulerFactory"
+    },
+    "allDeclaredConstructors": true,
+    "methods": [
+      {
+        "name": "setMisfireThreshold",
+        "parameterTypes": [
+          "long"
+        ]
+      },
+      {
+        "name": "setInstanceName",
+        "parameterTypes": [
+          "java.lang.String"
+        ]
+      },
+      {
+        "name": "setInstanceId",
+        "parameterTypes": [
+          "java.lang.String"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.quartz.simpl.CascadingClassLoadHelper",
+    "condition": {
+      "typeReachable": "org.quartz.impl.StdSchedulerFactory"
+    },
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "org.quartz.impl.jdbcjobstore.StdJDBCDelegate",
+    "condition": {
+      "typeReachable": "org.quartz.impl.jdbcjobstore.JobStoreSupport"
+    },
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "org.quartz.JobDataMap",
+    "condition": {
+      "typeReachable": "org.quartz.impl.jdbcjobstore.StdJDBCDelegate"
+    },
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "org.quartz.impl.triggers.SimpleTriggerImpl",
+    "condition": {
+      "typeReachable": "org.quartz.impl.jdbcjobstore.JobStoreSupport"
+    },
+    "allPublicMethods": true
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "latest": true,
+    "metadata-version": "1.2.5",
+    "module": "org.eclipse.paho:org.eclipse.paho.client.mqttv3",
+    "tested-versions": [
+      "1.2.5"
+    ]
+  }
+]
