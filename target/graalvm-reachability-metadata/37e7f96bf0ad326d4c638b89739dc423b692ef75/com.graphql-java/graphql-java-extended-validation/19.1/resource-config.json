@@ -1,0 +1,7 @@
+{
+  "bundles": [
+    {
+      "name": "graphql.validation.ValidationMessages"
+    }
+  ]
+}

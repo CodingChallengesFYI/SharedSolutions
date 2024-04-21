@@ -1,0 +1,22 @@
+[
+  {
+    "condition": {
+      "typeReachable": "io.grpc.netty.NettyServer"
+    },
+    "name": "io.netty.buffer.AbstractByteBufAllocator",
+    "allDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.grpc.netty.NettyChannelBuilder"
+    },
+    "name": "io.netty.channel.socket.nio.NioSocketChannel",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  }
+
+]

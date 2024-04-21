@@ -1,0 +1,10 @@
+[
+  {
+    "latest": true,
+    "metadata-version": "1.2",
+    "module": "commons-logging:commons-logging",
+    "tested-versions": [
+      "1.2"
+    ]
+  }
+]

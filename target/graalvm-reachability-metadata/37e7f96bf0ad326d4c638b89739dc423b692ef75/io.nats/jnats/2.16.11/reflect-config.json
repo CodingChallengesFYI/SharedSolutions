@@ -1,0 +1,16 @@
+[
+  {
+    "name": "io.nats.client.impl.SocketDataPort",
+    "condition": {
+      "typeReachable": "io.nats.client.Options$Builder"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  }
+]

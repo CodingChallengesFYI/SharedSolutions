@@ -1,0 +1,17 @@
+[
+  {
+    "latest": true,
+    "metadata-version": "3.1.0.RC1",
+    "module": "org.thymeleaf:thymeleaf",
+    "tested-versions": [
+      "3.1.0.RC1"
+    ]
+  },
+  {
+    "metadata-version": "3.1.0.M2",
+    "module": "org.thymeleaf:thymeleaf",
+    "tested-versions": [
+      "3.1.0.M2"
+    ]
+  }
+]

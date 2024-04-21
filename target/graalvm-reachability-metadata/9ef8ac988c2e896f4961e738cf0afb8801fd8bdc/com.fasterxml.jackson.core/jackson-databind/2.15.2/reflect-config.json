@@ -1,0 +1,58 @@
+[
+  {
+    "name": "com.fasterxml.jackson.databind.deser.std.DateDeserializers$SqlDateDeserializer",
+    "allDeclaredConstructors": true,
+    "condition": {
+      "typeReachable": "java.sql.Date"
+    }
+  },
+  {
+    "name": "com.fasterxml.jackson.databind.deser.std.DateDeserializers$TimestampDeserializer",
+    "allDeclaredConstructors": true,
+    "condition": {
+      "typeReachable": "java.sql.Timestamp"
+    }
+  },
+  {
+    "name": "com.fasterxml.jackson.databind.ser.std.SqlDateSerializer",
+    "allDeclaredConstructors": true,
+    "condition": {
+      "typeReachable": "java.sql.Date"
+    }
+  },
+  {
+    "name": "com.fasterxml.jackson.databind.ser.std.SqlTimeSerializer",
+    "allDeclaredConstructors": true,
+    "condition": {
+      "typeReachable": "java.sql.Time"
+    }
+  },
+  {
+    "name": "com.fasterxml.jackson.databind.ext.SqlBlobSerializer",
+    "allDeclaredConstructors": true,
+    "condition": {
+      "typeReachable": "java.sql.Blob"
+    }
+  },
+  {
+    "name": "com.fasterxml.jackson.databind.ext.DOMSerializer",
+    "allDeclaredConstructors": true,
+    "condition": {
+      "typeReachable": "org.w3c.dom.Node"
+    }
+  },
+  {
+    "name": "com.fasterxml.jackson.databind.ext.DOMDeserializer$DocumentDeserializer",
+    "allDeclaredConstructors": true,
+    "condition": {
+      "typeReachable": "org.w3c.dom.Document"
+    }
+  },
+  {
+    "name": "com.fasterxml.jackson.databind.ext.DOMDeserializer$NodeDeserializer",
+    "allDeclaredConstructors": true,
+    "condition": {
+      "typeReachable": "org.w3c.dom.Node"
+    }
+  }
+]

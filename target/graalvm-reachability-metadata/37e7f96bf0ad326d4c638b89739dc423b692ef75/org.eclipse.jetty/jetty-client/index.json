@@ -1,0 +1,10 @@
+[
+  {
+    "latest": true,
+    "metadata-version": "11.0.12",
+    "module": "org.eclipse.jetty:jetty-client",
+    "tested-versions": [
+      "11.0.12"
+    ]
+  }
+]

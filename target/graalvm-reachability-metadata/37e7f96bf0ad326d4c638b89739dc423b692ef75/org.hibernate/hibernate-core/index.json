@@ -1,0 +1,10 @@
+[
+  {
+    "latest": true,
+    "metadata-version": "5.6.14.Final",
+    "module": "org.hibernate:hibernate-core",
+    "tested-versions": [
+      "5.6.14.Final"
+    ]
+  }
+]

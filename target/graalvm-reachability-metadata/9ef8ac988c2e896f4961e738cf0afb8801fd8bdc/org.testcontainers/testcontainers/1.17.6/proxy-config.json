@@ -1,0 +1,10 @@
+[
+  {
+    "condition": {
+      "typeReachable": "org.testcontainers.dockerclient.RootlessDockerClientProviderStrategy"
+    },
+    "interfaces": [
+      "org.testcontainers.dockerclient.RootlessDockerClientProviderStrategy$LibC"
+    ]
+  }
+]

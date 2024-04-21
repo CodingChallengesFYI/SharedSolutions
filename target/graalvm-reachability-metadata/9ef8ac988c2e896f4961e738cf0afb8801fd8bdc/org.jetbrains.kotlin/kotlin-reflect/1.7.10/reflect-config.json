@@ -1,0 +1,93 @@
+[
+  {
+    "condition": {
+      "typeReachable": "kotlin.reflect.jvm.internal.impl.descriptors.FindClassInModuleKt"
+    },
+    "name": "kotlin.Metadata",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "kotlin.reflect.jvm.internal.impl.descriptors.runtime.components.ReflectClassStructure"
+    },
+    "name": "kotlin.Metadata",
+    "methods": [
+      {
+        "name": "bv",
+        "parameterTypes": []
+      },
+      {
+        "name": "d1",
+        "parameterTypes": []
+      },
+      {
+        "name": "d2",
+        "parameterTypes": []
+      },
+      {
+        "name": "k",
+        "parameterTypes": []
+      },
+      {
+        "name": "mv",
+        "parameterTypes": []
+      },
+      {
+        "name": "pn",
+        "parameterTypes": []
+      },
+      {
+        "name": "xi",
+        "parameterTypes": []
+      },
+      {
+        "name": "xs",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "kotlin.reflect.jvm.internal.impl.descriptors.runtime.components.ReflectKotlinClass$Factory"
+    },
+    "name": "kotlin.Metadata"
+  },
+  {
+    "condition": {
+      "typeReachable": "kotlin.reflect.jvm.internal.impl.serialization.deserialization.descriptors.DeserializedMemberScope$OptimizedImplementation"
+    },
+    "name": "kotlin.Metadata",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "kotlin.reflect.jvm.internal.impl.serialization.deserialization.descriptors.DeserializedMemberScope$OptimizedImplementation"
+    },
+    "name": "kotlin.Unit"
+  },
+  {
+    "condition": {
+      "typeReachable": "kotlin.reflect.jvm.internal.KDeclarationContainerImpl"
+    },
+    "name": "kotlin.jvm.internal.DefaultConstructorMarker"
+  },
+  {
+    "condition": {
+      "typeReachable": "kotlin.jvm.internal.Reflection"
+    },
+    "name": "kotlin.reflect.jvm.internal.ReflectionFactoryImpl",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter"
+    },
+    "name": "kotlin.reflect.jvm.internal.impl.resolve.scopes.DescriptorKindFilter",
+    "allPublicFields": true
+  }
+]

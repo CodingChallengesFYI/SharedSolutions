@@ -1,0 +1,25 @@
+{
+  "bundles": [],
+  "resources": {
+    "includes": [
+      {
+        "condition": {
+          "typeReachable": "io.jsonwebtoken.impl.lang.Services"
+        },
+        "pattern": "\\QMETA-INF/services/io.jsonwebtoken.CompressionCodec\\E"
+      },
+      {
+        "condition": {
+          "typeReachable": "io.jsonwebtoken.impl.DefaultJwtParserBuilder"
+        },
+        "pattern": "\\QMETA-INF/services/io.jsonwebtoken.io.Deserializer\\E"
+      },
+      {
+        "condition": {
+          "typeReachable": "io.jsonwebtoken.impl.lang.LegacyServices"
+        },
+        "pattern": "\\QMETA-INF/services/io.jsonwebtoken.io.Serializer\\E"
+      }
+    ]
+  }
+}

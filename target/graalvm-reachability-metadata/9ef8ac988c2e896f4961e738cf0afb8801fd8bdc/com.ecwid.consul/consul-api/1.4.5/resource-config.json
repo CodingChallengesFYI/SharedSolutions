@@ -1,0 +1,19 @@
+{
+  "bundles": [],
+  "resources": {
+    "includes": [
+      {
+        "pattern": "\\Qmozilla/public-suffix-list.txt\\E",
+        "condition": {
+          "typeReachable": "com.ecwid.consul.transport.DefaultHttpTransport"
+        }
+      },
+      {
+        "pattern": "\\Qorg/apache/http/client/version.properties\\E",
+        "condition": {
+          "typeReachable": "com.ecwid.consul.transport.DefaultHttpTransport"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "bundles": [
+    {
+      "name": "org.hibernate.validator.ValidationMessages"
+    }
+  ],
+  "resources": {
+    "includes": []
+  }
+}

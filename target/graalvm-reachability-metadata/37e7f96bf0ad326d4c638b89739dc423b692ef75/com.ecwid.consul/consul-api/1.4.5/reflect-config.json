@@ -1,0 +1,1006 @@
+[
+  {
+    "name": "com.sun.crypto.provider.AESCipher$General",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.transport.DefaultHttpTransport"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "com.sun.crypto.provider.ARCFOURCipher",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.transport.DefaultHttpTransport"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "com.sun.crypto.provider.ChaCha20Cipher$ChaCha20Poly1305",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.transport.DefaultHttpTransport"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "com.sun.crypto.provider.DESCipher",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.transport.DefaultHttpTransport"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "com.sun.crypto.provider.DESedeCipher",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.transport.DefaultHttpTransport"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "com.sun.crypto.provider.GaloisCounterMode$AESGCM",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.transport.DefaultHttpTransport"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "javax.security.auth.x500.X500Principal",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.transport.DefaultHttpTransport"
+    },
+    "fields": [
+      {
+        "name": "thisX500Name"
+      }
+    ],
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "sun.security.x509.X500Name"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.commons.logging.LogFactory",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.transport.DefaultHttpTransport"
+    }
+  },
+  {
+    "name": "org.apache.commons.logging.impl.Jdk14Logger",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.transport.DefaultHttpTransport"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "org.apache.commons.logging.impl.Log4JLogger",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.transport.DefaultHttpTransport"
+    }
+  },
+  {
+    "name": "org.apache.commons.logging.impl.LogFactoryImpl",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.transport.DefaultHttpTransport"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "org.apache.commons.logging.impl.WeakHashtable",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.transport.DefaultHttpTransport"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "sun.security.pkcs12.PKCS12KeyStore",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.transport.DefaultHttpTransport"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "sun.security.pkcs12.PKCS12KeyStore$DualFormatPKCS12",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.transport.DefaultHttpTransport"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "sun.security.provider.JavaKeyStore$JKS",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.transport.DefaultHttpTransport"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "sun.security.provider.NativePRNG",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.transport.DefaultHttpTransport"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "sun.security.provider.SHA",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.transport.DefaultHttpTransport"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "sun.security.provider.X509Factory",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.transport.DefaultHttpTransport"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "sun.security.rsa.RSAKeyFactory$Legacy",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.transport.DefaultHttpTransport"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "sun.security.ssl.SSLContextImpl$TLSContext",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.transport.DefaultHttpTransport"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "sun.security.ssl.TrustManagerFactoryImpl$PKIXFactory",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.transport.DefaultHttpTransport"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "sun.security.x509.AuthorityInfoAccessExtension",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.transport.DefaultHttpTransport"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "sun.security.x509.AuthorityKeyIdentifierExtension",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.transport.DefaultHttpTransport"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "sun.security.x509.BasicConstraintsExtension",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.transport.DefaultHttpTransport"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "sun.security.x509.CRLDistributionPointsExtension",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.transport.DefaultHttpTransport"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "sun.security.x509.CertificatePoliciesExtension",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.transport.DefaultHttpTransport"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "sun.security.x509.ExtendedKeyUsageExtension",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.transport.DefaultHttpTransport"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "sun.security.x509.IssuerAlternativeNameExtension",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.transport.DefaultHttpTransport"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "sun.security.x509.KeyUsageExtension",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.transport.DefaultHttpTransport"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "sun.security.x509.NetscapeCertTypeExtension",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.transport.DefaultHttpTransport"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "sun.security.x509.PrivateKeyUsageExtension",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.transport.DefaultHttpTransport"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "sun.security.x509.SubjectAlternativeNameExtension",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.transport.DefaultHttpTransport"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "sun.security.x509.SubjectKeyIdentifierExtension",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.transport.DefaultHttpTransport"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "com.ecwid.consul.v1.session.model.Session",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.kv.model.GetBinaryValue",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.event.EventListRequest",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.agent.AgentClient",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.Response",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.acl.AclClient",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.agent.model.Check$CheckStatus",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.agent.model.NewService",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.acl.model.UpdateAcl",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.catalog.CatalogClient",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.health.model.HealthService",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.transport.AbstractHttpTransport",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.kv.KeyValueClient",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "name": "com.ecwid.consul.transport.HttpResponse",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.event.model.EventParams",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.health.HealthClient",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.acl.model.NewAcl",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.catalog.model.CatalogDeregistration",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.health.HealthChecksForServiceRequest",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.QueryParams",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.health.model.Check",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.session.SessionClient",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.event.EventClient",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.health.model.HealthService$Service",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.ConsulClient",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.catalog.model.CatalogRegistration",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.kv.model.PutParams",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.ConsulRawClient",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.catalog.CatalogServiceRequest",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.health.HealthServicesRequest",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.health.model.HealthService$Node",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.catalog.model.CatalogRegistration$Service",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.coordinate.CoordinateClient",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.agent.AgentConsulClient",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.event.model.Event",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.status.StatusClient",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.catalog.CatalogNodesRequest",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.agent.model.Check",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.kv.model.GetValue",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.catalog.CatalogConsulClient",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.query.QueryClient",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.agent.model.NewCheck",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.acl.model.Acl",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.acl.model.AclType",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.catalog.model.Node",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.agent.model.Member",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.agent.model.Self",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.agent.model.Service",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.catalog.model.CatalogNode",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.catalog.model.CatalogService",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.catalog.model.WriteRequest",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.catalog.CatalogServicesRequest",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.coordinate.model.Coord",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.coordinate.model.Datacenter",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.coordinate.model.Node",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.coordinate.CoordinateConsulClient",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.event.EventConsulClient",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.health.HealthConsulClient",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.query.model.Check",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.query.model.Check$CheckStatus",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.catalog.model.CatalogRegistration$CheckStatus",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.health.model.Check$CheckStatus",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.query.model.QueryExecution",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.query.model.QueryNode",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.query.QueryConsulClient",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.session.model.NewSession",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.session.model.Session$Behavior",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.session.SessionConsulClient",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.status.StatusConsulClient",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.ConsistencyMode",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.NodeMetaParameters",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.OperationException",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.event.EventConsulClient",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "name": "com.ecwid.consul.ConsulRequest",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "name": "com.ecwid.consul.UrlParameters",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.Request",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.v1.TagsParameters",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.SingleUrlParameters",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "com.ecwid.consul.ConsulException",
+    "condition": {
+      "typeReachable": "com.ecwid.consul.v1.ConsulClient"
+    },
+    "allDeclaredConstructors": true
+  }
+]

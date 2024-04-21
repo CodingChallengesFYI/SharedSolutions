@@ -1,0 +1,345 @@
+[
+  {
+    "name": "org.thymeleaf.expression.Dates",
+    "allPublicMethods": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.OGNLVariableExpressionEvaluator"
+    }
+  },
+  {
+    "name": "org.thymeleaf.expression.Calendars",
+    "allPublicMethods": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.OGNLVariableExpressionEvaluator"
+    }
+  },
+  {
+    "name": "org.thymeleaf.expression.Numbers",
+    "allPublicMethods": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.OGNLVariableExpressionEvaluator"
+    }
+  },
+  {
+    "name": "org.thymeleaf.expression.Strings",
+    "allPublicMethods": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.OGNLVariableExpressionEvaluator"
+    }
+  },
+  {
+    "name": "org.thymeleaf.expression.Objects",
+    "allPublicMethods": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.OGNLVariableExpressionEvaluator"
+    }
+  },
+  {
+    "name": "org.thymeleaf.expression.Bools",
+    "allPublicMethods": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.OGNLVariableExpressionEvaluator"
+    }
+  },
+  {
+    "name": "org.thymeleaf.expression.Arrays",
+    "allPublicMethods": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.OGNLVariableExpressionEvaluator"
+    }
+  },
+  {
+    "name": "org.thymeleaf.expression.Sets",
+    "allPublicMethods": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.OGNLVariableExpressionEvaluator"
+    }
+  },
+  {
+    "name": "org.thymeleaf.expression.Maps",
+    "allPublicMethods": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.OGNLVariableExpressionEvaluator"
+    }
+  },
+  {
+    "name": "org.thymeleaf.expression.Aggregates",
+    "allPublicMethods": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.OGNLVariableExpressionEvaluator"
+    }
+  },
+  {
+    "name": "org.thymeleaf.expression.Messages",
+    "allPublicMethods": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.OGNLVariableExpressionEvaluator"
+    }
+  },
+  {
+    "name": "org.thymeleaf.expression.ExecutionInfo",
+    "allPublicMethods": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.OGNLVariableExpressionEvaluator"
+    }
+  },
+  {
+    "name": "org.thymeleaf.expression.Ids",
+    "allPublicMethods": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.OGNLVariableExpressionEvaluator"
+    }
+  },
+  {
+    "name": "org.thymeleaf.expression.Uris",
+    "allPublicMethods": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.OGNLVariableExpressionEvaluator"
+    }
+  },
+  {
+    "name": "org.thymeleaf.extras.java8time.expression.Temporals",
+    "allPublicMethods": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.OGNLVariableExpressionEvaluator"
+    }
+  },
+  {
+    "name": "org.thymeleaf.standard.expression.AndExpression",
+    "allDeclaredConstructors": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.StandardExpressionParser"
+    }
+  },
+  {
+    "name": "org.thymeleaf.standard.expression.EqualsNotEqualsExpression",
+    "allDeclaredConstructors": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.StandardExpressionParser"
+    }
+  },
+  {
+    "name": "org.thymeleaf.standard.expression.GreaterLesserExpression",
+    "allDeclaredConstructors": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.StandardExpressionParser"
+    }
+  },
+  {
+    "name": "org.thymeleaf.standard.expression.OrExpression",
+    "allDeclaredConstructors": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.StandardExpressionParser"
+    }
+  },
+  {
+    "name": "org.thymeleaf.standard.expression.AdditionExpression",
+    "allDeclaredConstructors": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.StandardExpressionParser"
+    }
+  },
+  {
+    "name": "org.thymeleaf.standard.expression.AdditionSubtractionExpression",
+    "allDeclaredConstructors": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.StandardExpressionParser"
+    }
+  },
+  {
+    "name": "org.thymeleaf.standard.expression.BinaryOperationExpression",
+    "allDeclaredConstructors": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.StandardExpressionParser"
+    }
+  },
+  {
+    "name": "org.thymeleaf.standard.expression.BooleanTokenExpression",
+    "allDeclaredConstructors": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.StandardExpressionParser"
+    }
+  },
+  {
+    "name": "org.thymeleaf.standard.expression.ComplexExpression",
+    "allDeclaredConstructors": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.StandardExpressionParser"
+    }
+  },
+  {
+    "name": "org.thymeleaf.standard.expression.ConditionalExpression",
+    "allDeclaredConstructors": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.StandardExpressionParser"
+    }
+  },
+  {
+    "name": "org.thymeleaf.standard.expression.DefaultExpression",
+    "allDeclaredConstructors": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.StandardExpressionParser"
+    }
+  },
+  {
+    "name": "org.thymeleaf.standard.expression.DivisionExpression",
+    "allDeclaredConstructors": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.StandardExpressionParser"
+    }
+  },
+  {
+    "name": "org.thymeleaf.standard.expression.EqualsExpression",
+    "allDeclaredConstructors": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.StandardExpressionParser"
+    }
+  },
+  {
+    "name": "org.thymeleaf.standard.expression.FragmentExpression",
+    "allDeclaredConstructors": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.StandardExpressionParser"
+    }
+  },
+  {
+    "name": "org.thymeleaf.standard.expression.GenericTokenExpression",
+    "allDeclaredConstructors": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.StandardExpressionParser"
+    }
+  },
+  {
+    "name": "org.thymeleaf.standard.expression.GreaterOrEqualToExpression",
+    "allDeclaredConstructors": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.StandardExpressionParser"
+    }
+  },
+  {
+    "name": "org.thymeleaf.standard.expression.GreaterThanExpression",
+    "allDeclaredConstructors": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.StandardExpressionParser"
+    }
+  },
+  {
+    "name": "org.thymeleaf.standard.expression.LessOrEqualToExpression",
+    "allDeclaredConstructors": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.StandardExpressionParser"
+    }
+  },
+  {
+    "name": "org.thymeleaf.standard.expression.LessThanExpression",
+    "allDeclaredConstructors": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.StandardExpressionParser"
+    }
+  },
+  {
+    "name": "org.thymeleaf.standard.expression.LinkExpression",
+    "allDeclaredConstructors": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.StandardExpressionParser"
+    }
+  },
+  {
+    "name": "org.thymeleaf.standard.expression.MessageExpression",
+    "allDeclaredConstructors": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.StandardExpressionParser"
+    }
+  },
+  {
+    "name": "org.thymeleaf.standard.expression.MinusExpression",
+    "allDeclaredConstructors": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.StandardExpressionParser"
+    }
+  },
+  {
+    "name": "org.thymeleaf.standard.expression.MultiplicationDivisionRemainderExpression",
+    "allDeclaredConstructors": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.StandardExpressionParser"
+    }
+  },
+  {
+    "name": "org.thymeleaf.standard.expression.MultiplicationExpression",
+    "allDeclaredConstructors": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.StandardExpressionParser"
+    }
+  },
+  {
+    "name": "org.thymeleaf.standard.expression.NegationExpression",
+    "allDeclaredConstructors": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.StandardExpressionParser"
+    }
+  },
+  {
+    "name": "org.thymeleaf.standard.expression.NoOpTokenExpression",
+    "allDeclaredConstructors": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.StandardExpressionParser"
+    }
+  },
+  {
+    "name": "org.thymeleaf.standard.expression.NotEqualsExpression",
+    "allDeclaredConstructors": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.StandardExpressionParser"
+    }
+  },
+  {
+    "name": "org.thymeleaf.standard.expression.NullTokenExpression",
+    "allDeclaredConstructors": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.StandardExpressionParser"
+    }
+  },
+  {
+    "name": "org.thymeleaf.standard.expression.NumberTokenExpression",
+    "allDeclaredConstructors": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.StandardExpressionParser"
+    }
+  },
+  {
+    "name": "org.thymeleaf.standard.expression.RemainderExpression",
+    "allDeclaredConstructors": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.StandardExpressionParser"
+    }
+  },
+  {
+    "name": "org.thymeleaf.standard.expression.SelectionVariableExpression",
+    "allDeclaredConstructors": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.StandardExpressionParser"
+    }
+  },
+  {
+    "name": "org.thymeleaf.standard.expression.SubtractionExpression",
+    "allDeclaredConstructors": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.StandardExpressionParser"
+    }
+  },
+  {
+    "name": "org.thymeleaf.standard.expression.TextLiteralExpression",
+    "allDeclaredConstructors": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.StandardExpressionParser"
+    }
+  },
+  {
+    "name": "org.thymeleaf.standard.expression.VariableExpression",
+    "allDeclaredConstructors": true,
+    "condition": {
+      "typeReachable": "org.thymeleaf.standard.expression.StandardExpressionParser"
+    }
+  }
+]

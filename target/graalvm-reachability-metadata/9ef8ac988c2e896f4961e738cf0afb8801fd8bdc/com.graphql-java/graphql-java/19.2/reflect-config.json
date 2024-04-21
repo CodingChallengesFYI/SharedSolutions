@@ -1,0 +1,72 @@
+[
+  {
+    "name": "graphql.relay.DefaultConnection",
+    "allDeclaredMethods": true,
+    "condition": {
+      "typeReachable": "graphql.relay.Connection"
+    }
+  },
+  {
+    "name": "graphql.relay.DefaultEdge",
+    "allDeclaredMethods": true,
+    "condition": {
+      "typeReachable": "graphql.relay.Connection"
+    }
+  },
+  {
+    "name": "graphql.relay.DefaultPageInfo",
+    "allDeclaredMethods": true,
+    "condition": {
+      "typeReachable": "graphql.relay.Connection"
+    }
+  },
+  {
+    "name": "graphql.relay.DefaultConnectionCursor",
+    "allDeclaredMethods": true,
+    "condition": {
+      "typeReachable": "graphql.relay.Connection"
+    }
+  },
+  {
+    "name": "graphql.schema.GraphQLArgument",
+    "allPublicMethods": true,
+    "condition": {
+      "typeReachable": "graphql.GraphQL"
+    }
+  },
+  {
+    "name": "graphql.schema.GraphQLDirective",
+    "allPublicMethods": true,
+    "condition": {
+      "typeReachable": "graphql.GraphQL"
+    }
+  },
+  {
+    "name": "graphql.schema.GraphQLEnumValueDefinition",
+    "allPublicMethods": true,
+    "condition": {
+      "typeReachable": "graphql.GraphQL"
+    }
+  },
+  {
+    "name": "graphql.schema.GraphQLFieldDefinition",
+    "allPublicMethods": true,
+    "condition": {
+      "typeReachable": "graphql.GraphQL"
+    }
+  },
+  {
+    "name": "graphql.schema.GraphQLInputObjectField",
+    "allPublicMethods": true,
+    "condition": {
+      "typeReachable": "graphql.GraphQL"
+    }
+  },
+  {
+    "name": "graphql.schema.GraphQLOutputType",
+    "allPublicMethods": true,
+    "condition": {
+      "typeReachable": "graphql.GraphQL"
+    }
+  }
+]

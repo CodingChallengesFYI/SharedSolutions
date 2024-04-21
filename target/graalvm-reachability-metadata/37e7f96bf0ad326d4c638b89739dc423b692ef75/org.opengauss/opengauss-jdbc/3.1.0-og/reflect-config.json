@@ -1,0 +1,155 @@
+[
+  {
+    "condition": {
+      "typeReachable": "org.opengauss.log.LogFactory"
+    },
+    "name": "JdkLogger"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.opengauss.core.v3.ConnectionFactoryImpl"
+    },
+    "name": "java.security.SecureRandomParameters"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.opengauss.core.Oid"
+    },
+    "name": "org.opengauss.core.Oid",
+    "allPublicFields": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.opengauss.jdbc.PgConnection"
+    },
+    "name": "org.opengauss.geometric.PGbox",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.opengauss.jdbc.PgConnection"
+    },
+    "name": "org.opengauss.geometric.PGcircle",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.opengauss.jdbc.PgConnection"
+    },
+    "name": "org.opengauss.geometric.PGlseg",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.opengauss.jdbc.PgConnection"
+    },
+    "name": "org.opengauss.geometric.PGpath",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.opengauss.jdbc.PgConnection"
+    },
+    "name": "org.opengauss.geometric.PGpoint",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.opengauss.jdbc.PgConnection"
+    },
+    "name": "org.opengauss.geometric.PGpolygon",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.opengauss.log.LogFactory"
+    },
+    "name": "org.opengauss.log.JdkLogger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "java.lang.String"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.opengauss.jdbc.PgConnection"
+    },
+    "name": "org.opengauss.util.PGInterval",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.opengauss.util.MD5Digest"
+    },
+    "name": "sun.security.provider.MD5",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.opengauss.core.v3.ConnectionFactoryImpl"
+    },
+    "name": "sun.security.provider.NativePRNG",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.opengauss.core.v3.ConnectionFactoryImpl"
+    },
+    "name": "sun.security.provider.SHA",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  }
+]

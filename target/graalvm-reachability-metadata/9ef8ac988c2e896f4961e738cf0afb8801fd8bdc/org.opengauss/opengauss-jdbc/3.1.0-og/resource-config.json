@@ -1,0 +1,8 @@
+{
+  "resources":{
+    "includes":[]},
+  "bundles":[{
+    "name":"org.opengauss.translation.messages",
+    "classNames":["org.opengauss.translation.messages_zh_CN"]
+  }]
+}

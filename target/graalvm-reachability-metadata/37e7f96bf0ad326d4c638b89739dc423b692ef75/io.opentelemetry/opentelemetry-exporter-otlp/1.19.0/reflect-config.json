@@ -1,0 +1,8 @@
+[
+  {
+    "condition": {
+      "typeReachable": "io.opentelemetry.exporter.zipkin.OtlpGrpcSpanExporter"
+    },
+    "name": "io.opentelemetry.exporter.zipkin.OtlpGrpcSpanExporter"
+  }
+]

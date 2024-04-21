@@ -1,0 +1,10 @@
+[
+  {
+    "latest": true,
+    "metadata-version": "2.28.0",
+    "module": "org.apache.activemq:artemis-jms-client",
+    "tested-versions": [
+      "2.28.0"
+    ]
+  }
+]

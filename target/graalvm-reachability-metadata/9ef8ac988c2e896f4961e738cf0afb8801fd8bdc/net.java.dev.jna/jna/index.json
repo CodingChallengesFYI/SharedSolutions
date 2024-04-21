@@ -1,0 +1,10 @@
+[
+  {
+    "latest": true,
+    "metadata-version": "5.8.0",
+    "module": "net.java.dev.jna:jna",
+    "tested-versions": [
+      "5.8.0"
+    ]
+  }
+]

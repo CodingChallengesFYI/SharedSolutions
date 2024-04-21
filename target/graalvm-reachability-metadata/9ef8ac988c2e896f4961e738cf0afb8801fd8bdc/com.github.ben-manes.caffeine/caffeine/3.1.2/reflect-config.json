@@ -1,0 +1,608 @@
+[
+  {
+    "condition": {
+      "typeReachable": "com.github.benmanes.caffeine.cache.BBHeader$ReadAndWriteCounterRef"
+    },
+    "name": "com.github.benmanes.caffeine.cache.BBHeader$ReadAndWriteCounterRef",
+    "fields": [
+      {
+        "name": "writeCounter"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.benmanes.caffeine.cache.BBHeader$ReadAndWriteCounterRef"
+    },
+    "name": "com.github.benmanes.caffeine.cache.BBHeader$ReadCounterRef",
+    "fields": [
+      {
+        "name": "readCounter"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.benmanes.caffeine.cache.BLCHeader$DrainStatusRef"
+    },
+    "name": "com.github.benmanes.caffeine.cache.BLCHeader$DrainStatusRef",
+    "fields": [
+      {
+        "name": "drainStatus"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.benmanes.caffeine.cache.BaseMpscLinkedArrayQueue"
+    },
+    "name": "com.github.benmanes.caffeine.cache.BaseMpscLinkedArrayQueueColdProducerFields",
+    "fields": [
+      {
+        "name": "producerLimit"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.benmanes.caffeine.cache.BaseMpscLinkedArrayQueue"
+    },
+    "name": "com.github.benmanes.caffeine.cache.BaseMpscLinkedArrayQueueConsumerFields",
+    "fields": [
+      {
+        "name": "consumerIndex"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.benmanes.caffeine.cache.BaseMpscLinkedArrayQueue"
+    },
+    "name": "com.github.benmanes.caffeine.cache.BaseMpscLinkedArrayQueueProducerFields",
+    "fields": [
+      {
+        "name": "producerIndex"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.benmanes.caffeine.cache.BoundedLocalCache"
+    },
+    "name": "com.github.benmanes.caffeine.cache.BoundedLocalCache",
+    "fields": [
+      {
+        "name": "refreshes"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.benmanes.caffeine.cache.Caffeine"
+    },
+    "name": "com.github.benmanes.caffeine.cache.CacheLoader",
+    "methods": [
+      {
+        "name": "asyncLoadAll",
+        "parameterTypes": [
+          "java.util.Set",
+          "java.util.concurrent.Executor"
+        ]
+      },
+      {
+        "name": "loadAll",
+        "parameterTypes": [
+          "java.util.Set"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.benmanes.caffeine.cache.LocalLoadingCache"
+    },
+    "name": "com.github.benmanes.caffeine.cache.CacheLoader",
+    "methods": [
+      {
+        "name": "loadAll",
+        "parameterTypes": [
+          "java.util.Set"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.benmanes.caffeine.cache.FS"
+    },
+    "name": "com.github.benmanes.caffeine.cache.FS",
+    "fields": [
+      {
+        "name": "key"
+      },
+      {
+        "name": "value"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.benmanes.caffeine.cache.WS"
+    },
+    "name": "com.github.benmanes.caffeine.cache.FS",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.benmanes.caffeine.cache.FW"
+    },
+    "name": "com.github.benmanes.caffeine.cache.FW",
+    "fields": [
+      {
+        "name": "value"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.benmanes.caffeine.cache.WI"
+    },
+    "name": "com.github.benmanes.caffeine.cache.FW",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.benmanes.caffeine.cache.PD"
+    },
+    "name": "com.github.benmanes.caffeine.cache.PD",
+    "fields": [
+      {
+        "name": "value"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.benmanes.caffeine.cache.PS"
+    },
+    "name": "com.github.benmanes.caffeine.cache.PS",
+    "fields": [
+      {
+        "name": "key"
+      },
+      {
+        "name": "value"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.benmanes.caffeine.cache.PSA"
+    },
+    "name": "com.github.benmanes.caffeine.cache.PSA",
+    "fields": [
+      {
+        "name": "accessTime"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.benmanes.caffeine.cache.SSA"
+    },
+    "name": "com.github.benmanes.caffeine.cache.PSA",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.benmanes.caffeine.cache.SSSMS"
+    },
+    "name": "com.github.benmanes.caffeine.cache.PSMS",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.benmanes.caffeine.cache.SSMW"
+    },
+    "name": "com.github.benmanes.caffeine.cache.PSMW",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.benmanes.caffeine.cache.PSR"
+    },
+    "name": "com.github.benmanes.caffeine.cache.PSR",
+    "fields": [
+      {
+        "name": "writeTime"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.benmanes.caffeine.cache.SSMSR"
+    },
+    "name": "com.github.benmanes.caffeine.cache.PSRMS",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.benmanes.caffeine.cache.PSW"
+    },
+    "name": "com.github.benmanes.caffeine.cache.PSW",
+    "fields": [
+      {
+        "name": "writeTime"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.benmanes.caffeine.cache.SSA"
+    },
+    "name": "com.github.benmanes.caffeine.cache.PSW",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.benmanes.caffeine.cache.SSW"
+    },
+    "name": "com.github.benmanes.caffeine.cache.PSW",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.benmanes.caffeine.cache.SSSMW"
+    },
+    "name": "com.github.benmanes.caffeine.cache.PSWMW",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.benmanes.caffeine.cache.PW"
+    },
+    "name": "com.github.benmanes.caffeine.cache.PW",
+    "fields": [
+      {
+        "name": "value"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.benmanes.caffeine.cache.BoundedLocalCache$BoundedLocalManualCache"
+    },
+    "name": "com.github.benmanes.caffeine.cache.SI",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "com.github.benmanes.caffeine.cache.Caffeine",
+          "com.github.benmanes.caffeine.cache.AsyncCacheLoader",
+          "boolean"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.benmanes.caffeine.cache.BoundedLocalCache$BoundedLocalLoadingCache"
+    },
+    "name": "com.github.benmanes.caffeine.cache.SSA",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "com.github.benmanes.caffeine.cache.Caffeine",
+          "com.github.benmanes.caffeine.cache.AsyncCacheLoader",
+          "boolean"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.benmanes.caffeine.cache.BoundedLocalCache$BoundedLocalLoadingCache"
+    },
+    "name": "com.github.benmanes.caffeine.cache.SSMS",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "com.github.benmanes.caffeine.cache.Caffeine",
+          "com.github.benmanes.caffeine.cache.AsyncCacheLoader",
+          "boolean"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.benmanes.caffeine.cache.BoundedLocalCache$BoundedLocalLoadingCache"
+    },
+    "name": "com.github.benmanes.caffeine.cache.SSMSR",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "com.github.benmanes.caffeine.cache.Caffeine",
+          "com.github.benmanes.caffeine.cache.AsyncCacheLoader",
+          "boolean"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.benmanes.caffeine.cache.BoundedLocalCache$BoundedLocalAsyncCache"
+    },
+    "name": "com.github.benmanes.caffeine.cache.SSMSW",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "com.github.benmanes.caffeine.cache.Caffeine",
+          "com.github.benmanes.caffeine.cache.AsyncCacheLoader",
+          "boolean"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.benmanes.caffeine.cache.BoundedLocalCache$BoundedLocalAsyncLoadingCache"
+    },
+    "name": "com.github.benmanes.caffeine.cache.SSMSW",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "com.github.benmanes.caffeine.cache.Caffeine",
+          "com.github.benmanes.caffeine.cache.AsyncCacheLoader",
+          "boolean"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.benmanes.caffeine.cache.BoundedLocalCache$BoundedLocalManualCache"
+    },
+    "name": "com.github.benmanes.caffeine.cache.SSMSW",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "com.github.benmanes.caffeine.cache.Caffeine",
+          "com.github.benmanes.caffeine.cache.AsyncCacheLoader",
+          "boolean"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.benmanes.caffeine.cache.BoundedLocalCache$BoundedLocalLoadingCache"
+    },
+    "name": "com.github.benmanes.caffeine.cache.SSMW",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "com.github.benmanes.caffeine.cache.Caffeine",
+          "com.github.benmanes.caffeine.cache.AsyncCacheLoader",
+          "boolean"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.benmanes.caffeine.cache.BoundedLocalCache$BoundedLocalManualCache"
+    },
+    "name": "com.github.benmanes.caffeine.cache.SSSMS",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "com.github.benmanes.caffeine.cache.Caffeine",
+          "com.github.benmanes.caffeine.cache.AsyncCacheLoader",
+          "boolean"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.benmanes.caffeine.cache.BoundedLocalCache$BoundedLocalLoadingCache"
+    },
+    "name": "com.github.benmanes.caffeine.cache.SSSMWW",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "com.github.benmanes.caffeine.cache.Caffeine",
+          "com.github.benmanes.caffeine.cache.AsyncCacheLoader",
+          "boolean"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.benmanes.caffeine.cache.BoundedLocalCache$BoundedLocalLoadingCache"
+    },
+    "name": "com.github.benmanes.caffeine.cache.SSW",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "com.github.benmanes.caffeine.cache.Caffeine",
+          "com.github.benmanes.caffeine.cache.AsyncCacheLoader",
+          "boolean"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.benmanes.caffeine.cache.StripedBuffer"
+    },
+    "name": "com.github.benmanes.caffeine.cache.StripedBuffer",
+    "fields": [
+      {
+        "name": "tableBusy"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.benmanes.caffeine.cache.UnboundedLocalCache"
+    },
+    "name": "com.github.benmanes.caffeine.cache.UnboundedLocalCache",
+    "fields": [
+      {
+        "name": "refreshes"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.benmanes.caffeine.cache.BoundedLocalCache$BoundedLocalLoadingCache"
+    },
+    "name": "com.github.benmanes.caffeine.cache.WI",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "com.github.benmanes.caffeine.cache.Caffeine",
+          "com.github.benmanes.caffeine.cache.AsyncCacheLoader",
+          "boolean"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.benmanes.caffeine.cache.BoundedLocalCache$BoundedLocalLoadingCache"
+    },
+    "name": "com.github.benmanes.caffeine.cache.WS",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "com.github.benmanes.caffeine.cache.Caffeine",
+          "com.github.benmanes.caffeine.cache.AsyncCacheLoader",
+          "boolean"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.benmanes.caffeine.cache.Caffeine"
+    },
+    "name": "com.github.benmanes.caffeine.cache.WS",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "com.github.benmanes.caffeine.cache.Caffeine",
+          "com.github.benmanes.caffeine.cache.AsyncCacheLoader",
+          "boolean"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.benmanes.caffeine.cache.NodeFactory"
+    },
+    "name": "com.github.benmanes.caffeine.cache.PSWMS",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.benmanes.caffeine.cache.NodeFactory"
+    },
+    "name": "com.github.benmanes.caffeine.cache.PD",
+    "fields": [
+      {
+        "name": "value"
+      }
+    ],
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.benmanes.caffeine.cache.NodeFactory"
+    },
+    "name": "com.github.benmanes.caffeine.cache.PW",
+    "fields": [
+      {
+        "name": "value"
+      }
+    ],
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,3682 @@
+[
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.constraintvalidators.bv.money.DecimalMaxValidatorForMonetaryAmount"
+    },
+    "name": "[B"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.constraintvalidators.bv.money.DecimalMaxValidatorForMonetaryAmount"
+    },
+    "name": "[C"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.constraintvalidators.bv.money.DecimalMaxValidatorForMonetaryAmount"
+    },
+    "name": "[D"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.constraintvalidators.bv.money.DecimalMaxValidatorForMonetaryAmount"
+    },
+    "name": "[F"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.constraintvalidators.bv.money.DecimalMaxValidatorForMonetaryAmount"
+    },
+    "name": "[I"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.constraintvalidators.bv.money.DecimalMaxValidatorForMonetaryAmount"
+    },
+    "name": "[J"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "[Ljava.lang.Object;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.metadata.descriptor.CrossParameterDescriptorImpl"
+    },
+    "name": "[Ljava.lang.Object;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.xml.mapping.ConstrainedMethodStaxBuilder"
+    },
+    "name": "[Ljava.lang.Object;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.xml.mapping.CrossParameterStaxBuilder"
+    },
+    "name": "[Ljava.lang.Object;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.constraintvalidators.bv.money.DecimalMaxValidatorForMonetaryAmount"
+    },
+    "name": "[Ljava.lang.String;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.xml.mapping.ConstrainedMethodStaxBuilder"
+    },
+    "name": "[Ljava.lang.String;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.spi.scripting.ScriptEngineScriptEvaluator"
+    },
+    "name": "[Ljava.lang.String;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.constraintvalidators.bv.money.DecimalMaxValidatorForMonetaryAmount"
+    },
+    "name": "[S"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.constraintvalidators.bv.money.DecimalMaxValidatorForMonetaryAmount"
+    },
+    "name": "[Z"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.xml.mapping.ConstrainedMethodStaxBuilder"
+    },
+    "name": "[[Ljava.lang.String;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.constraintvalidators.bv.money.DecimalMaxValidatorForMonetaryAmount"
+    },
+    "name": "com.fasterxml.jackson.core.JsonParser"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.constraintvalidators.bv.money.DecimalMaxValidatorForMonetaryAmount"
+    },
+    "name": "com.fasterxml.jackson.databind.JsonNode"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.constraintvalidators.bv.money.DecimalMaxValidatorForMonetaryAmount"
+    },
+    "name": "com.fasterxml.jackson.databind.ObjectMapper"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator"
+    },
+    "name": "com.sun.el.ExpressionFactoryImpl",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.util.privilegedactions.NewSchema"
+    },
+    "name": "com.sun.org.apache.xerces.internal.impl.dv.xs.SchemaDVFactoryImpl",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.xml.config.ValidationXmlParser"
+    },
+    "name": "com.sun.org.apache.xerces.internal.impl.dv.xs.SchemaDVFactoryImpl",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.xml.mapping.MappingXmlParser"
+    },
+    "name": "com.sun.org.apache.xerces.internal.impl.dv.xs.SchemaDVFactoryImpl",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.xml.XmlParserHelper"
+    },
+    "name": "com.sun.xml.internal.stream.XMLInputFactoryImpl",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.spi.scripting.ScriptEngineScriptEvaluator"
+    },
+    "name": "groovy.grape.GrabAnnotationTransformation",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.constraintvalidators.hv.ParameterScriptAssertValidator"
+    },
+    "name": "groovy.lang.Script",
+    "queriedMethods": [
+      {
+        "name": "getProperty",
+        "parameterTypes": [
+          "java.lang.String"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory"
+    },
+    "name": "groovy.lang.Script"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.spi.scripting.ScriptEngineScriptEvaluator"
+    },
+    "name": "groovyjarjarantlr.CommonToken"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.util.logging.Log_$logger"
+    },
+    "name": "jakarta.el.CompositeELResolver"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.resolver.TraversableResolvers"
+    },
+    "name": "jakarta.persistence.Persistence",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      },
+      {
+        "name": "getPersistenceUtil",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.metadata.provider.ProgrammaticMetaDataProvider"
+    },
+    "name": "jakarta.validation.constraints.Email",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.metadata.provider.ProgrammaticMetaDataProvider"
+    },
+    "name": "jakarta.validation.constraints.Future",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.cfg.context.FieldConstraintMappingContextImpl"
+    },
+    "name": "jakarta.validation.constraints.Min"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "jakarta.validation.constraints.Min",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.xml.mapping.ConstrainedGetterStaxBuilder"
+    },
+    "name": "jakarta.validation.constraints.Min",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "jakarta.validation.constraints.NotEmpty",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.metadata.provider.ProgrammaticMetaDataProvider"
+    },
+    "name": "jakarta.validation.constraints.NotEmpty",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.cfg.context.DefaultConstraintMapping"
+    },
+    "name": "jakarta.validation.constraints.NotNull"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.cfg.context.GetterConstraintMappingContextImpl"
+    },
+    "name": "jakarta.validation.constraints.NotNull"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.cfg.context.ParameterConstraintMappingContextImpl"
+    },
+    "name": "jakarta.validation.constraints.NotNull",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.cfg.context.TypeConstraintMappingContextImpl"
+    },
+    "name": "jakarta.validation.constraints.NotNull"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "jakarta.validation.constraints.NotNull",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.metadata.provider.ProgrammaticMetaDataProvider"
+    },
+    "name": "jakarta.validation.constraints.NotNull",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.util.annotation.ConstraintAnnotationDescriptor$Builder"
+    },
+    "name": "jakarta.validation.constraints.NotNull",
+    "queryAllDeclaredMethods": true,
+    "methods": [
+      {
+        "name": "groups",
+        "parameterTypes": []
+      },
+      {
+        "name": "message",
+        "parameterTypes": []
+      },
+      {
+        "name": "payload",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.xml.mapping.ConstrainedFieldStaxBuilder"
+    },
+    "name": "jakarta.validation.constraints.NotNull",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.xml.mapping.ConstrainedGetterStaxBuilder"
+    },
+    "name": "jakarta.validation.constraints.NotNull",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.xml.mapping.ConstrainedParameterStaxBuilder"
+    },
+    "name": "jakarta.validation.constraints.NotNull"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "jakarta.validation.constraints.Pattern",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.xml.mapping.ConstrainedFieldStaxBuilder"
+    },
+    "name": "jakarta.validation.constraints.Pattern",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.cfg.context.ParameterConstraintMappingContextImpl"
+    },
+    "name": "jakarta.validation.constraints.Size",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.metadata.provider.ProgrammaticMetaDataProvider"
+    },
+    "name": "jakarta.validation.constraints.Size",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.xml.mapping.ConstrainedFieldStaxBuilder"
+    },
+    "name": "jakarta.validation.constraints.Size",
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "max",
+        "parameterTypes": []
+      },
+      {
+        "name": "min",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.xml.mapping.ConstrainedGetterStaxBuilder"
+    },
+    "name": "jakarta.validation.constraints.Size",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.constraintvalidators.bv.money.DecimalMaxValidatorForMonetaryAmount"
+    },
+    "name": "java.io.ObjectInputStream",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "java.io.Serializable",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queryAllDeclaredConstructors": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.metadata.PredefinedScopeBeanMetaDataManager"
+    },
+    "name": "java.io.Serializable",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queryAllDeclaredConstructors": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.constraintvalidators.bv.money.DecimalMaxValidatorForMonetaryAmount"
+    },
+    "name": "java.lang.Boolean",
+    "fields": [
+      {
+        "name": "TYPE"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.constraintvalidators.bv.money.DecimalMaxValidatorForMonetaryAmount"
+    },
+    "name": "java.lang.Byte",
+    "fields": [
+      {
+        "name": "TYPE"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.constraintvalidators.bv.money.DecimalMaxValidatorForMonetaryAmount"
+    },
+    "name": "java.lang.Character",
+    "fields": [
+      {
+        "name": "TYPE"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.resourceloading.PlatformResourceBundleLocator"
+    },
+    "name": "java.lang.Class",
+    "methods": [
+      {
+        "name": "getModule",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "java.lang.Comparable",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queryAllDeclaredConstructors": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.metadata.PredefinedScopeBeanMetaDataManager"
+    },
+    "name": "java.lang.Comparable",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queryAllDeclaredConstructors": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.constraintvalidators.bv.money.DecimalMaxValidatorForMonetaryAmount"
+    },
+    "name": "java.lang.Deprecated",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.constraintvalidators.bv.money.DecimalMaxValidatorForMonetaryAmount"
+    },
+    "name": "java.lang.Double",
+    "fields": [
+      {
+        "name": "TYPE"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "java.lang.Double",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queryAllDeclaredConstructors": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.metadata.PredefinedScopeBeanMetaDataManager"
+    },
+    "name": "java.lang.Enum",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queryAllDeclaredConstructors": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.constraintvalidators.bv.money.DecimalMaxValidatorForMonetaryAmount"
+    },
+    "name": "java.lang.Float",
+    "fields": [
+      {
+        "name": "TYPE"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.constraintvalidators.bv.money.DecimalMaxValidatorForMonetaryAmount"
+    },
+    "name": "java.lang.Integer",
+    "fields": [
+      {
+        "name": "TYPE"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.xml.mapping.ConstrainedMethodStaxBuilder"
+    },
+    "name": "java.lang.Integer"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.constraintvalidators.bv.money.DecimalMaxValidatorForMonetaryAmount"
+    },
+    "name": "java.lang.Long",
+    "fields": [
+      {
+        "name": "TYPE"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.xml.mapping.ConstrainedMethodStaxBuilder"
+    },
+    "name": "java.lang.Long"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.resourceloading.PlatformResourceBundleLocator"
+    },
+    "name": "java.lang.Module",
+    "methods": [
+      {
+        "name": "isNamed",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "java.lang.Number",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queryAllDeclaredConstructors": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.constraintvalidators.bv.money.DecimalMaxValidatorForMonetaryAmount"
+    },
+    "name": "java.lang.Object",
+    "allDeclaredFields": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorFactoryImpl"
+    },
+    "name": "java.lang.Object"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.metadata.BeanMetaDataManagerImpl"
+    },
+    "name": "java.lang.Object"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.metadata.PredefinedScopeBeanMetaDataManager"
+    },
+    "name": "java.lang.Object",
+    "queryAllDeclaredMethods": true,
+    "queryAllDeclaredConstructors": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.metadata.provider.AnnotationMetaDataProvider"
+    },
+    "name": "java.lang.Object",
+    "allDeclaredFields": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.util.annotation.AnnotationProxy"
+    },
+    "name": "java.lang.Object",
+    "methods": [
+      {
+        "name": "hashCode",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "java.lang.Record",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queryAllDeclaredConstructors": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.constraintvalidators.bv.money.DecimalMaxValidatorForMonetaryAmount"
+    },
+    "name": "java.lang.Short",
+    "fields": [
+      {
+        "name": "TYPE"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.constraintvalidators.bv.money.DecimalMaxValidatorForMonetaryAmount"
+    },
+    "name": "java.lang.StackTraceElement",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.constraintvalidators.bv.money.DecimalMaxValidatorForMonetaryAmount"
+    },
+    "name": "java.lang.String"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.xml.mapping.ConstrainedMethodStaxBuilder"
+    },
+    "name": "java.lang.String"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.constraintvalidators.bv.money.DecimalMaxValidatorForMonetaryAmount"
+    },
+    "name": "java.lang.Void",
+    "fields": [
+      {
+        "name": "TYPE"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.spi.scripting.ScriptEngineScriptEvaluator"
+    },
+    "name": "java.lang.annotation.Annotation"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "java.lang.constant.Constable",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queryAllDeclaredConstructors": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.metadata.PredefinedScopeBeanMetaDataManager"
+    },
+    "name": "java.lang.constant.Constable",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queryAllDeclaredConstructors": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "java.lang.constant.ConstantDesc",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queryAllDeclaredConstructors": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.util.logging.Log_$logger"
+    },
+    "name": "java.lang.reflect.Method"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "java.lang.reflect.Proxy",
+    "allDeclaredFields": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.constraintvalidators.bv.money.DecimalMaxValidatorForMonetaryAmount"
+    },
+    "name": "java.math.BigDecimal"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.constraintvalidators.bv.money.DecimalMaxValidatorForMonetaryAmount"
+    },
+    "name": "java.math.BigInteger"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.xml.mapping.ConstrainedMethodStaxBuilder"
+    },
+    "name": "java.time.LocalDate"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.constraintvalidators.bv.money.DecimalMaxValidatorForMonetaryAmount"
+    },
+    "name": "java.util.Date"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.metadata.PredefinedScopeBeanMetaDataManager"
+    },
+    "name": "java.util.Iterator",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queryAllDeclaredConstructors": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.xml.mapping.ConstrainedMethodStaxBuilder"
+    },
+    "name": "java.util.List"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.xml.mapping.ConstrainedMethodStaxBuilder"
+    },
+    "name": "java.util.Map"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.xml.mapping.ConstrainedMethodStaxBuilder"
+    },
+    "name": "java.util.Optional"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.constraintvalidators.bv.money.DecimalMaxValidatorForMonetaryAmount"
+    },
+    "name": "java.util.PropertyPermission",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "java.lang.String",
+          "java.lang.String"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.constraintvalidators.bv.money.DecimalMaxValidatorForMonetaryAmount"
+    },
+    "name": "java.util.logging.LogManager",
+    "methods": [
+      {
+        "name": "getLoggingMXBean",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.constraintvalidators.bv.money.DecimalMaxValidatorForMonetaryAmount"
+    },
+    "name": "java.util.logging.LoggingMXBean",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.valueextraction.ValueExtractorManager"
+    },
+    "name": "javafx.beans.value.ObservableValue"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.metadata.core.ConstraintHelper"
+    },
+    "name": "javax.money.MonetaryAmount"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.util.logging.Log_$logger"
+    },
+    "name": "jdk.internal.reflect.DelegatingMethodAccessorImpl"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.util.logging.Log_$logger"
+    },
+    "name": "jdk.internal.reflect.NativeMethodAccessorImpl"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.constraintvalidators.bv.money.DecimalMaxValidatorForMonetaryAmount"
+    },
+    "name": "jdk.management.jfr.ConfigurationInfo",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.constraintvalidators.bv.money.DecimalMaxValidatorForMonetaryAmount"
+    },
+    "name": "jdk.management.jfr.EventTypeInfo",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.constraintvalidators.bv.money.DecimalMaxValidatorForMonetaryAmount"
+    },
+    "name": "jdk.management.jfr.FlightRecorderMXBean",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.constraintvalidators.bv.money.DecimalMaxValidatorForMonetaryAmount"
+    },
+    "name": "jdk.management.jfr.FlightRecorderMXBeanImpl",
+    "queryAllPublicConstructors": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.constraintvalidators.bv.money.DecimalMaxValidatorForMonetaryAmount"
+    },
+    "name": "jdk.management.jfr.RecordingInfo",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.constraintvalidators.bv.money.DecimalMaxValidatorForMonetaryAmount"
+    },
+    "name": "jdk.management.jfr.SettingDescriptorInfo",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.spi.scripting.ScriptEngineScriptEvaluator"
+    },
+    "name": "org.codehaus.groovy.antlr.GroovySourceAST",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.spi.scripting.ScriptEngineScriptEvaluator"
+    },
+    "name": "org.codehaus.groovy.ast.builder.AstBuilderTransformation",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.constraintvalidators.hv.ParameterScriptAssertValidator"
+    },
+    "name": "org.codehaus.groovy.runtime.ScriptBytecodeAdapter"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.util.logging.Log_$logger"
+    },
+    "name": "org.glassfish.expressly.ValueExpressionImpl"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.util.logging.Log_$logger"
+    },
+    "name": "org.glassfish.expressly.parser.AstValue"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.xml.config.ValidationBootstrapParameters"
+    },
+    "name": "org.hibernate.validator.HibernateValidator"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.util.privilegedactions.GetDeclaredMethodHandle"
+    },
+    "name": "org.hibernate.validator.cfg.AnnotationDef",
+    "methods": [
+      {
+        "name": "createAnnotationDescriptor",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.metadata.provider.ProgrammaticMetaDataProvider"
+    },
+    "name": "org.hibernate.validator.constraints.Range",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.constraints.ScriptAssert",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.metadata.aggregated.ClassMetaData$Builder"
+    },
+    "name": "org.hibernate.validator.constraints.ScriptAssert"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.metadata.provider.ProgrammaticMetaDataProvider"
+    },
+    "name": "org.hibernate.validator.constraints.URL",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.engine.HibernateValidatorEnhancedBean",
+    "allDeclaredFields": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.util.logging.Log_$logger"
+    },
+    "name": "org.hibernate.validator.internal.engine.messageinterpolation.el.BeanPropertiesELResolver"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.util.logging.Log_$logger"
+    },
+    "name": "org.hibernate.validator.internal.engine.messageinterpolation.el.NoOpElResolver"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.util.logging.Log_$logger"
+    },
+    "name": "org.hibernate.validator.internal.engine.messageinterpolation.el.RootResolver"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.resolver.TraversableResolvers"
+    },
+    "name": "org.hibernate.validator.internal.engine.resolver.JPATraversableResolver",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.util.logging.LoggerFactory"
+    },
+    "name": "org.hibernate.validator.internal.util.logging.Log_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.util.logging.Messages"
+    },
+    "name": "org.hibernate.validator.internal.util.logging.Messages_$bundle",
+    "fields": [
+      {
+        "name": "INSTANCE"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.metadata.core.ConstraintHelper"
+    },
+    "name": "org.joda.time.ReadableInstant"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.hv.URLValidator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeOrZeroValidatorForBigDecimal",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.money.PositiveValidatorForMonetaryAmount",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeValidatorForNumber",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.notempty.NotEmptyValidatorForArraysOfLong",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.hv.Mod10CheckValidator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeValidatorForByte",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.PatternValidator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.size.SizeValidatorForArraysOfChar",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.AssertTrueValidator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeOrZeroValidatorForNumber",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.size.SizeValidatorForArraysOfLong",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.money.DecimalMinValidatorForMonetaryAmount",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeValidatorForDouble",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeOrZeroValidatorForByte",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.notempty.NotEmptyValidatorForArraysOfChar",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.money.MinValidatorForMonetaryAmount",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.NotBlankValidator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeOrZeroValidatorForBigInteger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeValidatorForInteger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.AssertFalseValidator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.hv.LuhnCheckValidator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.hv.ru.INNValidator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.hv.EANValidator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveOrZeroValidatorForByte",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveValidatorForFloat",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeValidatorForFloat",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.hv.time.DurationMaxValidator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveValidatorForLong",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.money.NegativeOrZeroValidatorForMonetaryAmount",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.hv.CodePointLengthValidator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.size.SizeValidatorForArraysOfFloat",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.size.SizeValidatorForArraysOfDouble",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeValidatorForShort",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.NotNullValidator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveOrZeroValidatorForShort",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.hv.time.DurationMinValidator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.size.SizeValidatorForMap",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.size.SizeValidatorForArraysOfByte",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.hv.LengthValidator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.notempty.NotEmptyValidatorForArraysOfBoolean",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeOrZeroValidatorForCharSequence",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveValidatorForInteger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.money.DecimalMaxValidatorForMonetaryAmount",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveOrZeroValidatorForFloat",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.money.DigitsValidatorForMonetaryAmount",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.size.SizeValidatorForCollection",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.size.SizeValidatorForArray",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeValidatorForBigDecimal",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.size.SizeValidatorForArraysOfShort",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeOrZeroValidatorForDouble",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.notempty.NotEmptyValidatorForArraysOfByte",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.size.SizeValidatorForCharSequence",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.DigitsValidatorForCharSequence",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveValidatorForShort",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.hv.pl.PESELValidator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.notempty.NotEmptyValidatorForArraysOfInt",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveOrZeroValidatorForLong",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveValidatorForNumber",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeOrZeroValidatorForShort",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveValidatorForBigDecimal",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.hv.br.CPFValidator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeOrZeroValidatorForLong",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.hv.br.CNPJValidator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.hv.Mod11CheckValidator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveOrZeroValidatorForDouble",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.size.SizeValidatorForArraysOfBoolean",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveValidatorForDouble",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeValidatorForLong",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.notempty.NotEmptyValidatorForCharSequence",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeOrZeroValidatorForInteger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.notempty.NotEmptyValidatorForCollection",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.notempty.NotEmptyValidatorForArraysOfShort",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveValidatorForBigInteger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeValidatorForBigInteger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.hv.UniqueElementsValidator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveOrZeroValidatorForNumber",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.hv.NotBlankValidator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.size.SizeValidatorForArraysOfInt",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.money.NegativeValidatorForMonetaryAmount",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.money.PositiveOrZeroValidatorForMonetaryAmount",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveOrZeroValidatorForCharSequence",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.hv.NormalizedValidator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveOrZeroValidatorForBigInteger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveOrZeroValidatorForInteger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveValidatorForCharSequence",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.notempty.NotEmptyValidatorForArraysOfDouble",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.money.MaxValidatorForMonetaryAmount",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.hv.ISBNValidator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveValidatorForByte",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.NullValidator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.DigitsValidatorForNumber",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.money.CurrencyValidatorForMonetaryAmount",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.constraintvalidators.RegexpURLValidator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.notempty.NotEmptyValidatorForArray",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeValidatorForCharSequence",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.notempty.NotEmptyValidatorForMap",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.sign.PositiveOrZeroValidatorForBigDecimal",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.hv.ModCheckValidator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.sign.NegativeOrZeroValidatorForFloat",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.notempty.NotEmptyValidatorForArraysOfFloat",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.hv.pl.REGONValidator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.hv.pl.NIPValidator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.bound.decimal.DecimalMinValidatorForLong",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.bound.decimal.DecimalMinValidatorForByte",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.bound.decimal.DecimalMinValidatorForBigDecimal",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.bound.decimal.DecimalMinValidatorForBigInteger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.bound.decimal.DecimalMinValidatorForDouble",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.bound.decimal.DecimalMinValidatorForFloat",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.bound.decimal.DecimalMinValidatorForInteger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.bound.decimal.DecimalMinValidatorForNumber",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.bound.decimal.DecimalMinValidatorForShort",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.bound.decimal.DecimalMinValidatorForCharSequence",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.hv.EmailValidator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.EmailValidator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.bound.decimal.DecimalMaxValidatorForBigDecimal",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.bound.decimal.DecimalMaxValidatorForNumber",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.bound.decimal.DecimalMaxValidatorForCharSequence",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.bound.decimal.DecimalMaxValidatorForByte",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.bound.decimal.DecimalMaxValidatorForFloat",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.bound.decimal.DecimalMaxValidatorForInteger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.bound.decimal.DecimalMaxValidatorForDouble",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.bound.decimal.DecimalMaxValidatorForBigInteger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.bound.decimal.DecimalMaxValidatorForLong",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.bound.decimal.DecimalMaxValidatorForShort",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.bound.MaxValidatorForCharSequence",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.bound.MaxValidatorForNumber",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.bound.MaxValidatorForInteger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.bound.MaxValidatorForShort",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.bound.MaxValidatorForByte",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.bound.MaxValidatorForFloat",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.bound.MaxValidatorForBigInteger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.bound.MaxValidatorForDouble",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.bound.MaxValidatorForBigDecimal",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.bound.MaxValidatorForLong",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.bound.MinValidatorForNumber",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.bound.MinValidatorForShort",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.bound.MinValidatorForBigDecimal",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.bound.MinValidatorForLong",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.bound.MinValidatorForByte",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.bound.MinValidatorForCharSequence",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.bound.MinValidatorForFloat",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.bound.MinValidatorForBigInteger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.bound.MinValidatorForInteger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.number.bound.MinValidatorForDouble",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.hv.ParameterScriptAssertValidator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.hv.ScriptAssertValidator",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForReadableInstant",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForReadablePartial",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForReadableInstant",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForReadablePartial",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForReadablePartial",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForReadableInstant",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForReadablePartial",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForReadableInstant",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForYear",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForThaiBuddhistDate",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForLocalTime",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForJapaneseDate",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForHijrahDate",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForLocalDateTime",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForOffsetTime",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForOffsetDateTime",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForMinguoDate",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForLocalDate",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForZonedDateTime",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForInstant",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForYearMonth",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForMonthDay",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForLocalDateTime",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForHijrahDate",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForLocalTime",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForYear",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForInstant",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForLocalDate",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForOffsetTime",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForOffsetDateTime",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForMinguoDate",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForJapaneseDate",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForMonthDay",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForThaiBuddhistDate",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForZonedDateTime",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForYearMonth",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForMonthDay",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForInstant",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForThaiBuddhistDate",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForLocalDateTime",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForYearMonth",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForHijrahDate",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForYear",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForLocalTime",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForJapaneseDate",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForLocalDate",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForOffsetDateTime",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForZonedDateTime",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForOffsetTime",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForMinguoDate",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForLocalDate",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForYear",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForMinguoDate",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForThaiBuddhistDate",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForOffsetDateTime",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForLocalDateTime",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForYearMonth",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForJapaneseDate",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForHijrahDate",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForInstant",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForLocalTime",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForMonthDay",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForZonedDateTime",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForOffsetTime",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForDate",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.past.PastValidatorForCalendar",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForDate",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.FutureOrPresentValidatorForCalendar",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForCalendar",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.pastorpresent.PastOrPresentValidatorForDate",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForCalendar",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.validator.internal.engine.ValidatorImpl"
+    },
+    "name": "org.hibernate.validator.internal.constraintvalidators.bv.time.future.FutureValidatorForDate",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  }
+]

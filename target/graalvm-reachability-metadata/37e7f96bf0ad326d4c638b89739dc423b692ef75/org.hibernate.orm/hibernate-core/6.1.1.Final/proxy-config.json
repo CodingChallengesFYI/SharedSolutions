@@ -1,0 +1,501 @@
+[
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.query.spi.QueryImplementor"
+    },
+    "interfaces": [
+      "org.hibernate.query.spi.QueryImplementor"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.query.Query"
+    },
+    "interfaces": [
+      "org.hibernate.query.Query",
+      "org.hibernate.query.spi.QueryImplementor"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.query.hql.spi.SqmQueryImplementor"
+    },
+    "interfaces": [
+      "org.hibernate.query.hql.spi.SqmQueryImplementor",
+      "org.hibernate.query.sqm.internal.SqmInterpretationsKey$InterpretationsKeySource",
+      "org.hibernate.query.spi.DomainQueryExecutionContext",
+      "org.hibernate.query.SelectionQuery",
+      "org.hibernate.query.CommonQueryContract"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.cfg.annotations.reflection.internal.JPAXMLOverriddenAnnotationReader"
+    },
+    "interfaces": [
+      "jakarta.persistence.Access"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.cfg.annotations.reflection.internal.JPAXMLOverriddenAnnotationReader"
+    },
+    "interfaces": [
+      "jakarta.persistence.AttributeOverride"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.cfg.annotations.reflection.internal.JPAXMLOverriddenAnnotationReader"
+    },
+    "interfaces": [
+      "jakarta.persistence.AttributeOverrides"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.cfg.annotations.reflection.internal.JPAXMLOverriddenAnnotationReader"
+    },
+    "interfaces": [
+      "jakarta.persistence.Basic"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.cfg.annotations.reflection.internal.JPAXMLOverriddenAnnotationReader"
+    },
+    "interfaces": [
+      "jakarta.persistence.Cacheable"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.cfg.annotations.reflection.internal.JPAXMLOverriddenAnnotationReader"
+    },
+    "interfaces": [
+      "jakarta.persistence.Column"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.cfg.annotations.reflection.internal.JPAXMLOverriddenAnnotationReader"
+    },
+    "interfaces": [
+      "jakarta.persistence.Embeddable"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.jpa.HibernatePersistenceProvider"
+    },
+    "interfaces": [
+      "jakarta.persistence.Embeddable"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.cfg.annotations.reflection.internal.JPAXMLOverriddenAnnotationReader"
+    },
+    "interfaces": [
+      "jakarta.persistence.Embedded"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.cfg.annotations.reflection.internal.JPAXMLOverriddenAnnotationReader"
+    },
+    "interfaces": [
+      "jakarta.persistence.Entity"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.jpa.HibernatePersistenceProvider"
+    },
+    "interfaces": [
+      "jakarta.persistence.Entity"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.cfg.annotations.reflection.internal.JPAXMLOverriddenAnnotationReader"
+    },
+    "interfaces": [
+      "jakarta.persistence.EntityListeners"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.cfg.annotations.reflection.internal.JPAXMLOverriddenAnnotationReader"
+    },
+    "interfaces": [
+      "jakarta.persistence.GeneratedValue"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.jpa.HibernatePersistenceProvider"
+    },
+    "interfaces": [
+      "jakarta.persistence.GeneratedValue"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.cfg.annotations.reflection.internal.JPAXMLOverriddenAnnotationReader"
+    },
+    "interfaces": [
+      "jakarta.persistence.Id"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.jpa.HibernatePersistenceProvider"
+    },
+    "interfaces": [
+      "jakarta.persistence.Id"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.cfg.annotations.reflection.internal.JPAXMLOverriddenAnnotationReader"
+    },
+    "interfaces": [
+      "jakarta.persistence.PrePersist"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.jpa.HibernatePersistenceProvider"
+    },
+    "interfaces": [
+      "jakarta.persistence.PrePersist"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.boot.jaxb.internal.MappingBinder"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlAccessorType"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.jpa.boot.spi.Bootstrap"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlAccessorType"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.boot.jaxb.internal.MappingBinder"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlAccessorType",
+      "org.glassfish.jaxb.core.v2.model.annotation.Locatable"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.boot.jaxb.internal.MappingBinder"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlAttribute"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.jpa.boot.spi.Bootstrap"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlAttribute"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.boot.jaxb.internal.MappingBinder"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlElement"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.jpa.boot.spi.Bootstrap"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlElement"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.boot.jaxb.internal.MappingBinder"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlElementDecl"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.jpa.boot.spi.Bootstrap"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlElementDecl"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.boot.jaxb.internal.MappingBinder"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlElementRef"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.jpa.boot.spi.Bootstrap"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlElementRef"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.boot.jaxb.internal.MappingBinder"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlElementRefs"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.jpa.boot.spi.Bootstrap"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlElementRefs"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.boot.jaxb.internal.MappingBinder"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlElements"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.boot.jaxb.internal.MappingBinder"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlElements",
+      "org.glassfish.jaxb.core.v2.model.annotation.Locatable"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.boot.jaxb.internal.MappingBinder"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlEnum"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.jpa.boot.spi.Bootstrap"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlEnum"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.boot.jaxb.internal.MappingBinder"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlEnumValue"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.jpa.boot.spi.Bootstrap"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlEnumValue"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.boot.jaxb.internal.MappingBinder"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlEnumValue",
+      "org.glassfish.jaxb.core.v2.model.annotation.Locatable"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.boot.jaxb.internal.MappingBinder"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlMixed"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.jpa.boot.spi.Bootstrap"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlMixed"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.boot.jaxb.internal.MappingBinder"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlMixed",
+      "org.glassfish.jaxb.core.v2.model.annotation.Locatable"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.boot.jaxb.internal.MappingBinder"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlRootElement"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.jpa.boot.spi.Bootstrap"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlRootElement"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.jpa.boot.spi.Bootstrap"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlSchemaType"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.boot.jaxb.internal.MappingBinder"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlSeeAlso"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.jpa.boot.spi.Bootstrap"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlSeeAlso"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.boot.jaxb.internal.MappingBinder"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlSeeAlso",
+      "org.glassfish.jaxb.core.v2.model.annotation.Locatable"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.boot.jaxb.internal.MappingBinder"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlType"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.jpa.boot.spi.Bootstrap"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlType"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.boot.jaxb.internal.MappingBinder"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlValue"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.jpa.boot.spi.Bootstrap"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.XmlValue"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.boot.jaxb.internal.MappingBinder"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.adapters.XmlJavaTypeAdapter"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.jpa.boot.spi.Bootstrap"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.adapters.XmlJavaTypeAdapter"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.boot.jaxb.internal.MappingBinder"
+    },
+    "interfaces": [
+      "jakarta.xml.bind.annotation.adapters.XmlJavaTypeAdapter",
+      "org.glassfish.jaxb.core.v2.model.annotation.Locatable"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.jpa.boot.spi.Bootstrap"
+    },
+    "interfaces": [
+      "jdk.internal.ValueBased"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.jpa.boot.spi.Bootstrap"
+    },
+    "interfaces": [
+      "jdk.internal.vm.annotation.IntrinsicCandidate"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.jpa.HibernatePersistenceProvider"
+    },
+    "interfaces": [
+      "org.hibernate.Internal"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.cfg.annotations.reflection.internal.JPAXMLOverriddenAnnotationReader"
+    },
+    "interfaces": [
+      "org.hibernate.annotations.Columns"
+    ]
+  }
+]

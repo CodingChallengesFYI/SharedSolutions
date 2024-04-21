@@ -1,0 +1,114 @@
+[
+  {
+    "condition": {
+      "typeReachable": "com.github.luben.zstd.ZstdCompressCtx"
+    },
+    "name": "com.github.luben.zstd.ZstdCompressCtx",
+    "fields": [
+      {
+        "name": "nativePtr"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.luben.zstd.ZstdDecompressCtx"
+    },
+    "name": "com.github.luben.zstd.ZstdDecompressCtx",
+    "fields": [
+      {
+        "name": "nativePtr"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.luben.zstd.ZstdDictCompress"
+    },
+    "name": "com.github.luben.zstd.ZstdDictCompress",
+    "fields": [
+      {
+        "name": "nativePtr"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.luben.zstd.ZstdDictDecompress"
+    },
+    "name": "com.github.luben.zstd.ZstdDictDecompress",
+    "fields": [
+      {
+        "name": "nativePtr"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.luben.zstd.ZstdDirectBufferCompressingStreamNoFinalizer"
+    },
+    "name": "com.github.luben.zstd.ZstdDirectBufferCompressingStream$1"
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.luben.zstd.ZstdDirectBufferCompressingStreamNoFinalizer"
+    },
+    "name": "com.github.luben.zstd.ZstdDirectBufferCompressingStreamNoFinalizer",
+    "fields": [
+      {
+        "name": "consumed"
+      },
+      {
+        "name": "produced"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.luben.zstd.ZstdDirectBufferDecompressingStreamNoFinalizer"
+    },
+    "name": "com.github.luben.zstd.ZstdDirectBufferDecompressingStream$1"
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.luben.zstd.ZstdDirectBufferDecompressingStreamNoFinalizer"
+    },
+    "name": "com.github.luben.zstd.ZstdDirectBufferDecompressingStreamNoFinalizer",
+    "fields": [
+      {
+        "name": "consumed"
+      },
+      {
+        "name": "produced"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.luben.zstd.ZstdInputStreamNoFinalizer"
+    },
+    "name": "com.github.luben.zstd.ZstdInputStreamNoFinalizer",
+    "fields": [
+      {
+        "name": "dstPos"
+      },
+      {
+        "name": "srcPos"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.luben.zstd.ZstdOutputStreamNoFinalizer"
+    },
+    "name": "com.github.luben.zstd.ZstdOutputStreamNoFinalizer",
+    "fields": [
+      {
+        "name": "dstPos"
+      },
+      {
+        "name": "srcPos"
+      }
+    ]
+  }
+]

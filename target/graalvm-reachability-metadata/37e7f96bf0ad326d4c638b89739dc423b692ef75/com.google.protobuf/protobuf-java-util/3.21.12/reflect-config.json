@@ -1,0 +1,1235 @@
+[
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.util.JsonFormat$PrinterImpl"
+    },
+    "name": "com.google.protobuf.Any",
+    "methods": [
+      {
+        "name": "getTypeUrl",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.util.JsonFormat$ParserImpl"
+    },
+    "name": "com.google.protobuf.Any$Builder",
+    "methods": [
+      {
+        "name": "setTypeUrl",
+        "parameterTypes": [
+          "java.lang.String"
+        ]
+      },
+      {
+        "name": "setValue",
+        "parameterTypes": [
+          "com.google.protobuf.ByteString"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.util.JsonFormat$PrinterImpl"
+    },
+    "name": "com.google.protobuf.BoolValue",
+    "methods": [
+      {
+        "name": "getValue",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.util.JsonFormat$ParserImpl"
+    },
+    "name": "com.google.protobuf.BoolValue$Builder",
+    "methods": [
+      {
+        "name": "setValue",
+        "parameterTypes": [
+          "boolean"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.util.JsonFormat$PrinterImpl"
+    },
+    "name": "com.google.protobuf.BytesValue",
+    "methods": [
+      {
+        "name": "getValue",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.util.JsonFormat$ParserImpl"
+    },
+    "name": "com.google.protobuf.BytesValue$Builder",
+    "methods": [
+      {
+        "name": "setValue",
+        "parameterTypes": [
+          "com.google.protobuf.ByteString"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.util.JsonFormat$PrinterImpl"
+    },
+    "name": "com.google.protobuf.DoubleValue",
+    "methods": [
+      {
+        "name": "getValue",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.util.JsonFormat$ParserImpl"
+    },
+    "name": "com.google.protobuf.DoubleValue$Builder",
+    "methods": [
+      {
+        "name": "setValue",
+        "parameterTypes": [
+          "double"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.util.JsonFormat$PrinterImpl"
+    },
+    "name": "com.google.protobuf.FloatValue",
+    "methods": [
+      {
+        "name": "getValue",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.util.JsonFormat$ParserImpl"
+    },
+    "name": "com.google.protobuf.FloatValue$Builder",
+    "methods": [
+      {
+        "name": "setValue",
+        "parameterTypes": [
+          "float"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.util.JsonFormat$PrinterImpl"
+    },
+    "name": "com.google.protobuf.Int32Value",
+    "methods": [
+      {
+        "name": "getValue",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.util.JsonFormat$ParserImpl"
+    },
+    "name": "com.google.protobuf.Int32Value$Builder",
+    "methods": [
+      {
+        "name": "setValue",
+        "parameterTypes": [
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.util.JsonFormat$PrinterImpl"
+    },
+    "name": "com.google.protobuf.Int64Value",
+    "methods": [
+      {
+        "name": "getValue",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.util.JsonFormat$ParserImpl"
+    },
+    "name": "com.google.protobuf.Int64Value$Builder",
+    "methods": [
+      {
+        "name": "setValue",
+        "parameterTypes": [
+          "long"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.util.JsonFormat$PrinterImpl"
+    },
+    "name": "com.google.protobuf.ListValue",
+    "methods": [
+      {
+        "name": "getValuesList",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.util.JsonFormat$ParserImpl"
+    },
+    "name": "com.google.protobuf.ListValue$Builder",
+    "methods": [
+      {
+        "name": "addValues",
+        "parameterTypes": [
+          "com.google.protobuf.Value"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.util.JsonFormat$PrinterImpl"
+    },
+    "name": "com.google.protobuf.StringValue",
+    "methods": [
+      {
+        "name": "getValue",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.util.JsonFormat$ParserImpl"
+    },
+    "name": "com.google.protobuf.StringValue$Builder",
+    "methods": [
+      {
+        "name": "setValue",
+        "parameterTypes": [
+          "java.lang.String"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.util.JsonFormat$PrinterImpl"
+    },
+    "name": "com.google.protobuf.UInt32Value",
+    "methods": [
+      {
+        "name": "getValue",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.util.JsonFormat$ParserImpl"
+    },
+    "name": "com.google.protobuf.UInt32Value$Builder",
+    "methods": [
+      {
+        "name": "setValue",
+        "parameterTypes": [
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.util.JsonFormat$PrinterImpl"
+    },
+    "name": "com.google.protobuf.UInt64Value",
+    "methods": [
+      {
+        "name": "getValue",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.util.JsonFormat$ParserImpl"
+    },
+    "name": "com.google.protobuf.UInt64Value$Builder",
+    "methods": [
+      {
+        "name": "setValue",
+        "parameterTypes": [
+          "long"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.util.JsonFormat$ParserImpl"
+    },
+    "name": "com.google.protobuf.Value",
+    "methods": [
+      {
+        "name": "newBuilder",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.util.JsonFormat$PrinterImpl"
+    },
+    "name": "com.google.protobuf.Value",
+    "methods": [
+      {
+        "name": "getKindCase",
+        "parameterTypes": []
+      },
+      {
+        "name": "getNullValueValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "getNumberValue",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.util.JsonFormat$PrinterImpl$7"
+    },
+    "name": "com.google.protobuf.Value"
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.util.JsonFormat$ParserImpl"
+    },
+    "name": "com.google.protobuf.Value$Builder",
+    "methods": [
+      {
+        "name": "setNumberValue",
+        "parameterTypes": [
+          "double"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.util.JsonFormat$PrinterImpl$GsonHolder"
+    },
+    "name": "java.sql.Date"
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.util.JsonFormat$PrinterImpl$GsonHolder"
+    },
+    "name": "sun.misc.Unsafe",
+    "fields": [
+      {
+        "name": "theUnsafe"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.GeneratedMessageV3"
+    },
+    "name": "com.google.protobuf.Any",
+    "methods": [
+      {
+        "name": "getTypeUrl",
+        "parameterTypes": []
+      },
+      {
+        "name": "getTypeUrlBytes",
+        "parameterTypes": []
+      },
+      {
+        "name": "getValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "newBuilder",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.GeneratedMessageV3"
+    },
+    "name": "com.google.protobuf.Any$Builder",
+    "methods": [
+      {
+        "name": "clearTypeUrl",
+        "parameterTypes": []
+      },
+      {
+        "name": "clearValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "getTypeUrl",
+        "parameterTypes": []
+      },
+      {
+        "name": "getTypeUrlBytes",
+        "parameterTypes": []
+      },
+      {
+        "name": "getValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "setTypeUrlBytes",
+        "parameterTypes": [
+          "com.google.protobuf.ByteString"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.GeneratedMessageV3"
+    },
+    "name": "com.google.protobuf.BoolValue",
+    "methods": [
+      {
+        "name": "getValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "newBuilder",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.GeneratedMessageV3"
+    },
+    "name": "com.google.protobuf.BoolValue$Builder",
+    "methods": [
+      {
+        "name": "clearValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "getValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "setValue",
+        "parameterTypes": [
+          "boolean"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.GeneratedMessageV3"
+    },
+    "name": "com.google.protobuf.BytesValue",
+    "methods": [
+      {
+        "name": "getValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "newBuilder",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.GeneratedMessageV3"
+    },
+    "name": "com.google.protobuf.BytesValue$Builder",
+    "methods": [
+      {
+        "name": "clearValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "getValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "setValue",
+        "parameterTypes": [
+          "com.google.protobuf.ByteString"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.GeneratedMessageV3"
+    },
+    "name": "com.google.protobuf.DoubleValue",
+    "methods": [
+      {
+        "name": "getValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "newBuilder",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.GeneratedMessageV3"
+    },
+    "name": "com.google.protobuf.DoubleValue$Builder",
+    "methods": [
+      {
+        "name": "clearValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "getValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "setValue",
+        "parameterTypes": [
+          "double"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.GeneratedMessageV3"
+    },
+    "name": "com.google.protobuf.Duration",
+    "methods": [
+      {
+        "name": "getNanos",
+        "parameterTypes": []
+      },
+      {
+        "name": "getSeconds",
+        "parameterTypes": []
+      },
+      {
+        "name": "newBuilder",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.GeneratedMessageV3"
+    },
+    "name": "com.google.protobuf.Duration$Builder",
+    "methods": [
+      {
+        "name": "clearNanos",
+        "parameterTypes": []
+      },
+      {
+        "name": "clearSeconds",
+        "parameterTypes": []
+      },
+      {
+        "name": "getNanos",
+        "parameterTypes": []
+      },
+      {
+        "name": "getSeconds",
+        "parameterTypes": []
+      },
+      {
+        "name": "setNanos",
+        "parameterTypes": [
+          "int"
+        ]
+      },
+      {
+        "name": "setSeconds",
+        "parameterTypes": [
+          "long"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.GeneratedMessageV3"
+    },
+    "name": "com.google.protobuf.FieldMask",
+    "methods": [
+      {
+        "name": "getPaths",
+        "parameterTypes": [
+          "int"
+        ]
+      },
+      {
+        "name": "getPathsCount",
+        "parameterTypes": []
+      },
+      {
+        "name": "getPathsList",
+        "parameterTypes": []
+      },
+      {
+        "name": "newBuilder",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.GeneratedMessageV3"
+    },
+    "name": "com.google.protobuf.FieldMask$Builder",
+    "methods": [
+      {
+        "name": "addPaths",
+        "parameterTypes": [
+          "java.lang.String"
+        ]
+      },
+      {
+        "name": "clearPaths",
+        "parameterTypes": []
+      },
+      {
+        "name": "getPaths",
+        "parameterTypes": [
+          "int"
+        ]
+      },
+      {
+        "name": "getPathsCount",
+        "parameterTypes": []
+      },
+      {
+        "name": "getPathsList",
+        "parameterTypes": []
+      },
+      {
+        "name": "setPaths",
+        "parameterTypes": [
+          "int",
+          "java.lang.String"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.GeneratedMessageV3"
+    },
+    "name": "com.google.protobuf.FloatValue",
+    "methods": [
+      {
+        "name": "getValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "newBuilder",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.GeneratedMessageV3"
+    },
+    "name": "com.google.protobuf.FloatValue$Builder",
+    "methods": [
+      {
+        "name": "clearValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "getValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "setValue",
+        "parameterTypes": [
+          "float"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.GeneratedMessageV3"
+    },
+    "name": "com.google.protobuf.Int32Value",
+    "methods": [
+      {
+        "name": "getValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "newBuilder",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.GeneratedMessageV3"
+    },
+    "name": "com.google.protobuf.Int32Value$Builder",
+    "methods": [
+      {
+        "name": "clearValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "getValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "setValue",
+        "parameterTypes": [
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.GeneratedMessageV3"
+    },
+    "name": "com.google.protobuf.Int64Value",
+    "methods": [
+      {
+        "name": "getValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "newBuilder",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.GeneratedMessageV3"
+    },
+    "name": "com.google.protobuf.Int64Value$Builder",
+    "methods": [
+      {
+        "name": "clearValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "getValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "setValue",
+        "parameterTypes": [
+          "long"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.GeneratedMessageV3"
+    },
+    "name": "com.google.protobuf.ListValue",
+    "methods": [
+      {
+        "name": "getValues",
+        "parameterTypes": [
+          "int"
+        ]
+      },
+      {
+        "name": "getValuesCount",
+        "parameterTypes": []
+      },
+      {
+        "name": "getValuesList",
+        "parameterTypes": []
+      },
+      {
+        "name": "newBuilder",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.GeneratedMessageV3"
+    },
+    "name": "com.google.protobuf.ListValue$Builder",
+    "methods": [
+      {
+        "name": "addValues",
+        "parameterTypes": [
+          "com.google.protobuf.Value"
+        ]
+      },
+      {
+        "name": "clearValues",
+        "parameterTypes": []
+      },
+      {
+        "name": "getValues",
+        "parameterTypes": [
+          "int"
+        ]
+      },
+      {
+        "name": "getValuesBuilder",
+        "parameterTypes": [
+          "int"
+        ]
+      },
+      {
+        "name": "getValuesCount",
+        "parameterTypes": []
+      },
+      {
+        "name": "getValuesList",
+        "parameterTypes": []
+      },
+      {
+        "name": "setValues",
+        "parameterTypes": [
+          "int",
+          "com.google.protobuf.Value"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.GeneratedMessageV3"
+    },
+    "name": "com.google.protobuf.NullValue",
+    "methods": [
+      {
+        "name": "getValueDescriptor",
+        "parameterTypes": []
+      },
+      {
+        "name": "valueOf",
+        "parameterTypes": [
+          "com.google.protobuf.Descriptors$EnumValueDescriptor"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.GeneratedMessageV3"
+    },
+    "name": "com.google.protobuf.StringValue",
+    "methods": [
+      {
+        "name": "getValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "getValueBytes",
+        "parameterTypes": []
+      },
+      {
+        "name": "newBuilder",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.GeneratedMessageV3"
+    },
+    "name": "com.google.protobuf.StringValue$Builder",
+    "methods": [
+      {
+        "name": "clearValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "getValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "getValueBytes",
+        "parameterTypes": []
+      },
+      {
+        "name": "setValue",
+        "parameterTypes": [
+          "java.lang.String"
+        ]
+      },
+      {
+        "name": "setValueBytes",
+        "parameterTypes": [
+          "com.google.protobuf.ByteString"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.GeneratedMessageV3"
+    },
+    "name": "com.google.protobuf.Struct",
+    "methods": [
+      {
+        "name": "getDefaultInstance",
+        "parameterTypes": []
+      },
+      {
+        "name": "newBuilder",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.GeneratedMessageV3"
+    },
+    "name": "com.google.protobuf.Timestamp",
+    "methods": [
+      {
+        "name": "getNanos",
+        "parameterTypes": []
+      },
+      {
+        "name": "getSeconds",
+        "parameterTypes": []
+      },
+      {
+        "name": "newBuilder",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.GeneratedMessageV3"
+    },
+    "name": "com.google.protobuf.Timestamp$Builder",
+    "methods": [
+      {
+        "name": "clearNanos",
+        "parameterTypes": []
+      },
+      {
+        "name": "clearSeconds",
+        "parameterTypes": []
+      },
+      {
+        "name": "getNanos",
+        "parameterTypes": []
+      },
+      {
+        "name": "getSeconds",
+        "parameterTypes": []
+      },
+      {
+        "name": "setNanos",
+        "parameterTypes": [
+          "int"
+        ]
+      },
+      {
+        "name": "setSeconds",
+        "parameterTypes": [
+          "long"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.GeneratedMessageV3"
+    },
+    "name": "com.google.protobuf.UInt32Value",
+    "methods": [
+      {
+        "name": "getValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "newBuilder",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.GeneratedMessageV3"
+    },
+    "name": "com.google.protobuf.UInt32Value$Builder",
+    "methods": [
+      {
+        "name": "clearValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "getValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "setValue",
+        "parameterTypes": [
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.GeneratedMessageV3"
+    },
+    "name": "com.google.protobuf.UInt64Value",
+    "methods": [
+      {
+        "name": "getValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "newBuilder",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.GeneratedMessageV3"
+    },
+    "name": "com.google.protobuf.UInt64Value$Builder",
+    "methods": [
+      {
+        "name": "clearValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "getValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "setValue",
+        "parameterTypes": [
+          "long"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.GeneratedMessageV3"
+    },
+    "name": "com.google.protobuf.Value",
+    "methods": [
+      {
+        "name": "getBoolValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "getKindCase",
+        "parameterTypes": []
+      },
+      {
+        "name": "getListValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "getNullValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "getNullValueValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "getNumberValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "getStringValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "getStringValueBytes",
+        "parameterTypes": []
+      },
+      {
+        "name": "getStructValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "newBuilder",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.google.protobuf.GeneratedMessageV3"
+    },
+    "name": "com.google.protobuf.Value$Builder",
+    "methods": [
+      {
+        "name": "clearBoolValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "clearKind",
+        "parameterTypes": []
+      },
+      {
+        "name": "clearListValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "clearNullValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "clearNumberValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "clearStringValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "clearStructValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "getBoolValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "getKindCase",
+        "parameterTypes": []
+      },
+      {
+        "name": "getListValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "getListValueBuilder",
+        "parameterTypes": []
+      },
+      {
+        "name": "getNullValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "getNullValueValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "getNumberValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "getStringValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "getStringValueBytes",
+        "parameterTypes": []
+      },
+      {
+        "name": "getStructValue",
+        "parameterTypes": []
+      },
+      {
+        "name": "getStructValueBuilder",
+        "parameterTypes": []
+      },
+      {
+        "name": "setBoolValue",
+        "parameterTypes": [
+          "boolean"
+        ]
+      },
+      {
+        "name": "setListValue",
+        "parameterTypes": [
+          "com.google.protobuf.ListValue"
+        ]
+      },
+      {
+        "name": "setNullValue",
+        "parameterTypes": [
+          "com.google.protobuf.NullValue"
+        ]
+      },
+      {
+        "name": "setNullValueValue",
+        "parameterTypes": [
+          "int"
+        ]
+      },
+      {
+        "name": "setNumberValue",
+        "parameterTypes": [
+          "double"
+        ]
+      },
+      {
+        "name": "setStringValue",
+        "parameterTypes": [
+          "java.lang.String"
+        ]
+      },
+      {
+        "name": "setStringValueBytes",
+        "parameterTypes": [
+          "com.google.protobuf.ByteString"
+        ]
+      },
+      {
+        "name": "setStructValue",
+        "parameterTypes": [
+          "com.google.protobuf.Struct"
+        ]
+      }
+    ]
+  }
+]

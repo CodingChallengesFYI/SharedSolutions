@@ -1,0 +1,35 @@
+[
+  {
+    "condition": {
+      "typeReachable": "io.opentelemetry.internal.shaded.jctools.queues.MpscArrayQueueConsumerIndexField"
+    },
+    "name": "io.opentelemetry.internal.shaded.jctools.queues.MpscArrayQueueConsumerIndexField",
+    "fields": [
+      {
+        "name": "consumerIndex"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.opentelemetry.internal.shaded.jctools.queues.MpscArrayQueueProducerIndexField"
+    },
+    "name": "io.opentelemetry.internal.shaded.jctools.queues.MpscArrayQueueProducerIndexField",
+    "fields": [
+      {
+        "name": "producerIndex"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.opentelemetry.internal.shaded.jctools.queues.MpscArrayQueueProducerLimitField"
+    },
+    "name": "io.opentelemetry.internal.shaded.jctools.queues.MpscArrayQueueProducerLimitField",
+    "fields": [
+      {
+        "name": "producerLimit"
+      }
+    ]
+  }
+]

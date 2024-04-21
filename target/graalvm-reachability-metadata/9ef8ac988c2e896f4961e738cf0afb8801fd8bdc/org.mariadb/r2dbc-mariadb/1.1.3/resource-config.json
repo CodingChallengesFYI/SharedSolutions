@@ -1,0 +1,15 @@
+{
+  "resources": {
+    "includes": [
+      {
+        "pattern": "\\Qproject.properties\\E",
+        "condition": {
+          "typeReachable": "org.mariadb.r2dbc.message.client.HandshakeResponse"
+        }
+      }
+    ]
+  },
+  "bundles": [
+
+  ]
+}

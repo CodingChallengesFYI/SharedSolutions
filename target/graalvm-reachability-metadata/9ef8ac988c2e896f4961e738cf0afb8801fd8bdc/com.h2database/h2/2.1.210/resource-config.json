@@ -1,0 +1,13 @@
+{
+  "bundles": [],
+  "resources": {
+    "includes": [
+      {
+        "condition": {
+          "typeReachable": "org.h2.util.Utils"
+        },
+        "pattern": "\\Qorg/h2/util/data.zip\\E"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "bundles": [],
+  "resources": {
+    "includes": [
+      {
+        "pattern": "\\Qfreemarker/ext/beans/DefaultMemberAccessPolicy-rules\\E",
+        "condition": {
+          "typeReachable": "freemarker.ext.beans.DefaultMemberAccessPolicy"
+        }
+      },
+      {
+        "pattern": "\\Qfreemarker/version.properties\\E",
+        "condition": {
+          "typeReachable": "freemarker.template.utility.ClassUtil"
+        }
+      }
+    ]
+  }
+}

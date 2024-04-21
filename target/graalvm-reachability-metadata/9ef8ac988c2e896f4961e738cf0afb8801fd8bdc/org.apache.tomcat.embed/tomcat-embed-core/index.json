@@ -1,0 +1,10 @@
+[
+  {
+    "latest": true,
+    "metadata-version": "10.0.20",
+    "module": "org.apache.tomcat.embed:tomcat-embed-core",
+    "tested-versions": [
+      "10.0.20"
+    ]
+  }
+]

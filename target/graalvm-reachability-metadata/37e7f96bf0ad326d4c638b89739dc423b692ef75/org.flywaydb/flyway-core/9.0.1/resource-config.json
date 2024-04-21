@@ -1,0 +1,13 @@
+{
+  "bundles": [],
+  "resources": {
+    "includes": [
+      {
+        "condition": {
+          "typeReachable": "org.flywaydb.core.internal.license.VersionPrinter"
+        },
+        "pattern": "\\Qorg/flywaydb/core/internal/version.txt\\E"
+      }
+    ]
+  }
+}

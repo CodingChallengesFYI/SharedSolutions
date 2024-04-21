@@ -1,0 +1,14 @@
+[
+  {
+    "name": "graphql.schema.DataFetchingEnvironmentImpl",
+    "methods": [
+      {
+        "name": "getLocale",
+        "parameterTypes": []
+      }
+    ],
+    "condition": {
+      "typeReachable": "graphql.GraphQL"
+    }
+  }
+]

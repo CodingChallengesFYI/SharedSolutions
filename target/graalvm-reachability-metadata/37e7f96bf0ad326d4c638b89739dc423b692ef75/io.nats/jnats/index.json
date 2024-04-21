@@ -1,0 +1,10 @@
+[
+  {
+    "latest": true,
+    "metadata-version": "2.16.11",
+    "module": "io.nats:jnats",
+    "tested-versions": [
+      "2.16.11"
+    ]
+  }
+]

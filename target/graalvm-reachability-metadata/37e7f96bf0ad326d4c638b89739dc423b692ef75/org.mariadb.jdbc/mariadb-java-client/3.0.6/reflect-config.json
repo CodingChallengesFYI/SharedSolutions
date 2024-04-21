@@ -1,0 +1,28 @@
+[
+  {
+    "condition": {
+      "typeReachable": "org.mariadb.jdbc.Configuration"
+    },
+    "name": "org.mariadb.jdbc.Configuration",
+    "allDeclaredFields": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.mariadb.jdbc.Configuration"
+    },
+    "name": "org.mariadb.jdbc.Configuration$Builder",
+    "allDeclaredFields": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.mariadb.jdbc.plugin.authentication.standard.NativePasswordPlugin"
+    },
+    "name": "sun.security.provider.SHA",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  }
+]

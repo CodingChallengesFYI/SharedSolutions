@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "includes": [
+      {
+        "condition": {
+          "typeReachable": "javax.cache.Caching$CachingProviderRegistry$1"
+        },
+        "pattern": "\\QMETA-INF/services/javax.cache.spi.CachingProvider\\E"
+      }
+    ]
+  },
+  "bundles": []
+}

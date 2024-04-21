@@ -1,0 +1,1058 @@
+[
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.server.ForwardedRequestCustomizer"
+    },
+    "name": "org.eclipse.jetty.server.ForwardedRequestCustomizer$Forwarded",
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.websocket.jakarta.common.decoders.StringDecoder"
+    },
+    "name": "org.eclipse.jetty.websocket.jakarta.common.decoders.StringDecoder",
+    "allDeclaredConstructors": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.webapp.StandardDescriptorProcessor"
+    },
+    "name": "[Ljava.lang.String;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.util.ArrayUtil"
+    },
+    "name": "[Lorg.eclipse.jetty.servlet.FilterHolder;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.xml.XmlParser"
+    },
+    "name": "com.sun.org.apache.xerces.internal.jaxp.SAXParserFactoryImpl",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.security.SecurityHandler"
+    },
+    "name": "jakarta.servlet.GenericServlet",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.servlet.ServletHolder"
+    },
+    "name": "jakarta.servlet.GenericServlet",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.security.SecurityHandler"
+    },
+    "name": "jakarta.servlet.http.HttpServlet",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.servlet.ServletHolder"
+    },
+    "name": "jakarta.servlet.http.HttpServlet",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.util.TypeUtil"
+    },
+    "name": "java.lang.Boolean",
+    "queriedMethods": [
+      {
+        "name": "valueOf",
+        "parameterTypes": [
+          "java.lang.String"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.util.TypeUtil"
+    },
+    "name": "java.lang.Byte",
+    "queriedMethods": [
+      {
+        "name": "valueOf",
+        "parameterTypes": [
+          "java.lang.String"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.util.TypeUtil"
+    },
+    "name": "java.lang.Double",
+    "queriedMethods": [
+      {
+        "name": "valueOf",
+        "parameterTypes": [
+          "java.lang.String"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.util.TypeUtil"
+    },
+    "name": "java.lang.Float",
+    "queriedMethods": [
+      {
+        "name": "valueOf",
+        "parameterTypes": [
+          "java.lang.String"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.util.TypeUtil"
+    },
+    "name": "java.lang.Integer",
+    "queriedMethods": [
+      {
+        "name": "valueOf",
+        "parameterTypes": [
+          "java.lang.String"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.util.TypeUtil"
+    },
+    "name": "java.lang.Long",
+    "queriedMethods": [
+      {
+        "name": "valueOf",
+        "parameterTypes": [
+          "java.lang.String"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.server.HttpChannel"
+    },
+    "name": "java.lang.Object"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.server.HttpConnection"
+    },
+    "name": "java.lang.Object"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.server.Server"
+    },
+    "name": "java.lang.Object"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.server.handler.ContextHandler"
+    },
+    "name": "java.lang.Object"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.util.thread.QueuedThreadPool"
+    },
+    "name": "java.lang.Object",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy"
+    },
+    "name": "java.lang.Object",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.websocket.client.impl.JettyClientUpgradeRequest"
+    },
+    "name": "java.lang.Object",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.websocket.common.JettyWebSocketFrameHandlerFactory"
+    },
+    "name": "java.lang.Object"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.websocket.core.internal.util.ReflectUtils"
+    },
+    "name": "java.lang.Object"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.websocket.core.server.internal.AbstractHandshaker"
+    },
+    "name": "java.lang.Object"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.websocket.core.server.internal.CreatorNegotiator"
+    },
+    "name": "java.lang.Object"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.websocket.core.server.internal.HandshakerSelector"
+    },
+    "name": "java.lang.Object"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.websocket.jakarta.common.JakartaWebSocketFrameHandlerFactory"
+    },
+    "name": "java.lang.Object"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.websocket.jakarta.server.internal.JakartaWebSocketServerContainer"
+    },
+    "name": "java.lang.Object",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.websocket.jakarta.server.internal.JakartaWebSocketServerFrameHandlerFactory"
+    },
+    "name": "java.lang.Object"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.util.TypeUtil"
+    },
+    "name": "java.lang.Short",
+    "queriedMethods": [
+      {
+        "name": "valueOf",
+        "parameterTypes": [
+          "java.lang.String"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.util.Uptime$DefaultImpl"
+    },
+    "name": "java.lang.management.ManagementFactory",
+    "methods": [
+      {
+        "name": "getRuntimeMXBean",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.util.Uptime$DefaultImpl"
+    },
+    "name": "java.lang.management.RuntimeMXBean",
+    "methods": [
+      {
+        "name": "getUptime",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.server.session.DefaultSessionIdManager"
+    },
+    "name": "java.security.SecureRandomParameters"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.util.ssl.SslContextFactory"
+    },
+    "name": "java.security.SecureRandomParameters"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.util.thread.QueuedThreadPool"
+    },
+    "name": "java.security.SecureRandomParameters"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.websocket.core.internal.WebSocketConnection"
+    },
+    "name": "java.security.SecureRandomParameters"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.webapp.Configurations"
+    },
+    "name": "org.eclipse.jetty.annotations.AnnotationConfiguration",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.webapp.JndiConfiguration"
+    },
+    "name": "org.eclipse.jetty.jndi.InitialContextFactory"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.webapp.Configurations"
+    },
+    "name": "org.eclipse.jetty.plus.webapp.EnvConfiguration",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.webapp.Configurations"
+    },
+    "name": "org.eclipse.jetty.plus.webapp.PlusConfiguration",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.servlet.ServletContextHandler"
+    },
+    "name": "org.eclipse.jetty.security.ConstraintSecurityHandler",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.servlet.ServletHolder"
+    },
+    "name": "org.eclipse.jetty.servlet.DefaultServlet",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.servlet.ServletHolder"
+    },
+    "name": "org.eclipse.jetty.servlet.NoJspServlet",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.util.thread.QueuedThreadPool"
+    },
+    "name": "org.eclipse.jetty.servlet.ServletHandler$Default404Servlet",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.servlet.ListenerHolder"
+    },
+    "name": "org.eclipse.jetty.servlet.listener.ELContextCleaner",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.servlet.ListenerHolder"
+    },
+    "name": "org.eclipse.jetty.servlet.listener.IntrospectorCleaner",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.util.TypeUtil"
+    },
+    "name": "org.eclipse.jetty.util.TypeUtil",
+    "methods": [
+      {
+        "name": "getClassLoaderLocation",
+        "parameterTypes": [
+          "java.lang.Class"
+        ]
+      },
+      {
+        "name": "getCodeSourceLocation",
+        "parameterTypes": [
+          "java.lang.Class"
+        ]
+      },
+      {
+        "name": "getModuleLocation",
+        "parameterTypes": [
+          "java.lang.Class"
+        ]
+      },
+      {
+        "name": "getSystemClassLoaderLocation",
+        "parameterTypes": [
+          "java.lang.Class"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.util.IncludeExcludeSet"
+    },
+    "name": "org.eclipse.jetty.webapp.ClassMatcher$ByLocationOrModule",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.util.IncludeExcludeSet"
+    },
+    "name": "org.eclipse.jetty.webapp.ClassMatcher$ByPackageOrName",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.webapp.Configurations"
+    },
+    "name": "org.eclipse.jetty.webapp.FragmentConfiguration",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.webapp.Configurations"
+    },
+    "name": "org.eclipse.jetty.webapp.JettyWebXmlConfiguration",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.webapp.Configurations"
+    },
+    "name": "org.eclipse.jetty.webapp.JndiConfiguration",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.webapp.Configurations"
+    },
+    "name": "org.eclipse.jetty.webapp.MetaInfConfiguration",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.webapp.IterativeDescriptorProcessor"
+    },
+    "name": "org.eclipse.jetty.webapp.StandardDescriptorProcessor",
+    "methods": [
+      {
+        "name": "visitListener",
+        "parameterTypes": [
+          "org.eclipse.jetty.webapp.WebAppContext",
+          "org.eclipse.jetty.webapp.Descriptor",
+          "org.eclipse.jetty.xml.XmlParser$Node"
+        ]
+      },
+      {
+        "name": "visitLocaleEncodingList",
+        "parameterTypes": [
+          "org.eclipse.jetty.webapp.WebAppContext",
+          "org.eclipse.jetty.webapp.Descriptor",
+          "org.eclipse.jetty.xml.XmlParser$Node"
+        ]
+      },
+      {
+        "name": "visitSecurityConstraint",
+        "parameterTypes": [
+          "org.eclipse.jetty.webapp.WebAppContext",
+          "org.eclipse.jetty.webapp.Descriptor",
+          "org.eclipse.jetty.xml.XmlParser$Node"
+        ]
+      },
+      {
+        "name": "visitServlet",
+        "parameterTypes": [
+          "org.eclipse.jetty.webapp.WebAppContext",
+          "org.eclipse.jetty.webapp.Descriptor",
+          "org.eclipse.jetty.xml.XmlParser$Node"
+        ]
+      },
+      {
+        "name": "visitServletMapping",
+        "parameterTypes": [
+          "org.eclipse.jetty.webapp.WebAppContext",
+          "org.eclipse.jetty.webapp.Descriptor",
+          "org.eclipse.jetty.xml.XmlParser$Node"
+        ]
+      },
+      {
+        "name": "visitSessionConfig",
+        "parameterTypes": [
+          "org.eclipse.jetty.webapp.WebAppContext",
+          "org.eclipse.jetty.webapp.Descriptor",
+          "org.eclipse.jetty.xml.XmlParser$Node"
+        ]
+      },
+      {
+        "name": "visitWelcomeFileList",
+        "parameterTypes": [
+          "org.eclipse.jetty.webapp.WebAppContext",
+          "org.eclipse.jetty.webapp.Descriptor",
+          "org.eclipse.jetty.xml.XmlParser$Node"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.webapp.StandardDescriptorProcessor"
+    },
+    "name": "org.eclipse.jetty.webapp.StandardDescriptorProcessor",
+    "queriedMethods": [
+      {
+        "name": "visitContextParam",
+        "parameterTypes": [
+          "org.eclipse.jetty.webapp.WebAppContext",
+          "org.eclipse.jetty.webapp.Descriptor",
+          "org.eclipse.jetty.xml.XmlParser$Node"
+        ]
+      },
+      {
+        "name": "visitDefaultContextPath",
+        "parameterTypes": [
+          "org.eclipse.jetty.webapp.WebAppContext",
+          "org.eclipse.jetty.webapp.Descriptor",
+          "org.eclipse.jetty.xml.XmlParser$Node"
+        ]
+      },
+      {
+        "name": "visitDenyUncoveredHttpMethods",
+        "parameterTypes": [
+          "org.eclipse.jetty.webapp.WebAppContext",
+          "org.eclipse.jetty.webapp.Descriptor",
+          "org.eclipse.jetty.xml.XmlParser$Node"
+        ]
+      },
+      {
+        "name": "visitDisplayName",
+        "parameterTypes": [
+          "org.eclipse.jetty.webapp.WebAppContext",
+          "org.eclipse.jetty.webapp.Descriptor",
+          "org.eclipse.jetty.xml.XmlParser$Node"
+        ]
+      },
+      {
+        "name": "visitErrorPage",
+        "parameterTypes": [
+          "org.eclipse.jetty.webapp.WebAppContext",
+          "org.eclipse.jetty.webapp.Descriptor",
+          "org.eclipse.jetty.xml.XmlParser$Node"
+        ]
+      },
+      {
+        "name": "visitFilter",
+        "parameterTypes": [
+          "org.eclipse.jetty.webapp.WebAppContext",
+          "org.eclipse.jetty.webapp.Descriptor",
+          "org.eclipse.jetty.xml.XmlParser$Node"
+        ]
+      },
+      {
+        "name": "visitFilterMapping",
+        "parameterTypes": [
+          "org.eclipse.jetty.webapp.WebAppContext",
+          "org.eclipse.jetty.webapp.Descriptor",
+          "org.eclipse.jetty.xml.XmlParser$Node"
+        ]
+      },
+      {
+        "name": "visitJspConfig",
+        "parameterTypes": [
+          "org.eclipse.jetty.webapp.WebAppContext",
+          "org.eclipse.jetty.webapp.Descriptor",
+          "org.eclipse.jetty.xml.XmlParser$Node"
+        ]
+      },
+      {
+        "name": "visitListener",
+        "parameterTypes": [
+          "org.eclipse.jetty.webapp.WebAppContext",
+          "org.eclipse.jetty.webapp.Descriptor",
+          "org.eclipse.jetty.xml.XmlParser$Node"
+        ]
+      },
+      {
+        "name": "visitLocaleEncodingList",
+        "parameterTypes": [
+          "org.eclipse.jetty.webapp.WebAppContext",
+          "org.eclipse.jetty.webapp.Descriptor",
+          "org.eclipse.jetty.xml.XmlParser$Node"
+        ]
+      },
+      {
+        "name": "visitLoginConfig",
+        "parameterTypes": [
+          "org.eclipse.jetty.webapp.WebAppContext",
+          "org.eclipse.jetty.webapp.Descriptor",
+          "org.eclipse.jetty.xml.XmlParser$Node"
+        ]
+      },
+      {
+        "name": "visitMimeMapping",
+        "parameterTypes": [
+          "org.eclipse.jetty.webapp.WebAppContext",
+          "org.eclipse.jetty.webapp.Descriptor",
+          "org.eclipse.jetty.xml.XmlParser$Node"
+        ]
+      },
+      {
+        "name": "visitRequestCharacterEncoding",
+        "parameterTypes": [
+          "org.eclipse.jetty.webapp.WebAppContext",
+          "org.eclipse.jetty.webapp.Descriptor",
+          "org.eclipse.jetty.xml.XmlParser$Node"
+        ]
+      },
+      {
+        "name": "visitResponseCharacterEncoding",
+        "parameterTypes": [
+          "org.eclipse.jetty.webapp.WebAppContext",
+          "org.eclipse.jetty.webapp.Descriptor",
+          "org.eclipse.jetty.xml.XmlParser$Node"
+        ]
+      },
+      {
+        "name": "visitSecurityConstraint",
+        "parameterTypes": [
+          "org.eclipse.jetty.webapp.WebAppContext",
+          "org.eclipse.jetty.webapp.Descriptor",
+          "org.eclipse.jetty.xml.XmlParser$Node"
+        ]
+      },
+      {
+        "name": "visitSecurityRole",
+        "parameterTypes": [
+          "org.eclipse.jetty.webapp.WebAppContext",
+          "org.eclipse.jetty.webapp.Descriptor",
+          "org.eclipse.jetty.xml.XmlParser$Node"
+        ]
+      },
+      {
+        "name": "visitServlet",
+        "parameterTypes": [
+          "org.eclipse.jetty.webapp.WebAppContext",
+          "org.eclipse.jetty.webapp.Descriptor",
+          "org.eclipse.jetty.xml.XmlParser$Node"
+        ]
+      },
+      {
+        "name": "visitServletMapping",
+        "parameterTypes": [
+          "org.eclipse.jetty.webapp.WebAppContext",
+          "org.eclipse.jetty.webapp.Descriptor",
+          "org.eclipse.jetty.xml.XmlParser$Node"
+        ]
+      },
+      {
+        "name": "visitSessionConfig",
+        "parameterTypes": [
+          "org.eclipse.jetty.webapp.WebAppContext",
+          "org.eclipse.jetty.webapp.Descriptor",
+          "org.eclipse.jetty.xml.XmlParser$Node"
+        ]
+      },
+      {
+        "name": "visitTagLib",
+        "parameterTypes": [
+          "org.eclipse.jetty.webapp.WebAppContext",
+          "org.eclipse.jetty.webapp.Descriptor",
+          "org.eclipse.jetty.xml.XmlParser$Node"
+        ]
+      },
+      {
+        "name": "visitWelcomeFileList",
+        "parameterTypes": [
+          "org.eclipse.jetty.webapp.WebAppContext",
+          "org.eclipse.jetty.webapp.Descriptor",
+          "org.eclipse.jetty.xml.XmlParser$Node"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.webapp.Configurations"
+    },
+    "name": "org.eclipse.jetty.webapp.WebAppConfiguration",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.webapp.Configurations"
+    },
+    "name": "org.eclipse.jetty.webapp.WebInfConfiguration",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.webapp.Configurations"
+    },
+    "name": "org.eclipse.jetty.webapp.WebXmlConfiguration",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.webapp.Configurations"
+    },
+    "name": "org.eclipse.jetty.websocket.client.config.JettyWebSocketClientConfiguration",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.websocket.common.JettyWebSocketFrameHandlerFactory"
+    },
+    "name": "org.eclipse.jetty.websocket.core.internal.messages.ByteArrayMessageSink",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.eclipse.jetty.websocket.core.CoreSession",
+          "java.lang.invoke.MethodHandle"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.websocket.common.JettyWebSocketFrameHandlerFactory"
+    },
+    "name": "org.eclipse.jetty.websocket.core.internal.messages.StringMessageSink",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.eclipse.jetty.websocket.core.CoreSession",
+          "java.lang.invoke.MethodHandle"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.websocket.jakarta.common.JakartaWebSocketFrameHandlerFactory"
+    },
+    "name": "org.eclipse.jetty.websocket.jakarta.common.JakartaWebSocketSession",
+    "methods": [
+      {
+        "name": "filterReturnType",
+        "parameterTypes": [
+          "java.lang.Object"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.websocket.jakarta.common.JakartaWebSocketFrameHandlerFactory"
+    },
+    "name": "org.eclipse.jetty.websocket.jakarta.common.messages.DecodedBinaryMessageSink",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.eclipse.jetty.websocket.core.CoreSession",
+          "java.lang.invoke.MethodHandle",
+          "java.util.List"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.websocket.jakarta.common.messages.DecodedBinaryMessageSink"
+    },
+    "name": "org.eclipse.jetty.websocket.jakarta.common.messages.DecodedBinaryMessageSink",
+    "methods": [
+      {
+        "name": "onWholeMessage",
+        "parameterTypes": [
+          "java.nio.ByteBuffer"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.websocket.jakarta.common.JakartaWebSocketFrameHandlerFactory"
+    },
+    "name": "org.eclipse.jetty.websocket.jakarta.common.messages.DecodedTextMessageSink",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.eclipse.jetty.websocket.core.CoreSession",
+          "java.lang.invoke.MethodHandle",
+          "java.util.List"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.websocket.jakarta.common.messages.DecodedTextMessageSink"
+    },
+    "name": "org.eclipse.jetty.websocket.jakarta.common.messages.DecodedTextMessageSink",
+    "methods": [
+      {
+        "name": "onMessage",
+        "parameterTypes": [
+          "java.lang.String"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.webapp.Configurations"
+    },
+    "name": "org.eclipse.jetty.websocket.jakarta.server.config.JakartaWebSocketConfiguration",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.webapp.Configurations"
+    },
+    "name": "org.eclipse.jetty.websocket.server.config.JettyWebSocketConfiguration",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.annotations.AnnotationParser"
+    },
+    "name": "org.objectweb.asm.Opcodes",
+    "allPublicFields": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.server.session.DefaultSessionIdManager"
+    },
+    "name": "sun.security.provider.NativePRNG",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.util.ssl.SslContextFactory"
+    },
+    "name": "sun.security.provider.NativePRNG",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.util.thread.QueuedThreadPool"
+    },
+    "name": "sun.security.provider.NativePRNG",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.websocket.core.internal.WebSocketConnection"
+    },
+    "name": "sun.security.provider.NativePRNG",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.websocket.core.internal.WebSocketCore"
+    },
+    "name": "sun.security.provider.SHA",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.util.ssl.SslContextFactory"
+    },
+    "name": "sun.security.ssl.SSLContextImpl$TLSContext",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.util.ssl.SslContextFactory"
+    },
+    "name": "sun.security.ssl.TrustManagerFactoryImpl$PKIXFactory",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.eclipse.jetty.websocket.jakarta.client.internal.JakartaWebSocketClientContainer"
+    },
+    "name": "org.eclipse.jetty.server.handler.ContextHandler",
+    "methods": [
+      {
+        "name": "getCurrentContext",
+        "parameterTypes": []
+      }
+    ]
+  }
+]

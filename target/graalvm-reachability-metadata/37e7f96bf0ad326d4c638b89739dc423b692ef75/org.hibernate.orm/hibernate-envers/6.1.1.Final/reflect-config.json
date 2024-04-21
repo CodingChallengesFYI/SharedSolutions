@@ -1,0 +1,4499 @@
+[
+  {
+    "condition": {
+      "typeReachable": "java.util.ServiceLoader"
+    },
+    "name": "java.util.ServiceLoader$Provider",
+    "allPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "[Ljakarta.xml.bind.annotation.XmlElement;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "[Ljakarta.xml.bind.annotation.XmlElementRef;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.model.Column"
+    },
+    "name": "[Ljava.lang.Class;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.EnversService"
+    },
+    "name": "org.hibernate.envers.boot.internal.LegacyModifiedColumnNamingStrategy",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.EnversService"
+    },
+    "name": "org.hibernate.envers.boot.internal.ImprovedModifiedColumnNamingStrategy",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.EnversService"
+    },
+    "name": "org.hibernate.envers.strategy.DefaultAuditStrategy",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.EnversService"
+    },
+    "name": " org.hibernate.envers.strategy.internal.DefaultAuditStrategy",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.EnversService"
+    },
+    "name": "org.hibernate.envers.strategy.ValidityAuditStrategy",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.EnversService"
+    },
+    "name": " org.hibernate.envers.strategy.internal.ValidityAuditStrategy",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.configuration.Configuration"
+    },
+    "name": "[Ljava.lang.Class;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.configuration.internal.metadata.AbstractCollectionMetadataGenerator"
+    },
+    "name": "[Ljava.lang.Class;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.configuration.internal.metadata.AuditEntityNameRegister"
+    },
+    "name": "[Ljava.lang.Class;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.configuration.internal.metadata.AuditMetadataGenerator"
+    },
+    "name": "[Ljava.lang.Class;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.configuration.internal.metadata.CollectionMappedByResolver"
+    },
+    "name": "[Ljava.lang.Class;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.configuration.internal.metadata.IdMetadataGenerator"
+    },
+    "name": "[Ljava.lang.Class;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.configuration.internal.metadata.JoinColumnCollectionMetadataGenerator"
+    },
+    "name": "[Ljava.lang.Class;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.configuration.internal.metadata.MiddleTableCollectionMetadataGenerator"
+    },
+    "name": "[Ljava.lang.Class;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.enhanced.OrderedSequenceStructure$OrderedSequence"
+    },
+    "name": "[Ljava.lang.Class;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.event.spi.EnversPostInsertEventListenerImpl"
+    },
+    "name": "[Ljava.lang.Class;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.exception.RevisionDoesNotExistException"
+    },
+    "name": "[Ljava.lang.Class;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.entities.mapper.id.QueryParameterData"
+    },
+    "name": "[Ljava.lang.Class;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.entities.mapper.id.VirtualEntitySingleIdMapper"
+    },
+    "name": "[Ljava.lang.Class;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.entities.mapper.relation.MiddleMapKeyEnumeratedComponentMapper"
+    },
+    "name": "[Ljava.lang.Class;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.entities.mapper.relation.component.MiddleEmbeddableComponentMapper"
+    },
+    "name": "[Ljava.lang.Class;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.entities.mapper.relation.component.MiddleMapElementNotKeyComponentMapper"
+    },
+    "name": "[Ljava.lang.Class;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.entities.mapper.relation.component.MiddleSimpleComponentMapper"
+    },
+    "name": "[Ljava.lang.Class;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.entities.mapper.relation.lazy.proxy.CollectionProxy"
+    },
+    "name": "[Ljava.lang.Class;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.entities.mapper.relation.lazy.proxy.MapProxy"
+    },
+    "name": "[Ljava.lang.Class;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.entities.mapper.relation.query.AbstractRelationQueryGenerator"
+    },
+    "name": "[Ljava.lang.Class;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.entities.mapper.relation.query.OneAuditEntityQueryGenerator"
+    },
+    "name": "[Ljava.lang.Class;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.entities.mapper.relation.query.OneEntityQueryGenerator"
+    },
+    "name": "[Ljava.lang.Class;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.entities.mapper.relation.query.ThreeEntityQueryGenerator"
+    },
+    "name": "[Ljava.lang.Class;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.entities.mapper.relation.query.TwoEntityOneAuditedQueryGenerator"
+    },
+    "name": "[Ljava.lang.Class;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.entities.mapper.relation.query.TwoEntityQueryGenerator"
+    },
+    "name": "[Ljava.lang.Class;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.reader.AuditReaderImpl"
+    },
+    "name": "[Ljava.lang.Class;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.revisioninfo.DefaultRevisionInfoGenerator"
+    },
+    "name": "[Ljava.lang.Class;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.revisioninfo.RevisionInfoQueryCreator"
+    },
+    "name": "[Ljava.lang.Class;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.revisioninfo.RevisionTimestampValueResolver"
+    },
+    "name": "[Ljava.lang.Class;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.synchronization.AuditProcess"
+    },
+    "name": "[Ljava.lang.Class;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.tools.ArgumentsTools"
+    },
+    "name": "[Ljava.lang.Class;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.tools.MappingTools"
+    },
+    "name": "[Ljava.lang.Class;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.tools.query.Parameters"
+    },
+    "name": "[Ljava.lang.Class;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.tools.query.QueryBuilder"
+    },
+    "name": "[Ljava.lang.Class;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.query.AuditQueryCreator"
+    },
+    "name": "[Ljava.lang.Class;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.query.criteria.AggregatedAuditExpression"
+    },
+    "name": "[Ljava.lang.Class;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.query.criteria.MatchMode$4"
+    },
+    "name": "[Ljava.lang.Class;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.query.criteria.internal.CriteriaTools"
+    },
+    "name": "[Ljava.lang.Class;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.query.criteria.internal.SimpleAuditExpression"
+    },
+    "name": "[Ljava.lang.Class;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.query.internal.impl.AbstractAuditAssociationQuery"
+    },
+    "name": "[Ljava.lang.Class;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.query.internal.impl.AbstractAuditQuery"
+    },
+    "name": "[Ljava.lang.Class;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.query.internal.impl.EntitiesAtRevisionQuery"
+    },
+    "name": "[Ljava.lang.Class;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.strategy.internal.DefaultAuditStrategy"
+    },
+    "name": "[Ljava.lang.Class;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.strategy.internal.ValidityAuditStrategy"
+    },
+    "name": "[Ljava.lang.Class;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "[Ljava.lang.Object;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "[Ljava.lang.annotation.Annotation;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.enhanced.OrderedSequenceStructure$OrderedSequence"
+    },
+    "name": "[Ljava.lang.invoke.LambdaForm$Name;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.strategy.internal.DefaultAuditStrategy"
+    },
+    "name": "[Ljava.lang.invoke.LambdaForm$Name;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.configuration.internal.metadata.CollectionMappedByResolver"
+    },
+    "name": "[Ljava.util.Iterator;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.configuration.internal.metadata.reader.PersistentPropertiesSource$1"
+    },
+    "name": "[Ljava.util.Iterator;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.reader.AuditReaderImpl"
+    },
+    "name": "[Ljava.util.Map$Entry;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.query.internal.impl.EntitiesAtRevisionQuery"
+    },
+    "name": "[Ljava.util.Map$Entry;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.reader.AuditReaderImpl"
+    },
+    "name": "[Lorg.antlr.v4.runtime.atn.ATNConfig;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.revisioninfo.RevisionInfoQueryCreator"
+    },
+    "name": "[Lorg.antlr.v4.runtime.atn.ATNConfig;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.tools.query.QueryBuilder"
+    },
+    "name": "[Lorg.antlr.v4.runtime.atn.ATNConfig;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.query.internal.impl.AbstractAuditQuery"
+    },
+    "name": "[Lorg.antlr.v4.runtime.atn.ATNConfig;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.query.internal.impl.EntitiesAtRevisionQuery"
+    },
+    "name": "[Lorg.antlr.v4.runtime.atn.ATNConfig;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.reader.AuditReaderImpl"
+    },
+    "name": "[Lorg.antlr.v4.runtime.atn.PredictionContext;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.revisioninfo.RevisionInfoQueryCreator"
+    },
+    "name": "[Lorg.antlr.v4.runtime.atn.PredictionContext;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.tools.query.QueryBuilder"
+    },
+    "name": "[Lorg.antlr.v4.runtime.atn.PredictionContext;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.query.internal.impl.AbstractAuditQuery"
+    },
+    "name": "[Lorg.antlr.v4.runtime.atn.PredictionContext;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.query.internal.impl.EntitiesAtRevisionQuery"
+    },
+    "name": "[Lorg.antlr.v4.runtime.atn.PredictionContext;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.query.internal.impl.AbstractAuditQuery"
+    },
+    "name": "[Lorg.antlr.v4.runtime.dfa.DFAState$PredPrediction;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.reader.AuditReaderImpl"
+    },
+    "name": "[Lorg.antlr.v4.runtime.dfa.DFAState;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.revisioninfo.RevisionInfoQueryCreator"
+    },
+    "name": "[Lorg.antlr.v4.runtime.dfa.DFAState;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.query.internal.impl.AbstractAuditQuery"
+    },
+    "name": "[Lorg.antlr.v4.runtime.dfa.DFAState;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.query.internal.impl.EntitiesAtRevisionQuery"
+    },
+    "name": "[Lorg.antlr.v4.runtime.dfa.DFAState;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.event.spi.BaseEnversCollectionEventListener"
+    },
+    "name": "[Lorg.h2.expression.Expression;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.event.spi.EnversPostInsertEventListenerImpl"
+    },
+    "name": "[Lorg.h2.expression.Expression;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.event.spi.EnversPreUpdateEventListenerImpl"
+    },
+    "name": "[Lorg.h2.expression.Expression;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.reader.AuditReaderImpl"
+    },
+    "name": "[Lorg.h2.expression.Expression;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.revisioninfo.DefaultRevisionInfoGenerator"
+    },
+    "name": "[Lorg.h2.expression.Expression;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.synchronization.AuditProcess"
+    },
+    "name": "[Lorg.h2.expression.Expression;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.query.internal.impl.AbstractAuditQuery"
+    },
+    "name": "[Lorg.h2.expression.Expression;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.synchronization.AuditProcess"
+    },
+    "name": "[Lorg.h2.table.Column;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.event.spi.BaseEnversCollectionEventListener"
+    },
+    "name": "[Lorg.h2.table.TableFilter;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.event.spi.EnversPostInsertEventListenerImpl"
+    },
+    "name": "[Lorg.h2.table.TableFilter;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.event.spi.EnversPreUpdateEventListenerImpl"
+    },
+    "name": "[Lorg.h2.table.TableFilter;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.reader.AuditReaderImpl"
+    },
+    "name": "[Lorg.h2.table.TableFilter;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.revisioninfo.DefaultRevisionInfoGenerator"
+    },
+    "name": "[Lorg.h2.table.TableFilter;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.synchronization.AuditProcess"
+    },
+    "name": "[Lorg.h2.table.TableFilter;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.query.internal.impl.AbstractAuditQuery"
+    },
+    "name": "[Lorg.h2.table.TableFilter;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.strategy.internal.ValidityAuditStrategy"
+    },
+    "name": "[Lorg.h2.value.Value;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.EnversIntegrator"
+    },
+    "name": "[Lorg.hibernate.event.spi.PostCollectionRecreateEventListener;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.EnversIntegrator"
+    },
+    "name": "[Lorg.hibernate.event.spi.PostDeleteEventListener;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.EnversIntegrator"
+    },
+    "name": "[Lorg.hibernate.event.spi.PostInsertEventListener;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.EnversIntegrator"
+    },
+    "name": "[Lorg.hibernate.event.spi.PostUpdateEventListener;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.EnversIntegrator"
+    },
+    "name": "[Lorg.hibernate.event.spi.PreCollectionRemoveEventListener;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.EnversIntegrator"
+    },
+    "name": "[Lorg.hibernate.event.spi.PreCollectionUpdateEventListener;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.EnversIntegrator"
+    },
+    "name": "[Lorg.hibernate.event.spi.PreUpdateEventListener;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.event.spi.BaseEnversCollectionEventListener"
+    },
+    "name": "[Lorg.hibernate.sql.ast.spi.SqlSelection;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.event.spi.EnversPreUpdateEventListenerImpl"
+    },
+    "name": "[Lorg.hibernate.sql.ast.spi.SqlSelection;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.reader.AuditReaderImpl"
+    },
+    "name": "[Lorg.hibernate.sql.ast.spi.SqlSelection;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.tools.EntityTools"
+    },
+    "name": "[Lorg.hibernate.sql.ast.spi.SqlSelection;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.query.internal.impl.AbstractAuditQuery"
+    },
+    "name": "[Lorg.hibernate.sql.ast.spi.SqlSelection;"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.configuration.internal.metadata.reader.AuditedPropertiesReader"
+    },
+    "name": "ee.estonia.entities.Child",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.event.spi.EnversPostCollectionRecreateEventListenerImpl"
+    },
+    "name": "ee.estonia.entities.Child",
+    "queryAllDeclaredMethods": true,
+    "fields": [
+      {
+        "name": "id"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.entities.mapper.relation.lazy.proxy.CollectionProxy"
+    },
+    "name": "ee.estonia.entities.Child",
+    "queryAllDeclaredMethods": true,
+    "fields": [
+      {
+        "name": "data"
+      },
+      {
+        "name": "id"
+      }
+    ],
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.configuration.internal.metadata.reader.AuditedPropertiesReader"
+    },
+    "name": "ee.estonia.entities.Parent",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.reader.AuditReaderImpl"
+    },
+    "name": "ee.estonia.entities.Parent",
+    "queryAllDeclaredMethods": true,
+    "fields": [
+      {
+        "name": "collection"
+      },
+      {
+        "name": "data"
+      }
+    ],
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "jakarta.xml.bind.JAXBElement"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "jakarta.xml.bind.annotation.XmlAccessType",
+    "methods": [
+      {
+        "name": "values",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "jakarta.xml.bind.annotation.XmlAccessorType",
+    "queryAllDeclaredMethods": true,
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      },
+      {
+        "name": "value",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "jakarta.xml.bind.annotation.XmlAttribute",
+    "queryAllDeclaredMethods": true,
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "jakarta.xml.bind.annotation.XmlElement",
+    "queryAllDeclaredMethods": true,
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      },
+      {
+        "name": "type",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "jakarta.xml.bind.annotation.XmlElement$DEFAULT"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "jakarta.xml.bind.annotation.XmlElementDecl",
+    "queryAllDeclaredMethods": true,
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      },
+      {
+        "name": "scope",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "jakarta.xml.bind.annotation.XmlElementDecl$GLOBAL"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "jakarta.xml.bind.annotation.XmlElementRef",
+    "queryAllDeclaredMethods": true,
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      },
+      {
+        "name": "type",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "jakarta.xml.bind.annotation.XmlElementRef$DEFAULT"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "jakarta.xml.bind.annotation.XmlElementRefs",
+    "queryAllDeclaredMethods": true,
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "jakarta.xml.bind.annotation.XmlElements",
+    "queryAllDeclaredMethods": true,
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      },
+      {
+        "name": "value",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "jakarta.xml.bind.annotation.XmlEnum",
+    "queryAllDeclaredMethods": true,
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      },
+      {
+        "name": "value",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "jakarta.xml.bind.annotation.XmlEnumValue",
+    "queryAllDeclaredMethods": true,
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      },
+      {
+        "name": "value",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "jakarta.xml.bind.annotation.XmlMixed",
+    "queryAllDeclaredMethods": true,
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "jakarta.xml.bind.annotation.XmlRootElement",
+    "queryAllDeclaredMethods": true,
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "jakarta.xml.bind.annotation.XmlSeeAlso",
+    "queryAllDeclaredMethods": true,
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      },
+      {
+        "name": "value",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "jakarta.xml.bind.annotation.XmlType",
+    "queryAllDeclaredMethods": true,
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      },
+      {
+        "name": "factoryClass",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "jakarta.xml.bind.annotation.XmlType$DEFAULT"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "jakarta.xml.bind.annotation.XmlValue",
+    "queryAllDeclaredMethods": true,
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "jakarta.xml.bind.annotation.adapters.XmlAdapter"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "jakarta.xml.bind.annotation.adapters.XmlJavaTypeAdapter",
+    "queryAllDeclaredMethods": true,
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      },
+      {
+        "name": "type",
+        "parameterTypes": []
+      },
+      {
+        "name": "value",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "jakarta.xml.bind.annotation.adapters.XmlJavaTypeAdapter$DEFAULT"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "jdk.internal.ValueBased",
+    "queryAllDeclaredMethods": true,
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.engine.jdbc.dialect.internal.DialectFactoryImpl"
+    },
+    "name": "org.glassfish.jaxb.runtime.v2.ContextFactory",
+    "methods": [
+      {
+        "name": "createContext",
+        "parameterTypes": [
+          "[Ljava.lang.Class;",
+          "java.util.Map"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.glassfish.jaxb.core.v2.model.nav.ReflectionNavigator",
+    "methods": [
+      {
+        "name": "getInstance",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.glassfish.jaxb.runtime.v2.ContextFactory",
+    "methods": [
+      {
+        "name": "createContext",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.glassfish.jaxb.runtime.v2.runtime.property.ArrayElementLeafProperty",
+    "queryAllPublicConstructors": true,
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.glassfish.jaxb.runtime.v2.runtime.JAXBContextImpl",
+          "org.glassfish.jaxb.runtime.v2.model.runtime.RuntimeElementPropertyInfo"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.glassfish.jaxb.runtime.v2.runtime.property.ArrayElementNodeProperty",
+    "queryAllPublicConstructors": true,
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.glassfish.jaxb.runtime.v2.runtime.JAXBContextImpl",
+          "org.glassfish.jaxb.runtime.v2.model.runtime.RuntimeElementPropertyInfo"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.glassfish.jaxb.runtime.v2.runtime.property.ArrayReferenceNodeProperty",
+    "queryAllPublicConstructors": true,
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.glassfish.jaxb.runtime.v2.runtime.JAXBContextImpl",
+          "org.glassfish.jaxb.runtime.v2.model.runtime.RuntimeReferencePropertyInfo"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.glassfish.jaxb.runtime.v2.runtime.property.SingleElementLeafProperty",
+    "queryAllPublicConstructors": true,
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.glassfish.jaxb.runtime.v2.runtime.JAXBContextImpl",
+          "org.glassfish.jaxb.runtime.v2.model.runtime.RuntimeElementPropertyInfo"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.glassfish.jaxb.runtime.v2.runtime.property.SingleElementNodeProperty",
+    "queryAllPublicConstructors": true,
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.glassfish.jaxb.runtime.v2.runtime.JAXBContextImpl",
+          "org.glassfish.jaxb.runtime.v2.model.runtime.RuntimeElementPropertyInfo"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.glassfish.jaxb.runtime.v2.runtime.property.SingleMapNodeProperty",
+    "queryAllPublicConstructors": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.glassfish.jaxb.runtime.v2.runtime.property.SingleReferenceNodeProperty",
+    "queryAllPublicConstructors": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.CacheMode"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.FlushMode"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.LockMode"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.Adapter1",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.Adapter2",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.Adapter3",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.Adapter4",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.Adapter5",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.Adapter6",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.Adapter7",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.Adapter8",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.Adapter9",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmAnyAssociationType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmAnyValueMappingType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmArrayType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmAuxiliaryDatabaseObjectType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmAuxiliaryDatabaseObjectType$JaxbHbmDefinition",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmBagCollectionType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmBaseVersionAttributeType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmBasicAttributeType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmBasicCollectionElementType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmCacheInclusionEnum",
+    "allDeclaredFields": true,
+    "methods": [
+      {
+        "name": "values",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmCacheType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmClassRenameType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmCollectionIdType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmColumnType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmCompositeAttributeType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmCompositeCollectionElementType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmCompositeIdType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmCompositeIndexType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmCompositeKeyBasicAttributeType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmCompositeKeyManyToOneType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmConfigParameterContainer",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmConfigParameterType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmCustomSqlDmlType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmDialectScopeType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmDiscriminatorSubclassEntityType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmDynamicComponentType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmEntityBaseDefinition",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmEntityDiscriminatorType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmFetchProfileType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmFetchProfileType$JaxbHbmFetch",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmFetchStyleEnum",
+    "allDeclaredFields": true,
+    "methods": [
+      {
+        "name": "values",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmFetchStyleWithSubselectEnum",
+    "allDeclaredFields": true,
+    "methods": [
+      {
+        "name": "values",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmFilterAliasMappingType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmFilterDefinitionType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmFilterParameterType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmFilterType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmGeneratorSpecificationType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmHibernateMapping",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmIdBagCollectionType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmIdentifierGeneratorDefinitionType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmIndexManyToAnyType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmIndexManyToManyType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmIndexType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmJoinedSubclassEntityType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmKeyType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmLazyEnum",
+    "allDeclaredFields": true,
+    "methods": [
+      {
+        "name": "values",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmLazyWithExtraEnum",
+    "allDeclaredFields": true,
+    "methods": [
+      {
+        "name": "values",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmLazyWithNoProxyEnum",
+    "allDeclaredFields": true,
+    "methods": [
+      {
+        "name": "values",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmListIndexType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmListType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmLoaderType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmManyToAnyCollectionElementType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmManyToManyCollectionElementType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmManyToOneType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmMapKeyBasicType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmMapKeyCompositeType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmMapKeyManyToManyType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmMapType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmMultiTenancyType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmNamedNativeQueryType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmNamedQueryType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmNativeQueryCollectionLoadReturnType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmNativeQueryJoinReturnType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmNativeQueryPropertyReturnType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmNativeQueryPropertyReturnType$JaxbHbmReturnColumn",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmNativeQueryReturnType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmNativeQueryReturnType$JaxbHbmReturnDiscriminator",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmNativeQueryScalarReturnType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmNaturalIdCacheType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmNaturalIdType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmNestedCompositeElementType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmNotFoundEnum",
+    "allDeclaredFields": true,
+    "methods": [
+      {
+        "name": "values",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmOnDeleteEnum",
+    "allDeclaredFields": true,
+    "methods": [
+      {
+        "name": "values",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmOneToManyCollectionElementType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmOneToOneType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmOuterJoinEnum",
+    "allDeclaredFields": true,
+    "methods": [
+      {
+        "name": "values",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmParentType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmPolymorphismEnum",
+    "allDeclaredFields": true,
+    "methods": [
+      {
+        "name": "values",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmPrimitiveArrayType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmPropertiesType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmQueryParamType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmResultSetMappingType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmRootEntityType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmSecondaryTableType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmSetType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmSimpleIdType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmSubclassEntityBaseDefinition",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmSynchronizeType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmTimestampAttributeType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmTimestampSourceEnum",
+    "allDeclaredFields": true,
+    "methods": [
+      {
+        "name": "values",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmToolingHintContainer",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmToolingHintType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmTuplizerType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmTypeDefinitionType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmTypeSpecificationType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmUnionSubclassEntityType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmUnsavedValueCompositeIdEnum",
+    "allDeclaredFields": true,
+    "methods": [
+      {
+        "name": "values",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmUnsavedValueTimestampEnum",
+    "allDeclaredFields": true,
+    "methods": [
+      {
+        "name": "values",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmUnsavedValueVersionEnum",
+    "allDeclaredFields": true,
+    "methods": [
+      {
+        "name": "values",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.JaxbHbmVersionAttributeType",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.ObjectFactory",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.PluralAttributeInfoIdBagAdapter",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.boot.jaxb.hbm.spi.PluralAttributeInfoPrimitiveArrayAdapter",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true,
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.cache.spi.access.AccessType"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.engine.OptimisticLockStyle"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.synchronization.AuditProcess"
+    },
+    "name": "org.hibernate.engine.jdbc.batch.internal.BatchBuilderImpl",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.strategy.internal.ValidityAuditStrategy"
+    },
+    "name": "org.hibernate.engine.jdbc.batch.internal.BatchBuilderImpl",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.engine.spi.ExecuteUpdateResultCheckStyle"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.configuration.internal.RevisionInfoConfiguration"
+    },
+    "name": "org.hibernate.envers.DefaultRevisionEntity",
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.configuration.internal.RevisionInfoConfiguration"
+    },
+    "name": "org.hibernate.envers.enhanced.SequenceIdRevisionEntity",
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.EnversServiceImpl$1"
+    },
+    "name": "org.hibernate.envers.DefaultRevisionEntity",
+    "queryAllDeclaredMethods": true,
+    "fields": [
+      {
+        "name": "timestamp"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.revisioninfo.DefaultRevisionInfoGenerator"
+    },
+    "name": "org.hibernate.envers.DefaultRevisionEntity",
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.revisioninfo.RevisionInfoNumberReader"
+    },
+    "name": "org.hibernate.envers.DefaultRevisionEntity",
+    "queryAllDeclaredMethods": true,
+    "fields": [
+      {
+        "name": "id"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.revisioninfo.RevisionTimestampValueResolver"
+    },
+    "name": "org.hibernate.envers.DefaultRevisionEntity",
+    "queryAllDeclaredMethods": true,
+    "fields": [
+      {
+        "name": "timestamp"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.EnversBootLogger"
+    },
+    "name": "org.hibernate.envers.boot.EnversBootLogger_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.TypeContributorImpl"
+    },
+    "name": "org.hibernate.envers.boot.internal.EnversServiceImpl",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.configuration.internal.metadata.PersistentEntityInstantiator"
+    },
+    "name": "org.hibernate.envers.boot.model.DiscriminatorPersistentEntity",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.hibernate.envers.configuration.internal.metadata.AuditTableData",
+          "org.hibernate.mapping.PersistentClass"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.configuration.internal.metadata.PersistentEntityInstantiator"
+    },
+    "name": "org.hibernate.envers.boot.model.JoinedSubclassPersistentEntity",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.hibernate.envers.configuration.internal.metadata.AuditTableData",
+          "org.hibernate.mapping.PersistentClass"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.configuration.internal.metadata.PersistentEntityInstantiator"
+    },
+    "name": "org.hibernate.envers.boot.model.RootPersistentEntity",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.hibernate.envers.configuration.internal.metadata.AuditTableData",
+          "org.hibernate.mapping.PersistentClass"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.configuration.internal.metadata.PersistentEntityInstantiator"
+    },
+    "name": "org.hibernate.envers.boot.model.UnionSubclassPersistentEntity",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.hibernate.envers.configuration.internal.metadata.AuditTableData",
+          "org.hibernate.mapping.PersistentClass"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.EnversServiceImpl$1"
+    },
+    "name": "org.hibernate.envers.enhanced.SequenceIdRevisionEntity",
+    "queryAllDeclaredMethods": true,
+    "fields": [
+      {
+        "name": "timestamp"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.reader.AuditReaderImpl"
+    },
+    "name": "org.hibernate.envers.enhanced.SequenceIdRevisionEntity",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      },
+      {
+        "name": "setId",
+        "parameterTypes": [
+          "int"
+        ]
+      },
+      {
+        "name": "setTimestamp",
+        "parameterTypes": [
+          "long"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.reader.CrossTypeRevisionChangesReaderImpl"
+    },
+    "name": "org.hibernate.envers.enhanced.SequenceIdRevisionEntity",
+    "methods": [
+      {
+        "name": "setId",
+        "parameterTypes": [
+          "int"
+        ]
+      },
+      {
+        "name": "setTimestamp",
+        "parameterTypes": [
+          "long"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.revisioninfo.DefaultRevisionInfoGenerator"
+    },
+    "name": "org.hibernate.envers.enhanced.SequenceIdRevisionEntity",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      },
+      {
+        "name": "getTimestamp",
+        "parameterTypes": []
+      },
+      {
+        "name": "setId",
+        "parameterTypes": [
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.revisioninfo.RevisionInfoNumberReader"
+    },
+    "name": "org.hibernate.envers.enhanced.SequenceIdRevisionEntity",
+    "queryAllDeclaredMethods": true,
+    "fields": [
+      {
+        "name": "id"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.revisioninfo.RevisionTimestampValueResolver"
+    },
+    "name": "org.hibernate.envers.enhanced.SequenceIdRevisionEntity",
+    "queryAllDeclaredMethods": true,
+    "fields": [
+      {
+        "name": "timestamp"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.synchronization.AuditProcess"
+    },
+    "name": "org.hibernate.envers.enhanced.SequenceIdRevisionEntity",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      },
+      {
+        "name": "getId",
+        "parameterTypes": []
+      },
+      {
+        "name": "getTimestamp",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.synchronization.SessionCacheCleaner$1"
+    },
+    "name": "org.hibernate.envers.enhanced.SequenceIdRevisionEntity",
+    "methods": [
+      {
+        "name": "getId",
+        "parameterTypes": []
+      },
+      {
+        "name": "getTimestamp",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.tools.ReflectionTools"
+    },
+    "name": "org.hibernate.envers.enhanced.SequenceIdRevisionEntity",
+    "queryAllDeclaredMethods": true,
+    "fields": [
+      {
+        "name": "timestamp"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.query.internal.impl.EntitiesModifiedAtRevisionQuery"
+    },
+    "name": "org.hibernate.envers.enhanced.SequenceIdRevisionEntity",
+    "methods": [
+      {
+        "name": "getId",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.strategy.internal.DefaultAuditStrategy"
+    },
+    "name": "org.hibernate.envers.enhanced.SequenceIdRevisionEntity",
+    "methods": [
+      {
+        "name": "getId",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.strategy.internal.ValidityAuditStrategy"
+    },
+    "name": "org.hibernate.envers.enhanced.SequenceIdRevisionEntity",
+    "methods": [
+      {
+        "name": "getId",
+        "parameterTypes": []
+      },
+      {
+        "name": "getTimestamp",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.EnversServiceImpl$1"
+    },
+    "name": "org.hibernate.envers.enhanced.SequenceIdTrackingModifiedEntitiesRevisionEntity",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.reader.CrossTypeRevisionChangesReaderImpl"
+    },
+    "name": "org.hibernate.envers.enhanced.SequenceIdTrackingModifiedEntitiesRevisionEntity",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      },
+      {
+        "name": "setModifiedEntityNames",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.revisioninfo.DefaultTrackingModifiedEntitiesRevisionInfoGenerator"
+    },
+    "name": "org.hibernate.envers.enhanced.SequenceIdTrackingModifiedEntitiesRevisionEntity",
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.revisioninfo.RevisionInfoNumberReader"
+    },
+    "name": "org.hibernate.envers.enhanced.SequenceIdTrackingModifiedEntitiesRevisionEntity",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.revisioninfo.RevisionTimestampValueResolver"
+    },
+    "name": "org.hibernate.envers.enhanced.SequenceIdTrackingModifiedEntitiesRevisionEntity",
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.synchronization.AuditProcess"
+    },
+    "name": "org.hibernate.envers.enhanced.SequenceIdTrackingModifiedEntitiesRevisionEntity",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      },
+      {
+        "name": "getModifiedEntityNames",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.synchronization.SessionCacheCleaner$1"
+    },
+    "name": "org.hibernate.envers.enhanced.SequenceIdTrackingModifiedEntitiesRevisionEntity",
+    "methods": [
+      {
+        "name": "getModifiedEntityNames",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.strategy.internal.ValidityAuditStrategy"
+    },
+    "name": "org.hibernate.envers.enhanced.SequenceIdTrackingModifiedEntitiesRevisionEntity",
+    "methods": [
+      {
+        "name": "getModifiedEntityNames",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.configuration.internal.ClassesAuditingData"
+    },
+    "name": "org.hibernate.envers.internal.EnversMessageLogger_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.configuration.internal.metadata.AuditMetadataGenerator"
+    },
+    "name": "org.hibernate.envers.internal.EnversMessageLogger_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.configuration.internal.metadata.CollectionMappedByResolver"
+    },
+    "name": "org.hibernate.envers.internal.EnversMessageLogger_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.configuration.internal.metadata.JoinColumnCollectionMetadataGenerator"
+    },
+    "name": "org.hibernate.envers.internal.EnversMessageLogger_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.configuration.internal.metadata.MiddleTableCollectionMetadataGenerator"
+    },
+    "name": "org.hibernate.envers.internal.EnversMessageLogger_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.reader.FirstLevelCache"
+    },
+    "name": "org.hibernate.envers.internal.EnversMessageLogger_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.configuration.internal.metadata.AbstractCollectionMetadataGenerator"
+    },
+    "name": "org.hibernate.envers.internal.entities.mapper.relation.lazy.proxy.ListProxy",
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.hibernate.envers.internal.entities.mapper.relation.lazy.initializor.Initializor"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.configuration.internal.metadata.AuditMetadataGenerator"
+    },
+    "name": "org.hibernate.envers.internal.entities.mapper.relation.lazy.proxy.ListProxy",
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.hibernate.envers.internal.entities.mapper.relation.lazy.initializor.Initializor"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.configuration.internal.metadata.JoinColumnCollectionMetadataGenerator"
+    },
+    "name": "org.hibernate.envers.internal.entities.mapper.relation.lazy.proxy.ListProxy",
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.hibernate.envers.internal.entities.mapper.relation.lazy.initializor.Initializor"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.configuration.internal.metadata.MiddleTableCollectionMetadataGenerator"
+    },
+    "name": "org.hibernate.envers.internal.entities.mapper.relation.lazy.proxy.ListProxy",
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.hibernate.envers.internal.entities.mapper.relation.lazy.initializor.Initializor"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.entities.EntityInstantiator"
+    },
+    "name": "org.hibernate.envers.internal.entities.mapper.relation.lazy.proxy.ListProxy",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.hibernate.envers.internal.entities.mapper.relation.lazy.initializor.Initializor"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.entities.mapper.ComponentPropertyMapper"
+    },
+    "name": "org.hibernate.envers.internal.entities.mapper.relation.lazy.proxy.ListProxy",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.hibernate.envers.internal.entities.mapper.relation.lazy.initializor.Initializor"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.entities.mapper.relation.AbstractCollectionMapper"
+    },
+    "name": "org.hibernate.envers.internal.entities.mapper.relation.lazy.proxy.ListProxy",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.hibernate.envers.internal.entities.mapper.relation.lazy.initializor.Initializor"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.entities.mapper.relation.BasicCollectionMapper"
+    },
+    "name": "org.hibernate.envers.internal.entities.mapper.relation.lazy.proxy.ListProxy",
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.hibernate.envers.internal.entities.mapper.relation.lazy.initializor.Initializor"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.entities.mapper.relation.ListCollectionMapper"
+    },
+    "name": "org.hibernate.envers.internal.entities.mapper.relation.lazy.proxy.ListProxy",
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.hibernate.envers.internal.entities.mapper.relation.lazy.initializor.Initializor"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.entities.mapper.relation.lazy.initializor.BasicCollectionInitializor"
+    },
+    "name": "org.hibernate.envers.internal.entities.mapper.relation.lazy.proxy.ListProxy",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.hibernate.envers.internal.entities.mapper.relation.lazy.initializor.Initializor"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.entities.mapper.relation.lazy.initializor.ListCollectionInitializor"
+    },
+    "name": "org.hibernate.envers.internal.entities.mapper.relation.lazy.proxy.ListProxy",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.hibernate.envers.internal.entities.mapper.relation.lazy.initializor.Initializor"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.reader.AuditReaderImpl"
+    },
+    "name": "org.hibernate.envers.internal.entities.mapper.relation.lazy.proxy.ListProxy",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.hibernate.envers.internal.entities.mapper.relation.lazy.initializor.Initializor"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.query.internal.impl.RevisionsOfEntityQuery"
+    },
+    "name": "org.hibernate.envers.internal.entities.mapper.relation.lazy.proxy.ListProxy",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.hibernate.envers.internal.entities.mapper.relation.lazy.initializor.Initializor"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.configuration.internal.metadata.AuditMetadataGenerator"
+    },
+    "name": "org.hibernate.envers.internal.entities.mapper.relation.lazy.proxy.MapProxy",
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.hibernate.envers.internal.entities.mapper.relation.lazy.initializor.Initializor"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.entities.EntityInstantiator"
+    },
+    "name": "org.hibernate.envers.internal.entities.mapper.relation.lazy.proxy.MapProxy",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.hibernate.envers.internal.entities.mapper.relation.lazy.initializor.Initializor"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.entities.mapper.relation.AbstractCollectionMapper"
+    },
+    "name": "org.hibernate.envers.internal.entities.mapper.relation.lazy.proxy.MapProxy",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.hibernate.envers.internal.entities.mapper.relation.lazy.initializor.Initializor"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.entities.mapper.relation.MapCollectionMapper"
+    },
+    "name": "org.hibernate.envers.internal.entities.mapper.relation.lazy.proxy.MapProxy",
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.hibernate.envers.internal.entities.mapper.relation.lazy.initializor.Initializor"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.entities.mapper.relation.lazy.proxy.CollectionProxy"
+    },
+    "name": "org.hibernate.envers.internal.entities.mapper.relation.lazy.proxy.MapProxy",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.hibernate.envers.internal.entities.mapper.relation.lazy.initializor.Initializor"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.reader.AuditReaderImpl"
+    },
+    "name": "org.hibernate.envers.internal.entities.mapper.relation.lazy.proxy.MapProxy",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.hibernate.envers.internal.entities.mapper.relation.lazy.initializor.Initializor"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.query.internal.impl.RevisionsOfEntityQuery"
+    },
+    "name": "org.hibernate.envers.internal.entities.mapper.relation.lazy.proxy.MapProxy",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.hibernate.envers.internal.entities.mapper.relation.lazy.initializor.Initializor"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.configuration.internal.metadata.AuditMetadataGenerator"
+    },
+    "name": "org.hibernate.envers.internal.entities.mapper.relation.lazy.proxy.SetProxy",
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.hibernate.envers.internal.entities.mapper.relation.lazy.initializor.Initializor"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.configuration.internal.metadata.JoinColumnCollectionMetadataGenerator"
+    },
+    "name": "org.hibernate.envers.internal.entities.mapper.relation.lazy.proxy.SetProxy",
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.hibernate.envers.internal.entities.mapper.relation.lazy.initializor.Initializor"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.configuration.internal.metadata.MiddleTableCollectionMetadataGenerator"
+    },
+    "name": "org.hibernate.envers.internal.entities.mapper.relation.lazy.proxy.SetProxy",
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.hibernate.envers.internal.entities.mapper.relation.lazy.initializor.Initializor"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.entities.EntityInstantiator"
+    },
+    "name": "org.hibernate.envers.internal.entities.mapper.relation.lazy.proxy.SetProxy",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.hibernate.envers.internal.entities.mapper.relation.lazy.initializor.Initializor"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.entities.mapper.relation.AbstractCollectionMapper"
+    },
+    "name": "org.hibernate.envers.internal.entities.mapper.relation.lazy.proxy.SetProxy",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.hibernate.envers.internal.entities.mapper.relation.lazy.initializor.Initializor"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.entities.mapper.relation.BasicCollectionMapper"
+    },
+    "name": "org.hibernate.envers.internal.entities.mapper.relation.lazy.proxy.SetProxy",
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.hibernate.envers.internal.entities.mapper.relation.lazy.initializor.Initializor"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.entities.mapper.relation.lazy.ToOneDelegateSessionImplementor"
+    },
+    "name": "org.hibernate.envers.internal.entities.mapper.relation.lazy.proxy.SetProxy",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.hibernate.envers.internal.entities.mapper.relation.lazy.initializor.Initializor"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.entities.mapper.relation.lazy.initializor.BasicCollectionInitializor"
+    },
+    "name": "org.hibernate.envers.internal.entities.mapper.relation.lazy.proxy.SetProxy",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.hibernate.envers.internal.entities.mapper.relation.lazy.initializor.Initializor"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.entities.mapper.relation.lazy.proxy.CollectionProxy"
+    },
+    "name": "org.hibernate.envers.internal.entities.mapper.relation.lazy.proxy.SetProxy",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.hibernate.envers.internal.entities.mapper.relation.lazy.initializor.Initializor"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.reader.AuditReaderImpl"
+    },
+    "name": "org.hibernate.envers.internal.entities.mapper.relation.lazy.proxy.SetProxy",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.hibernate.envers.internal.entities.mapper.relation.lazy.initializor.Initializor"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.entities.EntityInstantiator"
+    },
+    "name": "org.hibernate.envers.internal.entities.mapper.relation.lazy.proxy.SortedMapProxy",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.hibernate.envers.internal.entities.mapper.relation.lazy.initializor.Initializor"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.entities.mapper.relation.SortedMapCollectionMapper"
+    },
+    "name": "org.hibernate.envers.internal.entities.mapper.relation.lazy.proxy.SortedMapProxy",
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.hibernate.envers.internal.entities.mapper.relation.lazy.initializor.Initializor"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.entities.EntityInstantiator"
+    },
+    "name": "org.hibernate.envers.internal.entities.mapper.relation.lazy.proxy.SortedSetProxy",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.hibernate.envers.internal.entities.mapper.relation.lazy.initializor.Initializor"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.entities.mapper.relation.SortedSetCollectionMapper"
+    },
+    "name": "org.hibernate.envers.internal.entities.mapper.relation.lazy.proxy.SortedSetProxy",
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.hibernate.envers.internal.entities.mapper.relation.lazy.initializor.Initializor"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.EnversServiceImpl$1"
+    },
+    "name": "org.hibernate.envers.test.entities.reventity.CustomLocalDateTimeRevEntity",
+    "queryAllDeclaredMethods": true,
+    "fields": [
+      {
+        "name": "localDateTimestamp"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.configuration.internal.metadata.reader.AuditedPropertiesReader"
+    },
+    "name": "org.hibernate.envers.test.entities.reventity.CustomLocalDateTimeRevEntity",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.revisioninfo.RevisionInfoNumberReader"
+    },
+    "name": "org.hibernate.envers.test.entities.reventity.CustomLocalDateTimeRevEntity",
+    "queryAllDeclaredMethods": true,
+    "fields": [
+      {
+        "name": "id"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.revisioninfo.RevisionTimestampValueResolver"
+    },
+    "name": "org.hibernate.envers.test.entities.reventity.CustomLocalDateTimeRevEntity",
+    "queryAllDeclaredMethods": true,
+    "fields": [
+      {
+        "name": "localDateTimestamp"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.configuration.internal.metadata.reader.AuditedPropertiesReader"
+    },
+    "name": "org.hibernate.envers.test.integration.data.DateTestEntity",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.entities.mapper.AbstractMapper"
+    },
+    "name": "org.hibernate.envers.test.integration.data.DateTestEntity",
+    "queryAllDeclaredMethods": true,
+    "fields": [
+      {
+        "name": "id"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.entities.mapper.SinglePropertyMapper"
+    },
+    "name": "org.hibernate.envers.test.integration.data.DateTestEntity",
+    "queryAllDeclaredMethods": true,
+    "fields": [
+      {
+        "name": "dateValue"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.configuration.internal.metadata.reader.AuditedPropertiesReader"
+    },
+    "name": "org.hibernate.envers.test.integration.data.EnumTestEntity",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.entities.mapper.AbstractMapper"
+    },
+    "name": "org.hibernate.envers.test.integration.data.EnumTestEntity",
+    "queryAllDeclaredMethods": true,
+    "fields": [
+      {
+        "name": "id"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.entities.mapper.SinglePropertyMapper"
+    },
+    "name": "org.hibernate.envers.test.integration.data.EnumTestEntity",
+    "queryAllDeclaredMethods": true,
+    "fields": [
+      {
+        "name": "enum1"
+      },
+      {
+        "name": "enum2"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.configuration.internal.metadata.reader.AuditedPropertiesReader"
+    },
+    "name": "org.hibernate.envers.test.integration.data.LobSerializableTestEntity",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.entities.mapper.AbstractMapper"
+    },
+    "name": "org.hibernate.envers.test.integration.data.LobSerializableTestEntity",
+    "queryAllDeclaredMethods": true,
+    "fields": [
+      {
+        "name": "id"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.entities.mapper.SinglePropertyMapper"
+    },
+    "name": "org.hibernate.envers.test.integration.data.LobSerializableTestEntity",
+    "queryAllDeclaredMethods": true,
+    "fields": [
+      {
+        "name": "obj"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.query.internal.impl.EntitiesAtRevisionQuery"
+    },
+    "name": "org.hibernate.envers.test.integration.data.SerObject"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.configuration.internal.metadata.reader.AuditedPropertiesReader"
+    },
+    "name": "org.hibernate.envers.test.integration.data.SerializableTestEntity",
+    "allDeclaredFields": true,
+    "queryAllDeclaredMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.entities.mapper.AbstractMapper"
+    },
+    "name": "org.hibernate.envers.test.integration.data.SerializableTestEntity",
+    "queryAllDeclaredMethods": true,
+    "fields": [
+      {
+        "name": "id"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.entities.mapper.SinglePropertyMapper"
+    },
+    "name": "org.hibernate.envers.test.integration.data.SerializableTestEntity",
+    "queryAllDeclaredMethods": true,
+    "fields": [
+      {
+        "name": "obj"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.configuration.internal.metadata.AuditMetadataGenerator"
+    },
+    "name": "org.hibernate.internal.CoreMessageLogger_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.configuration.internal.metadata.ValueMetadataGenerator"
+    },
+    "name": "org.hibernate.internal.CoreMessageLogger_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.enhanced.OrderedSequenceGenerator"
+    },
+    "name": "org.hibernate.internal.CoreMessageLogger_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.event.spi.EnversPostInsertEventListenerImpl"
+    },
+    "name": "org.hibernate.internal.CoreMessageLogger_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.event.spi.EnversPreUpdateEventListenerImpl"
+    },
+    "name": "org.hibernate.internal.CoreMessageLogger_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.reader.AuditReaderImpl"
+    },
+    "name": "org.hibernate.internal.CoreMessageLogger_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.revisioninfo.DefaultRevisionInfoGenerator"
+    },
+    "name": "org.hibernate.internal.CoreMessageLogger_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.revisioninfo.RevisionInfoQueryCreator"
+    },
+    "name": "org.hibernate.internal.CoreMessageLogger_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.revisioninfo.RevisionTimestampValueResolver"
+    },
+    "name": "org.hibernate.internal.CoreMessageLogger_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.synchronization.AuditProcess"
+    },
+    "name": "org.hibernate.internal.CoreMessageLogger_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.synchronization.SessionCacheCleaner$1"
+    },
+    "name": "org.hibernate.internal.CoreMessageLogger_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.tools.query.QueryBuilder"
+    },
+    "name": "org.hibernate.internal.CoreMessageLogger_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.query.internal.impl.AbstractAuditQuery"
+    },
+    "name": "org.hibernate.internal.CoreMessageLogger_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.query.internal.impl.EntitiesAtRevisionQuery"
+    },
+    "name": "org.hibernate.internal.CoreMessageLogger_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.strategy.internal.ValidityAuditStrategy"
+    },
+    "name": "org.hibernate.internal.CoreMessageLogger_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.entities.mapper.relation.lazy.proxy.CollectionProxy"
+    },
+    "name": "org.hibernate.internal.EntityManagerMessageLogger_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.entities.mapper.relation.lazy.proxy.MapProxy"
+    },
+    "name": "org.hibernate.internal.EntityManagerMessageLogger_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.metamodel.RepresentationMode"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.EnversServiceImpl$1"
+    },
+    "name": "org.hibernate.property.access.internal.PropertyAccessStrategyResolverStandardImpl",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.revisioninfo.RevisionTimestampValueResolver"
+    },
+    "name": "org.hibernate.property.access.internal.PropertyAccessStrategyResolverStandardImpl",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.tools.ReflectionTools"
+    },
+    "name": "org.hibernate.property.access.internal.PropertyAccessStrategyResolverStandardImpl",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.reader.AuditReaderImpl"
+    },
+    "name": "org.hibernate.query.hql.HqlLogging_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.revisioninfo.RevisionInfoQueryCreator"
+    },
+    "name": "org.hibernate.query.hql.HqlLogging_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.tools.query.QueryBuilder"
+    },
+    "name": "org.hibernate.query.hql.HqlLogging_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.query.internal.impl.AbstractAuditQuery"
+    },
+    "name": "org.hibernate.query.hql.HqlLogging_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.query.internal.impl.EntitiesAtRevisionQuery"
+    },
+    "name": "org.hibernate.query.hql.HqlLogging_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.strategy.internal.ValidityAuditStrategy"
+    },
+    "name": "org.hibernate.query.hql.HqlLogging_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.event.spi.EnversPostInsertEventListenerImpl"
+    },
+    "name": "org.hibernate.sql.exec.SqlExecLogger_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.event.spi.EnversPreUpdateEventListenerImpl"
+    },
+    "name": "org.hibernate.sql.exec.SqlExecLogger_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.reader.AuditReaderImpl"
+    },
+    "name": "org.hibernate.sql.exec.SqlExecLogger_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.query.internal.impl.AbstractAuditQuery"
+    },
+    "name": "org.hibernate.sql.exec.SqlExecLogger_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.query.internal.impl.EntitiesAtRevisionQuery"
+    },
+    "name": "org.hibernate.sql.exec.SqlExecLogger_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.event.spi.EnversPostInsertEventListenerImpl"
+    },
+    "name": "org.hibernate.sql.results.LoadingLogger_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.event.spi.EnversPreUpdateEventListenerImpl"
+    },
+    "name": "org.hibernate.sql.results.LoadingLogger_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.reader.AuditReaderImpl"
+    },
+    "name": "org.hibernate.sql.results.LoadingLogger_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.query.internal.impl.AbstractAuditQuery"
+    },
+    "name": "org.hibernate.sql.results.LoadingLogger_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.query.internal.impl.EntitiesAtRevisionQuery"
+    },
+    "name": "org.hibernate.sql.results.LoadingLogger_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.event.spi.EnversPostInsertEventListenerImpl"
+    },
+    "name": "org.hibernate.sql.results.ResultsLogger_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.event.spi.EnversPreUpdateEventListenerImpl"
+    },
+    "name": "org.hibernate.sql.results.ResultsLogger_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.internal.reader.AuditReaderImpl"
+    },
+    "name": "org.hibernate.sql.results.ResultsLogger_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.query.internal.impl.AbstractAuditQuery"
+    },
+    "name": "org.hibernate.sql.results.ResultsLogger_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.query.internal.impl.EntitiesAtRevisionQuery"
+    },
+    "name": "org.hibernate.sql.results.ResultsLogger_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl$1"
+    },
+    "name": "org.hibernate.tuple.GenerationTiming"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.hibernate.envers.strategy.internal.ValidityAuditStrategy$QueryParameterBinding"
+    },
+    "name": "sun.util.resources.provider.NonBaseLocaleDataMetaInfo",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  }
+]

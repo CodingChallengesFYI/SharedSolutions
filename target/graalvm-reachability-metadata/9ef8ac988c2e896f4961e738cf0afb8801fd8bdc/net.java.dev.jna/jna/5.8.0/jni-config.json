@@ -1,0 +1,687 @@
+[
+  {
+    "condition": {
+      "typeReachable": "com.sun.jna.Native"
+    },
+    "name": "com.sun.jna.Callback"
+  },
+  {
+    "condition": {
+      "typeReachable": "com.sun.jna.Native"
+    },
+    "name": "com.sun.jna.CallbackReference",
+    "methods": [
+      {
+        "name": "getCallback",
+        "parameterTypes": [
+          "java.lang.Class",
+          "com.sun.jna.Pointer",
+          "boolean"
+        ]
+      },
+      {
+        "name": "getFunctionPointer",
+        "parameterTypes": [
+          "com.sun.jna.Callback",
+          "boolean"
+        ]
+      },
+      {
+        "name": "getNativeString",
+        "parameterTypes": [
+          "java.lang.Object",
+          "boolean"
+        ]
+      },
+      {
+        "name": "initializeThread",
+        "parameterTypes": [
+          "com.sun.jna.Callback",
+          "com.sun.jna.CallbackReference$AttachOptions"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.sun.jna.Native"
+    },
+    "name": "com.sun.jna.CallbackReference$AttachOptions"
+  },
+  {
+    "condition": {
+      "typeReachable": "com.sun.jna.Native"
+    },
+    "name": "com.sun.jna.FromNativeConverter",
+    "methods": [
+      {
+        "name": "nativeType",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.sun.jna.Native"
+    },
+    "name": "com.sun.jna.IntegerType",
+    "fields": [
+      {
+        "name": "value"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.sun.jna.Native"
+    },
+    "name": "com.sun.jna.JNIEnv"
+  },
+  {
+    "condition": {
+      "typeReachable": "com.sun.jna.Native"
+    },
+    "name": "com.sun.jna.Native",
+    "methods": [
+      {
+        "name": "dispose",
+        "parameterTypes": []
+      },
+      {
+        "name": "fromNative",
+        "parameterTypes": [
+          "com.sun.jna.FromNativeConverter",
+          "java.lang.Object",
+          "java.lang.reflect.Method"
+        ]
+      },
+      {
+        "name": "fromNative",
+        "parameterTypes": [
+          "java.lang.Class",
+          "java.lang.Object"
+        ]
+      },
+      {
+        "name": "fromNative",
+        "parameterTypes": [
+          "java.lang.reflect.Method",
+          "java.lang.Object"
+        ]
+      },
+      {
+        "name": "nativeType",
+        "parameterTypes": [
+          "java.lang.Class"
+        ]
+      },
+      {
+        "name": "toNative",
+        "parameterTypes": [
+          "com.sun.jna.ToNativeConverter",
+          "java.lang.Object"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.sun.jna.Native"
+    },
+    "name": "com.sun.jna.Native$ffi_callback",
+    "methods": [
+      {
+        "name": "invoke",
+        "parameterTypes": [
+          "long",
+          "long",
+          "long"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.sun.jna.Native"
+    },
+    "name": "com.sun.jna.NativeMapped",
+    "methods": [
+      {
+        "name": "toNative",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.sun.jna.Native"
+    },
+    "name": "com.sun.jna.Pointer",
+    "fields": [
+      {
+        "name": "peer"
+      }
+    ],
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "long"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.sun.jna.Native"
+    },
+    "name": "com.sun.jna.PointerType",
+    "fields": [
+      {
+        "name": "pointer"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.sun.jna.Native"
+    },
+    "name": "com.sun.jna.Structure",
+    "fields": [
+      {
+        "name": "memory"
+      },
+      {
+        "name": "typeInfo"
+      }
+    ],
+    "methods": [
+      {
+        "name": "autoRead",
+        "parameterTypes": []
+      },
+      {
+        "name": "autoWrite",
+        "parameterTypes": []
+      },
+      {
+        "name": "getTypeInfo",
+        "parameterTypes": []
+      },
+      {
+        "name": "newInstance",
+        "parameterTypes": [
+          "java.lang.Class",
+          "long"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.sun.jna.Native"
+    },
+    "name": "com.sun.jna.Structure$ByValue"
+  },
+  {
+    "condition": {
+      "typeReachable": "com.sun.jna.Native"
+    },
+    "name": "com.sun.jna.Structure$FFIType$FFITypes",
+    "fields": [
+      {
+        "name": "ffi_type_double"
+      },
+      {
+        "name": "ffi_type_float"
+      },
+      {
+        "name": "ffi_type_longdouble"
+      },
+      {
+        "name": "ffi_type_pointer"
+      },
+      {
+        "name": "ffi_type_sint16"
+      },
+      {
+        "name": "ffi_type_sint32"
+      },
+      {
+        "name": "ffi_type_sint64"
+      },
+      {
+        "name": "ffi_type_sint8"
+      },
+      {
+        "name": "ffi_type_uint16"
+      },
+      {
+        "name": "ffi_type_uint32"
+      },
+      {
+        "name": "ffi_type_uint64"
+      },
+      {
+        "name": "ffi_type_uint8"
+      },
+      {
+        "name": "ffi_type_void"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.sun.jna.Native"
+    },
+    "name": "com.sun.jna.WString",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "java.lang.String"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.sun.jna.Native"
+    },
+    "name": "java.lang.Boolean",
+    "fields": [
+      {
+        "name": "TYPE"
+      },
+      {
+        "name": "value"
+      }
+    ],
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "boolean"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.sun.jna.Native"
+    },
+    "name": "java.lang.Byte",
+    "fields": [
+      {
+        "name": "TYPE"
+      },
+      {
+        "name": "value"
+      }
+    ],
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "byte"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.sun.jna.Native"
+    },
+    "name": "java.lang.Character",
+    "fields": [
+      {
+        "name": "TYPE"
+      },
+      {
+        "name": "value"
+      }
+    ],
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "char"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.sun.jna.Native"
+    },
+    "name": "java.lang.Class",
+    "methods": [
+      {
+        "name": "getComponentType",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.sun.jna.Native"
+    },
+    "name": "java.lang.Double",
+    "fields": [
+      {
+        "name": "TYPE"
+      },
+      {
+        "name": "value"
+      }
+    ],
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "double"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.sun.jna.Native"
+    },
+    "name": "java.lang.Float",
+    "fields": [
+      {
+        "name": "TYPE"
+      },
+      {
+        "name": "value"
+      }
+    ],
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "float"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.sun.jna.Native"
+    },
+    "name": "java.lang.Integer",
+    "fields": [
+      {
+        "name": "TYPE"
+      },
+      {
+        "name": "value"
+      }
+    ],
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.sun.jna.Native"
+    },
+    "name": "java.lang.Long",
+    "fields": [
+      {
+        "name": "TYPE"
+      },
+      {
+        "name": "value"
+      }
+    ],
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "long"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.sun.jna.Native"
+    },
+    "name": "java.lang.Object",
+    "methods": [
+      {
+        "name": "toString",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.sun.jna.Native"
+    },
+    "name": "java.lang.Short",
+    "fields": [
+      {
+        "name": "TYPE"
+      },
+      {
+        "name": "value"
+      }
+    ],
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "short"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.sun.jna.Native"
+    },
+    "name": "java.lang.String",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "byte[]"
+        ]
+      },
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "byte[]",
+          "java.lang.String"
+        ]
+      },
+      {
+        "name": "getBytes",
+        "parameterTypes": []
+      },
+      {
+        "name": "getBytes",
+        "parameterTypes": [
+          "java.lang.String"
+        ]
+      },
+      {
+        "name": "toCharArray",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.sun.jna.Native"
+    },
+    "name": "java.lang.System",
+    "methods": [
+      {
+        "name": "getProperty",
+        "parameterTypes": [
+          "java.lang.String"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.sun.jna.Native"
+    },
+    "name": "java.lang.Void",
+    "fields": [
+      {
+        "name": "TYPE"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.sun.jna.Native"
+    },
+    "name": "java.lang.reflect.Method",
+    "methods": [
+      {
+        "name": "getParameterTypes",
+        "parameterTypes": []
+      },
+      {
+        "name": "getReturnType",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.sun.jna.Native"
+    },
+    "name": "java.nio.Buffer",
+    "methods": [
+      {
+        "name": "position",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.sun.jna.Native"
+    },
+    "name": "java.nio.ByteBuffer",
+    "methods": [
+      {
+        "name": "array",
+        "parameterTypes": []
+      },
+      {
+        "name": "arrayOffset",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.sun.jna.Native"
+    },
+    "name": "java.nio.CharBuffer",
+    "methods": [
+      {
+        "name": "array",
+        "parameterTypes": []
+      },
+      {
+        "name": "arrayOffset",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.sun.jna.Native"
+    },
+    "name": "java.nio.DoubleBuffer",
+    "methods": [
+      {
+        "name": "array",
+        "parameterTypes": []
+      },
+      {
+        "name": "arrayOffset",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.sun.jna.Native"
+    },
+    "name": "java.nio.FloatBuffer",
+    "methods": [
+      {
+        "name": "array",
+        "parameterTypes": []
+      },
+      {
+        "name": "arrayOffset",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.sun.jna.Native"
+    },
+    "name": "java.nio.IntBuffer",
+    "methods": [
+      {
+        "name": "array",
+        "parameterTypes": []
+      },
+      {
+        "name": "arrayOffset",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.sun.jna.Native"
+    },
+    "name": "java.nio.LongBuffer",
+    "methods": [
+      {
+        "name": "array",
+        "parameterTypes": []
+      },
+      {
+        "name": "arrayOffset",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.sun.jna.Native"
+    },
+    "name": "java.nio.ShortBuffer",
+    "methods": [
+      {
+        "name": "array",
+        "parameterTypes": []
+      },
+      {
+        "name": "arrayOffset",
+        "parameterTypes": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,296 @@
+[
+  {
+    "condition": {
+      "typeReachable": "org.apache.tomcat.util.modeler.Registry"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ],
+    "name": "org.apache.tomcat.util.modeler.modules.MbeansDescriptorsIntrospectionSource"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.tomcat.util.modeler.Registry"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ],
+    "name": "org.apache.tomcat.util.modeler.modules.MbeansDescriptorsDigesterSource"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.tomcat.util.digester.ObjectCreateRule"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ],
+    "name": "org.apache.tomcat.util.modeler.ManagedBean"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.tomcat.util.digester.ObjectCreateRule"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ],
+    "name": "org.apache.tomcat.util.modeler.AttributeInfo"
+  },
+  {
+    "condition": {
+      "typeReachable": "org.apache.tomcat.util.modeler.BaseModelMBean"
+    },
+    "name": "org.apache.tomcat.util.modeler.BaseModelMBean",
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "org.apache.tomcat.util.modeler.FeatureInfo",
+    "condition": {
+      "typeReachable": "org.apache.tomcat.util.digester.SetPropertiesRule"
+    },
+    "methods": [
+      {
+        "name": "setDescription",
+        "parameterTypes": [
+          "java.lang.String"
+        ]
+      },
+      {
+        "name": "setName",
+        "parameterTypes": [
+          "java.lang.String"
+        ]
+      },
+      {
+        "name": "setType",
+        "parameterTypes": [
+          "java.lang.String"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.tomcat.util.modeler.ManagedBean",
+    "condition": {
+      "typeReachable": "org.apache.tomcat.util.digester.Digester"
+    },
+    "queryAllPublicMethods": true,
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      },
+      {
+        "name": "addAttribute",
+        "parameterTypes": [
+          "org.apache.tomcat.util.modeler.AttributeInfo"
+        ]
+      },
+      {
+        "name": "addOperation",
+        "parameterTypes": [
+          "org.apache.tomcat.util.modeler.OperationInfo"
+        ]
+      },
+      {
+        "name": "setClassName",
+        "parameterTypes": [
+          "java.lang.String"
+        ]
+      },
+      {
+        "name": "setDescription",
+        "parameterTypes": [
+          "java.lang.String"
+        ]
+      },
+      {
+        "name": "setDomain",
+        "parameterTypes": [
+          "java.lang.String"
+        ]
+      },
+      {
+        "name": "setGroup",
+        "parameterTypes": [
+          "java.lang.String"
+        ]
+      },
+      {
+        "name": "setName",
+        "parameterTypes": [
+          "java.lang.String"
+        ]
+      },
+      {
+        "name": "setType",
+        "parameterTypes": [
+          "java.lang.String"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.tomcat.util.modeler.OperationInfo",
+    "condition": {
+      "typeReachable": "org.apache.tomcat.util.digester.Digester"
+    },
+    "queryAllPublicMethods": true,
+    "methods": [
+      {
+        "name": "addParameter",
+        "parameterTypes": [
+          "org.apache.tomcat.util.modeler.ParameterInfo"
+        ]
+      },
+      {
+        "name": "setImpact",
+        "parameterTypes": [
+          "java.lang.String"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.tomcat.util.modeler.OperationInfo",
+    "condition": {
+      "typeReachable": "org.apache.tomcat.util.digester.ObjectCreateRule"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "org.apache.tomcat.util.modeler.OperationInfo",
+    "condition": {
+      "typeReachable": "org.apache.tomcat.util.digester.SetPropertiesRule"
+    },
+    "methods": [
+      {
+        "name": "setReturnType",
+        "parameterTypes": [
+          "java.lang.String"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.tomcat.util.modeler.ParameterInfo",
+    "condition": {
+      "typeReachable": "org.apache.tomcat.util.digester.Digester"
+    },
+    "queryAllPublicMethods": true,
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "java.util.ArrayList",
+    "condition": {
+      "typeReachable": "org.apache.tomcat.util.digester.Digester"
+    },
+    "queryAllPublicMethods": true,
+    "methods": [
+      {
+        "name": "add",
+        "parameterTypes": [
+          "java.lang.Object"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.catalina.mbeans.ClassNameMBean",
+    "condition": {
+      "typeReachable": "org.apache.tomcat.util.net.AbstractEndpoint"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "org.apache.catalina.mbeans.ConnectorMBean",
+    "condition": {
+      "typeReachable": "org.apache.catalina.connector.Connector"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "org.apache.catalina.mbeans.ContainerMBean",
+    "condition": {
+      "typeReachable": "org.apache.catalina.core.StandardEngine"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "org.apache.catalina.mbeans.ContextMBean",
+    "condition": {
+      "typeReachable": "org.apache.catalina.core.StandardContext"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "org.apache.catalina.mbeans.NamingResourcesMBean",
+    "condition": {
+      "typeReachable": "org.apache.catalina.deploy.NamingResourcesImpl"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "org.apache.catalina.mbeans.ServiceMBean",
+    "condition": {
+      "typeReachable": "org.apache.catalina.core.StandardService"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  }
+]

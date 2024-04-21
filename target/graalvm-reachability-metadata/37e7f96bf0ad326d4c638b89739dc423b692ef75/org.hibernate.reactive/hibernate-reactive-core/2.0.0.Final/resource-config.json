@@ -1,0 +1,30 @@
+{
+    "resources": {
+        "includes": [
+            {
+                "pattern": "\\QMETA-INF/services/org.hibernate.boot.model.TypeContributor\\E",
+                "condition": {
+                    "typeReachable": "org.hibernate.reactive.provider.impl.ReactiveEntityManagerFactoryBuilder"
+                }
+            },
+            {
+                "pattern": "\\QMETA-INF/services/org.hibernate.engine.jdbc.dialect.spi.DialectResolver\\E",
+                "condition": {
+                    "typeReachable": "org.hibernate.reactive.provider.service.NoJdbcEnvironmentInitiator$DialectBuilder"
+                }
+            },
+            {
+                "pattern": "\\QMETA-INF/services/org.hibernate.integrator.spi.Integrator\\E",
+                "condition": {
+                    "typeReachable": "org.hibernate.reactive.provider.impl.ReactiveEntityManagerFactoryBuilder"
+                }
+            },
+            {
+                "pattern": "\\QMETA-INF/services/org.hibernate.service.spi.SessionFactoryServiceContributor\\E",
+                "condition": {
+                    "typeReachable": "org.hibernate.reactive.session.impl.ReactiveSessionFactoryImpl"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,316 @@
+[ {
+  "allowed-packages" : [ "org.example" ],
+  "directory" : "org.example/library",
+  "module" : "org.example:library"
+}, {
+  "allowed-packages" : [ "org.jline", "org.fusesource" ],
+  "directory" : "org.jline/jline",
+  "module" : "org.jline:jline"
+}, {
+  "allowed-packages" : [ "org.jline", "org.fusesource" ],
+  "module" : "org.jline:jline-terminal",
+  "requires" : [ "org.jline:jline" ]
+}, {
+  "allowed-packages" : [ "org.jline", "org.fusesource" ],
+  "module" : "org.jline:jline-console",
+  "requires" : [ "org.jline:jline" ]
+}, {
+  "allowed-packages" : [ "org.jooq" ],
+  "directory" : "org.jooq/jooq",
+  "module" : "org.jooq:jooq"
+}, {
+  "allowed-packages" : [ "org.h2" ],
+  "directory" : "com.h2database/h2",
+  "module" : "com.h2database:h2"
+}, {
+  "allowed-packages" : [ "com.microsoft.sqlserver" ],
+  "directory" : "com.microsoft.sqlserver/mssql-jdbc",
+  "module" : "com.microsoft.sqlserver:mssql-jdbc"
+}, {
+  "allowed-packages" : [ "org.opengauss" ],
+  "directory" : "org.opengauss/opengauss-jdbc",
+  "module" : "org.opengauss:opengauss-jdbc"
+}, {
+  "allowed-packages" : [ "org.HdrHistogram" ],
+  "directory" : "org.hdrhistogram/HdrHistogram",
+  "module" : "org.hdrhistogram:HdrHistogram"
+}, {
+  "allowed-packages" : [ "org.hibernate", "jakarta", "org.h2.Driver", "org.postgresql.Driver", "com.mysql.cj.jdbc.Driver", "org.hsqldb.jdbc.JDBCDriver", "com.microsoft.sqlserver.jdbc.SQLServerDriver", "oracle.jdbc.driver.OracleDriver", "org.mariadb.jdbc.Driver" ],
+  "directory" : "org.hibernate.orm/hibernate-core",
+  "module" : "org.hibernate.orm:hibernate-core"
+}, {
+  "allowed-packages" : [ "org.hibernate", "jakarta" ],
+  "directory" : "org.hibernate.orm/hibernate-envers",
+  "module" : "org.hibernate.orm:hibernate-envers",
+  "requires" : [ "org.hibernate.orm:hibernate-core" ]
+}, {
+  "allowed-packages" : [ "org.hibernate", "jakarta" ],
+  "directory" : "org.hibernate.validator/hibernate-validator",
+  "module" : "org.hibernate.validator:hibernate-validator",
+  "requires" : [ "org.jboss.logging:jboss-logging" ]
+}, {
+  "allowed-packages" : [ "org.hibernate.reactive" ],
+  "directory" : "org.hibernate.reactive/hibernate-reactive-core",
+  "module" : "org.hibernate.reactive:hibernate-reactive-core"
+}, {
+  "allowed-packages" : [ "org.apache.http" ],
+  "directory" : "org.apache.httpcomponents/httpclient",
+  "module" : "org.apache.httpcomponents:httpclient"
+}, {
+  "allowed-packages" : [ "org.apache.kafka" ],
+  "directory" : "org.apache.kafka/kafka-clients",
+  "module" : "org.apache.kafka:kafka-clients"
+}, {
+  "allowed-packages" : [ "org.apache.tomcat", "org.apache.catalina" ],
+  "directory" : "org.apache.tomcat.embed/tomcat-embed-core",
+  "module" : "org.apache.tomcat.embed:tomcat-embed-core"
+}, {
+  "allowed-packages" : [ "org.apache.tomcat.jdbc" ],
+  "directory" : "org.apache.tomcat/tomcat-jdbc",
+  "module" : "org.apache.tomcat:tomcat-jdbc"
+}, {
+  "allowed-packages" : [ "com.google.protobuf" ],
+  "directory" : "com.google.protobuf/protobuf-java-util",
+  "module" : "com.google.protobuf:protobuf-java-util"
+}, {
+  "allowed-packages" : [ "io.grpc" ],
+  "directory" : "io.grpc/grpc-netty",
+  "module" : "io.grpc:grpc-netty"
+}, {
+  "allowed-packages" : [ "io.netty" ],
+  "directory" : "io.netty/netty-common",
+  "module" : "io.netty:netty-common"
+}, {
+  "allowed-packages" : [ "io.netty" ],
+  "directory" : "io.netty/netty-transport",
+  "module" : "io.netty:netty-transport"
+}, {
+  "allowed-packages" : [ "io.nats" ],
+  "directory" : "io.nats/jnats",
+  "module" : "io.nats:jnats"
+}, {
+  "allowed-packages" : [ "mysql" ],
+  "directory" : "mysql/mysql-connector-java",
+  "module" : "mysql:mysql-connector-java"
+}, {
+  "allowed-packages" : [ "com.mysql" ],
+  "directory" : "com.mysql/mysql-connector-j",
+  "module" : "com.mysql:mysql-connector-j"
+}, {
+  "allowed-packages" : [ "org.postgresql" ],
+  "directory" : "org.postgresql/postgresql",
+  "module" : "org.postgresql:postgresql"
+}, {
+  "allowed-packages" : [ "org.apache.activemq" ],
+  "directory" : "org.apache.activemq/activemq-broker",
+  "module" : "org.apache.activemq:activemq-broker"
+}, {
+  "allowed-packages" : [ "org.apache.activemq" ],
+  "directory" : "org.apache.activemq/activemq-client",
+  "module" : "org.apache.activemq:activemq-client"
+}, {
+  "allowed-packages" : [ "org.apache.activemq" ],
+  "directory" : "org.apache.activemq/artemis-jms-client",
+  "module" : "org.apache.activemq:artemis-jms-client"
+}, {
+  "allowed-packages" : [ "org.apache.commons" ],
+  "directory" : "org.apache.commons/commons-compress",
+  "module" : "org.apache.commons:commons-compress"
+}, {
+  "allowed-packages" : [ "org.apache.commons" ],
+  "directory" : "org.apache.commons/commons-pool2",
+  "module" : "org.apache.commons:commons-pool2"
+}, {
+  "allowed-packages" : [ "ch.qos.logback" ],
+  "directory" : "ch.qos.logback/logback-classic",
+  "module" : "ch.qos.logback:logback-classic"
+}, {
+  "allowed-packages" : [ "com.zaxxer", "jdk.internal" ],
+  "directory" : "com.zaxxer/HikariCP",
+  "module" : "com.zaxxer:HikariCP"
+}, {
+  "allowed-packages" : [ "org.apache.commons.logging" ],
+  "directory" : "commons-logging/commons-logging",
+  "module" : "commons-logging:commons-logging"
+}, {
+  "allowed-packages" : [ "com.github.benmanes.caffeine" ],
+  "directory" : "com.github.ben-manes.caffeine/caffeine",
+  "module" : "com.github.ben-manes.caffeine:caffeine"
+}, {
+  "allowed-packages" : [ "kotlin" ],
+  "directory" : "org.jetbrains.kotlin/kotlin-stdlib",
+  "module" : "org.jetbrains.kotlin:kotlin-stdlib"
+}, {
+  "allowed-packages" : [ "kotlin" ],
+  "directory" : "org.jetbrains.kotlin/kotlin-reflect",
+  "module" : "org.jetbrains.kotlin:kotlin-reflect"
+}, {
+  "allowed-packages" : [ "com.hazelcast" ],
+  "directory" : "com.hazelcast/hazelcast",
+  "module" : "com.hazelcast:hazelcast"
+}, {
+  "allowed-packages" : [ "org.quartz" ],
+  "directory" : "org.quartz-scheduler/quartz",
+  "module" : "org.quartz-scheduler:quartz"
+}, {
+  "allowed-packages" : [ "org.mariadb" ],
+  "directory" : "org.mariadb.jdbc/mariadb-java-client",
+  "module" : "org.mariadb.jdbc:mariadb-java-client"
+}, {
+  "allowed-packages" : [ "org.flywaydb", "org.apache", "org.slf4j" ],
+  "directory" : "org.flywaydb/flyway-core",
+  "module" : "org.flywaydb:flyway-core"
+}, {
+  "allowed-packages" : [ "javax.cache" ],
+  "directory" : "javax.cache/cache-api",
+  "module" : "javax.cache:cache-api"
+}, {
+  "allowed-packages" : [ "com.sun.mail", "jakarta" ],
+  "directory" : "com.sun.mail/jakarta.mail",
+  "module" : "com.sun.mail:jakarta.mail"
+}, {
+  "allowed-packages" : [ "org.glassfish.jaxb", "jakarta.xml" ],
+  "directory" : "org.glassfish.jaxb/jaxb-runtime",
+  "module" : "org.glassfish.jaxb:jaxb-runtime"
+}, {
+  "allowed-packages" : [ "org.hibernate", "jakarta", "org.h2.Driver", "org.postgresql.Driver", "com.mysql.cj.jdbc.Driver", "org.hsqldb.jdbc.JDBCDriver", "com.microsoft.sqlserver.jdbc.SQLServerDriver", "oracle.jdbc.driver.OracleDriver", "org.mariadb.jdbc.Driver" ],
+  "directory" : "org.hibernate/hibernate-core",
+  "module" : "org.hibernate:hibernate-core"
+}, {
+  "allowed-packages" : [ "org.thymeleaf" ],
+  "directory" : "org.thymeleaf/thymeleaf",
+  "module" : "org.thymeleaf:thymeleaf"
+}, {
+  "allowed-packages" : [ "org.thymeleaf" ],
+  "directory" : "org.thymeleaf/thymeleaf-spring6",
+  "module" : "org.thymeleaf:thymeleaf-spring6"
+}, {
+  "allowed-packages" : [ "org.freemarker" ],
+  "directory" : "org.freemarker/freemarker",
+  "module" : "org.freemarker:freemarker"
+}, {
+  "allowed-packages" : [ "com.ecwid" ],
+  "directory" : "com.ecwid.consul/consul-api",
+  "module" : "com.ecwid.consul:consul-api"
+}, {
+  "allowed-packages" : [ "io.undertow" ],
+  "directory" : "io.undertow/undertow-core",
+  "module" : "io.undertow:undertow-core"
+}, {
+  "allowed-packages" : [ "org.thymeleaf", "org.springframework" ],
+  "directory" : "org.thymeleaf.extras/thymeleaf-extras-springsecurity6",
+  "module" : "org.thymeleaf.extras:thymeleaf-extras-springsecurity6"
+}, {
+  "allowed-packages" : [ "org.eclipse" ],
+  "directory" : "org.eclipse.jetty/jetty-server",
+  "module" : "org.eclipse.jetty:jetty-server"
+}, {
+  "allowed-packages" : [ "org.eclipse.jgit" ],
+  "directory" : "org.eclipse.jgit/org.eclipse.jgit",
+  "module" : "org.eclipse.jgit:org.eclipse.jgit"
+}, {
+  "allowed-packages" : [ "org.eclipse.paho.client.mqttv3" ],
+  "directory" : "org.eclipse.paho/org.eclipse.paho.client.mqttv3",
+  "module" : "org.eclipse.paho:org.eclipse.paho.client.mqttv3"
+}, {
+  "allowed-packages" : [ "org.eclipse.paho.mqttv5" ],
+  "directory" : "org.eclipse.paho/org.eclipse.paho.mqttv5.client",
+  "module" : "org.eclipse.paho:org.eclipse.paho.mqttv5.client"
+}, {
+  "allowed-packages" : [ "org.liquibase", "liquibase" ],
+  "directory" : "org.liquibase/liquibase-core",
+  "module" : "org.liquibase:liquibase-core"
+}, {
+  "allowed-packages" : [ "org.jboss" ],
+  "directory" : "org.jboss.logging/jboss-logging",
+  "module" : "org.jboss.logging:jboss-logging"
+}, {
+  "allowed-packages" : [ "graphql" ],
+  "directory" : "com.graphql-java/graphql-java",
+  "module" : "com.graphql-java:graphql-java"
+}, {
+  "allowed-packages" : [ "io.jsonwebtoken" ],
+  "directory" : "io.jsonwebtoken/jjwt-jackson",
+  "module" : "io.jsonwebtoken:jjwt-jackson"
+}, {
+  "allowed-packages" : [ "io.jsonwebtoken" ],
+  "directory" : "io.jsonwebtoken/jjwt-orgjson",
+  "module" : "io.jsonwebtoken:jjwt-orgjson"
+}, {
+  "allowed-packages" : [ "io.jsonwebtoken" ],
+  "directory" : "io.jsonwebtoken/jjwt-gson",
+  "module" : "io.jsonwebtoken:jjwt-gson"
+}, {
+  "allowed-packages" : [ "graphql" ],
+  "directory" : "com.graphql-java/graphql-java-extended-validation",
+  "module" : "com.graphql-java:graphql-java-extended-validation",
+  "requires" : [ "com.graphql-java:graphql-java", "org.hibernate.validator:hibernate-validator" ]
+}, {
+  "allowed-packages" : [ "com.sun.jna" ],
+  "directory" : "net.java.dev.jna/jna",
+  "module" : "net.java.dev.jna:jna"
+}, {
+  "allowed-packages" : [ "com.github.luben" ],
+  "directory" : "com.github.luben/zstd-jni",
+  "module" : "com.github.luben:zstd-jni"
+}, {
+  "allowed-packages" : [ "org.testcontainers" ],
+  "directory" : "org.testcontainers/testcontainers",
+  "module" : "org.testcontainers:testcontainers"
+}, {
+  "allowed-packages" : [ "org.ehcache" ],
+  "directory" : "org.ehcache/ehcache",
+  "module" : "org.ehcache:ehcache"
+}, {
+  "allowed-packages" : [ "org.mockito" ],
+  "directory" : "org.mockito/mockito-core",
+  "module" : "org.mockito:mockito-core"
+}, {
+  "allowed-packages" : [ "org.eclipse.jetty" ],
+  "directory" : "org.eclipse.jetty/jetty-client",
+  "module" : "org.eclipse.jetty:jetty-client"
+}, {
+  "allowed-packages" : [ "io.opentelemetry" ],
+  "directory" : "io.opentelemetry/opentelemetry-exporter-jaeger",
+  "module" : "io.opentelemetry:opentelemetry-exporter-jaeger"
+}, {
+  "allowed-packages" : [ "io.opentelemetry" ],
+  "directory" : "io.opentelemetry/opentelemetry-exporter-logging",
+  "module" : "io.opentelemetry:opentelemetry-exporter-logging"
+}, {
+  "allowed-packages" : [ "io.opentelemetry" ],
+  "directory" : "io.opentelemetry/opentelemetry-exporter-otlp",
+  "module" : "io.opentelemetry:opentelemetry-exporter-otlp"
+}, {
+  "allowed-packages" : [ "io.opentelemetry" ],
+  "directory" : "io.opentelemetry/opentelemetry-exporter-zipkin",
+  "module" : "io.opentelemetry:opentelemetry-exporter-zipkin"
+}, {
+  "allowed-packages" : [ "io.opentelemetry" ],
+  "directory" : "io.opentelemetry/opentelemetry-sdk-metrics",
+  "module" : "io.opentelemetry:opentelemetry-sdk-metrics"
+}, {
+  "allowed-packages" : [ "io.opentelemetry" ],
+  "directory" : "io.opentelemetry/opentelemetry-sdk-trace",
+  "module" : "io.opentelemetry:opentelemetry-sdk-trace"
+}, {
+  "allowed-packages" : [ "jakarta.servlet" ],
+  "directory" : "jakarta.servlet/jakarta.servlet-api",
+  "module" : "jakarta.servlet:jakarta.servlet-api"
+}, {
+  "allowed-packages" : [ "samples" ],
+  "directory" : "samples/docker",
+  "module" : "samples:docker"
+}, {
+  "allowed-packages" : [ "org.mariadb" ],
+  "directory" : "org.mariadb/r2dbc-mariadb",
+  "module" : "org.mariadb:r2dbc-mariadb"
+}, {
+  "allowed-packages" : [ "org.jboss" ],
+  "directory" : "org.jboss.spec.javax.servlet/jboss-servlet-api_4.0_spec",
+  "module" : "org.jboss.spec.javax.servlet:jboss-servlet-api_4.0_spec"
+}, {
+  "allowed-packages" : [ "com.fasterxml.jackson", "java.sql", "org.w3c.dom" ],
+  "directory" : "com.fasterxml.jackson.core/jackson-databind",
+  "module" : "com.fasterxml.jackson.core:jackson-databind"
+} ]

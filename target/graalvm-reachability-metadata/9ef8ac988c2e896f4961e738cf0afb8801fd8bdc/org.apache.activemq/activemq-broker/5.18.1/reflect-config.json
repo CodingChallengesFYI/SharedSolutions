@@ -1,0 +1,119 @@
+[
+    {
+        "name": "[B",
+        "condition": {
+            "typeReachable": "org.apache.activemq.broker.BrokerService"
+        }
+    },
+    {
+        "name": "[C",
+        "condition": {
+            "typeReachable": "org.apache.activemq.broker.BrokerService"
+        }
+    },
+    {
+        "name": "[D",
+        "condition": {
+            "typeReachable": "org.apache.activemq.broker.BrokerService"
+        }
+    },
+    {
+        "name": "[F",
+        "condition": {
+            "typeReachable": "org.apache.activemq.broker.BrokerService"
+        }
+    },
+    {
+        "name": "[I",
+        "condition": {
+            "typeReachable": "org.apache.activemq.broker.BrokerService"
+        }
+    },
+    {
+        "name": "[J",
+        "condition": {
+            "typeReachable": "org.apache.activemq.broker.BrokerService"
+        }
+    },
+    {
+        "name": "[Ljava.lang.String;",
+        "condition": {
+            "typeReachable": "org.apache.activemq.broker.BrokerService"
+        }
+    },
+    {
+        "name": "[Ljavax.management.openmbean.CompositeData;",
+        "condition": {
+            "typeReachable": "org.apache.activemq.broker.BrokerService"
+        }
+    },
+    {
+        "name": "[S",
+        "condition": {
+            "typeReachable": "org.apache.activemq.broker.BrokerService"
+        }
+    },
+    {
+        "name": "[Z",
+        "condition": {
+            "typeReachable": "org.apache.activemq.broker.BrokerService"
+        }
+    },
+    {
+        "name": "org.apache.activemq.Service",
+        "condition": {
+            "typeReachable": "org.apache.activemq.broker.BrokerService"
+        },
+        "methods": [
+            {
+                "name": "start",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.activemq.broker.BrokerService",
+        "condition": {
+            "typeReachable": "org.apache.activemq.util.IntrospectionSupport"
+        },
+        "queryAllPublicMethods": true,
+        "methods": [
+            {
+                "name": "setPersistent",
+                "parameterTypes": [
+                    "boolean"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.activemq.broker.DefaultBrokerFactory",
+        "condition": {
+            "typeReachable": "org.apache.activemq.broker.BrokerFactory"
+        },
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.activemq.transport.vm.VMTransportFactory",
+        "condition": {
+            "typeReachable": "org.apache.activemq.transport.TransportFactory"
+        },
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "latest": true,
+    "metadata-version": "1.5.2-5",
+    "module": "com.github.luben:zstd-jni",
+    "tested-versions": [
+      "1.5.2-5"
+    ]
+  }
+]

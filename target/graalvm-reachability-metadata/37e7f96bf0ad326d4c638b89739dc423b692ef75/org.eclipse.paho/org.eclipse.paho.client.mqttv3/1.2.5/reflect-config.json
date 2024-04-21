@@ -1,0 +1,16 @@
+[
+  {
+    "name": "org.eclipse.paho.client.mqttv3.logging.JSR47Logger",
+    "condition": {
+      "typeReachable": "org.eclipse.paho.client.mqttv3.logging.LoggerFactory"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "latest": true,
+    "metadata-version": "6.5.0.202303070854-r",
+    "module": "org.eclipse.jgit:org.eclipse.jgit",
+    "tested-versions": [
+      "6.5.0.202303070854-r"
+    ]
+  }
+]

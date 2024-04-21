@@ -1,0 +1,17 @@
+[
+  {
+    "latest": true,
+    "metadata-version": "3.18.2",
+    "module": "org.jooq:jooq",
+    "tested-versions": [
+      "3.18.2"
+    ]
+  },
+  {
+    "metadata-version": "3.17.7",
+    "module": "org.jooq:jooq",
+    "tested-versions": [
+      "3.17.7"
+    ]
+  }
+]

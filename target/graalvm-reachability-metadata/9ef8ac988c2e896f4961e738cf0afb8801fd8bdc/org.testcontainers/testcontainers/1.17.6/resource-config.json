@@ -1,0 +1,13 @@
+{
+  "bundles": [],
+  "resources": {
+    "includes": [
+      {
+        "condition": {
+          "typeReachable": "org.testcontainers.dockerclient.DockerClientProviderStrategy"
+        },
+        "pattern": "\\Qcom/github/dockerjava/zerodep/shaded/org/apache/hc/client5/version.properties\\E"
+      }
+    ]
+  }
+}

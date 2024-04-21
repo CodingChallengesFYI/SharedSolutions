@@ -1,0 +1,15 @@
+/home/vsoare/Documents/projectsLongTerm/wordtally/src/main/java/io/valentinsoare/wordtally/service/ProcessingAsAService.java
+/home/vsoare/Documents/projectsLongTerm/wordtally/src/main/java/io/valentinsoare/wordtally/outputformat/OutputFormat.java
+/home/vsoare/Documents/projectsLongTerm/wordtally/src/main/java/io/valentinsoare/wordtally/setupasync/AsynchronousConfiguration.java
+/home/vsoare/Documents/projectsLongTerm/wordtally/src/main/java/io/valentinsoare/wordtally/setupasync/AsynchronousRejectionHandler.java
+/home/vsoare/Documents/projectsLongTerm/wordtally/src/main/java/io/valentinsoare/wordtally/exception/ErrorMessage.java
+/home/vsoare/Documents/projectsLongTerm/wordtally/src/main/java/io/valentinsoare/wordtally/service/ParseTheInput.java
+/home/vsoare/Documents/projectsLongTerm/wordtally/src/main/java/io/valentinsoare/wordtally/service/ActOnInputOptionsProcessingAsAService.java
+/home/vsoare/Documents/projectsLongTerm/wordtally/src/main/java/io/valentinsoare/wordtally/service/InputOptionsAsArguments.java
+/home/vsoare/Documents/projectsLongTerm/wordtally/src/main/java/io/valentinsoare/wordtally/exception/Severity.java
+/home/vsoare/Documents/projectsLongTerm/wordtally/src/main/java/io/valentinsoare/wordtally/service/ProcessingTheInputFromFD.java
+/home/vsoare/Documents/projectsLongTerm/wordtally/src/main/java/io/valentinsoare/wordtally/setupasync/AsynchronousExceptionHandler.java
+/home/vsoare/Documents/projectsLongTerm/wordtally/src/main/java/io/valentinsoare/wordtally/setupasync/DynamicThreadPoolManager.java
+/home/vsoare/Documents/projectsLongTerm/wordtally/src/main/java/io/valentinsoare/wordtally/runner/ApplicationRunner.java
+/home/vsoare/Documents/projectsLongTerm/wordtally/src/main/java/io/valentinsoare/wordtally/WordTallyApplication.java
+/home/vsoare/Documents/projectsLongTerm/wordtally/src/main/java/io/valentinsoare/wordtally/service/ParsingAsAService.java

@@ -1,0 +1,10 @@
+[
+  {
+    "latest": true,
+    "metadata-version": "2.3.31",
+    "module": "org.freemarker:freemarker",
+    "tested-versions": [
+      "2.3.31"
+    ]
+  }
+]

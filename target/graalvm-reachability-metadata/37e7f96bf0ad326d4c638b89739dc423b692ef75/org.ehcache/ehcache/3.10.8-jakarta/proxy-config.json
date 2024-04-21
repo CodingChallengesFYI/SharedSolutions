@@ -1,0 +1,28 @@
+[
+  {
+    "condition": {
+      "typeReachable": "org.ehcache.impl.internal.store.disk.OffHeapDiskStore"
+    },
+    "interfaces": [
+      "org.ehcache.shadow.org.terracotta.offheapstore.storage.portability.Portability",
+      "org.ehcache.shadow.org.terracotta.offheapstore.disk.persistent.PersistentPortability"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.ehcache.impl.internal.store.disk.OffHeapDiskStore"
+    },
+    "interfaces": [
+      "org.ehcache.shadow.org.terracotta.offheapstore.storage.portability.WriteBackPortability",
+      "org.ehcache.shadow.org.terracotta.offheapstore.disk.persistent.PersistentPortability"
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.ehcache.sizeof.annotations.AnnotationProxyFactory"
+    },
+    "interfaces": [
+      "org.ehcache.sizeof.annotations.IgnoreSizeOf"
+    ]
+  }
+]

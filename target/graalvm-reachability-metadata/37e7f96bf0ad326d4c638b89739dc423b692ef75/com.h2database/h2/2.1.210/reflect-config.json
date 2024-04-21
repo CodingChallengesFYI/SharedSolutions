@@ -1,0 +1,225 @@
+[
+  {
+    "condition": {
+      "typeReachable": "org.h2.mvstore.type.MetaType"
+    },
+    "name": "org.h2.mvstore.db.LobStorageMap$BlobMeta$Type",
+    "fields": [
+      {
+        "name": "INSTANCE"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.h2.mvstore.type.MetaType"
+    },
+    "name": "org.h2.mvstore.db.LobStorageMap$BlobReference$Type",
+    "fields": [
+      {
+        "name": "INSTANCE"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.h2.mvstore.type.MetaType"
+    },
+    "name": "org.h2.mvstore.db.NullValueDataType",
+    "fields": [
+      {
+        "name": "INSTANCE"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.h2.mvstore.tx.VersionedValueType$Factory"
+    },
+    "name": "org.h2.mvstore.db.RowDataType$Factory",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.h2.mvstore.type.MetaType"
+    },
+    "name": "org.h2.mvstore.tx.VersionedValueType$Factory",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.h2.mvstore.type.MetaType"
+    },
+    "name": "org.h2.mvstore.type.ByteArrayDataType",
+    "fields": [
+      {
+        "name": "INSTANCE"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.h2.mvstore.type.MetaType"
+    },
+    "name": "org.h2.mvstore.type.LongDataType",
+    "fields": [
+      {
+        "name": "INSTANCE"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.h2.store.fs.FilePath"
+    },
+    "name": "org.h2.store.fs.async.FilePathAsync",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.h2.store.fs.FilePath"
+    },
+    "name": "org.h2.store.fs.disk.FilePathDisk",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.h2.store.fs.FilePath"
+    },
+    "name": "org.h2.store.fs.mem.FilePathMem",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.h2.store.fs.FilePath"
+    },
+    "name": "org.h2.store.fs.mem.FilePathMemLZF",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.h2.store.fs.FilePath"
+    },
+    "name": "org.h2.store.fs.niomapped.FilePathNioMapped",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.h2.store.fs.FilePath"
+    },
+    "name": "org.h2.store.fs.niomem.FilePathNioMem",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.h2.store.fs.FilePath"
+    },
+    "name": "org.h2.store.fs.niomem.FilePathNioMemLZF",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.h2.store.fs.FilePath"
+    },
+    "name": "org.h2.store.fs.retry.FilePathRetryOnInterrupt",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.h2.store.fs.FilePath"
+    },
+    "name": "org.h2.store.fs.split.FilePathSplit",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.h2.store.fs.FilePath"
+    },
+    "name": "org.h2.store.fs.zip.FilePathZip",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.h2.util.MathUtils"
+    },
+    "name": "sun.security.provider.SHA",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "org.h2.util.MathUtils"
+    },
+    "name": "sun.security.provider.SecureRandom",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  }
+]

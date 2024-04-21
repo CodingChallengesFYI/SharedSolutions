@@ -1,0 +1,10 @@
+[
+  {
+    "latest": true,
+    "metadata-version": "3.5.0.Final",
+    "module": "org.jboss.logging:jboss-logging",
+    "tested-versions": [
+      "3.5.0.Final"
+    ]
+  }
+]

@@ -1,0 +1,78 @@
+{
+  "resources": {
+    "includes": [
+      {
+        "pattern": "\\Q\/\\E"
+      },
+      {
+        "pattern": "\\QMETA-INF\\E"
+      },
+      {
+        "pattern": "\\QMETA-INF\/spring.factories\\E"
+      },
+      {
+        "pattern": "\\Qapplication\\E.*\\Q.properties\\E"
+      },
+      {
+        "pattern": "\\Qapplication\\E.*\\Q.xml\\E"
+      },
+      {
+        "pattern": "\\Qapplication\\E.*\\Q.yaml\\E"
+      },
+      {
+        "pattern": "\\Qapplication\\E.*\\Q.yml\\E"
+      },
+      {
+        "pattern": "\\Qbanner.txt\\E"
+      },
+      {
+        "pattern": "\\Qio\\E"
+      },
+      {
+        "pattern": "\\Qio\/valentinsoare\\E"
+      },
+      {
+        "pattern": "\\Qio\/valentinsoare\/wordtally\\E"
+      },
+      {
+        "pattern": "\\Qio\/valentinsoare\/wordtally\/setupasync\\E"
+      },
+      {
+        "pattern": "\\Qio\/valentinsoare\/wordtally\/setupasync\/AsynchronousConfiguration.class\\E"
+      },
+      {
+        "pattern": "\\Qorg\\E"
+      },
+      {
+        "pattern": "\\Qorg\/springframework\\E"
+      },
+      {
+        "pattern": "\\Qorg\/springframework\/boot\\E"
+      },
+      {
+        "pattern": "\\Qorg\/springframework\/boot\/logging\\E"
+      },
+      {
+        "pattern": "\\Qorg\/springframework\/boot\/logging\/java\\E"
+      },
+      {
+        "pattern": "\\Qorg\/springframework\/boot\/logging\/java\/logging-file.properties\\E"
+      },
+      {
+        "pattern": "\\Qorg\/springframework\/boot\/logging\/java\/logging.properties\\E"
+      },
+      {
+        "pattern": "\\Qorg\/springframework\/boot\/web\\E"
+      },
+      {
+        "pattern": "\\Qorg\/springframework\/boot\/web\/server\\E"
+      },
+      {
+        "pattern": "\\Qorg\/springframework\/boot\/web\/server\/mime-mappings.properties\\E"
+      },
+      {
+        "pattern": "\\Qspring.properties\\E"
+      }
+    ]
+  }
+}

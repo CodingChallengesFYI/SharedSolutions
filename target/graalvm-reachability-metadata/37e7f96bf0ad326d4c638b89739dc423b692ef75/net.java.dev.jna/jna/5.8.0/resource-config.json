@@ -1,0 +1,37 @@
+{
+  "bundles": [],
+  "resources": {
+    "includes": [
+      {
+        "condition": {
+          "typeReachable": "com.sun.jna.Native"
+        },
+        "pattern": "\\Qcom/sun/jna/linux-aarch64/libjnidispatch.so\\E"
+      },
+      {
+        "condition": {
+          "typeReachable": "com.sun.jna.Native"
+        },
+        "pattern": "\\Qcom/sun/jna/linux-x86-64/libjnidispatch.so\\E"
+      },
+      {
+        "condition": {
+          "typeReachable": "com.sun.jna.Native"
+        },
+        "pattern": "\\Qcom/sun/jna/win32-x86-64/jnidispatch.dll\\E"
+      },
+      {
+        "condition": {
+          "typeReachable": "com.sun.jna.Native"
+        },
+        "pattern": "\\Qcom/sun/jna/darwin-aarch64/libjnidispatch.jnilib\\E"
+      },
+      {
+        "condition": {
+          "typeReachable": "com.sun.jna.Native"
+        },
+        "pattern": "\\Qcom/sun/jna/darwin-x86-64/libjnidispatch.jnilib\\E"
+      }
+    ]
+  }
+}

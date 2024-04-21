@@ -1,0 +1,198 @@
+[
+  {
+    "name": "org.apache.commons.compress.archivers.zip.AsiExtraField",
+    "condition": {
+      "typeReachable": "org.apache.commons.compress.archivers.zip.ExtraFieldUtils"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.commons.compress.archivers.zip.JarMarker",
+    "condition": {
+      "typeReachable": "org.apache.commons.compress.archivers.zip.ExtraFieldUtils"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.commons.compress.archivers.zip.ResourceAlignmentExtraField",
+    "condition": {
+      "typeReachable": "org.apache.commons.compress.archivers.zip.ExtraFieldUtils"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.commons.compress.archivers.zip.UnicodeCommentExtraField",
+    "condition": {
+      "typeReachable": "org.apache.commons.compress.archivers.zip.ExtraFieldUtils"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.commons.compress.archivers.zip.UnicodePathExtraField",
+    "condition": {
+      "typeReachable": "org.apache.commons.compress.archivers.zip.ExtraFieldUtils"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.commons.compress.archivers.zip.X000A_NTFS",
+    "condition": {
+      "typeReachable": "org.apache.commons.compress.archivers.zip.ExtraFieldUtils"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.commons.compress.archivers.zip.X0014_X509Certificates",
+    "condition": {
+      "typeReachable": "org.apache.commons.compress.archivers.zip.ExtraFieldUtils"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.commons.compress.archivers.zip.X0015_CertificateIdForFile",
+    "condition": {
+      "typeReachable": "org.apache.commons.compress.archivers.zip.ExtraFieldUtils"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.commons.compress.archivers.zip.X0016_CertificateIdForCentralDirectory",
+    "condition": {
+      "typeReachable": "org.apache.commons.compress.archivers.zip.ExtraFieldUtils"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.commons.compress.archivers.zip.X0017_StrongEncryptionHeader",
+    "condition": {
+      "typeReachable": "org.apache.commons.compress.archivers.zip.ExtraFieldUtils"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.commons.compress.archivers.zip.X0019_EncryptionRecipientCertificateList",
+    "condition": {
+      "typeReachable": "org.apache.commons.compress.archivers.zip.ExtraFieldUtils"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.commons.compress.archivers.zip.X5455_ExtendedTimestamp",
+    "condition": {
+      "typeReachable": "org.apache.commons.compress.archivers.zip.ExtraFieldUtils"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.commons.compress.archivers.zip.X7875_NewUnix",
+    "condition": {
+      "typeReachable": "org.apache.commons.compress.archivers.zip.ExtraFieldUtils"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraField",
+    "condition": {
+      "typeReachable": "org.apache.commons.compress.archivers.zip.ExtraFieldUtils"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+
+        ]
+      }
+    ]
+  }
+]

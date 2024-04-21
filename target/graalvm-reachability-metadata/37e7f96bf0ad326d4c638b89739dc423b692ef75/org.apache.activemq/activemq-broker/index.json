@@ -1,0 +1,10 @@
+[
+  {
+    "latest": true,
+    "metadata-version": "5.18.1",
+    "module": "org.apache.activemq:activemq-broker",
+    "tested-versions": [
+      "5.18.1"
+    ]
+  }
+]

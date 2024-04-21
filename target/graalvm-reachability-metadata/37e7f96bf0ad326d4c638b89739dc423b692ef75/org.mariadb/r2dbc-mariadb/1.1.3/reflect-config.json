@@ -1,0 +1,8 @@
+[
+  {
+    "name": "org.mariadb.r2dbc.client.MariadbFrameDecoder",
+    "condition": {
+      "typeReachable": "org.mariadb.r2dbc.client.SimpleClient"
+    }
+  }
+]

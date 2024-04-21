@@ -1,0 +1,145 @@
+{
+  "bundles": [],
+  "resources": {
+    "includes": [
+      {
+        "pattern": "\\Qorg/apache/catalina/authenticator/mbeans-descriptors.xml\\E",
+        "condition": {
+          "typeReachable": "org.apache.catalina.mbeans.MBeanUtils"
+        }
+      },
+      {
+        "pattern": "\\Qorg/apache/catalina/connector/mbeans-descriptors.xml\\E",
+        "condition": {
+          "typeReachable": "org.apache.catalina.mbeans.MBeanUtils"
+        }
+      },
+      {
+        "pattern": "\\Qorg/apache/catalina/core/RestrictedFilters.properties\\E",
+        "condition": {
+          "typeReachable": "org.apache.catalina.core.DefaultInstanceManager"
+        }
+      },
+      {
+        "pattern": "\\Qorg/apache/catalina/core/RestrictedListeners.properties\\E",
+        "condition": {
+          "typeReachable": "org.apache.catalina.core.DefaultInstanceManager"
+        }
+      },
+      {
+        "pattern": "\\Qorg/apache/catalina/core/RestrictedServlets.properties\\E",
+        "condition": {
+          "typeReachable": "org.apache.catalina.core.DefaultInstanceManager"
+        }
+      },
+      {
+        "pattern": "\\Qorg/apache/catalina/core/mbeans-descriptors.xml\\E",
+        "condition": {
+          "typeReachable": "org.apache.catalina.core.StandardServer"
+        }
+      },
+      {
+        "pattern": "\\Qorg/apache/catalina/deploy/mbeans-descriptors.xml\\E",
+        "condition": {
+          "typeReachable": "org.apache.catalina.mbeans.MBeanUtils"
+        }
+      },
+      {
+        "pattern": "\\Qorg/apache/catalina/loader/mbeans-descriptors.xml\\E",
+        "condition": {
+          "typeReachable": "org.apache.catalina.mbeans.MBeanUtils"
+        }
+      },
+      {
+        "pattern": "\\Qorg/apache/catalina/mapper/mbeans-descriptors.xml\\E",
+        "condition": {
+          "typeReachable": "org.apache.catalina.core.StandardService"
+        }
+      },
+      {
+        "pattern": "\\Qorg/apache/catalina/mbeans-descriptors.xml\\E",
+        "condition": {
+          "typeReachable": "org.apache.catalina.core.StandardServer"
+        }
+      },
+      {
+        "pattern": "\\Qorg/apache/catalina/mbeans/mbeans-descriptors.xml\\E",
+        "condition": {
+          "typeReachable": "org.apache.catalina.mbeans.MBeanUtils"
+        }
+      },
+      {
+        "pattern": "\\Qorg/apache/catalina/realm/mbeans-descriptors.xml\\E",
+        "condition": {
+          "typeReachable": "org.apache.catalina.mbeans.MBeanUtils"
+        }
+      },
+      {
+        "pattern": "\\Qorg/apache/catalina/session/mbeans-descriptors.xml\\E",
+        "condition": {
+          "typeReachable": "org.apache.catalina.mbeans.MBeanUtils"
+        }
+      },
+      {
+        "pattern": "\\Qorg/apache/catalina/startup/MimeTypeMappings.properties\\E",
+        "condition": {
+          "typeReachable": "org.apache.catalina.startup.Tomcat"
+        }
+      },
+      {
+        "pattern": "\\Qorg/apache/catalina/startup/mbeans-descriptors.xml\\E",
+        "condition": {
+          "typeReachable": "org.apache.catalina.mbeans.MBeanUtils"
+        }
+      },
+      {
+        "pattern": "\\Qorg/apache/catalina/users/mbeans-descriptors.xml\\E",
+        "condition": {
+          "typeReachable": "org.apache.catalina.mbeans.MBeanUtils"
+        }
+      },
+      {
+        "pattern": "\\Qorg/apache/catalina/util/ServerInfo.properties\\E",
+        "condition": {
+          "typeReachable": "org.apache.catalina.util.ServerInfo"
+        }
+      },
+      {
+        "pattern": "\\Qorg/apache/catalina/valves/mbeans-descriptors.xml\\E",
+        "condition": {
+          "typeReachable": "org.apache.catalina.mbeans.MBeanUtils"
+        }
+      },
+      {
+        "pattern": "\\Qorg/apache/catalina/webresources/mbeans-descriptors.xml\\E",
+        "condition": {
+          "typeReachable": "org.apache.catalina.webresources.StandardRoot"
+        }
+      },
+      {
+        "pattern": "\\Qorg/apache/coyote/mbeans-descriptors.xml\\E",
+        "condition": {
+          "typeReachable": "org.apache.coyote.AbstractProtocol"
+        }
+      },
+      {
+        "pattern": "\\Qorg/apache/tomcat/util/descriptor/web/mbeans-descriptors.xml\\E",
+        "condition": {
+          "typeReachable": "org.apache.catalina.mbeans.MBeanUtils"
+        }
+      },
+      {
+        "pattern": "\\Qorg/apache/tomcat/util/modeler/mbeans-descriptors.dtd\\E",
+        "condition": {
+          "typeReachable": "org.apache.tomcat.util.modeler.modules.MbeansDescriptorsDigesterSource"
+        }
+      },
+      {
+        "pattern": "\\Qorg/apache/tomcat/util/net/mbeans-descriptors.xml\\E",
+        "condition": {
+          "typeReachable": "org.apache.tomcat.util.net.AbstractEndpoint"
+        }
+      }
+    ]
+  }
+}

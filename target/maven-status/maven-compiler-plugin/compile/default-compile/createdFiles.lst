@@ -1,0 +1,16 @@
+io/valentinsoare/wordtally/setupasync/AsynchronousRejectionHandler.class
+io/valentinsoare/wordtally/setupasync/AsynchronousConfiguration.class
+io/valentinsoare/wordtally/WordTallyApplication.class
+io/valentinsoare/wordtally/service/ParseTheInput.class
+io/valentinsoare/wordtally/setupasync/AsynchronousExceptionHandler.class
+io/valentinsoare/wordtally/service/ProcessingAsAService.class
+io/valentinsoare/wordtally/runner/ApplicationRunner.class
+io/valentinsoare/wordtally/exception/ErrorMessage$ErrorMessageBuilder.class
+io/valentinsoare/wordtally/exception/Severity.class
+io/valentinsoare/wordtally/outputformat/OutputFormat.class
+io/valentinsoare/wordtally/service/InputOptionsAsArguments.class
+io/valentinsoare/wordtally/exception/ErrorMessage.class
+io/valentinsoare/wordtally/service/ProcessingTheInputFromFD.class
+io/valentinsoare/wordtally/setupasync/DynamicThreadPoolManager.class
+io/valentinsoare/wordtally/service/ActOnInputOptionsProcessingAsAService.class
+io/valentinsoare/wordtally/service/ParsingAsAService.class

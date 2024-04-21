@@ -1,0 +1,38 @@
+[
+  {
+    "condition": {
+      "typeReachable": "com.github.luben.zstd.util.Native"
+    },
+    "name": "java.security.SecureRandomParameters"
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.luben.zstd.util.Native"
+    },
+    "name": "org.osgi.framework.BundleEvent"
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.luben.zstd.util.Native"
+    },
+    "name": "sun.security.provider.NativePRNG",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.github.luben.zstd.util.Native"
+    },
+    "name": "sun.security.provider.SHA",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  }
+]

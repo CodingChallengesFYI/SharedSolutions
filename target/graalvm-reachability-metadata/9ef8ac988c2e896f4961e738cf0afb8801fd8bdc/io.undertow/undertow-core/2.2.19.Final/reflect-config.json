@@ -1,0 +1,663 @@
+[
+  {
+    "condition": {
+      "typeReachable": "io.undertow.Undertow"
+    },
+    "name": "[B"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.Undertow"
+    },
+    "name": "[C"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.Undertow"
+    },
+    "name": "[D"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.Undertow"
+    },
+    "name": "[F"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.Undertow"
+    },
+    "name": "[I"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.Undertow"
+    },
+    "name": "[J"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.Undertow"
+    },
+    "name": "[Ljava.lang.String;"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.Undertow"
+    },
+    "name": "[S"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.Undertow"
+    },
+    "name": "[Z"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.UndertowLogger"
+    },
+    "name": "io.undertow.UndertowLogger_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.UndertowMessages"
+    },
+    "name": "io.undertow.UndertowMessages_$bundle",
+    "fields": [
+      {
+        "name": "INSTANCE"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.client.UndertowClientMessages"
+    },
+    "name": "io.undertow.client.UndertowClientMessages_$bundle",
+    "fields": [
+      {
+        "name": "INSTANCE"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.server.protocol.http.HttpRequestParser"
+    },
+    "name": "io.undertow.server.protocol.http.HttpRequestParser$$generated",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.xnio.OptionMap"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.servlet.UndertowServletLogger"
+    },
+    "name": "io.undertow.servlet.UndertowServletLogger_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.servlet.UndertowServletMessages"
+    },
+    "name": "io.undertow.servlet.UndertowServletMessages_$bundle",
+    "fields": [
+      {
+        "name": "INSTANCE"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.servlet.api.ServletInfo"
+    },
+    "name": "io.undertow.servlet.handlers.DefaultServlet",
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.servlet.core.ManagedServlet$DefaultInstanceStrategy"
+    },
+    "name": "io.undertow.servlet.handlers.DefaultServlet",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.servlet.spec.ServletPrintWriterDelegate"
+    },
+    "name": "io.undertow.servlet.spec.ServletPrintWriterDelegate",
+    "unsafeAllocated": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.util.ConcurrentDirectDeque"
+    },
+    "name": "io.undertow.util.FastConcurrentDirectDeque",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.util.FastConcurrentDirectDeque"
+    },
+    "name": "io.undertow.util.FastConcurrentDirectDeque",
+    "fields": [
+      {
+        "name": "head"
+      },
+      {
+        "name": "tail"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.util.FastConcurrentDirectDeque$Node"
+    },
+    "name": "io.undertow.util.FastConcurrentDirectDeque$Node",
+    "fields": [
+      {
+        "name": "item"
+      },
+      {
+        "name": "next"
+      },
+      {
+        "name": "prev"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.server.protocol.http.HttpRequestParser"
+    },
+    "name": "io.undertow.util.Headers",
+    "allDeclaredFields": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.util.Headers$1"
+    },
+    "name": "io.undertow.util.Headers",
+    "allDeclaredFields": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.util.HttpString"
+    },
+    "name": "io.undertow.util.HttpString",
+    "fields": [
+      {
+        "name": "hashCode"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.server.protocol.http.HttpRequestParser"
+    },
+    "name": "io.undertow.util.Methods",
+    "allDeclaredFields": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.server.protocol.http.HttpRequestParser"
+    },
+    "name": "io.undertow.util.Protocols",
+    "allDeclaredFields": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.websockets.core.WebSocketLogger"
+    },
+    "name": "io.undertow.websockets.core.WebSocketLogger_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.websockets.core.WebSocketMessages"
+    },
+    "name": "io.undertow.websockets.core.WebSocketMessages_$bundle",
+    "fields": [
+      {
+        "name": "INSTANCE"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.servlet.api.ListenerInfo"
+    },
+    "name": "io.undertow.websockets.jsr.Bootstrap$WebSocketListener",
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.servlet.core.ApplicationListeners"
+    },
+    "name": "io.undertow.websockets.jsr.Bootstrap$WebSocketListener",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.servlet.core.ManagedFilter"
+    },
+    "name": "io.undertow.websockets.jsr.JsrWebSocketFilter",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.servlet.spec.ServletContextImpl"
+    },
+    "name": "io.undertow.websockets.jsr.JsrWebSocketFilter",
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.servlet.core.ApplicationListeners"
+    },
+    "name": "io.undertow.websockets.jsr.JsrWebSocketFilter$LogoutListener",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.servlet.spec.ServletContextImpl"
+    },
+    "name": "io.undertow.websockets.jsr.JsrWebSocketFilter$LogoutListener",
+    "queriedMethods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.websockets.jsr.JsrWebSocketLogger"
+    },
+    "name": "io.undertow.websockets.jsr.JsrWebSocketLogger_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.websockets.jsr.JsrWebSocketMessages"
+    },
+    "name": "io.undertow.websockets.jsr.JsrWebSocketMessages_$bundle",
+    "fields": [
+      {
+        "name": "INSTANCE"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.Undertow"
+    },
+    "name": "jdk.management.jfr.ConfigurationInfo",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.Undertow"
+    },
+    "name": "jdk.management.jfr.EventTypeInfo",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.Undertow"
+    },
+    "name": "jdk.management.jfr.FlightRecorderMXBean",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.Undertow"
+    },
+    "name": "jdk.management.jfr.FlightRecorderMXBeanImpl",
+    "queryAllPublicConstructors": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.Undertow"
+    },
+    "name": "jdk.management.jfr.RecordingInfo",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.Undertow"
+    },
+    "name": "jdk.management.jfr.SettingDescriptorInfo",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.Undertow"
+    },
+    "name": "org.jboss.threads.EnhancedQueueExecutor",
+    "fields": [
+      {
+        "name": "activeCount"
+      },
+      {
+        "name": "peakQueueSize"
+      },
+      {
+        "name": "peakThreadCount"
+      },
+      {
+        "name": "queueSize"
+      },
+      {
+        "name": "sequence"
+      },
+      {
+        "name": "terminationWaiters"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.Undertow"
+    },
+    "name": "org.jboss.threads.EnhancedQueueExecutor$QNode",
+    "fields": [
+      {
+        "name": "next"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.Undertow"
+    },
+    "name": "org.jboss.threads.EnhancedQueueExecutorBase1",
+    "fields": [
+      {
+        "name": "tail"
+      },
+      {
+        "name": "tailLock"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.Undertow"
+    },
+    "name": "org.jboss.threads.EnhancedQueueExecutorBase3",
+    "fields": [
+      {
+        "name": "head"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.Undertow"
+    },
+    "name": "org.jboss.threads.EnhancedQueueExecutorBase5",
+    "fields": [
+      {
+        "name": "threadStatus"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.Undertow"
+    },
+    "name": "org.jboss.threads.Messages_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.Undertow"
+    },
+    "name": "org.xnio._private.Messages_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.Undertow"
+    },
+    "name": "org.xnio.management.XnioProviderMXBean",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.Undertow"
+    },
+    "name": "org.xnio.management.XnioServerMXBean",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.Undertow"
+    },
+    "name": "org.xnio.management.XnioWorkerMXBean",
+    "queryAllPublicMethods": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.Undertow"
+    },
+    "name": "org.xnio.nio.Log_$logger",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "org.jboss.logging.Logger"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.Undertow"
+    },
+    "name": "org.xnio.nio.NioTcpServer$1",
+    "queryAllPublicConstructors": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.Undertow"
+    },
+    "name": "org.xnio.nio.NioXnio$3",
+    "queryAllPublicConstructors": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.Undertow"
+    },
+    "name": "org.xnio.nio.NioXnioWorker$NioWorkerMetrics",
+    "queryAllPublicConstructors": true
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.Undertow"
+    },
+    "name": "sun.misc.Unsafe",
+    "fields": [
+      {
+        "name": "theUnsafe"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.server.DirectByteBufferDeallocator"
+    },
+    "name": "sun.misc.Unsafe",
+    "fields": [
+      {
+        "name": "theUnsafe"
+      }
+    ],
+    "methods": [
+      {
+        "name": "invokeCleaner",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.servlet.spec.ServletPrintWriterDelegate"
+    },
+    "name": "sun.misc.Unsafe",
+    "fields": [
+      {
+        "name": "theUnsafe"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.util.FastConcurrentDirectDeque"
+    },
+    "name": "sun.misc.Unsafe",
+    "fields": [
+      {
+        "name": "theUnsafe"
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.server.session.SecureRandomSessionIdGenerator"
+    },
+    "name": "sun.security.provider.NativePRNG",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.websockets.client.WebSocket13ClientHandshake"
+    },
+    "name": "sun.security.provider.NativePRNG",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.websockets.client.WebSocket13ClientHandshake"
+    },
+    "name": "sun.security.provider.SHA",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "io.undertow.websockets.core.protocol.version07.Hybi07Handshake"
+    },
+    "name": "sun.security.provider.SHA",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ]
+  }
+]

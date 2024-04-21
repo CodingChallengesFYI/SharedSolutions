@@ -1,0 +1,30 @@
+[
+  {
+    "condition": {
+      "typeReachable": "com.hazelcast.internal.util.JVMUtil"
+    },
+    "name": "java.lang.Boolean",
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": [
+          "boolean"
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "typeReachable": "com.hazelcast.core.Hazelcast"
+    },
+    "name": "java.util.Arrays",
+    "methods": [
+      {
+        "name": "asList",
+        "parameterTypes": [
+          "java.lang.Object[]"
+        ]
+      }
+    ]
+  }
+]

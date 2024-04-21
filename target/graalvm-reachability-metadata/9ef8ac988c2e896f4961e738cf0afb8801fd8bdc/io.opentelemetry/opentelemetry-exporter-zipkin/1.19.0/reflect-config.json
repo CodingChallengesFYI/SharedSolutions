@@ -1,0 +1,8 @@
+[
+  {
+    "condition": {
+      "typeReachable": "io.opentelemetry.exporter.zipkin.ZipkinSpanExporter"
+    },
+    "name": "io.opentelemetry.exporter.zipkin.ZipkinSpanExporter"
+  }
+]

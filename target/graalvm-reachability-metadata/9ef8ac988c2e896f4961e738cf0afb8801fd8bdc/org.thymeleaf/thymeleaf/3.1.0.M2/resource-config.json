@@ -1,0 +1,13 @@
+{
+  "bundles": [],
+  "resources": {
+    "includes": [
+      {
+        "pattern": "\\Qorg/thymeleaf/thymeleaf.properties\\E",
+        "condition": {
+          "typeReachable": "org.thymeleaf.util.ClassLoaderUtils"
+        }
+      }
+    ]
+  }
+}

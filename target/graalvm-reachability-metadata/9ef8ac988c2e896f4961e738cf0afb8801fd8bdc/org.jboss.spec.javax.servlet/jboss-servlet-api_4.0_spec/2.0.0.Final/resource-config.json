@@ -1,0 +1,22 @@
+{
+  "bundles": [
+    {
+      "name": "javax.servlet.LocalStrings",
+      "locales": [
+        "und"
+      ],
+      "condition": {
+        "typeReachable": "javax.servlet.GenericServlet"
+      }
+    },
+    {
+      "name": "javax.servlet.http.LocalStrings",
+      "locales": [
+        "und"
+      ],
+      "condition": {
+        "typeReachable": "javax.servlet.http.HttpServlet"
+      }
+    }
+  ]
+}

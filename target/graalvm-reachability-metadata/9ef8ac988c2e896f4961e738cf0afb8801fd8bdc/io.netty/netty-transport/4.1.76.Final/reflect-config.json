@@ -1,0 +1,38 @@
+[
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.ReflectiveChannelFactory"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ],
+    "name": "io.netty.channel.socket.nio.NioDatagramChannel"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.ReflectiveChannelFactory"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ],
+    "name": "io.netty.channel.socket.nio.NioServerSocketChannel"
+  },
+  {
+    "condition": {
+      "typeReachable": "io.netty.channel.ReflectiveChannelFactory"
+    },
+    "methods": [
+      {
+        "name": "<init>",
+        "parameterTypes": []
+      }
+    ],
+    "name": "io.netty.channel.socket.nio.NioSocketChannel"
+  }
+]

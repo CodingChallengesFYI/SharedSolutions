@@ -1,0 +1,24 @@
+{
+  "resources": {
+    "includes": [
+      {
+        "pattern": "\\QMETA-INF/hk2-locator/default\\E"
+      },
+      {
+        "pattern": "\\QMETA-INF/gfprobe-provider.xml\\E"
+      },
+      {
+        "pattern": "\\QMETA-INF/javamail.charset.map\\E"
+      },
+      {
+        "pattern": "\\QMETA-INF/javamail.default.address.map\\E"
+      },
+      {
+        "pattern": "\\QMETA-INF/javamail.default.providers\\E"
+      },
+      {
+        "pattern": "\\QMETA-INF/mailcap\\E"
+      }
+    ]
+  }
+}

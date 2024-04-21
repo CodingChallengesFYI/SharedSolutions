@@ -1,0 +1,20 @@
+{
+  "resources": {
+    "includes": [
+      {
+        "pattern": "\\Qmozilla/public-suffix-list.txt\\E",
+        "condition": {
+          "typeReachable": "org.apache.http.conn.util.PublicSuffixMatcherLoader"
+        }
+      },
+      {
+        "pattern": "\\Qorg/apache/http/client/version.properties\\E",
+        "condition": {
+          "typeReachable": "org.apache.http.util.VersionInfo"
+        }
+      }
+    ]
+  },
+  "bundles": [
+  ]
+}
