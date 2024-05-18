@@ -12,3 +12,4 @@ The shared solutions:
 | 4 | [Write Your Own cat Tool](https://github.com/JayUnitTest/CodingChallenges/tree/main/cat-tool) | Python | [JayUnitTest](https://github.com/JayUnitTest) |
 | 5 | [Write Your Own cat Tool](https://github.com/alizainaslam/Cat-tool) | JavaScript | [alizainaslam](https://github.com/alizainaslam) |
 | 6 | [Write Your Own cat Tool](https://github.com/AhmedMohamedAbdelaty/coding-challenges/tree/main/01.%20cat) | Java | [AhmedMohamedAbdelaty](https://github.com/AhmedMohamedAbdelaty) |
+| 7 | [Write Your Own cat Tool](https://github.com/NishantSatere/CodingChallenges/tree/main/OwnCatTool) | Python | [NishantSatere](https://github.com/NishantSatere) |
