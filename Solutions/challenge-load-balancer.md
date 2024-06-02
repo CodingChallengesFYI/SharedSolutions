@@ -24,3 +24,4 @@ The shared solutions:
 | 16| [GoScale](https://github.com/lokesh-katari/GoScale)  | Go | [lokesh katari](https://github.com/lokesh-katari) |
 | 17 | [load-balancer](https://github.com/mariollesta/my-own-loadbalancer) | Python | [mariollesta](https://github.com/mariollesta) |
 | 18 | [Load Balancer](https://github.com/ferranjr/build-your-own-in-rust/tree/main/load-balancer) | Rust | [ferranjr](https://github.com/ferranjr/) |
+| 19 | [Load Balancer](https://github.com/Fuad28/load-balancer) | GO | [Adio Fuad](https://github.com/Fuad28/) |
