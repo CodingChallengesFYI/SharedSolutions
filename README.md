@@ -61,5 +61,6 @@ Essentially:
 - [Build your own Snake](Solutions/challenge-snake.md)
 - [Build your own Chess Game](Solutions/challenge-chess.md)
 - [Build your own Space Invaders](Solutions/challenge-spaceinvaders.md)
+- [Build your own Minesweeper](Solutions/challenge-minesweeper.md)
 
 <p align="right">(<a href="#top">🔼 Back to top</a>)</p>
