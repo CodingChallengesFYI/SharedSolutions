@@ -1,6 +1,7 @@
 # Build your own Minesweeper
 
-The Challenge: [Minesweeper](https://www.linkedin.com/pulse/coding-challenge-63-space-invaders-john-crickett-yb8ne/)
+The Challenge: [Minesweeper](https://codingchallenges.fyi/challenges/challenge-minesweeper/)
+
 
 The shared solutions:
 

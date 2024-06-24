@@ -1,6 +1,7 @@
 # Build your own Space Invaders
 
-The Challenge: [Space Invaders](https://www.linkedin.com/pulse/coding-challenge-63-space-invaders-john-crickett-yb8ne/)
+The Challenge: [Space Invaders](https://codingchallenges.fyi/challenges/challenge-space-invaders/)
+
 
 The shared solutions:
 
