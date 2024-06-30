@@ -21,4 +21,4 @@ The shared solutions:
 | 13 | [huffman-enc-dec](https://github.com/leopardorossi/huffman-enc-dec) | Kotlin | [Leonardo Rossi](https://github.com/leopardorossi) |
 | 14 | [jsq](https://github.com/jarekr/jsq) | Java | [Jarek Rudzinski](https://github.com/jarekr) |
 | 15 | [HuffmanCompression](https://github.com/rohita/CodingChallenges/blob/main/Sources/CodingChallenges/03-HuffmanCompression.swift) | Swift | [rohita](https://github.com/rohita) |
-| 16 | [Write Your Own Compression Tool](https://github.com/IvanGael/Go-HuffmanCompresser) | Go | [Ivan APEDO](https://github.com/IvanGael) |
+
