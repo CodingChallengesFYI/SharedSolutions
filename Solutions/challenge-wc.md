@@ -93,4 +93,4 @@ The shared solutions:
 | 84 | [ccwc](https://github.com/ahmedsameha1/ccwc) | Go | [Ahmed Sameh](https://github.com/ahmedsameha1) |
 | 85 | [ccwc](https://gitlab.com/bzai-public/codingchallenge-word-count) | Scala | [binghao](https://gitlab.com/bzai-public) |
 | 86 | [cc-wc-js](https://github.com/victoriacheng15/cc-wc-js) | JavaScript | [Victoria Cheng](https://github.com/victoriacheng15) |
-
+| 87 | [my-wc](https://github.com/amrsaqr/my-wc) | C++ | [Amr Saqr](https://github.com/amrsaqr) |
