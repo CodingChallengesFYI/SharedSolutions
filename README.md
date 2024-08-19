@@ -61,5 +61,6 @@ Essentially:
 - [Build your own Snake](Solutions/challenge-snake.md)
 - [Build your own Pastebin](Solutions/challenge-pastebin.md)
 - [Build your own Password Manager](Solutions/challenge-password-manager.md)
+- [Build your own Space Invaders](Solutions/challenge-space-invaders.md)
 
 <p align="right">(<a href="#top">🔼 Back to top</a>)</p>
