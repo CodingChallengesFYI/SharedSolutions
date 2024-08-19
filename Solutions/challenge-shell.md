@@ -10,3 +10,4 @@ The shared solutions:
 | 2 | [ArmShell](https://github.com/itfibonacci/armsh) | C | [itfibonacci](https://github.com/itfibonacci) |
 | 3 | [Write Your Own Shell](https://github.com/Tevinthuku/coding_challenges_fyi/tree/main/shell) | Rust | [Tevinthuku](https://github.com/Tevinthuku) |
 | 4 | [shell](https://github.com/alexkhilko/shell) | Go | [alexkhilko](https://github.com/alexkhilko) |
+| 5 | [Write your own Shell](https://github.com/priyapatelsp/own_shell)| Java       | [priyapatelsp](https://github.com/priyapatelsp) |
