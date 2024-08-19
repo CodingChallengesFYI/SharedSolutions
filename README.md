@@ -60,5 +60,5 @@ Essentially:
 - [Build Your own Xxd](Solutions/challenge-xxd.md)
 - [Build your own Snake](Solutions/challenge-snake.md)
 - [Build your own Pastebin](Solutions/challenge-pastebin.md)
-
+- [Build your own Wheel of Names](Solutions/challenge-wheel.md)
 <p align="right">(<a href="#top">🔼 Back to top</a>)</p>
