@@ -47,7 +47,6 @@ Essentially:
 - [Build your own Scheduling Automation App](Solutions/challenge-scheduleing-automation.md)
 - [Build your own Lisp Interpreter](Solutions/challenge-lisp.md)
 - [Build your own Tetris](Solutions/challenge-tetris.md)
-
 - [Build your own QR Code Generator](Solutions/challenge-qr-generator.md)
 - [Build your own CronTab Tool](Solutions/challenge-crontab.md)
 - [Build your own head](Solutions/challenge-head.md)
@@ -58,5 +57,11 @@ Essentially:
 - [Build Your Own Data Privacy Vault](Solutions/challenge-data-privacy-vault.md)
 - [Build Your Own Password Cracker](Solutions/challenge-password-cracker.md)
 - [Build Your own Spell Checker using Bloom Filter](Solutions/challenge-bloom-filter-spell-checker.md)
+- [Build Your own Xxd](Solutions/challenge-xxd.md)
+- [Build your own Snake](Solutions/challenge-snake.md)
+- [Build your own Pastebin](Solutions/challenge-pastebin.md)
+- [Build your own Wheel of Names](Solutions/challenge-wheel.md)
+- [Build your own Password Manager](Solutions/challenge-password-manager.md)
+- [Build your own Space Invaders](Solutions/challenge-space-invaders.md)
 
 <p align="right">(<a href="#top">🔼 Back to top</a>)</p>
