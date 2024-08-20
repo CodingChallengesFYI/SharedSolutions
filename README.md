@@ -63,5 +63,6 @@ Essentially:
 - [Build your own Wheel of Names](Solutions/challenge-wheel.md)
 - [Build your own Password Manager](Solutions/challenge-password-manager.md)
 - [Build your own Space Invaders](Solutions/challenge-space-invaders.md)
+- [Build your own Redis Cli](Solutions/challenge-redis-cli.md)
 
 <p align="right">(<a href="#top">🔼 Back to top</a>)</p>
