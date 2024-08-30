@@ -95,4 +95,4 @@ The shared solutions:
 | 86 | [ccwc](https://github.com/amalhanaja/codingchallenges/tree/main/ccwc) | Rust | [Alfian Akmal Hanantio](https://github.com/amalhanaja) |
 | 87 | [cc-wc-js](https://github.com/victoriacheng15/cc-wc-js) | JavaScript | [Victoria Cheng](https://github.com/victoriacheng15) |
 | 88 | [gowc](https://github.com/dlion/gowc) | Go | [Domenico Luciani](https://github.com/dlion) |
-
+| 89 | [ccwc](https://github.com/kareemmahlees/coding_challenges_solutions/blob/master/wc/main.go) | Go | [Kareem Ebrahim](https://github.com/kareemmahlees) |
