@@ -92,6 +92,8 @@ The shared solutions:
 | 83 | [ccwc](https://github.com/AdityaCH1997/ccwc) | Bash | [Aditya Chakraborty](https://github.com/AdityaCH1997) |
 | 84 | [ccwc](https://github.com/ahmedsameha1/ccwc) | Go | [Ahmed Sameh](https://github.com/ahmedsameha1) |
 | 85 | [ccwc](https://gitlab.com/bzai-public/codingchallenge-word-count) | Scala | [binghao](https://gitlab.com/bzai-public) |
-| 86 | [cc-wc-js](https://github.com/victoriacheng15/cc-wc-js) | JavaScript | [Victoria Cheng](https://github.com/victoriacheng15) |
-| 87 | [wc-tool](https://github.com/aaron-lee-hebert/wc-tool) | C# | [Aaron Hebert](https://github.com/aaron-lee-hebert) |
+| 86 | [ccwc](https://github.com/amalhanaja/codingchallenges/tree/main/ccwc) | Rust | [Alfian Akmal Hanantio](https://github.com/amalhanaja) |
+| 87 | [cc-wc-js](https://github.com/victoriacheng15/cc-wc-js) | JavaScript | [Victoria Cheng](https://github.com/victoriacheng15) |
+| 88 | [gowc](https://github.com/dlion/gowc) | Go | [Domenico Luciani](https://github.com/dlion) |
+| 89 | [wc-tool](https://github.com/aaron-lee-hebert/wc-tool) | C# | [Aaron Hebert](https://github.com/aaron-lee-hebert) |
 
