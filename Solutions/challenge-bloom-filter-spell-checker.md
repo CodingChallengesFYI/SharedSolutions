@@ -10,4 +10,5 @@ The shared solutions:
 | 2   | [bloom-filter-sc](https://github.com/i-m-afk/bloom-filter-sc)| Go   | [Rishav Kumar](https://github.com/i-m-afk/)     |
 | 3 | [bloom-filter-spelling-checker](https://github.com/timi-codes/bloom-filter-spelling-checker) | Python     | [timi-codes](https://github.com/timi-codes) |
 | 4   | [spellchecker-bloomfilter](https://github.com/OmkarPh/spellchecker-bloomfilter)| Go   | [OmkarPh](https://github.com/OmkarPh)     |
+| 5 | [bloom_filter](https://github.com/lwcarani/bloom_filter)| OCaml | [Luke Carani](https://github.com/lwcarani) |
 
