@@ -98,3 +98,4 @@ The shared solutions:
 | 89 | [ccwc](https://github.com/DonClaveau3/ccwc) | Go | [DonClaveau3](https://gitlab.com/DonClaveau3) |
 | 90 | [cc-wc](https://github.com/r2munz/cc-wc) | Go | [r2munz](https://github.com/r2munz) |
 | 91 | [ccwc](https://github.com/xdeathofmojox/ccwc) | Rust | [xdeathofmojox](https://github.com/xdeathofmojox) |
+| 92 | [cc-lite](https://github.com/revatim/wc-lite) | Python | [revatim](https://github.com/revatim) |
