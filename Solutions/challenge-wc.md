@@ -97,3 +97,4 @@ The shared solutions:
 | 88 | [gowc](https://github.com/dlion/gowc) | Go | [Domenico Luciani](https://github.com/dlion) |
 | 89 | [ccwc](https://github.com/DonClaveau3/ccwc) | Go | [DonClaveau3](https://gitlab.com/DonClaveau3) |
 | 90 | [cc-wc](https://github.com/r2munz/cc-wc) | Go | [r2munz](https://github.com/r2munz) |
+| 91 | [ccwc](https://github.com/xdeathofmojox/ccwc) | Rust | [xdeathofmojox](https://github.com/xdeathofmojox) |
