@@ -25,4 +25,4 @@ The shared solutions:
 | 17 | [redis-golang-lite](https://github.com/cursed-github/redis-golang-lite) | Go | [cursed-github](https://github.com/cursed-github) |
 | 18 | [Redis-Server-Lite with CLI](https://github.com/Ramzi-Abidi/RedisInMemory) | JavaScript | [Ramzi-Abidi](https://github.com/Ramzi-Abidi) |
 | 19 | [myRedis server](https://github.com/agparv19/redis) | C++ | [agparv19](https://github.com/agparv19) |
-
+| 20 | [Redis server](https://github.com/Fuad28/redis-server) | Typescript | [Adio Fuad](https://github.com/Fuad28) |
