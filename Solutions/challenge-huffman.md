@@ -22,3 +22,4 @@ The shared solutions:
 | 14 | [jsq](https://github.com/jarekr/jsq) | Java | [Jarek Rudzinski](https://github.com/jarekr) |
 | 15 | [HuffmanCompression](https://github.com/rohita/CodingChallenges/blob/main/Sources/CodingChallenges/03-HuffmanCompression.swift) | Swift | [rohita](https://github.com/rohita) |
 | 16 | [Write Your Own Compression Tool](https://github.com/IvanGael/Go-HuffmanCompresser) | Go | [Ivan APEDO](https://github.com/IvanGael) |
+| 17 | [huffman_decoder_encoder](https://github.com/elliotwutingfeng/huffman_decoder_encoder) | Python | [elliotwutingfeng](https://github.com/elliotwutingfeng) |
