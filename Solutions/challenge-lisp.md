@@ -10,3 +10,4 @@ The shared solutions:
 | 2 | [Write Your Own Lisp Interpreter](https://github.com/carlex05/lisp-interpreter) | Java | [carlex05](https://github.com/carlex05) [Dacomon22](https://github.com/Dacomon22) |
 | 3 | [Write Your Own Lisp Interpreter](https://github.com/lwcarani/py-lisp-interpreter) | Python | [Luke Carani](https://github.com/lwcarani) |
 | 4 | [Write Your Own Lisp Interpreter](https://github.com/galzmarc/rustylisp) | Rust | [Marco Galzignato](https://github.com/galzmarc) |
+| 5 | [Write Your Own Lisp Interpreter](https://github.com/IvanGael/Go-LispInterpreter) | Go | [Ivan APEDO](https://github.com/IvanGael) |
