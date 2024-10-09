@@ -14,3 +14,4 @@ The shared solutions:
 | 6 | [Write Your Own cat Tool](https://github.com/AhmedMohamedAbdelaty/coding-challenges/tree/main/01.%20cat) | Java | [AhmedMohamedAbdelaty](https://github.com/AhmedMohamedAbdelaty) |
 | 7 | [Write Your Own cat Tool](https://github.com/NishantSatere/CodingChallenges/tree/main/OwnCatTool) | Python | [NishantSatere](https://github.com/NishantSatere) |
 | 8 | [cat-tool](https://github.com/andrenbrandao/cat-tool) | C++ | [andrenbrandao](https://github.com/andrenbrandao) |
+| 9 | [Write Your Own cat Tool](https://github.com/arnab-ray/coding-challenges/tree/main/src/main/java/org/example/cat_command)        | Java       | [arnab-ray](https://github.com/arnab-ray/) |
