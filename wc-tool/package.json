@@ -1,0 +1,23 @@
+{
+  "name": "wc-tool",
+  "version": "1.0.0",
+  "description": "Build wc tool in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ccwc": "node index.js"
+  },
+  "bin": {
+    "ccwc": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodingChallengesFYI/SharedSolutions.git"
+  },
+  "author": "Riya Joseph",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodingChallengesFYI/SharedSolutions/issues"
+  },
+  "homepage": "https://github.com/CodingChallengesFYI/SharedSolutions#readme"
+}
