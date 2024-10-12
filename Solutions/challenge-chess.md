@@ -6,7 +6,7 @@ The shared solutions:
 
 | No. | Solution                                                       | Language | Author                                              |
 |-----|----------------------------------------------------------------|----------|-----------------------------------------------------|
-| 1   | [Chess Engine](https://github.com/lolo8304/chess-coding-challenge) | Javascript   | [lolo8304](https://github.com/lolo8304) |
+| 1   | [Chess Engine](https://github.com/lolo8304/chess-coding-challenge) | Javascript p5.js   | [lolo8304](https://github.com/lolo8304) |
 
 
  
