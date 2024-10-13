@@ -11,5 +11,4 @@ The shared solutions:
 | 3 | [ccdifftool](https://github.com/The-Flash/ccdifftool) | Go | [The-Flash](https://github.com/The-Flash) |
 | 4 | [go-diff](https://github.com/iamvineettiwari/go-diff) | Go | [iamvineettiwari](https://github.com/iamvineettiwari) |
 | 5 | [Write Your Own diff Tool](https://github.com/malahor1610/Differ) | Java | [malahor1610](https://github.com/malahor1610) |
-
-
+| 6 | [Write Your Own diff Tool](https://github.com/alexkhilko/diff) | Python | [alexkhilko](https://github.com/alexkhilko) |
