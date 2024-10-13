@@ -155,11 +155,11 @@ if __name__ == "__main__":
 
     ######### Step 1
     # Call the function to list files
-    # list_files(directory, directory_to_skip)
+    # list_files(directory, DIRECTORY_TO_SKIP)
 
     ######### Step 2
     #find potential duplicates using file size
-    # find_potential_duplicates_using_size(directory, directory_to_skip)
+    # find_potential_duplicates_using_size(directory, DIRECTORY_TO_SKIP)
 
     ######### Step 3 and Step 5
     # find potential duplicates using file MD5 checksum
