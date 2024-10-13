@@ -59,6 +59,7 @@ Essentially:
 - [Build Your own Spell Checker using Bloom Filter](Solutions/challenge-bloom-filter-spell-checker.md)
 - [Build Your Own Tar](Solutions/challenge-tar.md)
 - [Build Your own Xxd](Solutions/challenge-xxd.md)
+- [Build Your own Chess](Solutions/challenge-chess.md)
 - [Build your own Snake](Solutions/challenge-snake.md)
 - [Build your own Pastebin](Solutions/challenge-pastebin.md)
 - [Build your own Wheel of Names](Solutions/challenge-wheel.md)
