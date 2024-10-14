@@ -35,3 +35,4 @@ The shared solutions:
 | 26 | [JSON Parser](https://github.com/ahmedsameha1/ccjsonparser)  | Go | [Ahmed Sameh](https://github.com/ahmedsameha1) |
 | 27 | [json-parser](https://github.com/ArunEA/CodingChallengesSolution/tree/master/2-JSONParser) | Swift | [Arun Eswaramurthi](https://github.com/ArunEA) |
 | 28 | [json_parser](https://github.com/lwcarani/json-parser/tree/main/ocaml/json_parser)  | OCaml | [Luke Carani](https://github.com/lwcarani) |
+| 29 | [Json Parser](https://github.com/kareemmahlees/coding_challenges_solutions/blob/master/json-parser/README.md) | Rust | [Kareem Ebrahim](https://github.com/kareemmahlees) |

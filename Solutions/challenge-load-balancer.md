@@ -27,3 +27,4 @@ The shared solutions:
 | 19 | [Spartimillu](https://github.com/dlion/spartimillu) | Go | [Domenico Luciani](https://github.com/dlion) |
 | 20 | [Load Balancer](https://github.com/Fuad28/load-balancer) | GO | [Adio Fuad](https://github.com/Fuad28/) |
 | 21 | [Load Balancer](https://github.com/nupur710/load-balancer)| Java |[nupur710](https://github.com/nupur710)
+| 22 | [Load Balancer](https://github.com/kareemmahlees/coding_challenges_solutions/blob/master/load-balancer/README.md) | Go | [Kareem Ebrahim](https://github.com/kareemmahlees) |

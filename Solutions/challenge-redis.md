@@ -27,3 +27,4 @@ The shared solutions:
 | 19 | [myRedis server](https://github.com/agparv19/redis) | C++ | [agparv19](https://github.com/agparv19) |
 | 20 | [Redis server](https://github.com/Fuad28/redis-server) | Typescript | [Adio Fuad](https://github.com/Fuad28) |
 | 21 | [Redis server](https://github.com/anshul393/RedisGolang) | Go | [Anshul](https://github.com/anshul393) |
+| 22 | [Roar](https://github.com/kareemmahlees/coding_challenges_solutions/blob/master/roar/README.md) | Rust | [Kareem Ebrahim](https://github.com/kareemmahlees) |

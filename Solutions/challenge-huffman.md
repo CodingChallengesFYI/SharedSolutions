@@ -25,3 +25,4 @@ The shared solutions:
 | 17 | [huffman_decoder_encoder](https://github.com/elliotwutingfeng/huffman_decoder_encoder) | Python | [elliotwutingfeng](https://github.com/elliotwutingfeng) |
 | 18 | [Golang Huffman encoder-decoder](https://github.com/TheMedicineSeller/Gompress) | Go | [TheMedicineSeller](https://github.com/TheMedicineSeller) |
 | 19 | [compress](https://github.com/ArunEA/CodingChallengesSolution/tree/master/3-CompressionTool) | Swift | [Arun Eswaramurthi](https://github.com/ArunEA) |
+| 20 | [Comprust](https://github.com/kareemmahlees/coding_challenges_solutions/blob/master/comprust/README.md) | Rust | [Kareem Ebrahim](https://github.com/kareemmahlees) |
