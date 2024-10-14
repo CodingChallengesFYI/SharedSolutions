@@ -33,3 +33,4 @@ The shared solutions:
 | 24 | [json-parser](https://github.com/p1kalys/Coding_Challenges_by_John_Crickett/tree/main/json_parser)  | JavaScript | [Pavan Emani](https://github.com/p1kalys/) |
 | 25 | [json_parser_clone](https://github.com/arjunsharma-dev1/json_parser_clone)  | Rust | [Arjun Sharma](https://github.com/arjunsharma-dev1) |
 | 26 | [JSON Parser](https://github.com/ahmedsameha1/ccjsonparser)  | Go | [Ahmed Sameh](https://github.com/ahmedsameha1) |
+| 27 | [json-parser](https://github.com/ArunEA/CodingChallengesSolution/tree/master/2-JSONParser) | Swift | [Arun Eswaramurthi](https://github.com/ArunEA) |

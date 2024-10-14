@@ -101,3 +101,4 @@ The shared solutions:
 | 92 | [cc-lite](https://github.com/revatim/wc-lite) | Python | [revatim](https://github.com/revatim) |
 | 93 | [wc](https://github.com/alexhwoods/wc) | Go | [Alex Woods](https://www.alexhwoods.com/) |
 | 94 | [ccwc](https://github.com/piter0/ccwc) | C# | [piter0](https://github.com/piter0) |
+| 95 | [wc](https://github.com/ArunEA/CodingChallengesSolution/tree/master/1-WordCount) | Swift | [Arun Eswaramurthi](https://github.com/ArunEA) |
