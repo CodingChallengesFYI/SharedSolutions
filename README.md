@@ -59,11 +59,15 @@ Essentially:
 - [Build Your own Spell Checker using Bloom Filter](Solutions/challenge-bloom-filter-spell-checker.md)
 - [Build Your Own Tar](Solutions/challenge-tar.md)
 - [Build Your own Xxd](Solutions/challenge-xxd.md)
+- [Build Your own Chess](Solutions/challenge-chess.md)
 - [Build your own Snake](Solutions/challenge-snake.md)
 - [Build your own Pastebin](Solutions/challenge-pastebin.md)
 - [Build your own Wheel of Names](Solutions/challenge-wheel.md)
 - [Build your own Password Manager](Solutions/challenge-password-manager.md)
 - [Build your own Space Invaders](Solutions/challenge-space-invaders.md)
+- [Build your own HTTP Forward Proxy Server](Solutions/challenge-forward-proxy.md)
+- [Build your own Redis Cli](Solutions/challenge-redis-cli.md)
+- [Build your own Sudoku](Solutions/challenge-sudoku.md)
 
 
 <p align="right">(<a href="#top">🔼 Back to top</a>)</p>
