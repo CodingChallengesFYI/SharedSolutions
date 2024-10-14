@@ -36,3 +36,4 @@ The shared solutions:
 | 27 | [json-parser](https://github.com/ArunEA/CodingChallengesSolution/tree/master/2-JSONParser) | Swift | [Arun Eswaramurthi](https://github.com/ArunEA) |
 | 28 | [json_parser](https://github.com/lwcarani/json-parser/tree/main/ocaml/json_parser)  | OCaml | [Luke Carani](https://github.com/lwcarani) |
 | 29 | [Json Parser](https://github.com/kareemmahlees/coding_challenges_solutions/blob/master/json-parser/README.md) | Rust | [Kareem Ebrahim](https://github.com/kareemmahlees) |
+| 30 | [JSON Validator](https://github.com/hlalljie/json-validator-python)  | Python | [Hayden Lalljie](https://github.com/hlalljie) |
