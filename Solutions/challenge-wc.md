@@ -95,5 +95,10 @@ The shared solutions:
 | 86 | [ccwc](https://github.com/amalhanaja/codingchallenges/tree/main/ccwc) | Rust | [Alfian Akmal Hanantio](https://github.com/amalhanaja) |
 | 87 | [cc-wc-js](https://github.com/victoriacheng15/cc-wc-js) | JavaScript | [Victoria Cheng](https://github.com/victoriacheng15) |
 | 88 | [gowc](https://github.com/dlion/gowc) | Go | [Domenico Luciani](https://github.com/dlion) |
-| 89 | [wc](https://github.com/ArunEA/CodingChallengesSolution/tree/master/1-WordCount) | Swift | [Arun Eswaramurthi](https://github.com/ArunEA) |
-
+| 89 | [ccwc](https://github.com/DonClaveau3/ccwc) | Go | [DonClaveau3](https://gitlab.com/DonClaveau3) |
+| 90 | [cc-wc](https://github.com/r2munz/cc-wc) | Go | [r2munz](https://github.com/r2munz) |
+| 91 | [ccwc](https://github.com/xdeathofmojox/ccwc) | Rust | [xdeathofmojox](https://github.com/xdeathofmojox) |
+| 92 | [cc-lite](https://github.com/revatim/wc-lite) | Python | [revatim](https://github.com/revatim) |
+| 93 | [wc](https://github.com/alexhwoods/wc) | Go | [Alex Woods](https://www.alexhwoods.com/) |
+| 94 | [ccwc](https://github.com/piter0/ccwc) | C# | [piter0](https://github.com/piter0) |
+| 95 | [wc](https://github.com/ArunEA/CodingChallengesSolution/tree/master/1-WordCount) | Swift | [Arun Eswaramurthi](https://github.com/ArunEA) |
