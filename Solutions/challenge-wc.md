@@ -103,3 +103,4 @@ The shared solutions:
 | 94 | [ccwc](https://github.com/piter0/ccwc) | C# | [piter0](https://github.com/piter0) |
 | 95 | [wc](https://github.com/ArunEA/CodingChallengesSolution/tree/master/1-WordCount) | Swift | [Arun Eswaramurthi](https://github.com/ArunEA) |
 | 96 | [ccwc](https://github.com/kareemmahlees/coding_challenges_solutions/blob/master/wc/main.go) | Go | [Kareem Ebrahim](https://github.com/kareemmahlees) |
+| 97 | [wc-csharp](https://github.com/ricardodemauro/Rmauro.CommandLines.WordCount) | C# | [Ricardo Mauro](https://github.com/ricardodemauro) |
