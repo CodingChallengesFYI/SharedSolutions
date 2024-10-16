@@ -4,7 +4,7 @@ The Challenge: [Write your own sed](https://codingchallenges.fyi/challenges/chal
 
 The shared solutions:
 
-| No. | Solution                                                                                    | Language   | Author |
-|-----|---------------------------------------------------------------------------------------------|------------|--------|
-| 1   | [Write Your Own Sed](https://github.com/jainmohit2001/coding-challenges/tree/master/src/21) | TypeScript | [jainmohit2001](https://github.com/jainmohit2001) |
-| 2   | [Write Your Own Sed](https://github.com/priyapatelsp/Sed_Tool/tree/main)                    | Java       | [priyapatelsp](https://github.com/priyapatelsp) |
+| No. | Solution | Language | Author |
+|-----|----------|----------|--------|
+| 1 | [Write Your Own Sed](https://github.com/jainmohit2001/coding-challenges/tree/master/src/21) | TypeScript | [jainmohit2001](https://github.com/jainmohit2001) |
+| 1 | [Write Your Own Sed](https://github.com/priyapatelsp/Sed_Tool)                              | Java       | [priyapatelsp](https://github.com/priyapatelsp) |
