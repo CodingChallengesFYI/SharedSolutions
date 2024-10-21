@@ -105,3 +105,4 @@ The shared solutions:
 | 96 | [ccwc](https://github.com/kareemmahlees/coding_challenges_solutions/blob/master/wc/main.go) | Go | [Kareem Ebrahim](https://github.com/kareemmahlees) |
 | 97 | [hlpwc1](https://github.com/hiren2599/Word-Count-CLI/blob/main/wordCountUnixArgparse.py) | Python | [Hiren Patel](https://github.com/hiren2599) |
 | 98 | [hlpwc2](https://github.com/hiren2599/Word-Count-CLI/blob/main/wordCountUnixClick.py) | Python | [Hiren Patel](https://github.com/hiren2599) |
+| 99 | [hlpwc2](https://github.com/eldeeno/php-wc-tool) | Python | [Shamsuddeen](https://github.com/eldeeno) |
