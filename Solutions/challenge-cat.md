@@ -13,4 +13,7 @@ The shared solutions:
 | 5 | [Write Your Own cat Tool](https://github.com/alizainaslam/Cat-tool) | JavaScript | [alizainaslam](https://github.com/alizainaslam) |
 | 6 | [Write Your Own cat Tool](https://github.com/AhmedMohamedAbdelaty/coding-challenges/tree/main/01.%20cat) | Java | [AhmedMohamedAbdelaty](https://github.com/AhmedMohamedAbdelaty) |
 | 7 | [Write Your Own cat Tool](https://github.com/NishantSatere/CodingChallenges/tree/main/OwnCatTool) | Python | [NishantSatere](https://github.com/NishantSatere) |
-| 8 | [Write Your Own cat Tool](https://github.com/ahmedsameha1/cccat) | SML | [Ahmed Sameh](https://github.com/ahmedsameha1) |
+| 8 | [cat-tool](https://github.com/andrenbrandao/cat-tool) | C++ | [andrenbrandao](https://github.com/andrenbrandao) |
+| 9 | [Write Your Own cat Tool](https://github.com/arnab-ray/coding-challenges/tree/main/src/main/java/org/example/cat_command)        | Java       | [arnab-ray](https://github.com/arnab-ray/) |
+| 10 | [gCat](https://github.com/melsonic/gCat) | Go | [melsonic](https://github.com/melsonic) | 
+| 11 | [Write Your Own cat Tool](https://github.com/ahmedsameha1/cccat) | SML | [Ahmed Sameh](https://github.com/ahmedsameha1) |

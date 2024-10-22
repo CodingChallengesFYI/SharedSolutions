@@ -92,5 +92,16 @@ The shared solutions:
 | 83 | [ccwc](https://github.com/AdityaCH1997/ccwc) | Bash | [Aditya Chakraborty](https://github.com/AdityaCH1997) |
 | 84 | [ccwc](https://github.com/ahmedsameha1/ccwc) | Go | [Ahmed Sameh](https://github.com/ahmedsameha1) |
 | 85 | [ccwc](https://gitlab.com/bzai-public/codingchallenge-word-count) | Scala | [binghao](https://gitlab.com/bzai-public) |
-| 86 | [cc-wc-js](https://github.com/victoriacheng15/cc-wc-js) | JavaScript | [Victoria Cheng](https://github.com/victoriacheng15) |
-
+| 86 | [ccwc](https://github.com/amalhanaja/codingchallenges/tree/main/ccwc) | Rust | [Alfian Akmal Hanantio](https://github.com/amalhanaja) |
+| 87 | [cc-wc-js](https://github.com/victoriacheng15/cc-wc-js) | JavaScript | [Victoria Cheng](https://github.com/victoriacheng15) |
+| 88 | [gowc](https://github.com/dlion/gowc) | Go | [Domenico Luciani](https://github.com/dlion) |
+| 89 | [ccwc](https://github.com/DonClaveau3/ccwc) | Go | [DonClaveau3](https://gitlab.com/DonClaveau3) |
+| 90 | [cc-wc](https://github.com/r2munz/cc-wc) | Go | [r2munz](https://github.com/r2munz) |
+| 91 | [ccwc](https://github.com/xdeathofmojox/ccwc) | Rust | [xdeathofmojox](https://github.com/xdeathofmojox) |
+| 92 | [cc-lite](https://github.com/revatim/wc-lite) | Python | [revatim](https://github.com/revatim) |
+| 93 | [wc](https://github.com/alexhwoods/wc) | Go | [Alex Woods](https://www.alexhwoods.com/) |
+| 94 | [ccwc](https://github.com/piter0/ccwc) | C# | [piter0](https://github.com/piter0) |
+| 95 | [wc](https://github.com/ArunEA/CodingChallengesSolution/tree/master/1-WordCount) | Swift | [Arun Eswaramurthi](https://github.com/ArunEA) |
+| 96 | [ccwc](https://github.com/kareemmahlees/coding_challenges_solutions/blob/master/wc/main.go) | Go | [Kareem Ebrahim](https://github.com/kareemmahlees) |
+| 97 | [hlpwc1](https://github.com/hiren2599/Word-Count-CLI/blob/main/wordCountUnixArgparse.py) | Python | [Hiren Patel](https://github.com/hiren2599) |
+| 98 | [hlpwc2](https://github.com/hiren2599/Word-Count-CLI/blob/main/wordCountUnixClick.py) | Python | [Hiren Patel](https://github.com/hiren2599) |
