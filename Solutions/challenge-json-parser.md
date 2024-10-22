@@ -38,3 +38,4 @@ The shared solutions:
 | 29 | [Json Parser](https://github.com/kareemmahlees/coding_challenges_solutions/blob/master/json-parser/README.md) | Rust | [Kareem Ebrahim](https://github.com/kareemmahlees) |
 | 30 | [JSON Validator](https://github.com/hlalljie/json-validator-python)  | Python | [Hayden Lalljie](https://github.com/hlalljie) |
 | 31 | [json_parser](https://github.com/Re1nGer/json_parser)  | Go | [Bekjon Ibragimov](https://github.com/re1nger) |
+| 32 | [json-parser](https://github.com/melsonic/json-parser)  | Go | [melsonic](https://github.com/melsonic) |
