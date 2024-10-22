@@ -18,4 +18,5 @@ The shared solutions:
 | 10 | [DNSResolver](https://github.com/onesiphorus5/DNSResolver)  | C++ | [onesiphorus5](https://github.com/onesiphorus5) |
 | 11 | [Simple DNS-Resolver](https://github.com/anvayabn/DnsResolverInRust-.git) | Rust | [anvayabn](https://github.com/anvayabn) |
 | 12 | [unnije](https://github.com/dlion/unnije) | Go | [dlion](https://github.com/dlion) |
+| 13 | [dns-resolver](https://github.com/prashant1k99/dns-resolver) | Go | [prashant1k99](https://github.com/prashant1k99) |
 

@@ -26,3 +26,4 @@ The shared solutions:
 | 18 | [Golang Huffman encoder-decoder](https://github.com/TheMedicineSeller/Gompress) | Go | [TheMedicineSeller](https://github.com/TheMedicineSeller) |
 | 19 | [compress](https://github.com/ArunEA/CodingChallengesSolution/tree/master/3-CompressionTool) | Swift | [Arun Eswaramurthi](https://github.com/ArunEA) |
 | 20 | [Comprust](https://github.com/kareemmahlees/coding_challenges_solutions/blob/master/comprust/README.md) | Rust | [Kareem Ebrahim](https://github.com/kareemmahlees) |
+| 21 | [gComp](https://github.com/melsonic/gComp) | Go | [melsonic](https://github.com/melsonic) |
