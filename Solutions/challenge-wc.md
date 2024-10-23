@@ -106,3 +106,4 @@ The shared solutions:
 | 97 | [hlpwc1](https://github.com/hiren2599/Word-Count-CLI/blob/main/wordCountUnixArgparse.py) | Python | [Hiren Patel](https://github.com/hiren2599) |
 | 98 | [hlpwc2](https://github.com/hiren2599/Word-Count-CLI/blob/main/wordCountUnixClick.py) | Python | [Hiren Patel](https://github.com/hiren2599) |
 | 99 | [wc-csharp](https://github.com/ricardodemauro/Rmauro.CommandLines.WordCount) | C# | [Ricardo Mauro](https://github.com/ricardodemauro) |
+| 100 | [wc-tool](https://github.com/aaron-lee-hebert/wc-tool) | C# | [Aaron Hebert](https://github.com/aaron-lee-hebert) |
