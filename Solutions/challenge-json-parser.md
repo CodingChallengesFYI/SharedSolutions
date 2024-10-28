@@ -39,3 +39,4 @@ The shared solutions:
 | 30 | [JSON Validator](https://github.com/hlalljie/json-validator-python)  | Python | [Hayden Lalljie](https://github.com/hlalljie) |
 | 31 | [json_parser](https://github.com/Re1nGer/json_parser)  | Go | [Bekjon Ibragimov](https://github.com/re1nger) |
 | 32 | [json-parser](https://github.com/melsonic/json-parser)  | Go | [melsonic](https://github.com/melsonic) |
+| 33 | [json-parser](https://github.com/Infinage/cpp-experiments/tree/main/json-parser)  | C++ | [Naresh Jagadeesn](https://github.com/Infinage) |
