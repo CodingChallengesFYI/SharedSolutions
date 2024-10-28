@@ -108,3 +108,5 @@ The shared solutions:
 | 99 | [wc-csharp](https://github.com/ricardodemauro/Rmauro.CommandLines.WordCount) | C# | [Ricardo Mauro](https://github.com/ricardodemauro) |
 | 100 | [wc-tool](https://github.com/aaron-lee-hebert/wc-tool) | C# | [Aaron Hebert](https://github.com/aaron-lee-hebert) |
 | 101 | [my-wc](https://github.com/amrsaqr/my-wc) | C++ | [Amr Saqr](https://github.com/amrsaqr) |
+|
+| 103 | [ccwc](https://github.com/ChristofBecu/cc.fyi/tree/master/ccwc/c%2B%2B) | C++ |[Christof Becu](https://github.com/ChristofBecu) |
