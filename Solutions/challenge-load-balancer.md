@@ -24,6 +24,10 @@ The shared solutions:
 | 16| [GoScale](https://github.com/lokesh-katari/GoScale)  | Go | [lokesh katari](https://github.com/lokesh-katari) |
 | 17 | [load-balancer](https://github.com/mariollesta/my-own-loadbalancer) | Python | [mariollesta](https://github.com/mariollesta) |
 | 18 | [Load Balancer](https://github.com/ferranjr/build-your-own-in-rust/tree/main/load-balancer) | Rust | [ferranjr](https://github.com/ferranjr/) |
-| 19 | [Load Balancer](https://github.com/abhi11210646/load-balancer) | Go | [abhi11210646](https://github.com/abhi11210646) |
-
-
+| 19 | [Spartimillu](https://github.com/dlion/spartimillu) | Go | [Domenico Luciani](https://github.com/dlion) |
+| 20 | [Load Balancer](https://github.com/Fuad28/load-balancer) | GO | [Adio Fuad](https://github.com/Fuad28/) |
+| 21 | [Load Balancer](https://github.com/nupur710/load-balancer)| Java |[nupur710](https://github.com/nupur710)
+| 22 | [Load Balancer](https://github.com/kareemmahlees/coding_challenges_solutions/blob/master/load-balancer/README.md) | Go | [Kareem Ebrahim](https://github.com/kareemmahlees) |
+| 23 | [load-balancer](https://github.com/melsonic/load-balancer) | GO | [melsonic](https://github.com/melsonic/) |
+| 22 | [load-balancer](http://github.com/ronaldsuwandi/challenge_load_balancer/) | Rust | [Ronald Suwandi](https://github.com/ronaldsuwandi/) |
+| 23 | [Load Balancer](https://github.com/abhi11210646/load-balancer) | Go | [abhi11210646](https://github.com/abhi11210646) |
