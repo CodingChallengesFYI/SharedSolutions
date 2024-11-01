@@ -68,6 +68,7 @@ Essentially:
 - [Build your own HTTP Forward Proxy Server](Solutions/challenge-forward-proxy.md)
 - [Build your own Redis Cli](Solutions/challenge-redis-cli.md)
 - [Build your own Sudoku](Solutions/challenge-sudoku.md)
+- [Build your own Zip File Cracker](Solutions/challenge-zip-file-cracker.md)
 
 
 <p align="right">(<a href="#top">🔼 Back to top</a>)</p>
