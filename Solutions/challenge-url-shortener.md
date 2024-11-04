@@ -27,3 +27,6 @@ The shared solutions:
 | 19 | [url-shortener](https://github.com/eshward95/url-shortener) | Javascript/React | [eshward95](https://github.com/eshward95) |
 | 20 | [SnipURL](https://github.com/KumarVariable/go-for-url-shortner) | Go | [Kunal Kumar](https://github.com/KumarVariable/) |
 | 21 | [url-shortener-rust](https://github.com/Yukigeshiki/url-shortener-rust) | Rust | [Yukigeshiki](https://github.com/Yukigeshiki) |
+| 22 | [Distributed Url Shortener](https://github.com/Erfan-ffa/UrlShortner-DistributedSystem-) | C# | [Erfan Faridi](https://github.com/Erfan-ffa) |
+| 23 | [URL Shortener In Rust](https://github.com/ferranjr/build-your-own-in-rust/tree/main/url-shortener) | Rust | [ferranjr](https://github.com/ferranjr/) |
+| 24 | [ShURL](https://github.com/malahor1610/ShURL) | Kotlin | [malahor1610](https://github.com/malahor1610) |
