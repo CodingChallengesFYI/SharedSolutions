@@ -31,3 +31,4 @@ The shared solutions:
 | 23 | [load-balancer](https://github.com/melsonic/load-balancer) | GO | [melsonic](https://github.com/melsonic/) |
 | 22 | [load-balancer](http://github.com/ronaldsuwandi/challenge_load_balancer/) | Rust | [Ronald Suwandi](https://github.com/ronaldsuwandi/) |
 | 23 | [Load Balancer](https://github.com/abhi11210646/load-balancer) | Go | [abhi11210646](https://github.com/abhi11210646) |
+| 24 | [Load Balancer](https://github.com/r1999-ron/akka-http-load-balancer) | Scala | [r1999-ron](https://github.com/r1999-ron) |
