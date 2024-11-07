@@ -30,3 +30,4 @@ The shared solutions:
 | 22 | [Distributed Url Shortener](https://github.com/Erfan-ffa/UrlShortner-DistributedSystem-) | C# | [Erfan Faridi](https://github.com/Erfan-ffa) |
 | 23 | [URL Shortener In Rust](https://github.com/ferranjr/build-your-own-in-rust/tree/main/url-shortener) | Rust | [ferranjr](https://github.com/ferranjr/) |
 | 24 | [ShURL](https://github.com/malahor1610/ShURL) | Kotlin | [malahor1610](https://github.com/malahor1610) |
+| 25 | [url_shortener](https://github.com/ashishsinghin/url_shortener) | Go | [Ashish Singh](https://github.com/ashishsinghin) |
