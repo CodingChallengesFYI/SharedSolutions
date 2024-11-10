@@ -113,3 +113,4 @@ The shared solutions:
 | 104 | [ccwc](https://github.com/douxiaobo/build_your_own_wc_tool/blob/main/Rust/build_your_own_wc_tool5.rs) | Rust | [Dou Xiaobo](https://github.com/douxiaobo) |
 | 105 | [ccwc](https://github.com/ShakibUddin/custom-wc-tool) | Node.js | [ShakibUddin](https://github.com/ShakibUddin) |
 | 106 | [ccwc](https://github.com/AbuCarlo/CodingChallenges/tree/main/ccwc) | Go | [AbuCarlo](https://github.com/AbuCarlo) |
+| 107 | [wccpp](https://github.com/IdrisCodes/wccpp) | C++ | [IdrisCodes](https://github.com/IdrisCodes) |
