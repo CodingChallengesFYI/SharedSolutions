@@ -29,3 +29,4 @@ The shared solutions:
 | 21 | [Redis server](https://github.com/anshul393/RedisGolang) | Go | [Anshul](https://github.com/anshul393) |
 | 22 | [Roar](https://github.com/kareemmahlees/coding_challenges_solutions/blob/master/roar/README.md) | Rust | [Kareem Ebrahim](https://github.com/kareemmahlees) |
 | 23 | [gRedis](https://github.com/melsonic/gRedis) | Go | [melsonic](https://github.com/melsonic) |
+| 24 | [redis-server](https://github.com/rKamindo/redis-server) | C | [rKamindo](https://github.com/rKamindo) |
