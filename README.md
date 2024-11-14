@@ -62,12 +62,13 @@ Essentially:
 - [Build Your own Chess](Solutions/challenge-chess.md)
 - [Build your own Snake](Solutions/challenge-snake.md)
 - [Build your own Pastebin](Solutions/challenge-pastebin.md)
+- [Build your own Minesweeper](Solutions/challenge-minesweeper.md)
 - [Build your own Wheel of Names](Solutions/challenge-wheel.md)
 - [Build your own Password Manager](Solutions/challenge-password-manager.md)
 - [Build your own Space Invaders](Solutions/challenge-space-invaders.md)
 - [Build your own HTTP Forward Proxy Server](Solutions/challenge-forward-proxy.md)
 - [Build your own Redis Cli](Solutions/challenge-redis-cli.md)
 - [Build your own Sudoku](Solutions/challenge-sudoku.md)
-
+- [Build your own Zip File Cracker](Solutions/challenge-zip-file-cracker.md)
 
 <p align="right">(<a href="#top">🔼 Back to top</a>)</p>
