@@ -1,0 +1,23 @@
+spring:
+  profile:
+    active: local
+  application:
+    name: discovery-service
+server:
+  port: 8001
+eureka:
+  server:
+    username: "u"
+    password: "p"
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+    hostname: localhost
+    service-url:
+      defaultZone: http://${eureka.client.hostname}:${server.port}/eureka
+#  server:
+#    enable-self-preservation: false
+logging:
+  level:
+    com.netflix.eureka: OFF
+    com.netflix.discovery: OFF

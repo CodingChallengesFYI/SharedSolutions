@@ -1,0 +1,4 @@
+include ':tinyurl-discovery-service'
+include ':tinyurl-gateway'
+include ':url-shortener'
+include ':user-management-service'

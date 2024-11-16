@@ -1,0 +1,65 @@
+spring:
+  profile:
+    active: dev
+  application:
+    name: tinyurl-gateway
+
+spring.cloud.gateway.routes:
+  - id: user-signup
+    uri: lb://user-service
+    predicates:
+      - Path=/user-service/users/register
+      - Method=POST
+    filters:
+      - RemoveRequestHeader=Cookie
+      - RewritePath=/user-service/(?<segment>.*), /$\{segment}
+
+  - id: user-login
+    uri: lb://user-service
+    predicates:
+      - Path=/user-service/users/login
+      - Method=POST
+    filters:
+      - RemoveRequestHeader=Cookie
+      - RewritePath=/user-service/(?<segment>.*), /$\{segment}
+
+  - id: tinyurl-shorten2
+    uri: lb://url-shortener
+    predicates:
+      - Path=/url-shortener/api/v2/shorten
+      - Method=POST
+    filters:
+      - RemoveRequestHeader=Cookie
+      - RewritePath=/url-shortener/(?<segment>.*), /$\{segment}
+      - AuthorizationHeader=${SIGNATURE_ALGORITHM}
+
+  - id: tinyurl-redirect2
+    uri: lb://url-shortener
+    predicates:
+      - Path=/url-shortener/api/v2/{segment}
+      - Method=GET, DELETE
+    filters:
+      - RemoveRequestHeader=Cookie
+      - RewritePath=/url-shortener/(?<segment>.*), /$\{segment}
+      - AuthorizationHeader=${SIGNATURE_ALGORITHM}
+
+server:
+  port: 7000
+
+eureka:
+  server:
+    username: ${EUREKA_DISCOVERY_USERNAME}
+    password: ${EUREKA_DISCOVERY_PASSWORD}
+  client:
+    hostname: ${EUREKA_CLIENT_HOSTNAME}
+    service-url:
+      defaultZone: http://${eureka.server.username}:${eureka.server.password}@${eureka.client.hostname}:8001/eureka
+    initialInstanceInfoReplicationIntervalSeconds: 5
+    registryFetchIntervalSeconds: 5
+  instance:
+    leaseRenewalIntervalInSeconds: 10 #send heartbeat every 10 seconds
+    leaseExpirationDurationInSeconds: 30 #instance will be marked as unresponsive after 30 seconds
+    instanceId: ${spring.application.name}:${spring.application.instance_id:${random.value}}
+
+jwt:
+  token: ${JWT_TOKEN}

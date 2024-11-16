@@ -1,0 +1,15 @@
+##compose for redis
+version: "3"
+
+services:
+  redis:
+    image: redis:latest
+    ports:
+      - "6379:6379"
+    command: ["redis-server"]
+    volumes:
+      - ./data:data
+    deploy:
+      replicas: 1
+      restart_policy:
+        condition: on-failure

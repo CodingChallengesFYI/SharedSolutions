@@ -1,0 +1,34 @@
+spring:
+  profile:
+    active: dev
+  application:
+    name: url-shortener
+  cloud:
+    loadbalancer:
+      enabled: true
+  redis:
+    host: ${HOST_NAME}
+    port: ${PORT_NO}
+    shorten_prefix: "long-to-short:"
+    redirect_prefix: "key-to-long:"
+eureka:
+  server:
+    username: ${EUREKA_DISCOVERY_USERNAME}
+    password: ${EUREKA_DISCOVERY_PASSWORD}
+  client:
+    hostname: ${EUREKA_CLIENT_HOSTNAME}
+    service-url:
+      defaultZone: http://${eureka.server.username}:${eureka.server.password}@${eureka.client.hostname}:8001/eureka
+    initialInstanceInfoReplicationIntervalSeconds: 5
+    registryFetchIntervalSeconds: 5
+  instance:
+    leaseRenewalIntervalInSeconds: 10 #send heartbeat every 10 seconds
+    leaseExpirationDurationInSeconds: 30 #instance will be marked as unresponsive after 30 seconds
+    instanceId: ${spring.application.name}:${spring.application.instance_id:${random.value}}
+server:
+  port: ${PORT:0}
+tinyurl:
+  api:
+    url: http://${spring.url}:${gateway.port}/url-shortener/api/
+gateway:
+  port: 8000
