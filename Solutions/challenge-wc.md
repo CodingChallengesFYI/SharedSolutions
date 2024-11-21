@@ -101,3 +101,16 @@ The shared solutions:
 | 92 | [cc-lite](https://github.com/revatim/wc-lite) | Python | [revatim](https://github.com/revatim) |
 | 93 | [wc](https://github.com/alexhwoods/wc) | Go | [Alex Woods](https://www.alexhwoods.com/) |
 | 94 | [ccwc](https://github.com/piter0/ccwc) | C# | [piter0](https://github.com/piter0) |
+| 95 | [wc](https://github.com/ArunEA/CodingChallengesSolution/tree/master/1-WordCount) | Swift | [Arun Eswaramurthi](https://github.com/ArunEA) |
+| 96 | [ccwc](https://github.com/kareemmahlees/coding_challenges_solutions/blob/master/wc/main.go) | Go | [Kareem Ebrahim](https://github.com/kareemmahlees) |
+| 97 | [hlpwc1](https://github.com/hiren2599/Word-Count-CLI/blob/main/wordCountUnixArgparse.py) | Python | [Hiren Patel](https://github.com/hiren2599) |
+| 98 | [hlpwc2](https://github.com/hiren2599/Word-Count-CLI/blob/main/wordCountUnixClick.py) | Python | [Hiren Patel](https://github.com/hiren2599) |
+| 99 | [wc-csharp](https://github.com/ricardodemauro/Rmauro.CommandLines.WordCount) | C# | [Ricardo Mauro](https://github.com/ricardodemauro) |
+| 100 | [wc-tool](https://github.com/aaron-lee-hebert/wc-tool) | C# | [Aaron Hebert](https://github.com/aaron-lee-hebert) |
+| 101 | [my-wc](https://github.com/amrsaqr/my-wc) | C++ | [Amr Saqr](https://github.com/amrsaqr) |
+| 102 | [wc-tool](https://github.com/rdotjain/wc-tool) | Go | [Rupanshi Jain](https://github.com/rdotjain) |
+| 103 | [ccwc](https://github.com/ChristofBecu/cc.fyi/tree/master/ccwc/c%2B%2B) | C++ |[Christof Becu](https://github.com/ChristofBecu) |
+| 104 | [ccwc](https://github.com/douxiaobo/build_your_own_wc_tool/blob/main/Rust/build_your_own_wc_tool5.rs) | Rust | [Dou Xiaobo](https://github.com/douxiaobo) |
+| 105 | [ccwc](https://github.com/ShakibUddin/custom-wc-tool) | Node.js | [ShakibUddin](https://github.com/ShakibUddin) |
+| 106 | [ccwc](https://github.com/AbuCarlo/CodingChallenges/tree/main/ccwc) | Go | [AbuCarlo](https://github.com/AbuCarlo) |
+| 107 | [wccpp](https://github.com/IdrisCodes/wccpp) | C++ | [IdrisCodes](https://github.com/IdrisCodes) |
