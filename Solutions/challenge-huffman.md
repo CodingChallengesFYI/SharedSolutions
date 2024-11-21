@@ -24,3 +24,7 @@ The shared solutions:
 | 16 | [Write Your Own Compression Tool](https://github.com/IvanGael/Go-HuffmanCompresser) | Go | [Ivan APEDO](https://github.com/IvanGael) |
 | 17 | [huffman_decoder_encoder](https://github.com/elliotwutingfeng/huffman_decoder_encoder) | Python | [elliotwutingfeng](https://github.com/elliotwutingfeng) |
 | 18 | [Golang Huffman encoder-decoder](https://github.com/TheMedicineSeller/Gompress) | Go | [TheMedicineSeller](https://github.com/TheMedicineSeller) |
+| 19 | [compress](https://github.com/ArunEA/CodingChallengesSolution/tree/master/3-CompressionTool) | Swift | [Arun Eswaramurthi](https://github.com/ArunEA) |
+| 20 | [Comprust](https://github.com/kareemmahlees/coding_challenges_solutions/blob/master/comprust/README.md) | Rust | [Kareem Ebrahim](https://github.com/kareemmahlees) |
+| 21 | [gComp](https://github.com/melsonic/gComp) | Go | [melsonic](https://github.com/melsonic) |
+| 22 | [compresstoolcc](https://github.com/TheRa4ina/compresstoolcc) | C++ | [TheRa4ina](https://github.com/TheRa4ina) |

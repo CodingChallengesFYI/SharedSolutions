@@ -33,4 +33,13 @@ The shared solutions:
 | 24 | [json-parser](https://github.com/p1kalys/Coding_Challenges_by_John_Crickett/tree/main/json_parser)  | JavaScript | [Pavan Emani](https://github.com/p1kalys/) |
 | 25 | [json_parser_clone](https://github.com/arjunsharma-dev1/json_parser_clone)  | Rust | [Arjun Sharma](https://github.com/arjunsharma-dev1) |
 | 26 | [JSON Parser](https://github.com/ahmedsameha1/ccjsonparser)  | Go | [Ahmed Sameh](https://github.com/ahmedsameha1) |
-| 27 | [json-parser](https://github.com/piter0/json-parser)  | C# | [piter0](https://github.com/piter0) |
+| 27 | [json-parser](https://github.com/ArunEA/CodingChallengesSolution/tree/master/2-JSONParser) | Swift | [Arun Eswaramurthi](https://github.com/ArunEA) |
+| 28 | [json_parser](https://github.com/lwcarani/json-parser/tree/main/ocaml/json_parser)  | OCaml | [Luke Carani](https://github.com/lwcarani) |
+| 29 | [Json Parser](https://github.com/kareemmahlees/coding_challenges_solutions/blob/master/json-parser/README.md) | Rust | [Kareem Ebrahim](https://github.com/kareemmahlees) |
+| 30 | [JSON Validator](https://github.com/hlalljie/json-validator-python)  | Python | [Hayden Lalljie](https://github.com/hlalljie) |
+| 31 | [json_parser](https://github.com/Re1nGer/json_parser)  | Go | [Bekjon Ibragimov](https://github.com/re1nger) |
+| 32 | [json-parser](https://github.com/melsonic/json-parser)  | Go | [melsonic](https://github.com/melsonic) |
+| 33 | [json-parser](https://github.com/Infinage/cpp-experiments/tree/main/json-parser)  | C++ | [Naresh Jagadeesn](https://github.com/Infinage) |
+| 34 | [json-parser](https://github.com/rdotjain/json-parser) | Go | [rdotjain](https://github.com/rdotjain) |
+| 35 | [json-parser](https://github.com/ferranjr/build-your-own-in-rust/tree/main/json-parser) | Rust | [ferranjr](https://github.com/ferranjr/) |
+| 36 | [json-parser](https://github.com/piter0/json-parser)  | C# | [piter0](https://github.com/piter0) |
