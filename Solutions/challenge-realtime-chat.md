@@ -8,3 +8,4 @@ The shared solutions:
 |-----|----------|----------|--------|
 | 1 | [realtime-chat](https://github.com/dethancosta/realtime-chat) | Go | [dethancosta](https://github.com/dethancosta) |
 | 2 | [realtime-chat](https://github.com/walvisk/realtime-chat) | Ruby | [walvisk](https://github.com/walvisk) |
+| 3 | [realtime-chat](https://github.com/priyapatelsp/Realtime-Chat-Client-and-Server)  | Java     | [priyapatelsp](https://github.com/priyapatelsp)  |
