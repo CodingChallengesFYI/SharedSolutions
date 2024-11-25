@@ -15,3 +15,4 @@ The shared solutions:
 | 7 | [ccwebserv](https://github.com/neutrinoks/CodingChallenge/tree/main/ccwebserv) | Rust | [neutrinoks](https://github.com/neutrinoks) |
 | 8 | [Web Server](https://github.com/Tevinthuku/coding_challenges_fyi/tree/main/web-server) | Rust | [Tevinthuku](https://github.com/Tevinthuku) |
 | 9 | [Web Server](https://github.com/ferranjr/build-your-own-in-rust/tree/main/web-server) | Rust | [ferranjr](https://github.com/ferranjr/) |
+| 10 | [ccwebserver](https://github.com/ChristofBecu/CodingChallengesFYI.CCWEBSERVER-cpp) | C++ | [Christof Becu](https://github.com/ChristofBecu) |
