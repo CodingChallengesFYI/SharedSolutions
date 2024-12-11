@@ -116,3 +116,4 @@ The shared solutions:
 | 107 | [wccpp](https://github.com/IdrisCodes/wccpp) | C++ | [IdrisCodes](https://github.com/IdrisCodes) |
 | 108 | [ccwc](https://github.com/rajatsing/ccwc) | Go | [Rajat Singh](https://github.com/rajatsing) |
 | 109 | [mywc](https://github.com/Executioner769/mywc) | C | [Executioner769](https://github.com/Executioner769) |
+| 110 | [ccwc](https://github.com/JhonattasFerreira/ccwc) | Python | [JhonattasFerreira](https://github.com/JhonattasFerreira) |
