@@ -117,3 +117,4 @@ The shared solutions:
 | 108 | [ccwc](https://github.com/rajatsing/ccwc) | Go | [Rajat Singh](https://github.com/rajatsing) |
 | 109 | [mywc](https://github.com/Executioner769/mywc) | C | [Executioner769](https://github.com/Executioner769) |
 | 110 | [ccwc](https://github.com/JhonattasFerreira/ccwc) | Python | [JhonattasFerreira](https://github.com/JhonattasFerreira) |
+| 111 | [ccwc.py](https://gitlab.com/Tom-Bichard/cricket_coding_challenges/-/blob/main/Challenge_0001/ccwc.py) | Python | [Tom-Bichard](https://gitlab.com/Tom-Bichard) |
