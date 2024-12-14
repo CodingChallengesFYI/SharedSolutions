@@ -120,3 +120,4 @@ The shared solutions:
 | 111 | [ccwc](https://github.com/Patacode/ccwc) | C | [Patacode](https://github.com/Patacode) |
 | 112 | [ccwc](https://github.com/yildirimmurat/Unix-wc-tool-clone) | Rust | [yildirimmurat](https://github.com/yildirimmurat) |
 | 113 | [ccwc](https://github.com/Mostafa95/wctool) | Python | [Mostafa](https://github.com/Mostafa95) |
+| 114 | [ccwc](https://github.com/berdoezt/ccwc) | Python | [berdoezt](https://github.com/berdoezt) |
