@@ -44,3 +44,4 @@ The shared solutions:
 | 35 | [json-parser](https://github.com/ferranjr/build-your-own-in-rust/tree/main/json-parser) | Rust | [ferranjr](https://github.com/ferranjr/) |
 | 36 | [json-parser](https://github.com/piter0/json-parser)  | C# | [piter0](https://github.com/piter0) |
 | 37 | [JSON-VERIFIER](https://github.com/viralcodex/json-verifier-cli/)  | C# | [Aviral Shukla](https://github.com/viralcodex) |
+| 38 | [json-parser](https://github.com/yildirimmurat/Json-parser)  | Rust | [yildirimmurat](https://github.com/yildirimmurat) |
