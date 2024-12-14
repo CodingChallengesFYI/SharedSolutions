@@ -12,3 +12,4 @@ The shared solutions:
 | 4 | [go-diff](https://github.com/iamvineettiwari/go-diff) | Go | [iamvineettiwari](https://github.com/iamvineettiwari) |
 | 5 | [Write Your Own diff Tool](https://github.com/malahor1610/Differ) | Java | [malahor1610](https://github.com/malahor1610) |
 | 6 | [Write Your Own diff Tool](https://github.com/alexkhilko/diff) | Python | [alexkhilko](https://github.com/alexkhilko) |
+| 7 | [Write Your Own diff Tool](https://github.com/PraWek/diff-tool) | Python | [PraWek](https://github.com/PraWek) |

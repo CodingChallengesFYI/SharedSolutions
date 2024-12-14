@@ -114,4 +114,8 @@ The shared solutions:
 | 105 | [ccwc](https://github.com/ShakibUddin/custom-wc-tool) | Node.js | [ShakibUddin](https://github.com/ShakibUddin) |
 | 106 | [ccwc](https://github.com/AbuCarlo/CodingChallenges/tree/main/ccwc) | Go | [AbuCarlo](https://github.com/AbuCarlo) |
 | 107 | [wccpp](https://github.com/IdrisCodes/wccpp) | C++ | [IdrisCodes](https://github.com/IdrisCodes) |
-| 108 | [ccwc](https://github.com/yildirimmurat/Unix-wc-tool-clone) | Rust | [yildirimmurat](https://github.com/yildirimmurat) |
+| 108 | [ccwc](https://github.com/rajatsing/ccwc) | Go | [Rajat Singh](https://github.com/rajatsing) |
+| 109 | [mywc](https://github.com/Executioner769/mywc) | C | [Executioner769](https://github.com/Executioner769) |
+| 110 | [ccwc](https://github.com/JhonattasFerreira/ccwc) | Python | [JhonattasFerreira](https://github.com/JhonattasFerreira) |
+| 111 | [ccwc](https://github.com/Patacode/ccwc) | C | [Patacode](https://github.com/Patacode) |
+| 112 | [ccwc](https://github.com/yildirimmurat/Unix-wc-tool-clone) | Rust | [yildirimmurat](https://github.com/yildirimmurat) |
