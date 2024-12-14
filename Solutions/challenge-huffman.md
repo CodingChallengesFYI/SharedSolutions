@@ -28,3 +28,4 @@ The shared solutions:
 | 20 | [Comprust](https://github.com/kareemmahlees/coding_challenges_solutions/blob/master/comprust/README.md) | Rust | [Kareem Ebrahim](https://github.com/kareemmahlees) |
 | 21 | [gComp](https://github.com/melsonic/gComp) | Go | [melsonic](https://github.com/melsonic) |
 | 22 | [compresstoolcc](https://github.com/TheRa4ina/compresstoolcc) | C++ | [TheRa4ina](https://github.com/TheRa4ina) |
+| 23 | [compression_tool](https://github.com/yildirimmurat/compression_tool) | Rust | [yildirimmurat](https://github.com/yildirimmurat) |
