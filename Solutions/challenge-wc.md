@@ -121,3 +121,4 @@ The shared solutions:
 | 112 | [ccwc](https://github.com/yildirimmurat/Unix-wc-tool-clone) | Rust | [yildirimmurat](https://github.com/yildirimmurat) |
 | 113 | [ccwc](https://github.com/Mostafa95/wctool) | Python | [Mostafa](https://github.com/Mostafa95) |
 | 114 | [ccwc](https://github.com/berdoezt/ccwc) | Python | [berdoezt](https://github.com/berdoezt) |
+| 115 | [ccwc.py](https://gitlab.com/Tom-Bichard/cricket_coding_challenges/-/blob/main/Challenge_0001/ccwc.py) | Python | [Tom-Bichard](https://gitlab.com/Tom-Bichard) |
