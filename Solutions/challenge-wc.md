@@ -117,4 +117,8 @@ The shared solutions:
 | 108 | [ccwc](https://github.com/rajatsing/ccwc) | Go | [Rajat Singh](https://github.com/rajatsing) |
 | 109 | [mywc](https://github.com/Executioner769/mywc) | C | [Executioner769](https://github.com/Executioner769) |
 | 110 | [ccwc](https://github.com/JhonattasFerreira/ccwc) | Python | [JhonattasFerreira](https://github.com/JhonattasFerreira) |
-| 111 | [ccwc.py](https://gitlab.com/Tom-Bichard/cricket_coding_challenges/-/blob/main/Challenge_0001/ccwc.py) | Python | [Tom-Bichard](https://gitlab.com/Tom-Bichard) |
+| 111 | [ccwc](https://github.com/Patacode/ccwc) | C | [Patacode](https://github.com/Patacode) |
+| 112 | [ccwc](https://github.com/yildirimmurat/Unix-wc-tool-clone) | Rust | [yildirimmurat](https://github.com/yildirimmurat) |
+| 113 | [ccwc](https://github.com/Mostafa95/wctool) | Python | [Mostafa](https://github.com/Mostafa95) |
+| 114 | [ccwc](https://github.com/berdoezt/ccwc) | Python | [berdoezt](https://github.com/berdoezt) |
+| 115 | [ccwc.py](https://gitlab.com/Tom-Bichard/cricket_coding_challenges/-/blob/main/Challenge_0001/ccwc.py) | Python | [Tom-Bichard](https://gitlab.com/Tom-Bichard) |
