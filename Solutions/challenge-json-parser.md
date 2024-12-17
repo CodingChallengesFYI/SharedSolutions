@@ -45,4 +45,4 @@ The shared solutions:
 | 36 | [json-parser](https://github.com/piter0/json-parser)  | C# | [piter0](https://github.com/piter0) |
 | 37 | [JSON-VERIFIER](https://github.com/viralcodex/json-verifier-cli/)  | C# | [Aviral Shukla](https://github.com/viralcodex) |
 | 38 | [json-parser](https://github.com/yildirimmurat/Json-parser)  | Rust | [yildirimmurat](https://github.com/yildirimmurat) |
-| 39 | [JSON Validator] (https://gitlab.com/Tom-Bichard/cricket_coding_challenges/-/tree/main/Challenge_0002) | Python | [Tom-Bichard](https://gitlab.com/Tom-Bichard) |
+| 39 | [JSON Validator](https://gitlab.com/Tom-Bichard/cricket_coding_challenges/-/tree/main/Challenge_0002) | Python | [Tom-Bichard](https://gitlab.com/Tom-Bichard) |
