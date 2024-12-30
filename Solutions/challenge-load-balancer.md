@@ -32,4 +32,5 @@ The shared solutions:
 | 22 | [load-balancer](http://github.com/ronaldsuwandi/challenge_load_balancer/) | Rust | [Ronald Suwandi](https://github.com/ronaldsuwandi/) |
 | 23 | [Load Balancer](https://github.com/abhi11210646/load-balancer) | Go | [abhi11210646](https://github.com/abhi11210646) |
 | 24 | [Load Balancer](https://github.com/r1999-ron/akka-http-load-balancer) | Scala | [r1999-ron](https://github.com/r1999-ron) |
-| 25 | [Load Balancer](https://github.com/kanhayaKy/load-balancer/) | Python | [kanhayaKy](https://github.com/kanhayaky) |
+| 25 | [Load Balancer](https://github.com/yildirimmurat/load-balancer) | Rust | [yildirimmurat](https://github.com/yildirimmurat) |
+| 26 | [Load Balancer](https://github.com/kanhayaKy/load-balancer/) | Python | [kanhayaKy](https://github.com/kanhayaky) |
