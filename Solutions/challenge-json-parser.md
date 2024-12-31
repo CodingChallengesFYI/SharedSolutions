@@ -47,3 +47,4 @@ The shared solutions:
 | 38 | [json-parser](https://github.com/yildirimmurat/Json-parser)  | Rust | [yildirimmurat](https://github.com/yildirimmurat) |
 | 39 | [JSON Validator](https://gitlab.com/Tom-Bichard/cricket_coding_challenges/-/tree/main/Challenge_0002) | Python | [Tom-Bichard](https://gitlab.com/Tom-Bichard) |
 | 40 | [json-parser](https://github.com/Mostafa95/JsonParser)  | Python | [Mostafa](https://github.com/Mostafa95) |
+| 41 | [json-parser](https://github.com/ozedd-ee/json-parser)  | Go | [ozedd-ee](https://github.com/ozedd-ee) |
