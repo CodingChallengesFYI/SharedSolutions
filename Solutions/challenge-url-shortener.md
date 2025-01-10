@@ -32,3 +32,5 @@ The shared solutions:
 | 24 | [ShURL](https://github.com/malahor1610/ShURL) | Kotlin | [malahor1610](https://github.com/malahor1610) |
 | 25 | [url_shortener](https://github.com/ashishsinghin/url_shortener) | Go | [Ashish Singh](https://github.com/ashishsinghin) |
 | 26 | [urlshortener](https://github.com/PLT875/urlshortener) | Java | [PLT875](https://github.com/PLT875) |
+| 27 | [urlShortenerRuby](https://github.com/apih99/urlShortenerRuby) | Ruby | [apih99](https://github.com/apih99) |
+
