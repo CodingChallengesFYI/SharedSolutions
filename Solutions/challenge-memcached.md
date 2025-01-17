@@ -13,3 +13,4 @@ The shared solutions:
 | 5 | [Build Your Own Memcached Server](https://github.com/Tevinthuku/coding_challenges_fyi/tree/main/memcached)       | Rust | [Tevinthuku](https://github.com/Tevinthuku) |
 | 6 | [Build Your Own Memcached Cli tool](https://github.com/luka2220/memcached-cli-client)                            | Golang | [Luka2220](https://github.com/luka2220) |
 | 7 | [Build Your Own Memcached Server](https://github.com/ricardodemauro/Rmauro.Servers.MemcachedDotNet)              | C# | [RMauro](https://github.com/ricardodemauro) |
+| 8 | [memcached-ruby](https://github.com/apih99/memcached-ruby)                                                       | Ruby | [apih99](https://github.com/apih99) |

@@ -17,3 +17,5 @@ The shared solutions:
 | 9 | [Write Your Own cat Tool](https://github.com/arnab-ray/coding-challenges/tree/main/src/main/java/org/example/cat_command)        | Java       | [arnab-ray](https://github.com/arnab-ray/) |
 | 10 | [gCat](https://github.com/melsonic/gCat) | Go | [melsonic](https://github.com/melsonic) | 
 | 11 | [Write Your Own cat Tool](https://github.com/ahmedsameha1/cccat) | SML | [Ahmed Sameh](https://github.com/ahmedsameha1) |
+| 12 | [catToolRuby](https://github.com/apih99/catToolRuby) | Ruby | [apih99](https://github.com/apih99) |
+
