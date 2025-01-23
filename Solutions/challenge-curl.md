@@ -12,3 +12,4 @@ The shared solutions:
 | 4 | [Write Your Own Curl](https://github.com/Sidray-Infinity/DumbProjects/tree/master/Curl) | Python | [Sidray-Infinity](https://github.com/Sidray-Infinity)
 | 4 | [Write Your Own Curl](https://github.com/ogzhanolguncu/rs_curl) | Rust | [ogzhanolguncu](https://github.com/ogzhanolguncu)
 | 5 | [Write Your Own Curl](https://github.com/chaudharypraveen98/ccurl) | Rust | [chaudharypraveen98](https://github.com/chaudharypraveen98)
+| 6 | [Write Your Own Curl](https://github.com/Ridwanursustswe18/coding-challanges-curl-clone) | JavaScript | [Ridwanursustswe18](https://github.com/Ridwanursustswe18)
