@@ -14,4 +14,5 @@ The shared solutions:
 | 6 | [Write Your Own diff Tool](https://github.com/alexkhilko/diff) | Python | [alexkhilko](https://github.com/alexkhilko) |
 | 7 | [Write Your Own diff Tool](https://github.com/PraWek/diff-tool) | Python | [PraWek](https://github.com/PraWek) |
 | 8 | [diffRuby](https://github.com/apih99/diffRuby) | Ruby | [apih99](https://github.com/apih99) |
+| 9 | [cdiff](https://github.com/Infinage/cpp-experiments/blob/main/cli/cdiff.cpp) | C++ | [Naresh Jagadeesan](https://github.com/Infinage) |
 
