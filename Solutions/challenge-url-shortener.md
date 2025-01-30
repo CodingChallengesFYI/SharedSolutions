@@ -34,3 +34,4 @@ The shared solutions:
 | 26 | [urlshortener](https://github.com/PLT875/urlshortener) | Java | [PLT875](https://github.com/PLT875) |
 | 27 | [urlShortenerRuby](https://github.com/apih99/urlShortenerRuby) | Ruby | [apih99](https://github.com/apih99) |
 | 28 | [url_shortener](https://github.com/Ridwanursustswe18/coding_challanges_url_shortener) | JavaScript | [Ridwanursustswe18](https://github.com/Ridwanursustswe18) |
+| 29 | [urlshortner](https://github.com/Infinage/cpp-experiments/tree/main/url-shortner) | C++ | [Naresh Jagadeesan](https://github.com/Infinage) |
