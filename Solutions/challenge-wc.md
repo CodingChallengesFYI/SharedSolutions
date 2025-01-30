@@ -124,3 +124,4 @@ The shared solutions:
 | 115 | [ccwc.py](https://gitlab.com/Tom-Bichard/cricket_coding_challenges/-/blob/main/Challenge_0001/ccwc.py) | Python | [Tom-Bichard](https://gitlab.com/Tom-Bichard) |
 | 116 | [wc_tool](https://github.com/apih99/wc_tool) | Python | [Apih99](https://github.com/apih99) |
 | 117 | [ccwc](https://github.com/strozz1/zig-challenges/tree/master/wc) | Zig | [Strozz1](https://github.com/strozz1) |
+| 118 | [cswc](https://github.com/avgra3/cswc) | C# | [Antony G.](https://github.com/avgra3) |
