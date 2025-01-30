@@ -71,5 +71,6 @@ Essentially:
 - [Build your own Sudoku](Solutions/challenge-sudoku.md)
 - [Build your own Zip File Cracker](Solutions/challenge-zip-file-cracker.md)
 - [Build your own brainf_ck interpreter](Solutions/challenge-brainf_ck.md)
+- [Build your own Netcat](Solutions/challenge-netcat.md)
 
 <p align="right">(<a href="#top">🔼 Back to top</a>)</p>
