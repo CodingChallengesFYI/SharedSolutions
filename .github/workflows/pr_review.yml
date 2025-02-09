@@ -1,0 +1,44 @@
+name: PR Review Automation
+
+on:
+  pull_request:
+    types: [opened, synchronize]
+
+jobs:
+  review-pr:
+    runs-on: ubuntu-latest  # Change to macos-latest if using Mac
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Install Dependencies
+        run: |
+          sudo apt update
+          sudo apt install -y jq curl
+
+      - name: Install Ollama
+        run: |
+          curl -fsSL https://ollama.com/install.sh | bash
+          nohup ollama serve > /dev/null 2>&1 &  # Run Ollama in background
+
+      - name: Fetch PR Changes
+        run: |
+          CHANGED_FILES=$(git diff --name-only origin/main...HEAD)
+          echo "Changed Files:"
+          echo "$CHANGED_FILES"
+
+      - name: Run PR Review with Ollama
+        run: |
+          REVIEW_TEXT=""
+          for FILE in $CHANGED_FILES; do
+            CODE=$(cat "$FILE")
+            REVIEW_TEXT+="Review for $FILE:\n"
+            REVIEW_TEXT+="$(echo "$CODE" | ollama run pr-reviewer)\n\n"
+          done
+          echo -e "$REVIEW_TEXT" > pr_review.txt
+
+      - name: Post PR Review Comments
+        uses: thollander/actions-comment-pull-request@v2
+        with:
+          message: "$(cat pr_review.txt)"
