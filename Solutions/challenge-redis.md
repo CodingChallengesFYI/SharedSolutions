@@ -34,3 +34,4 @@ The shared solutions:
 | 26 | [redisServerRust](https://github.com/apih99/redisServerRust) | Rust | [apih99](https://github.com/apih99) |
 | 27 | [Redis-server(valkeyper)](https://github.com/vansh845/valkeyper) | Go | [vansh845](https://github.com/vansh845) |
 | 28 | [Redis Server](https://github.com/Infinage/cpp-experiments/tree/main/redis-server) | C++ | [Naresh Jagadeesan](https://github.com/Infinage) |
+| 29 | [Redis Server Solution](https://github.com/kanhayaky/redis) | Python | [kanhayaky](https://github.com/kanhayaky) |
