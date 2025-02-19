@@ -125,3 +125,4 @@ The shared solutions:
 | 116 | [wc_tool](https://github.com/apih99/wc_tool) | Python | [Apih99](https://github.com/apih99) |
 | 117 | [ccwc](https://github.com/strozz1/zig-challenges/tree/master/wc) | Zig | [Strozz1](https://github.com/strozz1) |
 | 118 | [cswc](https://github.com/avgra3/cswc) | C# | [Antony G.](https://github.com/avgra3) |
+| 119 | [word-count-tool](https://github.com/kiner-shah/MySolutionsToCodingChallenges/blob/main/word-count-tool/) | C++ | [Kiner Shah](https://github.com/kiner-shah) |
