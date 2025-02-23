@@ -72,6 +72,6 @@ Essentially:
 - [Build your own Zip File Cracker](Solutions/challenge-zip-file-cracker.md)
 - [Build your own brainf_ck interpreter](Solutions/challenge-brainf_ck.md)
 - [Build your own Netcat](Solutions/challenge-netcat.md)
-- [Build Your Own Mandelbrot Set Explorer](Solutions/challenge-mandelbrot.md)
+- [Build your own Mandelbrot Set Explorer](Solutions/challenge-mandelbrot.md)
 
 <p align="right">(<a href="#top">🔼 Back to top</a>)</p>
