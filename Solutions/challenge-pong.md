@@ -1,6 +1,6 @@
-# Build your own Pong
+# Build Your Own Pong
 
-The Challenge: [Write your own Pong](https://codingchallenges.fyi/challenges/challenge-pong)
+The Challenge: [Build Your Own Pong](https://codingchallenges.fyi/challenges/challenge-pong)
 
 The shared solutions:
 
@@ -10,3 +10,4 @@ The shared solutions:
 | 2   | [Write Your Own Pong](https://github.com/KPaccarizi/_Pong_Game) | Python   | [[Kujtesa Pacrizi](https://github.com/KPaccarizi)]   |
 | 3   | [Write Your Own Pong](https://github.com/Erkanerkisi/pong)      | Go       | [Erkan Erkisi](https://github.com/Erkanerkisi)       |
 | 4   | [Write Your Own Pong](https://github.com/Ramzi-Abidi/Pong)      | TS       | [Ramzi Abidi](https://github.com/Ramzi-Abidi)        |
+| 5   | [cc.fyi.pong](https://github.com/buckfullingham/cc.fyi.pong)    | C++      | [buckfullingham](https://github.com/buckfullingham)  |

@@ -125,3 +125,6 @@ The shared solutions:
 | 116 | [wc_tool](https://github.com/apih99/wc_tool) | Python | [Apih99](https://github.com/apih99) |
 | 117 | [ccwc](https://github.com/strozz1/zig-challenges/tree/master/wc) | Zig | [Strozz1](https://github.com/strozz1) |
 | 118 | [cswc](https://github.com/avgra3/cswc) | C# | [Antony G.](https://github.com/avgra3) |
+| 119 | [ccwc](https://github.com/suraj-mandal/ccwc-java) | Java | [Paradise_Cat23](https://github.com/suraj-mandal) |
+| 120 | [hkwc](https://github.com/hard02/hkwc) | Python | [Hardik K.](https://github.com/hard02) |
+
