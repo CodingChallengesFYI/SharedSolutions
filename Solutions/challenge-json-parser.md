@@ -49,4 +49,5 @@ The shared solutions:
 | 40 | [json-parser](https://github.com/Mostafa95/JsonParser)  | Python | [Mostafa](https://github.com/Mostafa95) |
 | 41 | [json-parser](https://github.com/ozedd-ee/json-parser)  | Go | [ozedd-ee](https://github.com/ozedd-ee) |
 | 42 | [jsonParser](https://github.com/apih99/jsonParser)  | Python | [apih99](https://github.com/apih99) |
-| 43 | [jsonParser](https://github.com/MohitSinghal2811/lld/tree/master/jsonParser) | Java | [Mohit Singhal](https://github.com/MohitSinghal2811)
+| 43 | [jsonParser](https://github.com/isaiicatmat/JSONParser)  | JavaScript | [isaiicatmat](https://github.com/isaiicatmat) |
+| 44 | [jsonParser](https://github.com/MohitSinghal2811/lld/tree/master/jsonParser) | Java | [Mohit Singhal](https://github.com/MohitSinghal2811)
