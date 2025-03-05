@@ -128,3 +128,5 @@ The shared solutions:
 | 119 | [ccwc](https://github.com/suraj-mandal/ccwc-java) | Java | [Paradise_Cat23](https://github.com/suraj-mandal) |
 | 120 | [hkwc](https://github.com/hard02/hkwc) | Python | [Hardik K.](https://github.com/hard02) |
 | 121 | [ccwc](https://github.com/mattgorle/cc_php_001_wc) | PHP | [Matt G.](https://github.com/mattgorle) |
+| 122 | [ccwc](https://github.com/kirajano/ccwc) | Python | [Kiril K.](https://github.com/kirajano) |
+
