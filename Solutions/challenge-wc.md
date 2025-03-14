@@ -130,3 +130,4 @@ The shared solutions:
 | 121 | [ccwc](https://github.com/mattgorle/cc_php_001_wc) | PHP | [Matt G.](https://github.com/mattgorle) |
 | 122 | [ccwc](https://github.com/kirajano/ccwc) | Python | [Kiril K.](https://github.com/kirajano) |
 | 123 | [word-count-tool](https://github.com/kiner-shah/MySolutionsToCodingChallenges/blob/main/word-count-tool/) | C++ | [Kiner Shah](https://github.com/kiner-shah) |
+| 124 | [byo-wc-tool](https://github.com/sfogfar/byo-wc-tool) | Clojure | [sfogfar](https://github.com/sfogfar) |
