@@ -70,5 +70,9 @@ Essentially:
 - [Build your own Redis Cli](Solutions/challenge-redis-cli.md)
 - [Build your own Sudoku](Solutions/challenge-sudoku.md)
 - [Build your own Zip File Cracker](Solutions/challenge-zip-file-cracker.md)
+- [Build your own brainf_ck interpreter](Solutions/challenge-brainf_ck.md)
+- [Build your own Netcat](Solutions/challenge-netcat.md)
+- [Build your own Video Chat Application](Solutions/challenge-video-chat.md)
+- [Build your own Mandelbrot Set Explorer](Solutions/challenge-mandelbrot.md)
 
 <p align="right">(<a href="#top">🔼 Back to top</a>)</p>

@@ -33,3 +33,6 @@ The shared solutions:
 | 25 | [redis-server](https://github.com/ozedd-ee/redis-go) | Go | [ozedd-ee](https://github.com/ozedd-ee) |
 | 26 | [redisServerRust](https://github.com/apih99/redisServerRust) | Rust | [apih99](https://github.com/apih99) |
 | 27 | [Redis-server(valkeyper)](https://github.com/vansh845/valkeyper) | Go | [vansh845](https://github.com/vansh845) |
+| 28 | [Redis Server](https://github.com/Infinage/cpp-experiments/tree/main/redis-server) | C++ | [Naresh Jagadeesan](https://github.com/Infinage) |
+| 29 | [Redis Server](https://github.com/msharran/codingchallenges.fyi/tree/main/redis-server/zig-redis-server) | Zig | [Sharran](https://github.com/msharran) |
+| 30 | [redis](https://github.com/Abdulrahman-Tayara/redis) | Go | [Abdulrahman-Tayara](https://github.com/Abdulrahman-Tayara) |

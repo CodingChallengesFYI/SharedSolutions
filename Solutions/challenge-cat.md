@@ -18,4 +18,5 @@ The shared solutions:
 | 10 | [gCat](https://github.com/melsonic/gCat) | Go | [melsonic](https://github.com/melsonic) | 
 | 11 | [Write Your Own cat Tool](https://github.com/ahmedsameha1/cccat) | SML | [Ahmed Sameh](https://github.com/ahmedsameha1) |
 | 12 | [catToolRuby](https://github.com/apih99/catToolRuby) | Ruby | [apih99](https://github.com/apih99) |
-
+| 13 | [catToolJavaScript](https://github.com/Ridwanursustswe18/coding-challanges-cat-tool) | JavaScript | [Ridwanursustswe18](https://github.com/Ridwanursustswe18) |
+| 14 | [Write Your Own cat Tool](https://github.com/Proxihox/Write-your-own-Cat-tool) | C++ | [Proxihox](https://github.com/Proxihox) |

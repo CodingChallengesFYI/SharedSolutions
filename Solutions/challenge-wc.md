@@ -123,3 +123,10 @@ The shared solutions:
 | 114 | [ccwc](https://github.com/berdoezt/ccwc) | Python | [berdoezt](https://github.com/berdoezt) |
 | 115 | [ccwc.py](https://gitlab.com/Tom-Bichard/cricket_coding_challenges/-/blob/main/Challenge_0001/ccwc.py) | Python | [Tom-Bichard](https://gitlab.com/Tom-Bichard) |
 | 116 | [wc_tool](https://github.com/apih99/wc_tool) | Python | [Apih99](https://github.com/apih99) |
+| 117 | [ccwc](https://github.com/strozz1/zig-challenges/tree/master/wc) | Zig | [Strozz1](https://github.com/strozz1) |
+| 118 | [cswc](https://github.com/avgra3/cswc) | C# | [Antony G.](https://github.com/avgra3) |
+| 119 | [ccwc](https://github.com/suraj-mandal/ccwc-java) | Java | [Paradise_Cat23](https://github.com/suraj-mandal) |
+| 120 | [hkwc](https://github.com/hard02/hkwc) | Python | [Hardik K.](https://github.com/hard02) |
+| 121 | [ccwc](https://github.com/mattgorle/cc_php_001_wc) | PHP | [Matt G.](https://github.com/mattgorle) |
+| 122 | [ccwc](https://github.com/kirajano/ccwc) | Python | [Kiril K.](https://github.com/kirajano) |
+| 123 | [word-count-tool](https://github.com/kiner-shah/MySolutionsToCodingChallenges/blob/main/word-count-tool/) | C++ | [Kiner Shah](https://github.com/kiner-shah) |
