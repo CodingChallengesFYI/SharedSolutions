@@ -14,4 +14,5 @@ The shared solutions:
 | 6 | [gshell](https://github.com/DukeBWard/gshell) | Go | [DukeBWard](https://github.com/DukeBWard) |
 | 7 | [shellRuby](https://github.com/apih99/shellRuby) | Ruby | [apih99](https://github.com/apih99) |
 | 8 | [csh](https://github.com/Infinage/cpp-experiments/blob/main/cli/csh.cpp) | C++ | [Naresh Jagadeesan](https://github.com/Infinage) |
+| 9 | [shell](https://github.com/Ridwanursustswe18/cc-sh) | Java| [Ridwanursustswe18](https://github.com/Ridwanursustswe18) |
 
