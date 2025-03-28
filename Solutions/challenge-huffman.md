@@ -31,3 +31,4 @@ The shared solutions:
 | 23 | [compression_tool](https://github.com/yildirimmurat/compression_tool) | Rust | [yildirimmurat](https://github.com/yildirimmurat) |
 | 24 | [Huffman Compression Tool](https://gitlab.com/Tom-Bichard/cricket_coding_challenges/-/tree/main/Challenge_0003) | Python | [Tom-Bichard](https://gitlab.com/Tom-Bichard) |
 | 25 | [HuffmanCompressor](https://github.com/apih99/huffmanCompressor) | Python | [apih99](https://github.com/apih99) |
+| 26 | [compression-tool](https://github.com/kiner-shah/MySolutionsToCodingChallenges/tree/main/compression-tool) | C++ | [Kiner Shah](https://github.com/kiner-shah) |
