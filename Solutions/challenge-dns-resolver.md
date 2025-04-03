@@ -19,4 +19,5 @@ The shared solutions:
 | 11 | [Simple DNS-Resolver](https://github.com/anvayabn/DnsResolverInRust-.git) | Rust | [anvayabn](https://github.com/anvayabn) |
 | 12 | [unnije](https://github.com/dlion/unnije) | Go | [dlion](https://github.com/dlion) |
 | 13 | [dns-resolver](https://github.com/prashant1k99/dns-resolver) | Go | [prashant1k99](https://github.com/prashant1k99) |
-
+| 14 | [dns-resolver](https://github.com/mk-milly02/dns-resolver) | Go | [mk-milly02](https://github.com/mk-milly02) |
+| 15 | [rbdig](https://github.com/panacotar/rbdig) | Ruby | [panacotar](https://github.com/panacotar) |
