@@ -132,3 +132,4 @@ The shared solutions:
 | 123 | [word-count-tool](https://github.com/kiner-shah/MySolutionsToCodingChallenges/blob/main/word-count-tool/) | C++ | [Kiner Shah](https://github.com/kiner-shah) |
 | 124 | [ccwc_go](https://github.com/TawalMc/coding_challenges_build_your_x/tree/main/ccwc/go) | Go | [TawalMc](https://github.com/TawalMc) |
 | 125 | [byo-wc-tool](https://github.com/sfogfar/byo-wc-tool) | Clojure | [sfogfar](https://github.com/sfogfar) |
+| 126 | [ccwc](https://github.com/FreekVanDooren/ccwc) | Java | [FreekVanDooren](https://github.com/FreekVanDooren) |
