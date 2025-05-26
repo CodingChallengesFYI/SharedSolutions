@@ -1,37 +1,93 @@
-# Challenge 3 - Write Your Own Compression Tool
+# 🗜️ Huffman Compression Tool in Node.js
 
-This challenge corresponds to the third part of the Coding Challenges series by John Crickett https://codingchallenges.fyi/challenges/challenge-huffman.
+This project implements a basic **file compressor and decompressor** using the [Huffman coding algorithm](https://en.wikipedia.org/wiki/Huffman_coding), built entirely in **Node.js**.
 
-## Description
+> 💡 This project was created as part of [John Crickett’s]() _"Coding Challenges"_ challenge series.
 
-This is a command line tool used to compress a given file using the [Huffman coding algorithm](https://en.wikipedia.org/wiki/Huffman_coding).
+---
 
-- `priority-queue.js` - This file contains the class definition for the prority queue.
+## 📦 Features
 
-- `create-node.js` - This file contains the class definition for the node in the huffman tree.
+- 📊 Builds a Huffman tree from character frequencies
+- 🔢 Generates binary codes for each character
+- 💾 Compresses and decompresses `.txt` files
+- 🧠 Minimal implementation without external libraries
+- ⚡ Optimized with priority queues and efficient tree traversal
 
-- `create-frequency-table.js` - This file contains the function for the frequency count for each character.
+---
 
-- `build-tree.js` - This file contains the function used to build the huffman tree. Each internal node has a left child, a right child and a frequency count. Each leaf node has a frequency count, and a value determining the character.
+## 🚀 Getting Started
 
-- `create-codes` - This file contains the function for generating prefix codes for all the characters in the input file.
+### Prerequisites
 
-- `index.ts` - This file contains the main function which is the entry point of the command line tool.
+- [Node.js](https://nodejs.org/) (v14 or newer recommended)
 
-## Usage
-
-You can use node to run the command line tool as follows
-
-```bash
-# To compress a file
-node index.js --compress <input-file> <output-file>
-```
-
-Where the `input-file` corresponds to the file to be compressed and the `output-file` corresponds to the compressed file.
+### Clone the Repository
 
 ```bash
-# To decompress a file
-node index.js --decompress <compressed-file> <output-file>
+git clone https://github.com/your-username/huffman-compressor.git
+cd huffman-compressor
 ```
 
-Where the `compressed-file` corresponds to the compressed input file and the `output-file` corresponds to the decompressed file.
+### Usage
+
+#### 1. Compress a file
+
+```bash
+node huffman.js input.txt --compress
+```
+
+- Creates a file called `compressed.txt`
+
+#### 2. Decompress a file
+
+```bash
+node huffman.js compressed.txt --decompress
+```
+
+- Creates a file called `decompressed.txt`
+
+---
+
+## 🧠 How It Works
+
+### Compression
+
+1. Count character frequencies
+2. Build a min-heap (priority queue)
+3. Construct a binary Huffman tree
+4. Generate binary codes for each character
+5. Encode message using generated codes
+6. Serialize the tree + encoded string to a file
+
+### Decompression
+
+1. Deserialize the Huffman tree
+2. Traverse the tree according to each bit
+3. Recover original characters and write output
+
+---
+
+## 📁 Project Structure
+
+```
+huffman-compressor/
+│
+├── index.js           # Main script (compress/decompress)
+├── input.txt            # Sample input file
+├── compressed.txt       # Output after compression
+├── decompressed.txt     # Output after decompression
+└── README.md            # This file
+```
+
+---
+
+## 🔧 Example
+
+```
+Input:        hello huffman
+Compressed:   (binary string + serialized tree)
+Decompressed: hello huffman
+```
+
+---
