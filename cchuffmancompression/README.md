@@ -34,7 +34,7 @@ cd huffman-compressor
 #### 1. Compress a file
 
 ```bash
-node huffman.js input.txt --compress
+node index..js input.txt --compress
 ```
 
 - Creates a file called `compressed.txt`
@@ -42,7 +42,7 @@ node huffman.js input.txt --compress
 #### 2. Decompress a file
 
 ```bash
-node huffman.js compressed.txt --decompress
+node index.js compressed.txt --decompress
 ```
 
 - Creates a file called `decompressed.txt`
