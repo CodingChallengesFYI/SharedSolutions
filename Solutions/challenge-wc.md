@@ -133,3 +133,4 @@ The shared solutions:
 | 124 | [ccwc_go](https://github.com/TawalMc/coding_challenges_build_your_x/tree/main/ccwc/go) | Go | [TawalMc](https://github.com/TawalMc) |
 | 125 | [byo-wc-tool](https://github.com/sfogfar/byo-wc-tool) | Clojure | [sfogfar](https://github.com/sfogfar) |
 | 126 | [ccwc-in-go](https://github.com/DanielHemmati/ccwc-in-go) | Go | [Daniel Hemmati](https://github.com/DanielHemmati) |
+| 127 | [Write Your Own wc Tool](https://gitlab.com/dyno64100/coding-challenges/-/tree/Wc/php) | PHP | [Frederic Poeydomenge](https://gitlab.com/dyno64100) |
