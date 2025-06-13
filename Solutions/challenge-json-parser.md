@@ -49,3 +49,7 @@ The shared solutions:
 | 40 | [json-parser](https://github.com/Mostafa95/JsonParser)  | Python | [Mostafa](https://github.com/Mostafa95) |
 | 41 | [json-parser](https://github.com/ozedd-ee/json-parser)  | Go | [ozedd-ee](https://github.com/ozedd-ee) |
 | 42 | [jsonParser](https://github.com/apih99/jsonParser)  | Python | [apih99](https://github.com/apih99) |
+| 43 | [jsonParser](https://github.com/isaiicatmat/JSONParser)  | JavaScript | [isaiicatmat](https://github.com/isaiicatmat) |
+| 44 | [jsonParser](https://github.com/MohitSinghal2811/lld/tree/master/jsonParser) | Java | [Mohit Singhal](https://github.com/MohitSinghal2811)
+| 45 | [KJsonParser](https://github.com/kiner-shah/MySolutionsToCodingChallenges/tree/main/json-parser) | C++ | [Kiner Shah](https://github.com/kiner-shah) |
+| 46 | [JSON-RDParser](https://github.com/brickster241/JSON-Lexer-Parser-From-Scratch) | Python | [Ashish Verma](https://github.com/brickster241) |

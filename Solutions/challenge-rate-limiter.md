@@ -19,3 +19,5 @@ The shared solutions:
 | 11 | [RateLimiter](https://github.com/rohita/CodingChallenges/blob/main/Sources/CodingChallenges/27-RateLimiter.swift) | Swift | [rohita](https://github.com/rohita) |
 | 12 | [RateLimiter](https://github.com/Tevinthuku/coding_challenges_fyi/tree/main/ratelimiter) | Rust | [Tevinthuku](https://github.com/Tevinthuku) |
 | 13 | [Rate Limiter](https://github.com/melsonic/Rate-Limiter) | Go | [melsonic](https://github.com/melsonic/) |
+| 14 | [Rate Limiter](https://github.com/Ridwanursustswe18/cc-rate-limiter) | JavaScript | [Ridwanursustswe18](https://github.com/Ridwanursustswe18/) |
+| 15 | [rate-limiter](https://github.com/kanhayaky/rate-limiter) | Python | [kanhayaky](https://github.com/kanhayaky) |
