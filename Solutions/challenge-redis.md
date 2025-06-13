@@ -33,3 +33,4 @@ The shared solutions:
 | 25 | [redis-server](https://github.com/ozedd-ee/redis-go) | Go | [ozedd-ee](https://github.com/ozedd-ee) |
 | 26 | [redisServerRust](https://github.com/apih99/redisServerRust) | Rust | [apih99](https://github.com/apih99) |
 | 27 | [Redis-server(valkeyper)](https://github.com/vansh845/valkeyper) | Go | [vansh845](https://github.com/vansh845) |
+| 28 | [Redis-clone](https://github.com/Ridwanursustswe18/redis-clone) | Java | [Ridwanursustswe18](https://github.com/Ridwanursustswe18) |
