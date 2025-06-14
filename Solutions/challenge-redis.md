@@ -36,3 +36,4 @@ The shared solutions:
 | 28 | [Redis Server](https://github.com/Infinage/cpp-experiments/tree/main/redis-server) | C++ | [Naresh Jagadeesan](https://github.com/Infinage) |
 | 29 | [Redis Server](https://github.com/msharran/codingchallenges.fyi/tree/main/redis-server/zig-redis-server) | Zig | [Sharran](https://github.com/msharran) |
 | 30 | [redis](https://github.com/Abdulrahman-Tayara/redis) | Go | [Abdulrahman-Tayara](https://github.com/Abdulrahman-Tayara) |
+| 31 | [Redis Server](https://github.com/Keshav-Rana/Redis-Server) | Python | [Keshav-Rana](https://github.com/Keshav-Rana) |

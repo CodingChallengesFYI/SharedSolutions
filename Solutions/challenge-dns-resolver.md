@@ -21,3 +21,4 @@ The shared solutions:
 | 13 | [dns-resolver](https://github.com/prashant1k99/dns-resolver) | Go | [prashant1k99](https://github.com/prashant1k99) |
 | 14 | [dns-resolver](https://github.com/mk-milly02/dns-resolver) | Go | [mk-milly02](https://github.com/mk-milly02) |
 | 15 | [rbdig](https://github.com/panacotar/rbdig) | Ruby | [panacotar](https://github.com/panacotar) |
+| 16 | [DNS Resolver](https://gitlab.com/dyno64100/coding-challenges/-/tree/DNS-Resolver/python/DnsResolver.py?ref_type=tags) | Python | [Frederic Poeydomenge](https://gitlab.com/dyno64100) |

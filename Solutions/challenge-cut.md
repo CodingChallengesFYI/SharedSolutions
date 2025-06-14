@@ -14,4 +14,4 @@ The shared solutions:
 | 6 | [cccut](https://github.com/yildirimmurat/cccut) | Rust | [yildirimmurat](https://github.com/yildirimmurat) |
 | 7 | [cutTool](https://github.com/apih99/cutTool) | Rust | [apih99](https://github.com/apih99) |
 | 8 | [pycut](https://github.com/victoriacheng15/cc-cut-py) | Python | [victoria Cheng](https://github.com/victoriacheng15) |
-
+| 9 | [KCut](https://github.com/kiner-shah/MySolutionsToCodingChallenges/tree/main/cut-tool) | C++ | [Kiner Shah](https://github.com/kiner-shah) |
