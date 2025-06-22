@@ -74,5 +74,6 @@ Essentially:
 - [Build your own Netcat](Solutions/challenge-netcat.md)
 - [Build your own Video Chat Application](Solutions/challenge-video-chat.md)
 - [Build your own Mandelbrot Set Explorer](Solutions/challenge-mandelbrot.md)
+- [Build your own Duplicate File Finder](Solutions/challenge-duplicate-file-finder.md)
 
 <p align="right">(<a href="#top">🔼 Back to top</a>)</p>
