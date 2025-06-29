@@ -52,3 +52,4 @@ The shared solutions:
 | 43 | [jsonParser](https://github.com/isaiicatmat/JSONParser)  | JavaScript | [isaiicatmat](https://github.com/isaiicatmat) |
 | 44 | [jsonParser](https://github.com/MohitSinghal2811/lld/tree/master/jsonParser) | Java | [Mohit Singhal](https://github.com/MohitSinghal2811)
 | 45 | [KJsonParser](https://github.com/kiner-shah/MySolutionsToCodingChallenges/tree/main/json-parser) | C++ | [Kiner Shah](https://github.com/kiner-shah) |
+| 46 | [json-parser-in-php](https://github.com/DanielHemmati/json-parser-in-php) | php | [Daniel Hemmati](https://github.com/DanielHemmati) |
