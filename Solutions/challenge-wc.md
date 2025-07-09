@@ -134,3 +134,4 @@ The shared solutions:
 | 125 | [byo-wc-tool](https://github.com/sfogfar/byo-wc-tool) | Clojure | [sfogfar](https://github.com/sfogfar) |
 | 126 | [ccwc-in-go](https://github.com/DanielHemmati/ccwc-in-go) | Go | [Daniel Hemmati](https://github.com/DanielHemmati) |
 | 127 | [ccwc](https://github.com/FreekVanDooren/ccwc) | Java | [FreekVanDooren](https://github.com/FreekVanDooren) |
+| 128 | [ccwc](https://github.com/ronySky/CodingChallenges_WcTool) | Java | [ronySky](https://github.com/ronySky/) |
