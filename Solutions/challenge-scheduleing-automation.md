@@ -7,3 +7,4 @@ The shared solutions:
 | No. | Solution | Language | Author |
 |-----|----------|----------|--------|
 | 1 | [SchedulingAutomationApp](https://github.com/Satya753/SchedulingAutomationApp/tree/main) | Java | [Satya753](https://github.com/Satya753) |
+| 2 | [SchedulingAutomationApp](https://github.com/Raman2407kumar/SchedulingAutomationApp) | Java | [Raman2407kumar](https://github.com/Raman2407kumar) |
