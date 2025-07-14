@@ -54,3 +54,4 @@ The shared solutions:
 | 45 | [KJsonParser](https://github.com/kiner-shah/MySolutionsToCodingChallenges/tree/main/json-parser) | C++ | [Kiner Shah](https://github.com/kiner-shah) |
 | 46 | [JSON-RDParser](https://github.com/brickster241/JSON-Lexer-Parser-From-Scratch) | Python | [Ashish Verma](https://github.com/brickster241) |
 | 47 | [my-jp](https://github.com/amrsaqr/my-jp) | C++ | [Amr Saqr](https://github.com/amrsaqr) |
+| 48 | [json_parser](https://github.com/assaidy/json_parser) | ODIN | [Ahmad Assaidy](https://github.com/assaidy) |
