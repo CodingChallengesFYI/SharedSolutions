@@ -14,7 +14,7 @@ The shared solutions:
 | 6 | [Write Your Own wc Tool](https://github.com/sahasrara62/codingchallenges.fyi/tree/main/word_count) | Python | [sahasrara62](https://github.com/sahasrara62/) |
 | 7 | [wc-tool](https://github.com/kanhayaKy/wc-tool) | Ruby | [kanhayaKy](https://github.com/kanhayaKy) |
 | 8 | [ccwc](https://github.com/sujeetsawala/ccwc) | Go | [sujeetsawala](https://github.com/sujeetsawala) |
-| 9 | [Write Your Own wc Tool](https://github.com/lolo8304/coding-challenge/tree/main/no-1) | Java | [lolo8304 ](https://github.com/lolo8304) |
+| 9 | [Write Your Own wc Tool](https://github.com/lolo8304/coding-challenge/tree/main/no-1) | Java | [lolo8304](https://github.com/lolo8304) |
 | 10 | [cc1-unix_wc_tool](https://github.com/yildirimmurat/cc1-unix_wc_tool) | Java | [yildirimmurat](https://github.com/yildirimmurat) |
 | 11 | [ccwc](https://github.com/alphaDia/ccwc) | Python | [alphaDia](https://github.com/alphaDia/) |
 | 12 | [wc-tool](https://github.com/GauravGuptaDeveloper/Coding-Challenges/tree/wc-tool/wc-tool) | Java | [GauravGuptaDeveloper](https://github.com/GauravGuptaDeveloper) |
@@ -58,7 +58,7 @@ The shared solutions:
 | 49 | [wc_tool](https://github.com/WeebMogul/Coding-Challenges-solutions/tree/main/Challenge%201%20-%20wc%20tool) | Python | [weebmogul](https://github.com/WeebMogul) |
 | 50 | [geniewc](https://github.com/arp99/Geniewc) | Javascript | [Arpan Mondal](https://github.com/arp99) |
 | 51 | [wcTool](https://github.com/tlarnold10/coding-challenges/tree/main/wcTool) | Go | [Trevor Arnold](https://github.com/tlarnold10) |
-| 52 | [ccwc_tool](https://github.com/nlazyan/coding-challenges/tree/main/01_ccwc_tool) | JacaScript | [nlazyan](https://github.com/nlazyan) | 
+| 52 | [ccwc_tool](https://github.com/nlazyan/coding-challenges/tree/main/01_ccwc_tool) | JacaScript | [nlazyan](https://github.com/nlazyan) |
 | 53 | [wc_cli](https://github.com/arjunsharma-dev1/wc_cli) | Rust | [Arjun Sharma](https://github.com/arjunsharma-dev1) |
 | 54 | [ccwc](https://github.com/SantiSite/ccwc) | Go | [SantiSite](https://github.com/SantiSite) |
 | 55 | [ccwc](https://github.com/farmeroy/coding-challenges-rust/tree/master/ccww)| Rust       | [Raffaele Cataldo](https://github.com/farmeroy) |
@@ -93,7 +93,7 @@ The shared solutions:
 | 84 | [ccwc](https://github.com/ahmedsameha1/ccwc) | Go | [Ahmed Sameh](https://github.com/ahmedsameha1) |
 | 85 | [ccwc](https://gitlab.com/bzai-public/codingchallenge-word-count) | Scala | [binghao](https://gitlab.com/bzai-public) |
 | 86 | [ccwc](https://github.com/amalhanaja/codingchallenges/tree/main/ccwc) | Rust | [Alfian Akmal Hanantio](https://github.com/amalhanaja) |
-| 87 | [cc-wc-js](https://github.com/victoriacheng15/cc-wc-js) | JavaScript | [Victoria Cheng](https://github.com/victoriacheng15) |
+| 87 | [wc-js](https://github.com/victoriacheng15/coding-challenges-lab/tree/main/javascript/wc-js) | JavaScript | [Victoria Cheng](https://github.com/victoriacheng15) |
 | 88 | [gowc](https://github.com/dlion/gowc) | Go | [Domenico Luciani](https://github.com/dlion) |
 | 89 | [ccwc](https://github.com/DonClaveau3/ccwc) | Go | [DonClaveau3](https://gitlab.com/DonClaveau3) |
 | 90 | [cc-wc](https://github.com/r2munz/cc-wc) | Go | [r2munz](https://github.com/r2munz) |
