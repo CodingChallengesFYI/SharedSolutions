@@ -136,3 +136,4 @@ The shared solutions:
 | 127 | [ccwc](https://github.com/FreekVanDooren/ccwc) | Java | [FreekVanDooren](https://github.com/FreekVanDooren) |
 | 128 | [ccwc](https://github.com/ronySky/CodingChallenges_WcTool) | Java | [ronySky](https://github.com/ronySky/) |
 | 129 | [ccwc-in-python](https://gitlab.com/iamalso-challenges/wc-tool) | Python | IAmAlsoAndy
+| 130 | [Write Your Own wc Tool](https://gitlab.com/dyno64100/coding-challenges/-/tree/Wc/php) | PHP | [Frederic Poeydomenge](https://gitlab.com/dyno64100) |
