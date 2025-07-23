@@ -13,5 +13,4 @@ The shared solutions:
 | 5 | [Write Your Own Calculator](https://github.com/KPaccarizi/Math-Calculator) | JavaScript | [Kujtesa Pacarizi](https://github.com/KPaccarizi) |
 | 6 | [go-calculator](https://github.com/ashishsinghin/go-calculator) | Go | [Ashish Singh](https://github.com/ashishsinghin) |
 | 7 | [calculatorZig](https://github.com/apih99/calculatorZig) | Zig | [apih99](https://github.com/apih99) |
-
-
+| 8 | [KCalculator](https://github.com/kiner-shah/MySolutionsToCodingChallenges/tree/main/calculator-tool) | C++ | [Kiner Shah](https://github.com/kiner-shah) |
