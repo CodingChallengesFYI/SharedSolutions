@@ -55,3 +55,4 @@ The shared solutions:
 | 46 | [JSON-RDParser](https://github.com/brickster241/JSON-Lexer-Parser-From-Scratch) | Python | [Ashish Verma](https://github.com/brickster241) |
 | 47 | [my-jp](https://github.com/amrsaqr/my-jp) | C++ | [Amr Saqr](https://github.com/amrsaqr) |
 | 48 | [json_parser](https://github.com/assaidy/json_parser) | ODIN | [Ahmad Assaidy](https://github.com/assaidy) |
+| 49 | [jpTool](https://github.com/lizardkingLK/coding-challenges/tree/main/jpTool) | C# | [lizardkingLK](https://github.com/lizardkingLK) |
