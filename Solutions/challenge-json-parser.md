@@ -52,4 +52,8 @@ The shared solutions:
 | 43 | [jsonParser](https://github.com/isaiicatmat/JSONParser)  | JavaScript | [isaiicatmat](https://github.com/isaiicatmat) |
 | 44 | [jsonParser](https://github.com/MohitSinghal2811/lld/tree/master/jsonParser) | Java | [Mohit Singhal](https://github.com/MohitSinghal2811)
 | 45 | [KJsonParser](https://github.com/kiner-shah/MySolutionsToCodingChallenges/tree/main/json-parser) | C++ | [Kiner Shah](https://github.com/kiner-shah) |
-| 46 | [json-parser-in-php](https://github.com/DanielHemmati/json-parser-in-php) | php | [Daniel Hemmati](https://github.com/DanielHemmati) |
+| 46 | [JSON-RDParser](https://github.com/brickster241/JSON-Lexer-Parser-From-Scratch) | Python | [Ashish Verma](https://github.com/brickster241) |
+| 47 | [my-jp](https://github.com/amrsaqr/my-jp) | C++ | [Amr Saqr](https://github.com/amrsaqr) |
+| 48 | [json_parser](https://github.com/assaidy/json_parser) | ODIN | [Ahmad Assaidy](https://github.com/assaidy) |
+| 49 | [jpTool](https://github.com/lizardkingLK/coding-challenges/tree/main/jpTool) | C# | [lizardkingLK](https://github.com/lizardkingLK) |
+| 50 | [json-parser-in-php](https://github.com/DanielHemmati/json-parser-in-php) | php | [Daniel Hemmati](https://github.com/DanielHemmati) |
