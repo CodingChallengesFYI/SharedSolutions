@@ -34,6 +34,6 @@ The shared solutions:
 | 24 | [Load Balancer](https://github.com/r1999-ron/akka-http-load-balancer) | Scala | [r1999-ron](https://github.com/r1999-ron) |
 | 25 | [Load Balancer](https://github.com/yildirimmurat/load-balancer) | Rust | [yildirimmurat](https://github.com/yildirimmurat) |
 | 26 | [Load Balancer](https://github.com/kanhayaKy/load-balancer/) | Python | [kanhayaKy](https://github.com/kanhayaky) |
-| 27 | [challenge-node-balancer](https://github.com/AudreyFI/challenge-node-balancer) | NodeJs(Typescript) | [AudreyFI](https://github.com/
+| 27 | [challenge-node-balancer](https://github.com/AudreyFI/challenge-node-balancer) | NodeJs(Typescript) | [AudreyFI](https://github.com/AudreyFI) |
 | 28 | [Load Balancer](https://github.com/varungole/LoadBalancer) | Python | [varungole](https://github.com/varungole) |
-AudreyFI) |
+| 29 | [KLoadBalancer](https://github.com/kiner-shah/MySolutionsToCodingChallenges/tree/main/load-balancer) | C++ | [Kiner Shah](https://github.com/kiner-shah) |
