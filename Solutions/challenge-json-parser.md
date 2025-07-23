@@ -56,3 +56,4 @@ The shared solutions:
 | 47 | [my-jp](https://github.com/amrsaqr/my-jp) | C++ | [Amr Saqr](https://github.com/amrsaqr) |
 | 48 | [json_parser](https://github.com/assaidy/json_parser) | ODIN | [Ahmad Assaidy](https://github.com/assaidy) |
 | 49 | [jpTool](https://github.com/lizardkingLK/coding-challenges/tree/main/jpTool) | C# | [lizardkingLK](https://github.com/lizardkingLK) |
+| 50 | [json-parser-in-php](https://github.com/DanielHemmati/json-parser-in-php) | php | [Daniel Hemmati](https://github.com/DanielHemmati) |
