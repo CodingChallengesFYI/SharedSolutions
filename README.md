@@ -76,5 +76,6 @@ Essentially:
 - [Build your own Mandelbrot Set Explorer](Solutions/challenge-mandelbrot.md)
 - [Build your own Asteroids](Solutions/challenge-asteroids.md)
 - [Build your own which](Solutions/challenge-which.md)
+- [Build your own Line of Code Counter](Solutions/challenge-cloc.md)
 
 <p align="right">(<a href="#top">🔼 Back to top</a>)</p>
