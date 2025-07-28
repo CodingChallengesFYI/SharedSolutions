@@ -7,4 +7,5 @@ The shared solutions:
 | No. | Solution | Language | Author |
 |-----|----------|----------|--------|
 | 1 | [Build Your Own LOC Counter](https://github.com/KushnerykPavel/go-loc) | Go | [KushnerykPavel](https://github.com/KushnerykPavel) |
+| 2 | [Build Your Own LOC Counter](https://github.com/mrsouravraj/CodingChallenges/tree/master/CC-92-LOC_Counter) | Python | [mrsouravraj](https://github.com/mrsouravraj) |
 
