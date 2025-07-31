@@ -37,3 +37,4 @@ The shared solutions:
 | 27 | [challenge-node-balancer](https://github.com/AudreyFI/challenge-node-balancer) | NodeJs(Typescript) | [AudreyFI](https://github.com/AudreyFI) |
 | 28 | [Load Balancer](https://github.com/varungole/LoadBalancer) | Python | [varungole](https://github.com/varungole) |
 | 29 | [KLoadBalancer](https://github.com/kiner-shah/MySolutionsToCodingChallenges/tree/main/load-balancer) | C++ | [Kiner Shah](https://github.com/kiner-shah) |
+| 30 | [go-balancer](https://github.com/ajayanti75/go-balancer) | Go | [ajayanti75](https://github.com/ajayanti75) |
