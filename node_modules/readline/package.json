@@ -1,0 +1,22 @@
+{
+  "name": "readline",
+  "version": "1.3.0",
+  "description": "Simple streaming readline module.",
+  "main": "readline.js",
+  "scripts": {
+    "test": "tap --tap  --stderr --timeout=120 test/*.js"
+  },
+  "dependencies":{},
+  "devDependencies":{
+   "tap":"0.4.3",
+   "iconv-lite":"0.4.13"
+  },
+  "repository": "git@github.com:maleck13/readline.git",
+  "keywords": [
+    "readline",
+    "line by line",
+    "file"
+  ],
+  "author": "craig brookes",
+  "license": "BSD"
+}
