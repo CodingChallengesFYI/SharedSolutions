@@ -10,3 +10,4 @@ The shared solutions:
 | 2 | [realtime-chat](https://github.com/walvisk/realtime-chat) | Ruby | [walvisk](https://github.com/walvisk) |
 | 3 | [realtime-chat](https://github.com/priyapatelsp/Realtime-Chat-Client-and-Server)  | Java     | [priyapatelsp](https://github.com/priyapatelsp)  |
 | 4 | [realtime-chat](https://github.com/kanhayaky/realtime-chat) | Python | [Kanhaya](https://github.com/kanhayaky) |
+| 5 | [realtime-chat](https://github.com/ayaderaghul/realtime-chat-nodejs) | Nodejs | [ChiNguyen](https://github.com/ayaderaghul)
