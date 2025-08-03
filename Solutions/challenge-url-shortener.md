@@ -36,3 +36,4 @@ The shared solutions:
 | 28 | [url_shortener](https://github.com/Ridwanursustswe18/coding_challanges_url_shortener) | JavaScript | [Ridwanursustswe18](https://github.com/Ridwanursustswe18) |
 | 29 | [urlshortner](https://github.com/Infinage/cpp-experiments/tree/main/url-shortner) | C++ | [Naresh Jagadeesan](https://github.com/Infinage) |
 | 30 | [Shorty](https://github.com/meghrathod/shorty) | Golang/React | [Megh Rathod](https://github.com/meghrathod) |
+| 31 | [url-shortener](https://github.com/MrFabio/go-coding-challenges/tree/main/url-shortener) | Go | [MrFabio](https://github.com/MrFabio) |
