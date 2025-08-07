@@ -22,3 +22,4 @@ The shared solutions:
 | 14 | [dns-resolver](https://github.com/mk-milly02/dns-resolver) | Go | [mk-milly02](https://github.com/mk-milly02) |
 | 15 | [rbdig](https://github.com/panacotar/rbdig) | Ruby | [panacotar](https://github.com/panacotar) |
 | 16 | [DNS Resolver](https://gitlab.com/dyno64100/coding-challenges/-/tree/DNS-Resolver/python/DnsResolver.py?ref_type=tags) | Python | [Frederic Poeydomenge](https://gitlab.com/dyno64100) |
+| 17 | [rsver](https://github.com/Phran6ix/rsver) | Rust | [Phran6ix](https://github.com/Phran6ix) |
