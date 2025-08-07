@@ -78,5 +78,6 @@ Essentially:
 - [Build your own which](Solutions/challenge-which.md)
 - [Build your own Line of Code Counter](Solutions/challenge-cloc.md)
 - [Build your own DHCP Client](Solutions/challenge-dhcp-client.md)
+- [Build your own Port Scanner](Solutions/challenge-portscanner.md)
 
 <p align="right">(<a href="#top">🔼 Back to top</a>)</p>
