@@ -1,4 +1,4 @@
-# Build your own chess game
+# Build your own DHCP Client
 
 The Challenge: [Build your own DHCP client](https://codingchallenges.substack.com/p/coding-challenge-94-dhcp-client)
 
