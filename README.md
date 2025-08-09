@@ -79,5 +79,5 @@ Essentially:
 - [Build your own Line of Code Counter](Solutions/challenge-cloc.md)
 - [Build your own DHCP Client](Solutions/challenge-dhcp-client.md)
 - [Build your own Port Scanner](Solutions/challenge-portscanner.md)
-
+- [Build your own Forth interpreter](Solutions/challenge-forth.md)
 <p align="right">(<a href="#top">🔼 Back to top</a>)</p>

@@ -1,9 +1,9 @@
-# Build your own DHCP Client
+# Build your own forth interpreter
 
-The Challenge: [Build your own DHCP client](https://codingchallenges.substack.com/p/coding-challenge-94-dhcp-client)
+The Challenge: [Build your own Forth Interpreter](https://codingchallenges.fyi/challenges/challenge-forth)
 
 The shared solutions:
 
 | No. | Solution                                                       | Language | Author                                              |
 |-----|----------------------------------------------------------------|----------|-----------------------------------------------------|
-| 1   | [DHCP Client #94](https://github.com/lolo8304/coding-challenge/tree/main/no-94) | Java   | [lolo8304](https://github.com/lolo8304) |
+| 1   | [Forth Interpreter #95](https://github.com/lolo8304/coding-challenge/tree/main/no-95) | Java   | [lolo8304](https://github.com/lolo8304) |
