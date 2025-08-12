@@ -20,4 +20,5 @@ The shared solutions:
 | 12 | [serverRuby](https://github.com/apih99/serverRuby) | Ruby | [apih99](https://github.com/apih99) |
 | 13 | [own-web-server](https://github.com/AudreyFI/own-web-server) | NodeJs(Typescript) | [AudreyFI](https://github.com/AudreyFI) |
 | 14 | [Web Server](https://github.com/Infinage/cpp-experiments/blob/main/networking/http-server.cpp) | C++ | [Naresh Jagadeesan](https://github.com/Infinage) |
+| 15 | [lilyhttpd](https://github.com/marcybelardo/lilyhttpd) | C | [Marceline Belardo](https://github.com/marcybelardo) |
 
