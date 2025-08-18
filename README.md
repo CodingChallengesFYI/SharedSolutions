@@ -80,4 +80,5 @@ Essentially:
 - [Build your own DHCP Client](Solutions/challenge-dhcp-client.md)
 - [Build your own Port Scanner](Solutions/challenge-portscanner.md)
 - [Build your own Forth interpreter](Solutions/challenge-forth.md)
+- [Build your own Whois](Solutions/challenge-whois.md)
 <p align="right">(<a href="#top">🔼 Back to top</a>)</p>
