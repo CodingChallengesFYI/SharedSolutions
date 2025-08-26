@@ -140,4 +140,5 @@ The shared solutions:
 | 131 | [CCWC](https://github.com/bhavibhogayata/CodingChallengesSolutions/tree/main/CCWC) | C# | [Bhavisha Bhogayata](https://github.com/bhavibhogayata) |
 | 132 | [wcJava](https://gitlab.com/louis.roberts.wlc/JavaWC) | Java | [Louis Roberts](https://gitlab.com/louis.roberts.wlc) |
 | 133 | [wc-tool](https://github.com/Babithakumari/wc-tool.git) | Python | [Babitha Kumari](https://github.com/Babithakumari/) |
+| 134 | [ccwc](https://github.com/CagesThrottleUs/ccwc) | C++ | [CagesThrottleUs](https://github.com/CagesThrottleUs) |
 
