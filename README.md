@@ -34,6 +34,7 @@ Essentially:
 - [Build your own cat Tool](Solutions/challenge-cat.md)
 - [Build your own IRC Client](Solutions/challenge-irc.md)
 - [Build your own Memcached Server](Solutions/challenge-memcached.md)
+- [Build your own Memcached CLI Tool](Solutions/challenge-memcache-cli.md)
 - [Build your own Spotify Client](Solutions/challenge-spotify.md)
 - [Build your own Discord Bot](Solutions/challenge-discord.md)
 - [Build your own LinkedIn Carousel Generator](Solutions/challenge-licg.md)
@@ -81,5 +82,5 @@ Essentially:
 - [Build your own Port Scanner](Solutions/challenge-portscanner.md)
 - [Build your own Forth interpreter](Solutions/challenge-forth.md)
 - [Build your own Whois](Solutions/challenge-whois.md)
-- [Build your own SMTP Server](Solutions/challenge-whois.md)
+- [Build your own SMTP Server](Solutions/challenge-smtp-server.md)
 <p align="right">(<a href="#top">🔼 Back to top</a>)</p>
