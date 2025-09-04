@@ -33,3 +33,4 @@ The shared solutions:
 | 25 | [HuffmanCompressor](https://github.com/apih99/huffmanCompressor) | Python | [apih99](https://github.com/apih99) |
 | 26 | [Huffman Compression Tool](https://github.com/OkabeRintarouBeta/TextCompressionTool) | Go | [OkabeRintarouBeta](https://github.com/OkabeRintarouBeta) |
 | 27 | [KCompressor](https://github.com/kiner-shah/MySolutionsToCodingChallenges/tree/main/compression-tool) | C++ | [Kiner Shah](https://github.com/kiner-shah) |
+| 28 | [zippy](https://github.com/ravil-gasanov/zippy) | Python | [Ravil Gasanov](https://github.com/ravil-gasanov) |
