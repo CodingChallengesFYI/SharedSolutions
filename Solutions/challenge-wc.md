@@ -142,4 +142,4 @@ The shared solutions:
 | 133 | [wc-tool](https://github.com/Babithakumari/wc-tool.git) | Python | [Babitha Kumari](https://github.com/Babithakumari/) |
 | 134 | [ccwc](https://github.com/CagesThrottleUs/ccwc) | C++ | [CagesThrottleUs](https://github.com/CagesThrottleUs) |
 | 135 | [WC-Tool-DotNet](https://github.com/MohammadRokib/WC-Tool-DotNet) | C# | [MohammadRokib](https://github.com/MohammadRokib) |
-| 136 | [WC-Tool_C] (https://github.com/Murchoid/wc_clone) | C | [Michael Kamau] (https://github.com/Murchoid) |
+| 136 | [WC-Tool_C](https://github.com/Murchoid/wc_clone) | C | [Michael Kamau](https://github.com/Murchoid) |
