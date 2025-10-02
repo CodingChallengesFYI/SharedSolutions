@@ -39,3 +39,5 @@ The shared solutions:
 | 29 | [KLoadBalancer](https://github.com/kiner-shah/MySolutionsToCodingChallenges/tree/main/load-balancer) | C++ | [Kiner Shah](https://github.com/kiner-shah) |
 | 30 | [go-balancer](https://github.com/ajayanti75/go-balancer) | Go | [ajayanti75](https://github.com/ajayanti75) |
 | 31 | [nodejs-load-balancer](https://github.com/ayaderaghul/load-balancer/) | Nodejs | [Chi Nguyen](https://github.com/ayaderaghul)
+| 32 | [Load Balancer](https://github.com/Overflow404/wakanda-lb) | Rust | [Overflow404](https://github.com/Overflow404/wakanda-lb) |
+
