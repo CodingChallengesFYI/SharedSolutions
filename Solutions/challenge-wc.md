@@ -144,3 +144,4 @@ The shared solutions:
 | 135 | [WC-Tool-DotNet](https://github.com/MohammadRokib/WC-Tool-DotNet) | C# | [MohammadRokib](https://github.com/MohammadRokib) |
 | 136 | [WC-Tool_C](https://github.com/Murchoid/wc_clone) | C | [Michael Kamau](https://github.com/Murchoid) |
 | 137 | [ccwc](https://github.com/enxtur/cc/tree/main/challenges/ccwc) | C | [enxtur](https://github.com/enxtur) |
+| 138 | [ccwc](https://github.com/jglara/ccwc) | C++ | [jglara](https://github.com/jglara) |
