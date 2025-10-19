@@ -34,3 +34,4 @@ The shared solutions:
 | 26 | [Huffman Compression Tool](https://github.com/OkabeRintarouBeta/TextCompressionTool) | Go | [OkabeRintarouBeta](https://github.com/OkabeRintarouBeta) |
 | 27 | [KCompressor](https://github.com/kiner-shah/MySolutionsToCodingChallenges/tree/main/compression-tool) | C++ | [Kiner Shah](https://github.com/kiner-shah) |
 | 28 | [zippy](https://github.com/ravil-gasanov/zippy) | Python | [Ravil Gasanov](https://github.com/ravil-gasanov) |
+| 29 | [huffman-compressor-cpp](https://github.com/r-harsh-r/huffman-encoder-cpp-optimised) | C++ | [Harsh R](https://github.com/r-harsh-r) |
