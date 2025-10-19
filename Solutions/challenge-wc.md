@@ -146,3 +146,4 @@ The shared solutions:
 | 137 | [ccwc](https://github.com/enxtur/cc/tree/main/challenges/ccwc) | C | [enxtur](https://github.com/enxtur) |
 | 138 | [ccwc](https://github.com/jglara/ccwc) | C++ | [jglara](https://github.com/jglara) |
 | 139 | [Write you own wc tool](https://github.com/siddharth007krishnan/word-count) | Javascript | [siddharth007krishnan](https://github.com/siddharth007krishnan) |
+| 140 | [WordCount](https://github.com/nazaralwi/CodingChallengesSolution/tree/master/WordCount) | Swift | [nazaralwi](https://github.com/nazaralwi) |
