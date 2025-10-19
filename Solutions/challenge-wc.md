@@ -145,3 +145,4 @@ The shared solutions:
 | 136 | [WC-Tool_C](https://github.com/Murchoid/wc_clone) | C | [Michael Kamau](https://github.com/Murchoid) |
 | 137 | [ccwc](https://github.com/enxtur/cc/tree/main/challenges/ccwc) | C | [enxtur](https://github.com/enxtur) |
 | 138 | [ccwc](https://github.com/jglara/ccwc) | C++ | [jglara](https://github.com/jglara) |
+| 139 | [WordCount](https://github.com/nazaralwi/CodingChallengesSolution/tree/master/WordCount) | Swift | [nazaralwi](https://github.com/nazaralwi) |
