@@ -10,3 +10,4 @@ The shared solutions:
 | 2 | [Write your own Discord Bot](https://github.com/lolo8304/coding-challenge/tree/main/no-19) | Java | [lolo8304](https://github.com/lolo8304) |
 | 3 | [Write your own Discord Bot in Go](https://github.com/tlarnold10/coding-challenges/tree/main/disdaccbot) | Go | [Trevor Arnold](https://github.com/tlarnold10) |
 | 4 | [discord-bot-js](https://github.com/victoriacheng15/coding-challenges-lab/tree/main/javascript/discord-bot-js) | JavaScript | [Victoria Cheng](https://github.com/victoriacheng15) |
+| 5 | [Write your own Discord Bot](https://github.com/saifadin1/LeetBot) | C# | [Seif Medhat](https://github.com/saifadin1) |
