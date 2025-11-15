@@ -7,3 +7,4 @@ The shared solutions:
 |-----|----------|----------|--------|
 |  1  | [Write your own jq](https://github.com/soliddevnl/coding-challenges/tree/main/jq) | Typescript | [j92](https://github.com/j92) |
 |  2  | [Write your own jq](https://github.com/lolo8304/coding-challenge/tree/main/no-34) | Java | [lolo8304](https://github.com/lolo8304) |
+|  3  | [Write your own jq](https://github.com/maxmakinen4096/zq)                         | Zig  | [maxmakinen4096](https://github.com/maxmakinen4096) |
