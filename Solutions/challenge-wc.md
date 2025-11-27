@@ -147,4 +147,5 @@ The shared solutions:
 | 138 | [ccwc](https://github.com/jglara/ccwc) | C++ | [jglara](https://github.com/jglara) |
 | 139 | [Write you own wc tool](https://github.com/siddharth007krishnan/word-count) | Javascript | [siddharth007krishnan](https://github.com/siddharth007krishnan) |
 | 140 | [WordCount](https://github.com/nazaralwi/CodingChallengesSolution/tree/master/WordCount) | Swift | [nazaralwi](https://github.com/nazaralwi) |
-| 141 | [WordCount for Python](https://github.com/vidhi1976/ccwc) | Python | [vidhi1976](https://github.com/vidhi1976) |
+| 141 | [Make your own wc](https://github.com/VedantGonnade/coding-challenge/tree/main/Coding%20challenges/Build_your_own_wc) | Typescript | [Vedant Gonnade](https://github.com/VedantGonnade) |
+| 142 | [WordCount for Python](https://github.com/vidhi1976/ccwc) | Python | [vidhi1976](https://github.com/vidhi1976) |
