@@ -10,4 +10,5 @@ The shared solutions:
 | 2   | [Tetris](https://github.com/jengori/tetris)                         | Python   | [Jen Gori](https://github.com/jengori)            |
 | 3   | [Tetris](https://github.com/lolo8304/tetris-coding-challenge)                         | p5js   | [Lorenz aka Lolo Hänggi](https://github.com/lolo8304)            |
 | 4   | [Tetris](https://github.com/saifadin1/tetris)                         | C   | [Saif Medhat](https://github.com/saifadin1)            |
+| 5   | [Tetris-SFML](https://github.com/andriisonsiadlo/tetris-sfml)       | C++      | [Andrii Sonsiadlo](https://github.com/andriisonsiadlo) |
 
