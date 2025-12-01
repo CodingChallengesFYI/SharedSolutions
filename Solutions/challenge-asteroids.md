@@ -1,6 +1,7 @@
 # Build Your Own Asteroids
 
 The Challenge: [Build Your Own Asteroids](https://codingchallenges.fyi/challenges/challenge-asteroids)
+
 The shared solutions:
 
 | No. | Solution                                                    | Language | Author                                               |
