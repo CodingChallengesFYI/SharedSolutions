@@ -37,5 +37,6 @@ The shared solutions:
 | 29 | [Redis Server](https://github.com/msharran/codingchallenges.fyi/tree/main/redis-server/zig-redis-server) | Zig | [Sharran](https://github.com/msharran) |
 | 30 | [redis](https://github.com/Abdulrahman-Tayara/redis) | Go | [Abdulrahman-Tayara](https://github.com/Abdulrahman-Tayara) |
 | 31 | [Redis Server](https://github.com/Keshav-Rana/Redis-Server) | Python | [Keshav-Rana](https://github.com/Keshav-Rana) |
-| 32 | [Redis-clone](https://github.com/Ridwanursustswe18/redis-clone) | Java | [Ridwanursustswe18](https://github.com/Ridwanursustswe18) 
-| 33 | [VolatileDB](https://github.com/bmqube/VolatileDB) | Go | [bmqube](https://github.com/bmqube) 
+| 32 | [Redis-clone](https://github.com/Ridwanursustswe18/redis-clone) | Java | [Ridwanursustswe18](https://github.com/Ridwanursustswe18) |
+| 33 | [VolatileDB](https://github.com/bmqube/VolatileDB) | Go | [bmqube](https://github.com/bmqube) |
+| 34 | [KRedisServer](https://github.com/kiner-shah/MySolutionsToCodingChallenges/tree/main/redis-server) | C++ | [Kiner Shah](https://github.com/kiner-shah) |
