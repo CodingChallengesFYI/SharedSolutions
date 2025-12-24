@@ -12,3 +12,4 @@ The shared solutions:
 | 4   | [spellchecker-bloomfilter](https://github.com/OmkarPh/spellchecker-bloomfilter)| Go   | [OmkarPh](https://github.com/OmkarPh)     |
 | 5 | [bloom_filter](https://github.com/lwcarani/bloom_filter)| OCaml | [Luke Carani](https://github.com/lwcarani) |
 | 6 | [Bloom-Filter](https://github.com/VaishnavSherla/Bloom-Filter) | Python | [Vaishnav Sherla](https://github.com/VaishnavSherla) |
+| 7 | [Spellcheck](https://github.com/Infinage/cpp-experiments/blob/main/cli/spellcheck.cpp) | C++ | [Naresh Jagadeesan](https://github.com/Infinage) |
