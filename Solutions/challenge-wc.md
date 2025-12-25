@@ -151,3 +151,4 @@ The shared solutions:
 | 142 | [WordCount for Python](https://github.com/vidhi1976/ccwc) | Python | [vidhi1976](https://github.com/vidhi1976) |
 | 143 | [abenwc](https://github.com/abeni-al7/aben-wc) | Go | [Abeni](https://github.com/abeni-al7) |
 | 144 | [ccwc](https://github.com/Abdullah104/ccwc) | Java | [Abdullah104](https://github.com/Abdullah104/)
+| 145 | [cwc](https://github.com/Infinage/cpp-experiments/blob/main/cli/cwc.cpp) | C++ | [Naresh Jagadeesan](https://github.com/Infinage)
