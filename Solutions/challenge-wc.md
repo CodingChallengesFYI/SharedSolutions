@@ -150,4 +150,6 @@ The shared solutions:
 | 141 | [Make your own wc](https://github.com/VedantGonnade/coding-challenge/tree/main/Coding%20challenges/Build_your_own_wc) | Typescript | [Vedant Gonnade](https://github.com/VedantGonnade) |
 | 142 | [WordCount for Python](https://github.com/vidhi1976/ccwc) | Python | [vidhi1976](https://github.com/vidhi1976) |
 | 143 | [abenwc](https://github.com/abeni-al7/aben-wc) | Go | [Abeni](https://github.com/abeni-al7) |
-| 144 | [ccwc](https://github.com/Abdullah104/ccwc) | Java | [Abdullah104](https://github.com/Abdullah104/)
+| 144 | [ccwc](https://github.com/Abdullah104/ccwc) | Java | [Abdullah104](https://github.com/Abdullah104/) |
+| 145 | [wcGo](https://github.com/brickster241/wc-Go) | Go | [Ashish Verma](https://github.com/brickster241)
+| 146 | [cwc](https://github.com/Infinage/cpp-experiments/blob/main/cli/cwc.cpp) | C++ | [Naresh Jagadeesan](https://github.com/Infinage)
