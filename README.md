@@ -84,4 +84,7 @@ Essentially:
 - [Build your own Whois](Solutions/challenge-whois.md)
 - [Build your own SMTP Server](Solutions/challenge-smtp-server.md)
 - [Build your own Markdown To PDF Editor](Solutions/challenge-md-to-pdf.md)
+- [Build Your Own Spelling Correction Tool](Solutions/challenge-spelling-correction-tool.md)
+- [Build Your Own BitTorrent Client](Solutions/challenge-bittorrent.md)
+- [Build Your Own Bitcask](Solutions/challenge-bitcask.md)
 <p align="right">(<a href="#top">🔼 Back to top</a>)</p>
