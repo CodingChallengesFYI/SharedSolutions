@@ -58,3 +58,4 @@ The shared solutions:
 | 49 | [jpTool](https://github.com/lizardkingLK/coding-challenges/tree/main/jpTool) | C# | [lizardkingLK](https://github.com/lizardkingLK) |
 | 50 | [json-parser-in-php](https://github.com/DanielHemmati/json-parser-in-php) | php | [Daniel Hemmati](https://github.com/DanielHemmati) |
 | 51 | [challenge-json](https://github.com/blissful-coder/CodingChallenges/tree/main/challenge-json) | C++ | [Anurag Negi](https://github.com/blissful-coder) |
+| 52 | [json-parser](https://github.com/dphogit/json-parser) | C | [dphogit](https://github.com/dphogit) |
