@@ -151,6 +151,7 @@ The shared solutions:
 | 142 | [WordCount for Python](https://github.com/vidhi1976/ccwc) | Python | [vidhi1976](https://github.com/vidhi1976) |
 | 143 | [abenwc](https://github.com/abeni-al7/aben-wc) | Go | [Abeni](https://github.com/abeni-al7) |
 | 144 | [ccwc](https://github.com/Abdullah104/ccwc) | Java | [Abdullah104](https://github.com/Abdullah104/) |
-| 145 | [wcGo](https://github.com/brickster241/wc-Go) | Go | [Ashish Verma](https://github.com/brickster241) |
-| 146 | [cwc](https://github.com/Infinage/cpp-experiments/blob/main/cli/cwc.cpp) | C++ | [Naresh Jagadeesan](https://github.com/Infinage) |
-| 147 | [challenge-wc](https://github.com/blissful-coder/CodingChallenges/tree/main/challenge-wc) | C++ | [Anurag Negi](https://github.com/blissful-coder) |
+| 145 | [wcGo](https://github.com/brickster241/wc-Go) | Go | [Ashish Verma](https://github.com/brickster241)
+| 146 | [cwc](https://github.com/Infinage/cpp-experiments/blob/main/cli/cwc.cpp) | C++ | [Naresh Jagadeesan](https://github.com/Infinage)
+| 147 | [ccwc](https://github.com/dphogit/ccwc/tree/main) | C | [dphogit](https://github.com/dphogit)
+| 148 | [challenge-wc](https://github.com/blissful-coder/CodingChallenges/tree/main/challenge-wc) | C++ | [Anurag Negi](https://github.com/blissful-coder)
