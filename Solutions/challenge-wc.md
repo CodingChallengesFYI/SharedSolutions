@@ -48,7 +48,7 @@ The shared solutions:
 | 39 | [wc-tool](https://github.com/abhi11210646/wc-tool) | Go | [abhi11210646](https://github.com/abhi11210646) |
 | 40 | [Kai's ccwc](https://github.com/CaiCanCode/ccwc) | C | [Michaiah J. Williams](https://github.com/CaiCanCode) |
 | 41 | [go-wc](https://github.com/alefeans/go-wc) | Go | [alefeans](https://github.com/alefeans) |
-| 42 | [wctool](https://github.com/vigneshm243/CodingChallenges/tree/main/wctool) | Go | [Vignesh Muthukumaran](https://github.com/vigneshm243)
+| 42 | [wctool](https://github.com/vigneshm243/CodingChallenges/tree/main/wctool) | Go | [Vignesh Muthukumaran](https://github.com/vigneshm243) |
 | 43 | [ccwc](https://github.com/GolluAjay/codeChallenges/tree/main/write_your_own_wc_tool) | Bash | [GolluAjay](https://github.com/GolluAjay) |
 | 44 | [ccwc](https://github.com/bawejahritik/cli---word-count-tool) | Python | [bawejahritik](https://github.com/bawejahritik) |
 | 45 | [ccwc](https://github.com/elq81hc/coding-challenges/tree/master/wc_tool) | Go | [Quy le](https://github.com/elq81hc) |
@@ -135,7 +135,7 @@ The shared solutions:
 | 126 | [ccwc-in-go](https://github.com/DanielHemmati/ccwc-in-go) | Go | [Daniel Hemmati](https://github.com/DanielHemmati) |
 | 127 | [ccwc](https://github.com/FreekVanDooren/ccwc) | Java | [FreekVanDooren](https://github.com/FreekVanDooren) |
 | 128 | [ccwc](https://github.com/ronySky/CodingChallenges_WcTool) | Java | [ronySky](https://github.com/ronySky/) |
-| 129 | [ccwc-in-python](https://gitlab.com/iamalso-challenges/wc-tool) | Python | IAmAlsoAndy
+| 129 | [ccwc-in-python](https://gitlab.com/iamalso-challenges/wc-tool) | Python | IAmAlsoAndy |
 | 130 | [Write Your Own wc Tool](https://gitlab.com/dyno64100/coding-challenges/-/tree/Wc/php) | PHP | [Frederic Poeydomenge](https://gitlab.com/dyno64100) |
 | 131 | [CCWC](https://github.com/bhavibhogayata/CodingChallengesSolutions/tree/main/CCWC) | C# | [Bhavisha Bhogayata](https://github.com/bhavibhogayata) |
 | 132 | [wcJava](https://gitlab.com/louis.roberts.wlc/JavaWC) | Java | [Louis Roberts](https://gitlab.com/louis.roberts.wlc) |
@@ -151,8 +151,9 @@ The shared solutions:
 | 142 | [WordCount for Python](https://github.com/vidhi1976/ccwc) | Python | [vidhi1976](https://github.com/vidhi1976) |
 | 143 | [abenwc](https://github.com/abeni-al7/aben-wc) | Go | [Abeni](https://github.com/abeni-al7) |
 | 144 | [ccwc](https://github.com/Abdullah104/ccwc) | Java | [Abdullah104](https://github.com/Abdullah104/) |
-| 145 | [wcGo](https://github.com/brickster241/wc-Go) | Go | [Ashish Verma](https://github.com/brickster241)
-| 146 | [cwc](https://github.com/Infinage/cpp-experiments/blob/main/cli/cwc.cpp) | C++ | [Naresh Jagadeesan](https://github.com/Infinage)
-| 147 | [ccwc](https://github.com/dphogit/ccwc/tree/main) | C | [dphogit](https://github.com/dphogit)
-| 148 | [challenge-wc](https://github.com/blissful-coder/CodingChallenges/tree/main/challenge-wc) | C++ | [Anurag Negi](https://github.com/blissful-coder)
-| 149 | [wc-3-prog-paradigms](https://github.com/atherio-danp/coding-challanges/tree/main/wc-tool) | C# | [Dan Patrascu-Baba](https://github.com/atherio-danp) 
+| 145 | [wcGo](https://github.com/brickster241/wc-Go) | Go | [Ashish Verma](https://github.com/brickster241) |
+| 146 | [cwc](https://github.com/Infinage/cpp-experiments/blob/main/cli/cwc.cpp) | C++ | [Naresh Jagadeesan](https://github.com/Infinage) |
+| 147 | [ccwc](https://github.com/dphogit/ccwc/tree/main) | C | [dphogit](https://github.com/dphogit) |
+| 148 | [challenge-wc](https://github.com/blissful-coder/CodingChallenges/tree/main/challenge-wc) | C++ | [Anurag Negi](https://github.com/blissful-coder) |
+| 149 | [wc-3-prog-paradigms](https://github.com/atherio-danp/coding-challanges/tree/main/wc-tool) | C# | [Dan Patrascu-Baba](https://github.com/atherio-danp) |
+| 150 | [wc](https://github.com/Loki-Astari/Puzzle/blob/master/wc/wc.cpp) | C++ | [Loki-Astari](https://github.com/Loki-Astari/Puzzle) |
