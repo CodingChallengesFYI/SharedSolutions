@@ -156,4 +156,4 @@ The shared solutions:
 | 147 | [ccwc](https://github.com/dphogit/ccwc/tree/main) | C | [dphogit](https://github.com/dphogit) |
 | 148 | [challenge-wc](https://github.com/blissful-coder/CodingChallenges/tree/main/challenge-wc) | C++ | [Anurag Negi](https://github.com/blissful-coder) |
 | 149 | [wc-3-prog-paradigms](https://github.com/atherio-danp/coding-challanges/tree/main/wc-tool) | C# | [Dan Patrascu-Baba](https://github.com/atherio-danp) |
-| 150 | [wc](https://github.com/Loki-Astari/Puzzle/blob/master/wc/wc.cpp) | C++ | [Loki-Astari](https://github.com/Loki-Astari/Puzzle) |
+| 150 | [wc](https://github.com/Loki-Astari/Puzzle/tree/master/wc) | C++ | [Loki-Astari](https://github.com/Loki-Astari/Puzzle) |

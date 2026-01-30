@@ -50,7 +50,7 @@ The shared solutions:
 | 41 | [json-parser](https://github.com/ozedd-ee/json-parser)  | Go | [ozedd-ee](https://github.com/ozedd-ee) |
 | 42 | [jsonParser](https://github.com/apih99/jsonParser)  | Python | [apih99](https://github.com/apih99) |
 | 43 | [jsonParser](https://github.com/isaiicatmat/JSONParser)  | JavaScript | [isaiicatmat](https://github.com/isaiicatmat) |
-| 44 | [jsonParser](https://github.com/MohitSinghal2811/lld/tree/master/jsonParser) | Java | [Mohit Singhal](https://github.com/MohitSinghal2811)
+| 44 | [jsonParser](https://github.com/MohitSinghal2811/lld/tree/master/jsonParser) | Java | [Mohit Singhal](https://github.com/MohitSinghal2811) |
 | 45 | [KJsonParser](https://github.com/kiner-shah/MySolutionsToCodingChallenges/tree/main/json-parser) | C++ | [Kiner Shah](https://github.com/kiner-shah) |
 | 46 | [JSON-RDParser](https://github.com/brickster241/JSON-Lexer-Parser-From-Scratch) | Python | [Ashish Verma](https://github.com/brickster241) |
 | 47 | [my-jp](https://github.com/amrsaqr/my-jp) | C++ | [Amr Saqr](https://github.com/amrsaqr) |
@@ -59,3 +59,4 @@ The shared solutions:
 | 50 | [json-parser-in-php](https://github.com/DanielHemmati/json-parser-in-php) | php | [Daniel Hemmati](https://github.com/DanielHemmati) |
 | 51 | [challenge-json](https://github.com/blissful-coder/CodingChallenges/tree/main/challenge-json) | C++ | [Anurag Negi](https://github.com/blissful-coder) |
 | 52 | [json-parser](https://github.com/dphogit/json-parser) | C | [dphogit](https://github.com/dphogit) |
+| 53 | [json-parser](https://github.com/Loki-Astari/Puzzle/tree/master/JSON-1) | C++ | [Loki-Astari](https://github.com/Loki-Astari/Puzzle) |
