@@ -59,4 +59,5 @@ The shared solutions:
 | 50 | [json-parser-in-php](https://github.com/DanielHemmati/json-parser-in-php) | php | [Daniel Hemmati](https://github.com/DanielHemmati) |
 | 51 | [challenge-json](https://github.com/blissful-coder/CodingChallenges/tree/main/challenge-json) | C++ | [Anurag Negi](https://github.com/blissful-coder) |
 | 52 | [json-parser](https://github.com/dphogit/json-parser) | C | [dphogit](https://github.com/dphogit) |
-| 53 | [json-parser](https://github.com/Loki-Astari/Puzzle/tree/master/JSON-1) | C++ | [Loki-Astari](https://github.com/Loki-Astari/Puzzle) |
+| 53 | [json-parser](https://github.com/Loki-Astari/Puzzle/tree/master/JSON-1) Recusrive | C++ | [Loki-Astari](https://github.com/Loki-Astari/Puzzle) |
+| 55 | [json-parser](https://github.com/Loki-Astari/Puzzle/tree/master/JSON-2) Lex/Yacc | C++ | [Loki-Astari](https://github.com/Loki-Astari/Puzzle) |
