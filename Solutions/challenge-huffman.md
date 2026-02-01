@@ -36,3 +36,4 @@ The shared solutions:
 | 28 | [zippy](https://github.com/ravil-gasanov/zippy) | Python | [Ravil Gasanov](https://github.com/ravil-gasanov) |
 | 29 | [huffman-compressor-cpp](https://github.com/r-harsh-r/huffman-encoder-cpp-optimised) | C++ | [Harsh R](https://github.com/r-harsh-r) |
 | 30 | [challenge-huffman](https://github.com/blissful-coder/CodingChallenges/tree/main/challenge-huffman) | C++ | [Anurag Negi](https://github.com/blissful-coder) |
+| 31 | [huf](https://github.com/Loki-Astari/Puzzle/tree/master/HUF) | C++ | [Loki-Astari](https://github.com/Loki-Astari/Puzzle) |
