@@ -59,3 +59,4 @@ The shared solutions:
 | 50 | [json-parser-in-php](https://github.com/DanielHemmati/json-parser-in-php) | php | [Daniel Hemmati](https://github.com/DanielHemmati) |
 | 51 | [challenge-json](https://github.com/blissful-coder/CodingChallenges/tree/main/challenge-json) | C++ | [Anurag Negi](https://github.com/blissful-coder) |
 | 52 | [json-parser](https://github.com/dphogit/json-parser) | C | [dphogit](https://github.com/dphogit) |
+| 53 | [json-parser](https://github.com/JulianSalazarD/CodingChallenges/tree/main/02.JsonParser/jparser) | Rust | [JulianSalazarD](https://github.com/JulianSalazarD) | 
