@@ -62,3 +62,4 @@ The shared solutions:
 | 53 | [cuneiform](https://github.com/abeni-al7/cuneiform) | Go | [abeni-al7](https://github.com/abeni-al7) |
 | 54 | [cc-json-parser-cpp](https://github.com/CagesThrottleUs/cc-json-parser-cpp) | C++ | [CagesThrottleUs](https://github.com/CagesThrottleUs/) |
 | 55 | [json-parser](https://github.com/Abdullah104/json-parser) | Rust | [Abdullah104](https://github.com/Abdullah104) |
+| 56 | [json-parser](https://github.com/JulianSalazarD/CodingChallenges/tree/main/02.JsonParser/jparser) | Rust | [JulianSalazarD](https://github.com/JulianSalazarD) | 
