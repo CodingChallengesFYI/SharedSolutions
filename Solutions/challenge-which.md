@@ -8,3 +8,4 @@ The shared solutions:
 |-----|--------------------------------------------------------------------------------------|----------|-----------------------------------------------------|
 | 1   | [Challange-Which](https://github.com/sbmthakur/challenge-which)                      | JS       | [Shubham Thakur](https://github.com/sbmthakur)      |
 | 2   | [Manwhich](https://github.com/Kingcitaldo125/Bashful/blob/main/manwhich/manwhich.sh) | Bash     | [Kingcitaldo125](https://github.com/kingcitaldo125) |
+| 3   | [KWhich](https://github.com/kiner-shah/MySolutionsToCodingChallenges/tree/main/which-tool) | C++ | [Kiner Shah](https://github.com/kiner-shah) |

@@ -151,9 +151,15 @@ The shared solutions:
 | 142 | [WordCount for Python](https://github.com/vidhi1976/ccwc) | Python | [vidhi1976](https://github.com/vidhi1976) |
 | 143 | [abenwc](https://github.com/abeni-al7/aben-wc) | Go | [Abeni](https://github.com/abeni-al7) |
 | 144 | [ccwc](https://github.com/Abdullah104/ccwc) | Java | [Abdullah104](https://github.com/Abdullah104/) |
-| 145 | [wcGo](https://github.com/brickster241/wc-Go) | Go | [Ashish Verma](https://github.com/brickster241) |
-| 146 | [cwc](https://github.com/Infinage/cpp-experiments/blob/main/cli/cwc.cpp) | C++ | [Naresh Jagadeesan](https://github.com/Infinage) |
-| 147 | [ccwc](https://github.com/dphogit/ccwc/tree/main) | C | [dphogit](https://github.com/dphogit) |
-| 148 | [challenge-wc](https://github.com/blissful-coder/CodingChallenges/tree/main/challenge-wc) | C++ | [Anurag Negi](https://github.com/blissful-coder) |
-| 149 | [wc-3-prog-paradigms](https://github.com/atherio-danp/coding-challanges/tree/main/wc-tool) | C# | [Dan Patrascu-Baba](https://github.com/atherio-danp) |
+| 145 | [wcGo](https://github.com/brickster241/wc-Go) | Go | [Ashish Verma](https://github.com/brickster241)
+| 146 | [cwc](https://github.com/Infinage/cpp-experiments/blob/main/cli/cwc.cpp) | C++ | [Naresh Jagadeesan](https://github.com/Infinage)
+| 147 | [ccwc](https://github.com/dphogit/ccwc/tree/main) | C | [dphogit](https://github.com/dphogit)
+| 148 | [challenge-wc](https://github.com/blissful-coder/CodingChallenges/tree/main/challenge-wc) | C++ | [Anurag Negi](https://github.com/blissful-coder)
+| 149 | [wc-3-prog-paradigms](https://github.com/atherio-danp/coding-challanges/tree/main/wc-tool) | C# | [Dan Patrascu-Baba](https://github.com/atherio-danp) 
 | 150 | [wc](https://github.com/Loki-Astari/Puzzle/tree/master/wc) | C++ | [Loki-Astari](https://github.com/Loki-Astari/Puzzle) |
+| 151 | [wc-tool-rust](https://github.com/ihaagrawal/wc-tool-rust) | Rust | [Iha Agrawal](https://github.com/ihaagrawal) 
+| 152 | [mwc](https://github.com/lkdjiin/mwc) | Crystal | [Xavier Nayrac](https://github.com/lkdjiin)
+| 153 | [wccc](https://github.com/VietTungFizzy/Build-Your-Own-wc-Tool) | Ruby | [VietTungFizzy](https://github.com/VietTungFizzy) |
+| 154 | [wcx](https://github.com/sarkar-segfault/wcx) | C | [sarkar-segfault](https://github.com/sarkar-segfault/wcx)
+| 155 | [ccwc](https://github.com/JulianSalazarD/CodingChallenges/tree/main/01.OwnWcTool/ccwc) | Rust | [Julian Salazar](https://github.com/JulianSalazarD)
+| 156 | [Write Your Own wc Tool](https://github.com/akshayavb99/coding-challenges-solutions/tree/main/wc-tool) | Python | [Akshaya B](https://github.com/akshayavb99) |

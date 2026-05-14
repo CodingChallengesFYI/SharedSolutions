@@ -13,4 +13,4 @@ The shared solutions:
 | 5   | [zuniq](https://github.com/AdiPat/zuniq)                                                          | TypeScript | [AdiPat](https://github.com/AdiPat)               |
 | 6   | [uniqPy](https://github.com/apih99/uniqPy)                                                        | Python     | [apih99](https://github.com/apih99)               |
 | 7   | [cuniq](https://github.com/Infinage/cpp-experiments/blob/main/cli/cuniq.cpp)                      | C++        | [Naresh Jagadeesan](https://github.com/Infinage)  |
-
+| 8   | [KUniq](https://github.com/kiner-shah/MySolutionsToCodingChallenges/tree/main/uniq-tool) | C++ | [Kiner Shah](https://github.com/kiner-shah) |

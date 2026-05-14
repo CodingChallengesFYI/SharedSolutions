@@ -9,3 +9,4 @@ The shared solutions:
 |-----|----------------------------------------------------|----------|-----------------------------------------------------|
 | 1   | [rsudoku](https://github.com/mchristou/rsudoku)    | Rust     | [mchristou](https://github.com/mchristou)           |
 | 2   | [Pydoku](https://github.com/Kingcitaldo125/Pydoku) | Python   | [Kingcitaldo125](https://github.com/Kingcitaldo125) |
+| 2   | [Goduku](https://github.com/infinage/goduku)       | Go       | [infinage](https://github.com/infinage) |
