@@ -16,3 +16,4 @@ The shared solutions:
 | 8 | [pycut](https://github.com/victoriacheng15/coding-challenges-lab/tree/main/python/cut-py) | Python | [victoria Cheng](https://github.com/victoriacheng15) |
 | 9 | [KCut](https://github.com/kiner-shah/MySolutionsToCodingChallenges/tree/main/cut-tool) | C++ | [Kiner Shah](https://github.com/kiner-shah) |
 | 10 | [challenge-cut](https://github.com/blissful-coder/CodingChallenges/tree/main/challenge-cut) | C++ | [Anurag Negi](https://github.com/blissful-coder) |
+| 101| [cc-cut-tool](https://github.com/CagesThrottleUs/cc-cut-tool) | C++ | [CagesThrottleUs](https://github.com/CagesThrottleUs) |
