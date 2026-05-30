@@ -48,7 +48,7 @@ The shared solutions:
 | 39 | [wc-tool](https://github.com/abhi11210646/wc-tool) | Go | [abhi11210646](https://github.com/abhi11210646) |
 | 40 | [Kai's ccwc](https://github.com/CaiCanCode/ccwc) | C | [Michaiah J. Williams](https://github.com/CaiCanCode) |
 | 41 | [go-wc](https://github.com/alefeans/go-wc) | Go | [alefeans](https://github.com/alefeans) |
-| 42 | [wctool](https://github.com/vigneshm243/CodingChallenges/tree/main/wctool) | Go | [Vignesh Muthukumaran](https://github.com/vigneshm243)
+| 42 | [wctool](https://github.com/vigneshm243/CodingChallenges/tree/main/wctool) | Go | [Vignesh Muthukumaran](https://github.com/vigneshm243) |
 | 43 | [ccwc](https://github.com/GolluAjay/codeChallenges/tree/main/write_your_own_wc_tool) | Bash | [GolluAjay](https://github.com/GolluAjay) |
 | 44 | [ccwc](https://github.com/bawejahritik/cli---word-count-tool) | Python | [bawejahritik](https://github.com/bawejahritik) |
 | 45 | [ccwc](https://github.com/elq81hc/coding-challenges/tree/master/wc_tool) | Go | [Quy le](https://github.com/elq81hc) |
@@ -135,7 +135,7 @@ The shared solutions:
 | 126 | [ccwc-in-go](https://github.com/DanielHemmati/ccwc-in-go) | Go | [Daniel Hemmati](https://github.com/DanielHemmati) |
 | 127 | [ccwc](https://github.com/FreekVanDooren/ccwc) | Java | [FreekVanDooren](https://github.com/FreekVanDooren) |
 | 128 | [ccwc](https://github.com/ronySky/CodingChallenges_WcTool) | Java | [ronySky](https://github.com/ronySky/) |
-| 129 | [ccwc-in-python](https://gitlab.com/iamalso-challenges/wc-tool) | Python | IAmAlsoAndy
+| 129 | [ccwc-in-python](https://gitlab.com/iamalso-challenges/wc-tool) | Python | IAmAlsoAndy |
 | 130 | [Write Your Own wc Tool](https://gitlab.com/dyno64100/coding-challenges/-/tree/Wc/php) | PHP | [Frederic Poeydomenge](https://gitlab.com/dyno64100) |
 | 131 | [CCWC](https://github.com/bhavibhogayata/CodingChallengesSolutions/tree/main/CCWC) | C# | [Bhavisha Bhogayata](https://github.com/bhavibhogayata) |
 | 132 | [wcJava](https://gitlab.com/louis.roberts.wlc/JavaWC) | Java | [Louis Roberts](https://gitlab.com/louis.roberts.wlc) |
@@ -163,3 +163,4 @@ The shared solutions:
 | 154 | [ccwc](https://github.com/JulianSalazarD/CodingChallenges/tree/main/01.OwnWcTool/ccwc) | Rust | [Julian Salazar](https://github.com/JulianSalazarD)
 | 155 | [Write Your Own wc Tool](https://github.com/akshayavb99/coding-challenges-solutions/tree/main/wc-tool) | Python | [Akshaya B](https://github.com/akshayavb99) |
 | 156 | [ccwc](https://github.com/priyanshsao/coding-challenges-go/tree/main/challenge-01) | Go | [priyanshsao](https://github.com/priyanshsao) |
+| 157 | [wc](https://github.com/Loki-Astari/Puzzle/tree/master/wc) | C++ | [Loki-Astari](https://github.com/Loki-Astari/Puzzle) |
