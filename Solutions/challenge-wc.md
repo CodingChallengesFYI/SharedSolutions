@@ -162,3 +162,4 @@ The shared solutions:
 | 153 | [wcx](https://github.com/sarkar-segfault/wcx) | C | [sarkar-segfault](https://github.com/sarkar-segfault/wcx)
 | 154 | [ccwc](https://github.com/JulianSalazarD/CodingChallenges/tree/main/01.OwnWcTool/ccwc) | Rust | [Julian Salazar](https://github.com/JulianSalazarD)
 | 155 | [Write Your Own wc Tool](https://github.com/akshayavb99/coding-challenges-solutions/tree/main/wc-tool) | Python | [Akshaya B](https://github.com/akshayavb99) |
+| 156 | [ccwc](https://github.com/priyanshsao/coding-challenges-go/tree/main/challenge-01) | Go | [priyanshsao](https://github.com/priyanshsao) |
