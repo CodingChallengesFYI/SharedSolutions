@@ -12,6 +12,7 @@ The shared solutions:
 | 12 | [unnije](https://github.com/dlion/unnije) | Go | [dlion](https://github.com/dlion) |
 | 13 | [dns-resolver](https://github.com/prashant1k99/dns-resolver) | Go | [prashant1k99](https://github.com/prashant1k99) |
 | 14 | [dns-resolver](https://github.com/mk-milly02/dns-resolver) | Go | [mk-milly02](https://github.com/mk-milly02) |
+| 18 | [dns-resolver-go](https://github.com/MonarchRyuzaki/dns-resolver-go) | Go | [MonarchRyuzaki](https://github.com/MonarchRyuzaki) |
 | 2 | [Write Your Own DNS Resolver](https://github.com/jainmohit2001/coding-challenges/tree/master/src/22) | TypeScript | [jainmohit2001](https://github.com/jainmohit2001) |
 | 4 | [dns-resolver](https://github.com/amanjha8100/dns-resolver) | TypeScript | [amanjha8100](https://github.com/amanjha8100) |
 | 8 | [DNS-Resolver](https://github.com/narutosstudent/dns-resolver)  | TypeScript | [narutosstudent](https://github.com/narutosstudent) |
