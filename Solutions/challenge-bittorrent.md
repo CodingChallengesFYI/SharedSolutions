@@ -7,5 +7,5 @@ The shared solutions:
 | No. | Solution                                                    | Language | Author                                               |
 |-----|-------------------------------------------------------------|----------|------------------------------------------------------|
 | 1   | [Ctorrent](https://github.com/Infinage/cpp-experiments/tree/main/torrent)  | C++ | [Naresh Jagadeesan](https://github.com/Infinage) |
-| 1   | [ccBittorrenttorrent](https://github.com/ccbittorrent/ccbt)  | Python | [Tonic](https://github.com/Josephrp) |
+| 1   | [ccBittorrent](https://github.com/ccbittorrent/ccbt)  | Python | [Tonic](https://github.com/Josephrp) |
 
