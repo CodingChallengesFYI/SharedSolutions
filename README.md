@@ -88,4 +88,5 @@ Essentially:
 - [Build Your Own BitTorrent Client](Solutions/challenge-bittorrent.md)
 - [Build Your Own Bitcask](Solutions/challenge-bitcask.md)
 - [Build your own Docker](Solutions/challenge-docker.md)
+- [Build your own Sort Visualiser](Solutions/challenge-sort-visualiser.md) 
 <p align="right">(<a href="#top">🔼 Back to top</a>)</p>
