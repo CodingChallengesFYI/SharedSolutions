@@ -164,3 +164,4 @@ The shared solutions:
 | 155 | [Write Your Own wc Tool](https://github.com/akshayavb99/coding-challenges-solutions/tree/main/wc-tool) | Python | [Akshaya B](https://github.com/akshayavb99) |
 | 156 | [ccwc](https://github.com/priyanshsao/coding-challenges-go/tree/main/challenge-01) | Go | [priyanshsao](https://github.com/priyanshsao) |
 | 157 | [wc](https://github.com/Loki-Astari/Puzzle/tree/master/wc) | C++ | [Loki-Astari](https://github.com/Loki-Astari/Puzzle) |
+| 158 | [cc-wc](https://github.com/printf1973/cc-wc.git) | Java | [printf1973](https://github.com/printf1973) |
