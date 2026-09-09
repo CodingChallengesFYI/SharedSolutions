@@ -65,3 +65,4 @@ The shared solutions:
 | 48 | [json_parser](https://github.com/assaidy/json_parser) | ODIN | [Ahmad Assaidy](https://github.com/assaidy) |
 | 50 | [json-parser-in-php](https://github.com/DanielHemmati/json-parser-in-php) | php | [Daniel Hemmati](https://github.com/DanielHemmati) |
 | 52 | [json-parser](https://github.com/dphogit/json-parser) | C | [dphogit](https://github.com/dphogit) |
+| 57 | [json-parser](https://github.com/priyanshsao/coding-challenges-go/tree/main/challenge-02) | Go | [priyanshsao](https://github.com/priyanshsao) |
