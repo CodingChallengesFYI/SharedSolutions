@@ -7,3 +7,4 @@ The shared solutions:
 | No. | Solution | Language   | Author |
 |-----|----------|------------|--------|
 | 1 | [Write your own Pastebin](https://github.com/malahor1610/PasteMeIn) | Java | [malahor1610](https://github.com/malahor1610) |
+| 2 | [Write your own Pastebin](https://github.com/infinage/pastebin) | Go | [Naresh Jagadeesan](https://github.com/infinage) |
