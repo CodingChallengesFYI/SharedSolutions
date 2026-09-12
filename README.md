@@ -89,4 +89,5 @@ Essentially:
 - [Build Your Own Bitcask](Solutions/challenge-bitcask.md)
 - [Build your own Docker](Solutions/challenge-docker.md)
 - [Build your own Sort Visualiser](Solutions/challenge-sort-visualiser.md) 
+- [Build your own Agentic Engineering Graph](Solutions/challenge-agentic-engineering-graph.md)
 <p align="right">(<a href="#top">🔼 Back to top</a>)</p>
