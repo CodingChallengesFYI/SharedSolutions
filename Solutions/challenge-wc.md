@@ -165,3 +165,4 @@ The shared solutions:
 | 156 | [ccwc](https://github.com/priyanshsao/coding-challenges-go/tree/main/challenge-01) | Go | [priyanshsao](https://github.com/priyanshsao) |
 | 157 | [wc](https://github.com/Loki-Astari/Puzzle/tree/master/wc) | C++ | [Loki-Astari](https://github.com/Loki-Astari/Puzzle) |
 | 158 | [cc-wc](https://github.com/printf1973/cc-wc.git) | Java | [printf1973](https://github.com/printf1973) |
+| 159 | [wc-tool](https://github.com/joshbingham/coding-challenge-wc) | JavaScript | [joshbingham](https://github.com/joshbingham) |
