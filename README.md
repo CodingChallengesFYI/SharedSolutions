@@ -89,4 +89,5 @@ Essentially:
 - [Build Your Own Bitcask](Solutions/challenge-bitcask.md)
 - [Build your own Docker](Solutions/challenge-docker.md)
 - [Build your own Sort Visualiser](Solutions/challenge-sort-visualiser.md) 
+- [Build your own Matrix Falling Text Generator](Solutions/challenge-matrix.md)
 <p align="right">(<a href="#top">🔼 Back to top</a>)</p>
