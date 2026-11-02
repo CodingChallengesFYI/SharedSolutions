@@ -41,4 +41,5 @@ The shared solutions:
 | 15 | [HuffmanCompression](https://github.com/rohita/CodingChallenges/blob/main/Sources/CodingChallenges/03-HuffmanCompression.swift) | Swift | [rohita](https://github.com/rohita) |
 | 19 | [compress](https://github.com/ArunEA/CodingChallengesSolution/tree/master/3-CompressionTool) | Swift | [Arun Eswaramurthi](https://github.com/ArunEA) |
 | 31 | [huffman-encoder-c](https://github.com/yannvanhalewyn/coding-challenges/tree/main/huffman-encoder-c) | C | [Yann Vanhalewyn](https://github.com/yannvanhalewyn) |
+| 32 | [huffman](https://github.com/lcdsn/huffman) | C# | [lcdsn](https://github.com/lcdsn) |
 
